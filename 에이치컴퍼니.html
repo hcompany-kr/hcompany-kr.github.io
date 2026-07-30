@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>에이치 컴퍼니 (H Company)</title>
+<meta name="description" content="에이치 컴퍼니(H Company) — 2014년부터 커피 원두 도소매업을 운영하며, 525labs 부문에서 모바일 애플리케이션을 개발합니다.">
+
+<!-- ⚠️ Google Search Console 인증용 메타태그를 쓰실 경우 아래 줄의 주석을 풀고 content 값을 채우세요.
+     (HTML 파일 업로드 방식을 쓰신다면 이 줄은 그대로 두셔도 됩니다)
+<meta name="google-site-verification" content="여기에_인증_문자열">
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+KR:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --paper:#FBFAF7;
+    --ink:#16150F;
+    --ink-soft:#6B6459;
+    --rule:#DDD7CB;
+    --seal:#B3392B;
+    --field:#FFFFFF;
+    --measure:70rem;
+  }
+
+  *,*::before,*::after{box-sizing:border-box}
+
+  html{-webkit-text-size-adjust:100%}
+
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+    font-weight:300;
+    line-height:1.75;
+    letter-spacing:-0.01em;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  .wrap{
+    max-width:var(--measure);
+    margin:0 auto;
+    padding:0 1.5rem;
+  }
+
+  /* ── 상단 표제 ─────────────────────────────── */
+  .masthead{
+    padding:4.5rem 0 2.5rem;
+    border-bottom:2px solid var(--ink);
+  }
+
+  .masthead__eyebrow{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.7rem;
+    letter-spacing:.22em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin:0 0 1.6rem;
+  }
+
+  .masthead__row{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:flex-end;
+    justify-content:space-between;
+    gap:2rem;
+  }
+
+  .masthead__name{
+    font-family:"Gowun Batang",serif;
+    font-weight:700;
+    font-size:clamp(2.4rem,6vw,4rem);
+    line-height:1.1;
+    letter-spacing:-0.02em;
+    margin:0;
+  }
+
+  .masthead__name span{
+    display:block;
+    font-family:"IBM Plex Mono",monospace;
+    font-weight:400;
+    font-size:clamp(.85rem,2vw,1.05rem);
+    letter-spacing:.16em;
+    color:var(--ink-soft);
+    margin-top:.9rem;
+  }
+
+  /* ── 직인 (시그니처) ───────────────────────── */
+  .seal{
+    flex:0 0 auto;
+    width:104px;
+    height:104px;
+    border:2.5px solid var(--seal);
+    border-radius:50%;
+    display:grid;
+    place-content:center;
+    text-align:center;
+    color:var(--seal);
+    font-family:"Gowun Batang",serif;
+    font-weight:700;
+    font-size:1.32rem;
+    line-height:1.28;
+    letter-spacing:.02em;
+    transform:rotate(-7deg);
+    opacity:.92;
+    animation:stamp .5s cubic-bezier(.2,.9,.3,1.2) both;
+  }
+
+  @keyframes stamp{
+    from{opacity:0;transform:rotate(-7deg) scale(1.5)}
+    to{opacity:.92;transform:rotate(-7deg) scale(1)}
+  }
+
+  /* ── 본문 섹션 ─────────────────────────────── */
+  .band{
+    padding:3.5rem 0;
+    border-bottom:1px solid var(--rule);
+  }
+
+  .band__label{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.7rem;
+    letter-spacing:.2em;
+    text-transform:uppercase;
+    color:var(--seal);
+    margin:0 0 1.5rem;
+  }
+
+  .lede{
+    font-family:"Gowun Batang",serif;
+    font-size:clamp(1.15rem,2.4vw,1.5rem);
+    line-height:1.85;
+    margin:0 0 1.2rem;
+    max-width:48rem;
+  }
+
+  .lede--en{
+    font-family:"IBM Plex Sans KR",sans-serif;
+    font-size:.95rem;
+    font-weight:300;
+    line-height:1.8;
+    color:var(--ink-soft);
+    margin:0;
+    max-width:48rem;
+  }
+
+  /* ── 사업 부문 ─────────────────────────────── */
+  .divisions{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(min(100%,20rem),1fr));
+    gap:1px;
+    background:var(--rule);
+    border:1px solid var(--rule);
+  }
+
+  .division{
+    background:var(--field);
+    padding:2rem 1.75rem;
+  }
+
+  .division__no{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.7rem;
+    letter-spacing:.16em;
+    color:var(--ink-soft);
+  }
+
+  .division__name{
+    font-family:"Gowun Batang",serif;
+    font-size:1.6rem;
+    font-weight:700;
+    margin:.5rem 0 .2rem;
+  }
+
+  .division__kind{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.72rem;
+    letter-spacing:.1em;
+    color:var(--seal);
+    text-transform:uppercase;
+  }
+
+  .division p{
+    margin:1rem 0 0;
+    font-size:.95rem;
+  }
+
+  .division a{
+    display:inline-block;
+    margin-top:1rem;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.78rem;
+    letter-spacing:.06em;
+    color:var(--ink);
+    text-decoration:none;
+    border-bottom:1.5px solid var(--seal);
+    padding-bottom:2px;
+  }
+
+  .division a:hover,
+  .division a:focus-visible{
+    color:var(--seal);
+  }
+
+  /* ── 등록 사항 (문서형 표) ─────────────────── */
+  .record{
+    border-top:1.5px solid var(--ink);
+  }
+
+  .record__row{
+    display:grid;
+    grid-template-columns:14rem 1fr;
+    gap:1rem;
+    padding:.95rem 0;
+    border-bottom:1px solid var(--rule);
+  }
+
+  .record__key{
+    font-size:.85rem;
+    color:var(--ink-soft);
+  }
+
+  .record__key span{
+    display:block;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.66rem;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    opacity:.7;
+  }
+
+  .record__val{
+    font-size:1rem;
+    font-weight:400;
+  }
+
+  .record__val--num{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:1.02rem;
+    letter-spacing:.02em;
+  }
+
+  .record__val span{
+    display:block;
+    font-size:.85rem;
+    color:var(--ink-soft);
+    font-family:"IBM Plex Sans KR",sans-serif;
+    font-weight:300;
+  }
+
+  /* ── 문의 ──────────────────────────────────── */
+  .contact a{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:1.05rem;
+    color:var(--ink);
+    text-decoration:none;
+    border-bottom:1.5px solid var(--seal);
+    padding-bottom:3px;
+  }
+
+  .contact a:hover,
+  .contact a:focus-visible{color:var(--seal)}
+
+  /* ── 하단 ──────────────────────────────────── */
+  .foot{
+    padding:2.5rem 0 4rem;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.74rem;
+    letter-spacing:.05em;
+    color:var(--ink-soft);
+    display:flex;
+    flex-wrap:wrap;
+    gap:.6rem 1.5rem;
+    justify-content:space-between;
+  }
+
+  .foot a{color:var(--ink-soft)}
+
+  a:focus-visible{
+    outline:2px solid var(--seal);
+    outline-offset:3px;
+  }
+
+  @media (max-width:640px){
+    .record__row{grid-template-columns:1fr;gap:.2rem}
+    .seal{width:86px;height:86px;font-size:1.1rem}
+  }
+
+  @media (prefers-reduced-motion:reduce){
+    .seal{animation:none}
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <p class="masthead__eyebrow">Business Registration No. 110-19-46722 · Seoul, Republic of Korea</p>
+    <div class="masthead__row">
+      <h1 class="masthead__name">
+        에이치 컴퍼니
+        <span>H Company</span>
+      </h1>
+      <div class="seal" aria-hidden="true">에이치<br>컴퍼니</div>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <section class="band">
+    <div class="wrap">
+      <p class="band__label">개요 / Overview</p>
+      <p class="lede">
+        에이치 컴퍼니는 2014년 서울에서 문을 연 커피 원두 도소매 사업체입니다.
+        원두를 다루며 쌓은 기준을 소프트웨어에도 그대로 적용하려 합니다.
+        2025년부터 <strong>525labs</strong> 부문에서 모바일 애플리케이션을 직접 개발하고 있습니다.
+      </p>
+      <p class="lede--en">
+        H Company is a coffee bean wholesale and retail business, registered in Seoul, Republic of Korea
+        and operating since December 2014. Through its <strong>525labs</strong> division, the company
+        develops and publishes mobile applications for Android.
+      </p>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="wrap">
+      <p class="band__label">사업 부문 / Divisions</p>
+      <div class="divisions">
+
+        <article class="division">
+          <p class="division__no">01</p>
+          <h2 class="division__name">커피나라</h2>
+          <p class="division__kind">Coffee — wholesale &amp; retail</p>
+          <p>스페셜티 원두를 선별해 로스터리와 카페, 개인 고객에게 공급합니다. 2014년 개업 이래 이어온 본업입니다.</p>
+          <!-- 커피나라 사이트 주소가 바뀌면 아래 href를 수정하세요 -->
+          <a href="https://coffeenara.webflow.io/" rel="noopener">coffeenara.webflow.io →</a>
+        </article>
+
+        <article class="division">
+          <p class="division__no">02</p>
+          <h2 class="division__name">525labs</h2>
+          <p class="division__kind">Software — Android applications</p>
+          <p><strong>TalkSafe</strong>는 사용자가 직접 등록한 키워드를 감지해 녹음을 시작하고, 감지 이전 30초까지 함께 저장하는 음성 녹음 앱입니다. 음성 인식은 기기 안에서 처리되며 14개 언어를 지원합니다.</p>
+          <!-- ⚠️ GitHub 사용자명을 바꾸면 아래 href도 함께 수정하세요 -->
+          <a href="https://hcompany-kr.github.io/talksafe-privacy/" rel="noopener">TalkSafe 개인정보처리방침 →</a>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="wrap">
+      <p class="band__label">등록 사항 / Registration</p>
+      <div class="record">
+
+        <div class="record__row">
+          <div class="record__key">상호 <span>Name of business</span></div>
+          <div class="record__val">에이치 컴퍼니 <span>H Company</span></div>
+        </div>
+
+        <div class="record__row">
+          <div class="record__key">사업자등록번호 <span>Business taxpayer ID</span></div>
+          <div class="record__val record__val--num">110-19-46722</div>
+        </div>
+
+        <div class="record__row">
+          <div class="record__key">대표자 <span>Representative</span></div>
+          <div class="record__val">김승환 <span>SeungHwan Kim</span></div>
+        </div>
+
+        <div class="record__row">
+          <div class="record__key">사업장 소재지 <span>Business address</span></div>
+          <div class="record__val">
+            서울특별시 서대문구 포방터2길 67-22, 2층
+            <span>67-22 Pobangteo 2-gil, Seodaemun-gu, Seoul, Republic of Korea</span>
+          </div>
+        </div>
+
+        <div class="record__row">
+          <div class="record__key">개업일 <span>Date of business start</span></div>
+          <div class="record__val record__val--num">2014-12-18</div>
+        </div>
+
+        <div class="record__row">
+          <div class="record__key">업태 · 종목 <span>Business type / item</span></div>
+          <div class="record__val">도소매 · 커피원두 <span>Wholesale and retail trade · Coffee and tea</span></div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="band contact">
+    <div class="wrap">
+      <p class="band__label">문의 / Contact</p>
+      <!-- ⚠️ 대표 연락 이메일을 바꾸시려면 아래 두 곳을 함께 수정하세요 -->
+      <p><a href="mailto:525lab2026@gmail.com">525lab2026@gmail.com</a></p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap" style="display:contents">
+    <span>© 2026 에이치 컴퍼니 (H Company)</span>
+    <span>사업자등록번호 110-19-46722</span>
+    <!-- ⚠️ GitHub 사용자명을 바꾸면 아래 href도 함께 수정하세요 -->
+    <a href="https://hcompany-kr.github.io/talksafe-privacy/" rel="noopener">개인정보처리방침</a>
+  </div>
+</footer>
+
+</body>
+</html>
