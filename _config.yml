@@ -14,6 +14,7 @@ permalink: /blog/:categories/:title/
 exclude:
   - README.md
   - app-ads.txt
+  - google012c16bee999ed11.html
 
 # 글 기본값
 defaults:
