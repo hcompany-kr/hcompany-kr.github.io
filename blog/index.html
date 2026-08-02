@@ -1,0 +1,39 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>블로그 | {{ site.title }}</title>
+<meta name="description" content="녹음과 기록에 관해 알아두면 좋은 것들.">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+<header class="masthead">
+  <a class="wordmark" href="{{ '/' | relative_url }}">에이치컴퍼니</a>
+</header>
+
+<main>
+  <div class="index-head">
+    <h1>블로그</h1>
+  </div>
+
+  <div class="list">
+    {% assign posts = site.posts | where: "lang", "ko" %}
+    {% for post in posts %}
+    <div class="list-item">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</main>
+
+<footer class="colophon">
+  <p>{{ site.title }}</p>
+</footer>
+</body>
+</html>

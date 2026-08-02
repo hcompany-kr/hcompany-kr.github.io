@@ -1,0 +1,24 @@
+title: 에이치컴퍼니
+description: 안드로이드 앱을 만듭니다.
+url: "https://hcompany-kr.github.io"
+baseurl: ""
+
+# 사이트맵을 자동으로 만들어 줍니다. 직접 수정할 필요 없습니다.
+plugins:
+  - jekyll-sitemap
+
+# 글 주소에서 날짜를 빼고 /blog/{언어}/{주소}/ 형태로 만듭니다.
+permalink: /blog/:categories/:title/
+
+# 빌드에서 제외할 파일
+exclude:
+  - README.md
+  - app-ads.txt
+
+# 글 기본값
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
