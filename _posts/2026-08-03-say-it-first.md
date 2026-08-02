@@ -2,7 +2,7 @@
 lang: ko
 ref: say-it-first
 categories: ko
-date: 2026-08-04
+date: 2026-08-03
 eyebrow: 녹음
 title: "말이 먼저 나옵니다"
 description: "녹음이 필요하다고 느낀 순간, 손보다 말이 먼저 움직입니다. 그 말을 시작 신호로 삼으면 어떻게 되는지에 대한 이야기."
