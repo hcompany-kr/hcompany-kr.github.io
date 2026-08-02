@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hcompany-kr.github.io/sitemap.xml
