@@ -75,9 +75,9 @@
 
 <body>
 <header class="masthead">
-  <a class="wordmark" href="{{ '/' | relative_url }}">에이치컴퍼니</a>
+  <a class="wordmark" href="{% if page.lang == 'en' %}{{ '/blog/en/' | relative_url }}{% else %}{{ '/blog/ko/' | relative_url }}{% endif %}">{% if page.lang == 'en' %}H Company{% else %}에이치컴퍼니{% endif %}</a>
   {% if siblings.size > 1 %}
-  <nav class="langs" aria-label="언어">
+  <nav class="langs" aria-label="Language">
     {% for p in siblings %}
       {% if p.lang == page.lang %}
         <span class="lang is-current">{{ p.lang }}</span>
@@ -101,16 +101,16 @@
 
   {% if page.app %}
   <aside class="endcard">
-    <p class="endcard-label">이 글에서 다룬 앱</p>
+    <p class="endcard-label">{% if page.lang == 'en' %}The app in this article{% else %}이 글에서 다룬 앱{% endif %}</p>
     <p class="endcard-name">TalkSafe</p>
     <p class="endcard-desc">{{ page.app_description }}</p>
-    <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">Google Play에서 보기</a>
+    <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">{% if page.lang == 'en' %}View on Google Play{% else %}Google Play에서 보기{% endif %}</a>
   </aside>
   {% endif %}
 </main>
 
 <footer class="colophon">
-  <p>{{ site.title }}</p>
+  <p>{% if page.lang == 'en' %}H Company{% else %}{{ site.title }}{% endif %}</p>
 </footer>
 </body>
 </html>
