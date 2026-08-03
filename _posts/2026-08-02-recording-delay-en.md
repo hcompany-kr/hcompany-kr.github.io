@@ -8,7 +8,7 @@ eyebrow: Recording
 title: "Why hitting record is always too late"
 description: "By the time you realise a conversation needs recording, the words you needed are already gone. Two ways to close that gap."
 app: true
-app_description: "An Android recorder that starts automatically when it hears a word you chose, and keeps the 30 seconds that came before it."
+app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can a recording app capture audio from before I pressed record?"
     a: "Most recorders start saving at the moment you tap record, so anything before that is lost. Some apps hold the last few seconds of audio while idle and attach it to the front of the file once recording begins. TalkSafe keeps the previous 30 seconds."
@@ -58,7 +58,7 @@ Some apps hold a short rolling window of recent audio while sitting idle, then a
   <p class="rewind-caption">The hatched section is the 30 seconds before recording began. An ordinary recorder discards it. TalkSafe saves it with the rest.</p>
 </div>
 
-Thirty seconds sounds short. In conversation it is not a sentence or two, it is a whole exchange. The remark that mattered and the context around it usually both fit inside it, and context turns out to matter more than people expect. A single line with nothing before it is harder to explain later, not easier.
+[TalkSafe](/talksafe/) sets that window to thirty seconds. Thirty seconds sounds short. In conversation it is not a sentence or two, it is a whole exchange. The remark that mattered and the context around it usually both fit inside it, and context turns out to matter more than people expect. A single line with nothing before it is harder to explain later, not easier.
 
 ## Approach 2 — start it with your voice, not your hands
 
@@ -66,14 +66,13 @@ The second fix changes how recording begins.
 
 You choose a word in advance. When the app hears it, recording starts on its own. No unlocking, no searching for an icon.
 
-The whole thing rests on **which word you choose**. A good one meets two conditions at once:
+**Which word you choose** matters, and there is no correct answer to hand you. People have different phrases that come naturally to them, and across languages the difference is larger still.
 
-- it almost never comes up in ordinary conversation, and
-- it comes up naturally at the exact moment you would want a record
+One thing is worth saying: a single word covers many sentences. Set `record` and it does not matter whether you say "I should record this" or "do you mind if I record" — both contain it. There is no phrase to memorise.
 
-Words like `contract`, `the terms`, `promise`, or `say that again` fit. You are not performing a signal for the other person's benefit — the dangerous subject entering the conversation is itself what starts the recording.
+Used for a while, both things happen. Sometimes a recording starts when you did not intend it, because something close enough went past. Sometimes it does not catch when you wanted it to. The first costs you one file you delete; the second cannot be undone. The two do not weigh the same.
 
-Pick something like `hold on` and you get the opposite: recordings you never asked for, several times a day.
+There is more on this in [You say something first](/blog/en/say-it-first/).
 
 ## This is not a tool for recording people secretly
 

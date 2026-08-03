@@ -8,7 +8,7 @@ eyebrow: Recording
 title: "You say something first"
 description: "The moment you realise a conversation should be recorded, your mouth moves before your hands do. What happens when that becomes the trigger."
 app: true
-app_description: "An Android recorder that starts on its own when it hears a word you chose."
+app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "What does it mean to start a recording with your voice?"
     a: "You choose a word in advance, and the app begins recording when it hears it. You do not need to unlock the phone or open anything."
@@ -86,7 +86,7 @@ The first word you pick may not fit. Change it.
 
 After a few days you notice what you actually say in those moments. That is not something you can work out in advance — you have to run into it.
 
-You can also register several. Any one of them starts a recording, so casting wide and narrowing later tends to be easier than guessing right the first time.
+In [TalkSafe](/talksafe/) you can also register several words. Any one of them starts a recording, so casting wide and narrowing later tends to be easier than guessing right the first time.
 
 ## One more thing
 

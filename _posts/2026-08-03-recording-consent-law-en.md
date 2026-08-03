@@ -8,7 +8,7 @@ eyebrow: Law
 title: "Is it legal to record a conversation you're in?"
 description: "Federal law says yes. Your state might say otherwise. The line that actually matters, and where people get it wrong."
 app: true
-app_description: "An Android recorder built for keeping a record of conversations you take part in. A notification stays visible the whole time."
+app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can I record a conversation I'm part of without telling anyone?"
     a: "Under federal law, yes. The Wiretap Act permits recording when one party consents, and as a participant you are that party. About a dozen states go further and require everyone's consent, so the answer depends on where you are."
@@ -66,7 +66,7 @@ If you travel or work across borders, the rule that matters is the one where the
 
 ## The line this app draws
 
-[TalkSafe](https://play.google.com/store/apps/details?id=com.lab525.talksafe) is built around conversations you are part of.
+[TalkSafe](/talksafe/en/) is built around conversations you are part of.
 
 That is why a notification stays visible for the entire time a recording runs and cannot be switched off, and why there is no way to hide it. The distinction above is the one that separates lawful from criminal in every jurisdiction mentioned here. There was no good reason to make that line easy to cross.
 
