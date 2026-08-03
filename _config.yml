@@ -9,7 +9,7 @@ plugins:
 
 # 글 주소에서 날짜를 빼고 /blog/{언어}/{주소}/ 형태로 만듭니다.
 permalink: /blog/:categories/:title/
-
+timezone: Asia/Seoul
 # 빌드에서 제외할 파일
 exclude:
   - README.md
