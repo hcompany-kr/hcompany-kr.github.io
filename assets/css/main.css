@@ -262,3 +262,45 @@ a:focus-visible, .endcard-cta:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 3px;
 }
+
+/* ── 표 ───────────────────────────────── */
+.body table {
+  width: 100%;
+  margin: 2rem 0;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+  line-height: 1.55;
+}
+
+.body thead th {
+  padding: 0.625rem 0.75rem 0.625rem 0;
+  text-align: left;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  border-bottom: 1px solid var(--ink);
+  white-space: nowrap;
+}
+
+.body tbody td {
+  padding: 0.75rem 0.75rem 0.75rem 0;
+  vertical-align: top;
+  border-bottom: 1px solid var(--line);
+}
+
+.body tbody tr td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.body th:last-child,
+.body td:last-child { padding-right: 0; }
+
+@media (max-width: 480px) {
+  .body table { font-size: 0.875rem; }
+  .body thead th,
+  .body tbody td { padding-right: 0.5rem; }
+  .body tbody tr td:first-child { white-space: normal; }
+}
