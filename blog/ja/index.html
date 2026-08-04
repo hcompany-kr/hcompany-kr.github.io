@@ -1,0 +1,39 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ブログ | エイチカンパニー</title>
+<meta name="description" content="録音と記録について、知っておくと役に立つこと。">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+<header class="masthead">
+  <a class="wordmark" href="{{ '/' | relative_url }}">エイチカンパニー</a>
+</header>
+
+<main>
+  <div class="index-head">
+    <h1>ブログ</h1>
+  </div>
+
+  <div class="list">
+    {% assign posts = site.posts | where: "lang", "ja" %}
+    {% for post in posts %}
+    <div class="list-item">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</main>
+
+<footer class="colophon">
+  <p>エイチカンパニー</p>
+</footer>
+</body>
+</html>
