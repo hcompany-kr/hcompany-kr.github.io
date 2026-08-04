@@ -64,7 +64,9 @@ Some apps hold a short rolling window of recent audio while sitting idle, then a
 
 The second fix changes how recording begins.
 
-You choose a word in advance. When the app hears it, recording starts on its own. No unlocking, no searching for an icon.
+You choose a word in advance. When the app hears it, recording starts on its own — **with the screen still locked**, the phone still in a pocket.
+
+The word does not have to be one you say, either. It can be something the other person tends to say in that situation.
 
 **Which word you choose** matters, and there is no correct answer to hand you. People have different phrases that come naturally to them, and across languages the difference is larger still.
 

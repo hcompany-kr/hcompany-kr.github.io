@@ -40,13 +40,19 @@ What happens if the starting signal is a word instead of a button?
 
 You choose a word ahead of time. When the app hears it, recording begins. Nothing to unlock, nothing to find on a home screen.
 
+It starts with the screen locked, too — the phone can stay in a pocket or a bag.
+
 From the other person's side, nothing happens at all. The part where you pull out a phone and tap at it simply is not there.
+
+This is where it parts ways with a voice assistant. An assistant is built to recognise its owner's voice and, once summoned, lights up the screen and answers out loud. The conversation stops and the other person knows.
 
 ## Which word is not something anyone can tell you
 
 Handing someone a "correct" answer here does more harm than good.
 
 People have different phrases that come naturally to them. Across languages the difference is larger still. And what you say in a meeting is not what you say at a kitchen table.
+
+There is also this: **the word does not have to be one you say.** Set something the other person tends to repeat in that situation, and recording starts without you saying anything at all. When you are the one being pressured, the composure to signal is exactly what you do not have.
 
 <div class="rewind">
   <div class="rewind-track">

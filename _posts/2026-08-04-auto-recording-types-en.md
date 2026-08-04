@@ -64,7 +64,9 @@ The app holds a short rolling window of recent audio while idle, and attaches it
 
 Recording starts when the app recognises a word you set in advance.
 
-**Good for** — hands occupied, or any setting where visibly operating a phone would change the conversation.
+It works with the screen locked, and the word does not have to be one you say — it can be something the other person tends to say in that situation. That is a different structure from a voice assistant, which is built to recognise its owner's voice.
+
+**Good for** — hands occupied, any setting where visibly operating a phone would change the conversation, or a moment when you have no composure to say anything.
 
 **What it misses** — it depends on recognition accuracy, which varies with language, accent, and background noise.
 
