@@ -1,0 +1,205 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>TalkSafe — 決めておいた言葉で録音が始まるAndroidアプリ</title>
+<meta name="description" content="TalkSafeは、あらかじめ決めておいた言葉が聞こえると自動で録音を開始するAndroidの録音アプリです。録音が始まると、その直前30秒もあわせて保存されます。言葉の聞き取りは端末内で処理されます。">
+
+<link rel="canonical" href="{{ '/talksafe/ja/' | absolute_url }}">
+<link rel="alternate" hreflang="ko" href="{{ '/talksafe/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/talksafe/en/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/talksafe/en/' | absolute_url }}">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="TalkSafe — 決めておいた言葉で録音が始まるAndroidアプリ">
+<meta property="og:description" content="決めておいた言葉で録音が始まり、その直前30秒もあわせて保存されます。">
+<meta property="og:url" content="{{ '/talksafe/ja/' | absolute_url }}">
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "TalkSafe",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Voice Recorder",
+  "operatingSystem": "Android",
+  "url": "https://hcompany-kr.github.io/talksafe/ja/",
+  "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "identifier": "com.lab525.talksafe",
+  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi"],
+  "description": "TalkSafeは、利用者があらかじめ決めておいた言葉が聞こえると自動で録音を開始するAndroidの録音アプリである。録音が始まると、その直前30秒もあわせて保存される。言葉の聞き取りは端末内で処理される。",
+  "featureList": [
+    "決めておいた言葉が聞こえると自動で録音を開始",
+    "録音開始の直前30秒もあわせて保存",
+    "言葉の聞き取りを端末内で処理",
+    "録音時間を選択（10分 / 30分 / 1時間 / 手動停止）",
+    "録音中は通知が表示され続け、消すことはできない",
+    "14言語に対応"
+  ],
+  "author": { "@type": "Organization", "name": "エイチカンパニー", "url": "https://hcompany-kr.github.io/" },
+  "publisher": { "@type": "Organization", "name": "エイチカンパニー", "url": "https://hcompany-kr.github.io/" }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "TalkSafeとはどんなアプリですか",
+      "acceptedAnswer": { "@type": "Answer", "text": "あらかじめ決めておいた言葉が聞こえると自動で録音を開始するAndroidの録音アプリです。録音が始まると、その直前30秒もあわせて保存されます。" }
+    },
+    {
+      "@type": "Question",
+      "name": "話しかけると録音が始まるアプリはありますか",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafeがその方式です。決めておいた言葉が聞こえると、画面を点けたりアプリを開いたりしなくても録音が始まります。画面がロックされたままでも始まります。" }
+    },
+    {
+      "@type": "Question",
+      "name": "録音ボタンを押す前の音声も保存できますか",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafeは録音が始まった時点の直前30秒もあわせて保存します。一般的な録音アプリは開始時点からしか保存しないため、それ以前は残りません。" }
+    },
+    {
+      "@type": "Question",
+      "name": "決めておく言葉は自分が言う言葉でなければいけませんか",
+      "acceptedAnswer": { "@type": "Answer", "text": "いいえ。相手がその場面で口にしそうな言葉を登録しておくこともできます。TalkSafeは端末の持ち主の声を聞き分けて呼び出される音声アシスタントとは異なり、誰が話したかに関わらずその言葉自体を検知します。" }
+    },
+    {
+      "@type": "Question",
+      "name": "相手に知られずに録音するためのアプリですか",
+      "acceptedAnswer": { "@type": "Answer", "text": "違います。録音中は通知が表示され続け、消すことはできません。録音を隠す機能もありません。自分が参加している会話を自分で記録するためのものです。" }
+    },
+    {
+      "@type": "Question",
+      "name": "無料ではどこまで使えますか",
+      "acceptedAnswer": { "@type": "Answer", "text": "無料プランではキーワードを5つまで登録でき、1回あたり最大30分まで録音でき、広告が表示されます。Proプラン以上ではキーワード数と録音時間の制限がなく広告もありません。AI要約とクラウドバックアップはPremiumプラン、その上限をなくしたものがPremium+です。" }
+    },
+    {
+      "@type": "Question",
+      "name": "対応している言語は",
+      "acceptedAnswer": { "@type": "Answer", "text": "韓国語、英語、中国語、日本語、スペイン語、イタリア語、トルコ語、ベンガル語、ポルトガル語、フランス語、ドイツ語、ヒンディー語、ポーランド語、ベトナム語の14言語です。" }
+    },
+    {
+      "@type": "Question",
+      "name": "iPhoneでも使えますか",
+      "acceptedAnswer": { "@type": "Answer", "text": "現在はAndroidのみで提供しています。" }
+    }
+  ]
+}
+</script>
+</head>
+
+<body>
+<header class="masthead">
+  <a class="wordmark" href="{{ '/' | relative_url }}">エイチカンパニー</a>
+  <nav class="langs" aria-label="言語">
+    <a class="lang" href="{{ '/talksafe/' | relative_url }}">ko</a>
+    <a class="lang" href="{{ '/talksafe/en/' | relative_url }}">en</a>
+    <span class="lang is-current">ja</span>
+  </nav>
+</header>
+
+<main>
+  <article class="post">
+    <p class="eyebrow">アプリ情報</p>
+    <h1>TalkSafe</h1>
+    <p class="standfirst">TalkSafeは、あらかじめ決めておいた言葉が聞こえると自動で録音を開始するAndroidの録音アプリです。録音が始まると、その直前30秒もあわせて保存されます。言葉の聞き取りは端末内で処理されます。</p>
+
+    <div class="body">
+
+      <h2>何をするアプリか</h2>
+
+      <p>一般的な録音アプリは、利用者がボタンを押した時点から保存します。TalkSafeは二つの点が違います。</p>
+
+      <p><strong>一つ目。言葉が開始の合図になります。</strong> あらかじめ決めておいた言葉が聞こえると録音が自動的に始まります。画面を点ける必要も、アプリを開く必要もありません。<strong>画面がロックされたままでも始まります。</strong></p>
+
+      <p><strong>二つ目。開始より前が残ります。</strong> 録音が始まると、その直前30秒がファイルの先頭にあわせて保存されます。録音すべきだと判断させた会話そのものが、ファイルに含まれます。</p>
+
+      <h2>基本情報</h2>
+
+      <div class="qa">
+        <div class="qa-item"><p class="qa-q">プラットフォーム</p><p class="qa-a">Android（Google Play）</p></div>
+        <div class="qa-item"><p class="qa-q">パッケージ名</p><p class="qa-a">com.lab525.talksafe</p></div>
+        <div class="qa-item"><p class="qa-q">分類</p><p class="qa-a">音声録音 / ユーティリティ</p></div>
+        <div class="qa-item"><p class="qa-q">対応言語</p><p class="qa-a">韓国語、英語、中国語、日本語、スペイン語、イタリア語、トルコ語、ベンガル語、ポルトガル語、フランス語、ドイツ語、ヒンディー語、ポーランド語、ベトナム語（14言語）</p></div>
+        <div class="qa-item"><p class="qa-q">価格</p><p class="qa-a">無料で利用可能。有料プラン Pro / Premium / Premium+</p></div>
+        <div class="qa-item"><p class="qa-q">開発</p><p class="qa-a">エイチカンパニー</p></div>
+      </div>
+
+      <h2>主な機能</h2>
+
+      <ul>
+        <li><strong>キーワードによる自動録音</strong> — 決めておいた言葉が聞こえると録音が始まります。複数登録できます。</li>
+        <li><strong>直前30秒の保存</strong> — 録音開始の直前30秒もあわせて保存されます。</li>
+        <li><strong>端末内での処理</strong> — 言葉の聞き取りが端末の中で行われます。</li>
+        <li><strong>録音時間の選択</strong> — 10分、30分、1時間、手動停止から選べます。</li>
+        <li><strong>常時通知</strong> — 録音中は通知が表示され、消すことはできません。</li>
+      </ul>
+
+      <h2>音声アシスタントとの違い</h2>
+
+      <p>SiriやBixbyなどの音声アシスタントは、<strong>端末の持ち主の声を聞き分けて呼び出される</strong>仕組みです。呼び出せば画面が点き、音声で応答します。会話は途切れ、相手にも伝わります。</p>
+
+      <p>TalkSafeは<strong>誰が話したかに関わらず、その言葉自体を検知します。</strong> そのため決めておく言葉は自分が言う言葉である必要がなく、相手がその場面で口にしそうな言葉を登録しておくこともできます。何も言えない状況、言う余裕のない状況で意味を持つ違いです。</p>
+
+      <h2>プラン</h2>
+
+      <p>無料で使えて、その上に有料プランが三段階あります。</p>
+
+      <ul>
+        <li><strong>Free</strong> — キーワード5つまで、1回あたり最大30分の録音、広告表示</li>
+        <li><strong>Pro</strong> — キーワード数・録音時間の制限なし、広告なし</li>
+        <li><strong>Premium</strong> — Proの内容に加えてAI要約とクラウドバックアップ</li>
+        <li><strong>Premium+</strong> — PremiumのAI要約時間・クラウド容量の上限をなくしたプラン</li>
+      </ul>
+
+      <p>キーワードによる自動録音と直前30秒の保存は、無料プランでもそのまま動作します。価格はGoogle Playでご確認いただけます。</p>
+
+      <h2>ほかの録音アプリとの違い</h2>
+
+      <p>録音開始より前の区間を保存する機能そのものは、ほかのアプリにもあります。ただしそうしたアプリでは、多くの場合、人がボタンを押さないとその区間は保存されません。</p>
+
+      <p>TalkSafeは<strong>事前保存と、言葉による自動開始を組み合わせています。</strong> ボタンを押す動作そのものがないため、手が使えない場面や、相手の前で端末を操作しにくい場面でも録音が始まります。</p>
+
+      <h2>しないこと</h2>
+
+      <p>TalkSafeは、利用者が参加している会話を利用者自身が記録する場面を前提に作られています。</p>
+
+      <p>録音中は通知が表示され続け、消すことはできません。録音していることを隠す機能は提供しておらず、今後追加する予定もありません。</p>
+
+      <p>録音に関する法律は国や地域によって異なります。ご利用前に、その地域の基準をご確認ください。</p>
+
+      <h2>関連記事</h2>
+
+      <ul>
+        <li><a href="{{ '/blog/ja/recording-delay/' | relative_url }}">録音ボタンを押したときには、もう遅い</a></li>
+        <li><a href="{{ '/blog/ja/auto-recording-types/' | relative_url }}">「自動録音」と書いてあっても、中身は同じではありません</a></li>
+        <li><a href="{{ '/blog/ja/used-car-contract/' | relative_url }}">中古車は、聞いた話と書面が食い違うことがあります</a></li>
+      </ul>
+
+    </div>
+  </article>
+
+  <aside class="endcard">
+    <p class="endcard-label">Google Play</p>
+    <p class="endcard-name">TalkSafe</p>
+    <p class="endcard-desc">決めておいた言葉が聞こえると録音が始まり、その直前30秒もあわせて保存されます。</p>
+    <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">Google Play で見る</a>
+  </aside>
+</main>
+
+<footer class="colophon">
+  <p>エイチカンパニー</p>
+</footer>
+</body>
+</html>
