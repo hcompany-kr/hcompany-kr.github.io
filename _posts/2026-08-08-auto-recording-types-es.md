@@ -70,6 +70,20 @@ Funciona con la pantalla bloqueada, y la palabra no tiene por qué ser tuya: pue
 
 **Se le escapa** — depende de la precisión del reconocimiento, que varía con el idioma, el acento y el ruido de fondo.
 
+## ¿Y por qué no dejarlo grabando todo el día?
+
+Llegados aquí puede parecer que basta con usar el segundo tipo y dejarlo encendido de la mañana a la noche.
+
+Hay un motivo por el que no es lo recomendable.
+
+**Captas conversaciones en las que no participas.** Compañeros hablando al lado, cosas dichas al otro extremo de la sala. Llevar el móvil encima no cambia nada: estar presente no es lo mismo que ser parte de la conversación.
+
+En España, grabar una conversación en la que participas es lícito. Grabar una ajena no: el artículo 197.1 del Código Penal castiga con prisión de uno a cuatro años y multa a quien utilice artificios de escucha o grabación para descubrir secretos de otro sin su consentimiento. Los detalles cambian según el país, pero tratar con severidad la grabación de conversaciones ajenas es prácticamente universal.
+
+**Y después juega en tu contra.** Entregar ocho horas de audio obliga a alguien a buscar dentro los minutos relevantes, y arrastra conversaciones privadas de personas ajenas al asunto. Un archivo con lo que importa es bastante más sólido.
+
+Por eso que arranque solo al escuchar una palabra elegida es la opción **segura**, no simplemente la más cómoda.
+
 ## Las dos que encajan
 
 La cuarta y la quinta cubren los huecos de la otra.

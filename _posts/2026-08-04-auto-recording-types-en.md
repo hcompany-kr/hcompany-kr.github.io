@@ -70,6 +70,20 @@ It works with the screen locked, and the word does not have to be one you say �
 
 **What it misses** — it depends on recognition accuracy, which varies with language, accent, and background noise.
 
+## Why not just leave it running all day
+
+A reasonable thought at this point: use type two, leave it on from morning to evening, and the problem is solved.
+
+There is a reason that is not the recommended route.
+
+**It captures conversations you are not a party to.** Colleagues talking nearby, things said across the room. Carrying the phone on you does not change this — being present is not the same as being a participant.
+
+In the US, intercepting a communication you are not part of is a federal offense under 18 U.S.C. §2511, with penalties up to five years. Details vary by country, but treating the recording of conversations you took no part in as a serious matter is close to universal.
+
+**It also works against you later.** Handing over an eight-hour file means somebody has to locate the relevant few minutes inside it, and unrelated people's private conversations travel along with it. A file containing only what matters is considerably stronger.
+
+Which is why starting only when a chosen word is heard is the **safer** option rather than merely the more convenient one.
+
 ## The two that fit together
 
 Four and five cover each other's gaps.
