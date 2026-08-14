@@ -107,7 +107,7 @@ Starting only when a chosen word is heard keeps that window structurally small. 
 
 **And tell your parent it is there.** A notification stays visible while recording and cannot be switched off, so it cannot be used without their knowledge by design. Beyond the legality, a parent who knows can rely on it.
 
-## The other side of this
+## When the caregiver is the one accused
 
 Care staff get accused of things that did not happen.
 
@@ -124,7 +124,7 @@ Investigations examine both sides, and there are points at which a caregiver can
 - **National Center on Elder Abuse** — resources and state-by-state referral
 - **988 Suicide & Crisis Lifeline** — call or text, if you or your parent are struggling
 
-## One last thing
+## What comes before the records
 
 Documentation exists to answer a question. It is not the point.
 

@@ -104,7 +104,7 @@ Que arranque solo cuando se escucha una palabra elegida mantiene esa ventana est
 - **Toda comunicación con el centro**, con sus fechas
 - **Nombres** del personal implicado y de quien estuviera presente
 
-## El otro lado
+## Cuando la acusada es quien cuida
 
 El personal de residencias también recibe acusaciones que no se sostienen.
 
@@ -121,7 +121,7 @@ El procedimiento examina las dos versiones y hay momentos para aportar informaci
 - **Inspección de servicios sociales** de tu comunidad autónoma
 - **112** — emergencias
 
-## Por último
+## Lo que va antes de los registros
 
 La documentación sirve para responder una pregunta. No es el objetivo.
 
