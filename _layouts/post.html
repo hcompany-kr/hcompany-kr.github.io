@@ -75,7 +75,7 @@
 
 <body>
 <header class="masthead">
-  <a class="wordmark" href="{{ '/blog/' | append: page.lang | append: '/' | relative_url }}">{% if page.lang == 'en' %}H Company{% elsif page.lang == 'ja' %}エイチカンパニー{% elsif page.lang == 'es' %}H Company{% else %}에이치컴퍼니{% endif %}</a>
+  <a class="wordmark" href="{{ '/blog/' | append: page.lang | append: '/' | relative_url }}">{% if page.lang == 'en' %}H Company{% elsif page.lang == 'ja' %}エイチカンパニー{% elsif page.lang == 'es' %}H Company{% elsif page.lang == 'it' %}H Company{% else %}에이치컴퍼니{% endif %}</a>
   {% if siblings.size > 1 %}
   <nav class="langs" aria-label="Language">
     {% for p in siblings %}
@@ -101,16 +101,16 @@
 
   {% if page.app %}
   <aside class="endcard">
-    <p class="endcard-label">{% if page.lang == 'en' %}The app in this article{% elsif page.lang == 'ja' %}この記事で扱ったアプリ{% elsif page.lang == 'es' %}La aplicación de este artículo{% else %}이 글에서 다룬 앱{% endif %}</p>
+    <p class="endcard-label">{% if page.lang == 'en' %}The app in this article{% elsif page.lang == 'ja' %}この記事で扱ったアプリ{% elsif page.lang == 'es' %}La aplicación de este artículo{% elsif page.lang == 'it' %}L'app di cui parla questo articolo{% else %}이 글에서 다룬 앱{% endif %}</p>
     <p class="endcard-name">TalkSafe</p>
     <p class="endcard-desc">{{ page.app_description }}</p>
-    <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">{% if page.lang == 'en' %}View on Google Play{% elsif page.lang == 'ja' %}Google Play で見る{% elsif page.lang == 'es' %}Ver en Google Play{% else %}Google Play에서 보기{% endif %}</a>
+    <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">{% if page.lang == 'en' %}View on Google Play{% elsif page.lang == 'ja' %}Google Play で見る{% elsif page.lang == 'es' %}Ver en Google Play{% elsif page.lang == 'it' %}Vedi su Google Play{% else %}Google Play에서 보기{% endif %}</a>
   </aside>
   {% endif %}
 </main>
 
 <footer class="colophon">
-  <p>{% if page.lang == 'en' %}H Company{% elsif page.lang == 'ja' %}エイチカンパニー{% elsif page.lang == 'es' %}H Company{% else %}{{ site.title }}{% endif %}</p>
+  <p>{% if page.lang == 'en' %}H Company{% elsif page.lang == 'ja' %}エイチカンパニー{% elsif page.lang == 'es' %}H Company{% elsif page.lang == 'it' %}H Company{% else %}{{ site.title }}{% endif %}</p>
 </footer>
 </body>
 </html>
