@@ -96,6 +96,17 @@
     <p class="standfirst">{{ page.description }}</p>
     <div class="body">
       {{ content }}
+
+      {% if page.faq %}
+      <div class="qa">
+        {% for item in page.faq %}
+        <div class="qa-item">
+          <p class="qa-q">{{ item.q }}</p>
+          <p class="qa-a">{{ item.a }}</p>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
     </div>
   </article>
 
