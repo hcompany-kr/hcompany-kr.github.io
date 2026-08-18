@@ -5,8 +5,8 @@ categories: en
 permalink: /blog/en/used-car-contract/
 date: 2026-08-04
 eyebrow: Contracts
-title: "The used car paperwork warns you about the salesperson"
-description: "The FTC's Buyers Guide tells buyers not to rely on spoken promises. What that form covers, what \"as is\" really means, and what to do about everything said out loud."
+title: "Selling a car \"as is\" does not cover a lie"
+description: "What an as-is sale actually waives, the 12 states and D.C. where it is limited, why fraud voids it anyway, and how to hold a dealer to what was only said out loud."
 app: true
 app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
