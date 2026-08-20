@@ -94,6 +94,8 @@ Grabar sin avisar es legal. Ocultar que se graba es otra cosa, y la herramienta 
 
 **Las leyes cambian según el país.** Alemania trata como delito grabar una conversación privada incluso participando en ella. En Estados Unidos depende del estado. Si viajas o trabajas con otros países, la norma que cuenta es la del lugar donde ocurre la conversación.
 
+**Y cambian dentro del propio idioma.** México, Perú, Ecuador, Colombia, Venezuela, Costa Rica, Chile, Uruguay, Bolivia y Argentina no siguen la regla española, y en dos de ellos una grabación lícita puede quedar fuera del expediente. Está desglosado país por país en [este artículo](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/).
+
 **Avisar sigue siendo buena idea.** No hay obligación, pero una conversación que continúa después de avisar es un registro mucho más sólido, porque todo lo dicho se dijo sabiéndolo.
 
 **Y lo más importante:** la mayoría de las grabaciones no deberían usarse nunca. Se hacen por si acaso, y si el momento para el que se hicieron no llega, ahí se quedan.

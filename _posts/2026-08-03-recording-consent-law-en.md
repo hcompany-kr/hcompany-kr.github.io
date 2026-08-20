@@ -44,7 +44,7 @@ In those states, everyone in the conversation has to agree before recording star
 
 Two things make this messier than a list suggests.
 
-**Published lists disagree.** Depending on which source you read, states like Nevada, Michigan, and Oregon appear on one side or the other. Some of that is because those states apply different rules to phone calls than to in-person conversations.
+**Published lists disagree.** Depending on which source you read, states like Nevada, Michigan, and Oregon appear on one side or the other. Some of that is because those states apply different rules to phone calls than to in-person conversations. Which states are actually settled, and why the counts range from nine to fifteen, is worked through in [the state-by-state breakdown](/blog/en/state-recording-consent/).
 
 **Calls cross state lines.** If you are in a one-party state and the person you are talking to is not, there is no clean answer. The cautious assumption is that the stricter rule governs.
 
@@ -63,6 +63,10 @@ The gap widens fast.
 Germany treats recording a private conversation without consent as a criminal matter even for participants. France is strict as well. Korea and Japan sit closer to the US federal baseline, allowing a participant to record their own conversation.
 
 If you travel or work across borders, the rule that matters is the one where the conversation happens.
+
+## One more layer: your employer
+
+Even in a one-party state, a workplace policy can prohibit recording, and being within the law does not protect you from discipline. Whether such a policy is itself enforceable is a federal labour law question, covered in [a separate article](/blog/en/workplace-recording-policy/).
 
 ## The line this app draws
 
