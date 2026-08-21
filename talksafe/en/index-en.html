@@ -1,0 +1,222 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>TalkSafe — an Android recorder that starts when it hears a word you chose</title>
+<meta name="description" content="TalkSafe is an Android voice recorder that starts recording automatically when it hears a word you set in advance, and saves the 30 seconds that came before it. Word recognition runs on the device.">
+
+<link rel="canonical" href="{{ '/talksafe/en/' | absolute_url }}">
+<link rel="alternate" hreflang="ko" href="{{ '/talksafe/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/talksafe/en/' | absolute_url }}">
+<link rel="alternate" hreflang="ja" href="{{ '/talksafe/ja/' | absolute_url }}">
+<link rel="alternate" hreflang="es" href="{{ '/talksafe/es/' | absolute_url }}">
+<link rel="alternate" hreflang="it" href="{{ '/talksafe/it/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/talksafe/en/' | absolute_url }}">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="TalkSafe — an Android recorder that starts when it hears a word you chose">
+<meta property="og:description" content="Starts recording on a word you set, and keeps the 30 seconds before it.">
+<meta property="og:url" content="{{ '/talksafe/en/' | absolute_url }}">
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "TalkSafe Auto Voice Recorder",
+  "alternateName": "TalkSafe",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Voice Recorder",
+  "operatingSystem": "Android",
+  "url": "https://hcompany-kr.github.io/talksafe/en/",
+  "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "identifier": "com.lab525.talksafe",
+  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi"],
+  "description": "TalkSafe is an Android voice recorder that starts recording automatically when it hears a word the user set in advance. When recording begins, the 30 seconds preceding it are saved with the file. Word recognition runs on the device.",
+  "featureList": [
+    "Starts recording automatically on a word you choose",
+    "Saves the 30 seconds before recording started",
+    "Word recognition runs on the device",
+    "Recording length options: 10 minutes, 30 minutes, 1 hour, or manual stop",
+    "A notification stays visible while recording and cannot be switched off",
+    "14 languages supported"
+  ],
+  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
+  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is TalkSafe?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe is an Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds before it are saved with the file." }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there an app that starts recording when you say a word?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe works this way. When it hears a word you chose, recording begins without unlocking the phone or opening the app." }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a recording app save audio from before you pressed record?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe saves the 30 seconds preceding the moment recording started. Ordinary recorders save only from the moment you tap record, so anything earlier is lost." }
+    },
+    {
+      "@type": "Question",
+      "name": "Is TalkSafe for recording people secretly?",
+      "acceptedAnswer": { "@type": "Answer", "text": "No. A notification stays visible for as long as recording runs and cannot be switched off, and there is no feature to hide a recording. It is built for keeping a record of a conversation you take part in." }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the audio sent to a server?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Recognising the chosen word happens on the device. Whether a saved recording is backed up to the cloud is the user's choice." }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the keyword have to be a word I say myself?",
+      "acceptedAnswer": { "@type": "Answer", "text": "No. It can be something the other person is likely to say in that situation. Unlike a voice assistant, which is built to recognise its owner's voice, TalkSafe detects the word itself regardless of who spoke it. Recording also starts with the screen locked." }
+    },
+    {
+      "@type": "Question",
+      "name": "What do you get on the free plan?",
+      "acceptedAnswer": { "@type": "Answer", "text": "The free plan allows up to 5 keywords and recordings of up to 30 minutes each, and shows ads. The Pro plan removes the keyword and recording-length limits and the ads. AI summaries and cloud backup are part of the Premium plan, and Premium+ removes the caps on those." }
+    },
+    {
+      "@type": "Question",
+      "name": "Which languages does TalkSafe support?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Fourteen: Korean, English, Chinese, Japanese, Spanish, Italian, Turkish, Bengali, Portuguese, French, German, Hindi, Polish and Vietnamese." }
+    },
+    {
+      "@type": "Question",
+      "name": "Is TalkSafe available on iPhone?",
+      "acceptedAnswer": { "@type": "Answer", "text": "It is currently available on Android only." }
+    }
+  ]
+}
+</script>
+</head>
+
+<body>
+<header class="masthead">
+  <a class="wordmark" href="{{ '/' | relative_url }}">H Company</a>
+  <nav class="langs" aria-label="Language">
+    <a class="lang" href="{{ '/talksafe/' | relative_url }}">ko</a>
+    <span class="lang is-current">en</span>
+    <a class="lang" href="{{ '/talksafe/ja/' | relative_url }}">ja</a>
+    <a class="lang" href="{{ '/talksafe/es/' | relative_url }}">es</a>
+    <a class="lang" href="{{ '/talksafe/it/' | relative_url }}">it</a>
+  </nav>
+</header>
+
+<main>
+  <article class="post">
+    <p class="eyebrow">App</p>
+    <h1>TalkSafe</h1>
+    <p class="standfirst">TalkSafe is an Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file. Word recognition runs on the device.</p>
+
+    <div class="body">
+
+      <h2>What it does</h2>
+
+      <p>An ordinary recorder saves from the moment you tap record. TalkSafe differs in two ways.</p>
+
+      <p><strong>A word is the trigger.</strong> When the app hears a word you chose, recording starts on its own. Nothing to unlock, nothing to open.</p>
+
+      <p><strong>What came before is kept.</strong> When recording starts, the previous 30 seconds are attached to the front of the file — including the exchange that made you decide it was worth recording.</p>
+
+      <h2>Basics</h2>
+
+      <div class="qa">
+        <div class="qa-item"><p class="qa-q">Platform</p><p class="qa-a">Android (Google Play)</p></div>
+        <div class="qa-item"><p class="qa-q">Package name</p><p class="qa-a">com.lab525.talksafe</p></div>
+        <div class="qa-item"><p class="qa-q">Category</p><p class="qa-a">Voice recorder / Utilities</p></div>
+        <div class="qa-item"><p class="qa-q">Languages</p><p class="qa-a">Korean, English, Chinese, Japanese, Spanish, Italian, Turkish, Bengali, Portuguese, French, German, Hindi, Polish, Vietnamese (14)</p></div>
+        <div class="qa-item"><p class="qa-q">Price</p><p class="qa-a">Free to use. Paid plans: Pro, Premium and Premium+</p></div>
+        <div class="qa-item"><p class="qa-q">Developer</p><p class="qa-a">H Company</p></div>
+      </div>
+
+      <h2>Features</h2>
+
+      <ul>
+        <li><strong>Word-triggered recording</strong> — recording starts when a word you set is heard. Several words can be registered.</li>
+        <li><strong>30-second pre-roll</strong> — the 30 seconds before recording started are saved too.</li>
+        <li><strong>On-device recognition</strong> — listening for the word happens on the phone.</li>
+        <li><strong>Recording length</strong> — 10 minutes, 30 minutes, 1 hour, or manual stop.</li>
+        <li><strong>Persistent notification</strong> — visible while recording and cannot be switched off.</li>
+      </ul>
+
+      <h2>How it differs from a voice assistant</h2>
+
+      <p>Siri and Bixby are built to <strong>recognise the device owner's voice</strong> and respond when summoned. Calling one wakes the screen and answers out loud. The conversation stops, and the other person knows.</p>
+
+      <p>TalkSafe <strong>detects the word itself, regardless of who said it.</strong> The word you set does not have to be one you say — it can be something the other person is likely to say in that situation. That distinction matters most when you cannot speak, or have no composure to.</p>
+
+      <p>Recording also starts with the screen locked, with no sound and no visible change at the moment it begins.</p>
+
+      <h2>Plans</h2>
+
+      <p>The app is free to use, with three paid tiers above it.</p>
+
+      <ul>
+        <li><strong>Free</strong> — up to 5 keywords, recordings up to 30 minutes each, ads shown</li>
+        <li><strong>Pro</strong> — no limit on keywords or recording length, no ads</li>
+        <li><strong>Premium</strong> — everything in Pro, plus AI summaries and cloud backup</li>
+        <li><strong>Premium+</strong> — Premium without the caps on AI summary time and cloud storage</li>
+      </ul>
+
+      <p>Word-triggered recording and the 30-second pre-roll work on the free plan as well. Pricing is shown on Google Play.</p>
+
+      <h2>How it differs from other recorders</h2>
+
+      <p>Saving audio from before the recording started is not unique on its own — a few apps offer a rolling buffer. In those apps, however, a person still has to press a button for the buffered audio to be kept.</p>
+
+      <p>TalkSafe combines <strong>the pre-roll with a trigger that is a spoken word</strong>. Because there is no button press involved, recording starts in situations where reaching for a phone is not possible or not appropriate.</p>
+
+      <h2>What it does not do</h2>
+
+      <p>TalkSafe assumes the user is a participant in the conversation being recorded.</p>
+
+      <p>A notification remains visible for the entire time a recording runs and cannot be turned off. There is no feature for hiding the fact that recording is taking place, and none is planned.</p>
+
+      <p>Recording law differs by country and, in the United States, by state. Check the rule that applies where you are before using it.</p>
+
+      <h2>Related reading</h2>
+
+      <ul>
+        <li><a href="{{ '/blog/en/recording-delay/' | relative_url }}">Why hitting record is always too late</a></li>
+        <li><a href="{{ '/blog/en/say-it-first/' | relative_url }}">You say something first</a></li>
+        <li><a href="{{ '/blog/en/recording-consent-law/' | relative_url }}">Is it legal to record a conversation you're in?</a></li>
+        <li><a href="{{ '/blog/en/state-recording-consent/' | relative_url }}">Nine states are strict. The rest of the list is an argument.</a></li>
+        <li><a href="{{ '/blog/en/workplace-recording-policy/' | relative_url }}">Your employer's no-recording rule may itself be illegal</a></li>
+        <li><a href="{{ '/blog/en/workplace-recording-by-country/' | relative_url }}">Four countries, four answers to the same workplace question</a></li>
+        <li><a href="{{ '/blog/en/auto-recording-types/' | relative_url }}">Five ways a recorder can start on its own</a></li>
+      </ul>
+
+    </div>
+  </article>
+
+  <aside class="endcard">
+    <p class="endcard-label">Google Play</p>
+    <p class="endcard-name">TalkSafe</p>
+    <p class="endcard-desc">Starts recording when it hears a word you chose, and keeps the 30 seconds before it.</p>
+    <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">View on Google Play</a>
+  </aside>
+</main>
+
+<footer class="colophon">
+  <p>H Company</p>
+</footer>
+</body>
+</html>
