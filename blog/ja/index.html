@@ -9,11 +9,32 @@ layout: null
 <title>ブログ | エイチカンパニー</title>
 <meta name="description" content="録音と記録について、知っておくと役に立つこと。">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<link rel="alternate" hreflang="ko" href="{{ '/blog/ko/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/blog/en/' | absolute_url }}">
+<link rel="alternate" hreflang="ja" href="{{ '/blog/ja/' | absolute_url }}">
+<link rel="alternate" hreflang="es" href="{{ '/blog/es/' | absolute_url }}">
+<link rel="alternate" hreflang="it" href="{{ '/blog/it/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/blog/en/' | absolute_url }}">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="ブログ | エイチカンパニー">
+<meta property="og:description" content="録音と記録について、知っておくと役に立つこと。">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="エイチカンパニー">
+
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body>
 <header class="masthead">
   <a class="wordmark" href="{{ '/' | relative_url }}">エイチカンパニー</a>
+  <nav class="langs" aria-label="言語">
+    <a class="lang" href="{{ '/blog/ko/' | relative_url }}">ko</a>
+    <a class="lang" href="{{ '/blog/en/' | relative_url }}">en</a>
+    <span class="lang is-current">ja</span>
+    <a class="lang" href="{{ '/blog/es/' | relative_url }}">es</a>
+    <a class="lang" href="{{ '/blog/it/' | relative_url }}">it</a>
+  </nav>
 </header>
 
 <main>
@@ -22,7 +43,7 @@ layout: null
   </div>
 
   <div class="list">
-    {% assign posts = site.posts | where: "lang", "ja" %}
+    {% assign posts = site.posts | where: "lang", "ja" | sort: "date" | reverse %}
     {% for post in posts %}
     <div class="list-item">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
