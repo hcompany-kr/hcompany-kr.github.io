@@ -92,7 +92,7 @@ One more thing the lists have started to matter for: **automated recorders are n
 
 ## What this means in practice
 
-If you are in one of the nine, get agreement before recording starts, out loud, at the beginning. That is what the statutes are asking for and it is not complicated to do.
+If you are in one of the nine, get agreement before recording starts, out loud, at the beginning. That is what the statutes are asking for and it is not complicated to do — [the sequence that works, and how to keep the answer in the recording itself](/blog/en/recording-with-consent/), is set out separately.
 
 If you are in a split state, work out whether your situation is a phone call or a conversation in a room, because that is the question your state's law actually turns on.
 
