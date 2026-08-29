@@ -1,0 +1,14 @@
+# 내부 작업 문서 — 이 저장소는 GitHub Pages로 공개되므로 커밋하지 않습니다
+BLOG-INDEX.md
+CLAUDE.md
+.claude/
+
+# Jekyll 로컬 빌드 산출물
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# OS
+.DS_Store
+Thumbs.db
