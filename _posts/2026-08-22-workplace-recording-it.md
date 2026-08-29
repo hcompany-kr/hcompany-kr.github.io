@@ -96,4 +96,6 @@ Detto questo, e vale la pena essere espliciti: **l'app non risolve la questione 
 
 Sul quadro generale — quando la registrazione è lecita e quando diventa reato — c'è [un articolo a parte](https://hcompany-kr.github.io/blog/it/registrare-conversazione/).
 
+Tra i colloqui che si affrontano senza preparazione, il più delicato è quello in cui ti chiedono di dimetterti: le dimissioni hanno una forma obbligatoria e un termine di revoca che quasi nessuno conosce. Ne parliamo in [Il foglio che firmi in quella stanza non è una dimissione](/blog/it/dimissioni-forzate/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso concreto rivolgiti a un avvocato giuslavorista o al sindacato.</p>

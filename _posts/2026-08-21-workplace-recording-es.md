@@ -102,4 +102,6 @@ Lo difícil es el momento. En una reunión de despido o en una bronca no vas a i
 
 Y una nota que encaja con todo lo anterior: **mientras graba se mantiene una notificación visible que no se puede desactivar.** No hay modo oculto. Eso no resuelve la cuestión de la proporcionalidad —eso depende de cómo uses la aplicación, no de la aplicación— pero sí mantiene la herramienta del lado de grabar *con* alguien, que es el único que la jurisprudencia ampara.
 
+De todas las reuniones que se afrontan sin preparación, la más delicada es aquella en la que te piden que firmes la baja voluntaria. Qué forma exige la renuncia en España, Chile, Argentina y México, y qué plazo empieza a correr en cada uno, está en [La renuncia que firmas en esa sala no siempre es una renuncia](/blog/es/renuncia-forzada/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado laboralista o con tu representación sindical.</p>

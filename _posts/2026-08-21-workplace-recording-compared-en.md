@@ -97,4 +97,6 @@ Legality and discipline are decided separately in all four, and clearing the fir
 
 That does not answer any of the questions above — the app cannot know which country you are in or what your handbook says. What it does is keep you out of the one category that all four treat as the serious offence.
 
+For the specific meeting where you are asked to resign, the US and UK rules diverge again — one gives you statutory time to think, the other makes the conversation inadmissible with an exception that swallows it. That comparison is in [The exit conversation is off the record until it isn't](/blog/en/forced-resignation/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Each jurisdiction is summarised at a level that omits significant detail. For a specific situation, consult a lawyer where you work.</p>

@@ -102,4 +102,6 @@ And if you are documenting something that involves other employees and working c
 
 That design decision does not resolve any policy question — a visible notification does not make a recording permitted under your employer's rules. What it does is keep the app out of the category that is criminal everywhere: capturing conversations you are not in.
 
+The meeting people are least prepared for is the one where they are asked to resign. What section 111A protects in the UK, what the OWBPA gives you in the US, and why a covert recording of that meeting is not automatically misconduct, is in [The exit conversation is off the record until it isn't](/blog/en/forced-resignation/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. NLRB standards have shifted repeatedly and continue to. For a specific situation, consult an employment lawyer in your state.</p>
