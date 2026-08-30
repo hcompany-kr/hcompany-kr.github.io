@@ -89,3 +89,5 @@ En todos ellos, las tres cosas anteriores — fragmento relevante, original cons
 Cuatro cosas después de grabar: **conserva el original**, **recorta a lo que importa**, **deja una copia fuera del dispositivo** y **no la difundas**.
 
 Las tres primeras hacen que el archivo sirva. La última evita que se vuelva contra ti.
+
+De todas las situaciones en las que hace falta grabar, la más difícil de preparar es un accidente de tráfico. Quién decide la culpa y por qué lo que os decís no queda en ningún sitio está en [El parte amistoso no es reconocer la culpa](/blog/es/parte-amistoso/).

@@ -91,3 +91,5 @@ In tutti i casi le tre cose sopra — tratto rilevante, originale conservato, no
 Quattro cose dopo aver registrato: **conserva l'originale**, **ritaglia a ciò che conta**, **tieni una copia fuori dal dispositivo**, **non diffonderla**.
 
 Le prime tre rendono il file utilizzabile. L'ultima evita che ti torni contro.
+
+Tra le situazioni in cui serve una registrazione, quella per cui è più difficile prepararsi è un incidente stradale. Chi decide la colpa e perché quello che ci si dice non finisce da nessuna parte è in [Se non lo dimostri, la legge divide la colpa a metà](/blog/it/incidente-stradale/).
