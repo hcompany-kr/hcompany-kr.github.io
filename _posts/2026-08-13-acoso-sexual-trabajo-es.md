@@ -154,27 +154,6 @@ La documentación sirve al procedimiento. No es el objetivo.
 
 Y sobre todo: **lo que ocurrió no es culpa de quien lo sufrió.** Tampoco lo es no haber sido capaz de decir nada en ese momento. Antes de que esto sea una cuestión de pruebas, ayuda saber que no hay que sostenerlo en solitario.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Qué pasa si me despiden después de denunciar acoso sexual?</p>
-    <p class="qa-a">Cualquier represalia tras denunciar —despido, traslado, reducción de funciones— se considera nula por vulneración de la garantía de indemnidad del artículo 24 de la Constitución. El despido nulo conlleva readmisión obligatoria, abono de los salarios de tramitación e indemnización por daño moral. No es lo mismo que un despido improcedente.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Mi empresa está obligada a tener un protocolo contra el acoso?</p>
-    <p class="qa-a">Sí. El artículo 48 de la Ley Orgánica 3/2007 obliga a todas las empresas a promover condiciones de trabajo que eviten el acoso sexual y por razón de sexo y a arbitrar procedimientos específicos para su prevención y para canalizar las denuncias. La ley no fija ningún umbral de plantilla: la obligación existe desde el primer trabajador contratado. El artículo 12 de la Ley Orgánica 10/2022 lo refuerza e incluye expresamente el ámbito digital.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué ocurre si la empresa no tiene protocolo?</p>
-    <p class="qa-a">Cuando hay una denuncia, la Inspección de Trabajo y Seguridad Social solicita a la empresa las medidas adoptadas o el protocolo. La falta de medidas preventivas puede considerarse infracción muy grave, sancionable conforme al artículo 40 de la LISOS con multas que van de 7.501 a 225.018 euros.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Y si no hay testigos?</p>
-    <p class="qa-a">Es la situación habitual: el acoso sexual ocurre casi siempre sin testigos y sin rastro documental. En esos casos el informe pericial psicológico se utiliza para acreditar el daño y su compatibilidad con lo denunciado, y las declaraciones de compañeros sobre el ambiente también han servido para tener por acreditado un entorno hostil.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué vías tengo para reclamar?</p>
-    <p class="qa-a">El procedimiento interno de la empresa, la denuncia ante la Inspección de Trabajo, el procedimiento judicial por vulneración de derechos fundamentales regulado en los artículos 177 a 184 de la Ley 36/2011, y la vía penal, ya que el artículo 184 del Código Penal tipifica el acoso sexual.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado laboralista, con el servicio jurídico de un sindicato o con la Inspección de Trabajo.</p>

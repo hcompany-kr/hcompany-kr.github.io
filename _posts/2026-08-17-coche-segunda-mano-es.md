@@ -121,27 +121,6 @@ Antes de firmar: captura del anuncio, contrato con el estado detallado, y por es
 
 Es menos trabajo que una reclamación, y en la mayoría de los casos hace que no exista.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Tiene garantía un coche de segunda mano comprado en un concesionario?</p>
-    <p class="qa-a">Sí. Bajo el Real Decreto Legislativo 1/2007, modificado por la Ley 7/2021, si en el contrato no se pacta nada el plazo de garantía es de tres años desde la entrega. Vendedor y comprador pueden pactar reducirlo, pero nunca por debajo de un año. Cualquier cláusula que intente eliminar la garantía legal es nula de pleno derecho conforme al artículo 125.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Y si compro a un particular?</p>
-    <p class="qa-a">No hay garantía legal obligatoria, pero el vendedor sigue respondiendo por los vicios ocultos que conociera y no declarara, según los artículos 1484 a 1490 del Código Civil. El plazo para reclamar es de seis meses desde la entrega.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Quién tiene que demostrar que el fallo venía de antes?</p>
-    <p class="qa-a">Comprando a profesional, la ley presume que la falta de conformidad ya existía en el momento de la entrega si aparece dentro del periodo de presunción, y corresponde al vendedor demostrar lo contrario. Comprando a particular, es el comprador quien debe acreditar que el defecto era preexistente.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Puedo llevarlo a reparar y luego pasar la factura?</p>
-    <p class="qa-a">No sin avisar antes. La recomendación general es no reparar por cuenta propia sin comunicarlo previamente al vendedor, porque se pierde la posibilidad de reclamar. Primero se comunica el defecto por escrito y se da al vendedor la oportunidad de responder.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cuánto tiempo tengo para reclamar?</p>
-    <p class="qa-a">En el régimen de consumo, la acción prescribe a los cinco años desde que se manifiesta la falta de conformidad. Entre particulares, el plazo para la acción por vicios ocultos es de seis meses desde la entrega.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado o con una oficina de información al consumidor.</p>

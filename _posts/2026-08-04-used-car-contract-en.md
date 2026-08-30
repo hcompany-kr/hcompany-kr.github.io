@@ -83,27 +83,6 @@ The words do not have to be ones you say. Set what a salesperson tends to say �
 
 **Paperwork first.** Keep the Buyers Guide, the contract, and the vehicle history report. A recording fills the gap those documents leave; it does not replace them.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">What is the Buyers Guide on a used car?</p>
-    <p class="qa-a">A window sticker the FTC's Used Car Rule requires dealers to display on used vehicles offered for sale. It states whether a warranty is offered and its terms, lists major systems and the defects that can occur in them, and recommends getting a vehicle history report and an independent inspection.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Are a car salesperson's verbal promises legally binding?</p>
-    <p class="qa-a">They are difficult to enforce. The Buyers Guide is incorporated into the sales contract, so where a spoken promise contradicts the Guide, the Guide governs. The Guide itself carries a printed warning telling buyers to get all promises in writing.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What does buying a car "as is" mean?</p>
-    <p class="qa-a">The dealer makes no promise to fix anything, before or after the sale. Where state law allows it, an as-is sale waives express warranties and the implied warranties of merchantability and fitness. Twelve states and the District of Columbia prohibit or significantly limit as-is sales.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Does "as is" protect a dealer who lied?</p>
-    <p class="qa-a">No. Fraud and material misrepresentation — concealing frame damage, tampering with an odometer — are not covered by an as-is clause.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">How do I keep a record of what a dealer told me?</p>
-    <p class="qa-a">Ask for it in writing on the Buyers Guide or the contract, which is what the FTC recommends. Text or email confirmation afterwards also helps. Where a conversation happened out loud and nothing was written down, a recording of the conversation you took part in is the remaining option, subject to the recording-consent rules in your state.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. For a specific situation, consult a lawyer in your state.</p>

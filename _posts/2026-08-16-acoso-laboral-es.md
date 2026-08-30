@@ -137,27 +137,6 @@ Si no tienes claro en qué categoría está tu situación, esa duda se resuelve 
 
 La denuncia ante la Inspección es gratuita y no requiere abogado, y los servicios jurídicos de los sindicatos orientan sin coste. Con los plazos que hay —un año, tres meses— empezar por ahí es más útil que empezar por el archivo.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿El acoso laboral es delito en España?</p>
-    <p class="qa-a">Puede serlo. El artículo 173.1, párrafo segundo, del Código Penal castiga con prisión de seis meses a dos años a quien, en el ámbito de cualquier relación laboral o funcionarial y prevaliéndose de su relación de superioridad, realice contra otro de forma reiterada actos hostiles y humillantes que, sin llegar a constituir trato degradante, supongan grave acoso contra la víctima.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué requisitos exige el Código Penal?</p>
-    <p class="qa-a">Cinco: actos hostiles o humillantes, conducta reiterada, comportamiento asociado a una relación laboral o funcionarial, abuso de superioridad, y gravedad de los hechos. La exigencia de superioridad hace que el acoso entre iguales o el ascendente queden fuera del párrafo específico y se encuadren en el tipo básico del artículo 173.1.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué vías tengo para reclamar?</p>
-    <p class="qa-a">Denuncia ante la Inspección de Trabajo, que es gratuita, no requiere abogado y puede iniciarse mientras sigues trabajando; demanda por vulneración de derechos fundamentales ante el Juzgado de lo Social (arts. 177 a 184 LRJS), de carácter preferente y sumario; solicitud de extinción indemnizada del contrato por el artículo 50 del Estatuto de los Trabajadores; y la vía penal.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cuánto tiempo tengo?</p>
-    <p class="qa-a">Un año para las reclamaciones por vulneración de derechos fundamentales, y tres meses para solicitar la extinción indemnizada del contrato si abandonaste el trabajo por esta causa. Son plazos cortos y conviene contarlos desde el principio.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué puede sancionar la Inspección de Trabajo?</p>
-    <p class="qa-a">El acoso laboral puede constituir infracción muy grave en materia de relaciones laborales conforme al artículo 8.11 de la LISOS, referido a los actos del empresario contrarios al respeto de la intimidad y la dignidad. Las sanciones administrativas en esta materia pueden alcanzar cifras muy elevadas y se suman a la responsabilidad civil y penal.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado laboralista o con el servicio jurídico de un sindicato.</p>

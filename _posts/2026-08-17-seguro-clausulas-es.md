@@ -122,27 +122,6 @@ Todo lo anterior se evita con una costumbre de veinte minutos: abrir la póliza 
 
 Si algo no cuadra, tienes un mes. Después, no.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Qué pasa si la póliza no coincide con lo que me ofrecieron?</p>
-    <p class="qa-a">El artículo 8 de la Ley 50/1980 establece que si el contenido de la póliza difiere de la proposición de seguro o de las cláusulas acordadas, el tomador puede reclamar a la aseguradora en el plazo de un mes desde la entrega de la póliza para que subsane la divergencia. Transcurrido ese plazo sin reclamar, se estará a lo dispuesto en la póliza. Ese aviso debe figurar en toda póliza.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Son válidas todas las cláusulas de la póliza?</p>
-    <p class="qa-a">No automáticamente. El artículo 3 exige que las condiciones se redacten de forma clara y precisa, y que las cláusulas limitativas de los derechos de los asegurados se destaquen de modo especial y sean específicamente aceptadas por escrito. Una limitación que no cumpla ambos requisitos no puede oponerse al asegurado.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué diferencia hay entre una cláusula limitativa y una delimitadora?</p>
-    <p class="qa-a">Las delimitadoras definen qué riesgo se cubre y forman parte del objeto del contrato. Las limitativas restringen o condicionan derechos que el asegurado esperaría tener según esa cobertura, y solo esas están sujetas al doble requisito del artículo 3. La distinción la han desarrollado los tribunales y es lo que más se discute en la práctica.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Me obliga la solicitud que firmé en la oficina?</p>
-    <p class="qa-a">No. El artículo 6 establece que la solicitud de seguro no vincula al solicitante, mientras que la proposición de seguro hecha por el asegurador sí le vincula durante quince días.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cuánto tiempo tengo para comunicar un siniestro?</p>
-    <p class="qa-a">El artículo 16 fija un plazo máximo de siete días desde que se conoce el siniestro, salvo que la póliza establezca un plazo más amplio. El incumplimiento permite a la aseguradora reclamar los daños causados por la falta de declaración, no la pérdida automática de la indemnización.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado o con el servicio de reclamaciones de la DGSFP.</p>

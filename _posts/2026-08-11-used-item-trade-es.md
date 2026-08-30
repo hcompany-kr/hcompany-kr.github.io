@@ -108,27 +108,6 @@ Como también se guardan los 30 segundos anteriores, una descripción que ya hab
 
 **Si el fallo es técnico, un informe de taller vale más que cualquier discusión.** La carga de la prueba es de quien compra, y ese documento es el que la sostiene.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Hay garantía cuando compro a un particular?</p>
-    <p class="qa-a">No en el sentido de la garantía de consumo. La normativa de defensa de los consumidores no obliga a un vendedor particular a dar cobertura. Lo que existe es el saneamiento por vicios ocultos de los artículos 1484 y siguientes del Código Civil.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué se considera vicio oculto?</p>
-    <p class="qa-a">Un defecto que cumple tres condiciones a la vez: que no fuera detectable con una inspección normal, que ya existiera antes de la entrega, y que sea lo bastante grave como para hacer la cosa impropia para su uso o disminuir tanto su utilidad que, de haberlo sabido, el comprador no habría comprado o habría pagado menos. Si el daño era visible en las fotos o en la descripción, no encaja.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cuánto tiempo tengo para reclamar?</p>
-    <p class="qa-a">Seis meses desde la entrega de la cosa vendida, según el artículo 1490 del Código Civil. El Tribunal Supremo ha mantenido de forma reiterada que es un plazo de caducidad, no de prescripción, por lo que no se interrumpe.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué puedo pedir si hay un vicio oculto?</p>
-    <p class="qa-a">El artículo 1486 permite optar entre desistir del contrato, con abono de los gastos pagados, o rebajar una cantidad proporcional del precio. La elección depende de la gravedad del defecto y de si es reparable a un coste acotado.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Y si el vendedor resulta ser una empresa?</p>
-    <p class="qa-a">Cambia el marco por completo. En las ventas de bienes de segunda mano realizadas por profesionales rige la normativa de consumo, con un mínimo de un año de garantía según la regulación vigente desde 2022. En plataformas como Wallapop, los perfiles Pro y las tiendas profesionales entran en ese supuesto.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado o con una oficina de información al consumidor.</p>

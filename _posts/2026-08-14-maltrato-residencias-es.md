@@ -127,27 +127,6 @@ La documentación sirve para responder una pregunta. No es el objetivo.
 
 Lo primero es que tu familiar sienta que puede contarte las cosas: visitas frecuentes, y saber que decir algo no le va a complicar la vida allí dentro. Eso va antes. Los registros vienen después.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Qué se considera maltrato en una residencia?</p>
-    <p class="qa-a">Vulnerar la dignidad, la integridad o los derechos básicos de la persona mayor, por acción u omisión. Incluye el maltrato físico, el psicológico mediante trato despectivo, humillaciones o aislamiento injustificado, y la negligencia cuando no se garantizan cuidados básicos. No es necesario que exista intención de dañar: basta con que no se haya actuado con la diligencia exigible y que esa falta haya causado un perjuicio.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Dónde puedo denunciar?</p>
-    <p class="qa-a">A los Servicios Sociales de tu municipio, a la inspección de servicios sociales de tu comunidad autónoma, al juzgado de guardia, o a la policía. Existe además el teléfono gratuito 900 65 65 66 contra el abuso y maltrato a las personas mayores, gestionado por CONFEMAC en colaboración con el Ministerio de Derechos Sociales.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Existe alguna figura específica en la Fiscalía?</p>
-    <p class="qa-a">Sí. Desde 2019 la Fiscalía General del Estado cuenta con un Fiscal de Sala especializado en personas mayores, dentro de sus áreas específicas.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cuánta gente denuncia realmente?</p>
-    <p class="qa-a">Según los datos del Teléfono contra el Abuso y Maltrato a las Personas Mayores, el 76,6% de quienes llaman no han denunciado el maltrato o no quieren hacerlo, frente al 16,8% que lo han denunciado o tienen intención de hacerlo tras hablar con los profesionales del servicio.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Dónde ocurren la mayoría de los casos?</p>
-    <p class="qa-a">Según los mismos datos, el 78% de las llamadas corresponden a casos en el ámbito familiar y el 16% en residencias de mayores, seguidos del ámbito hospitalario y el social.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Las competencias sobre residencias corresponden a cada comunidad autónoma; para un caso concreto, consulta con un abogado o con los servicios sociales de tu municipio.</p>

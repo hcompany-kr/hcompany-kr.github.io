@@ -90,27 +90,6 @@ Después puedes escucharlo y saber qué significaba exactamente *dice que estoy 
 
 **Si algo no cuadra**, los servicios de atención al paciente de cada centro y comunidad autónoma tramitan reclamaciones, y la historia clínica es el documento que sostiene cualquier revisión posterior.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Tengo derecho a que me expliquen mi situación de salud?</p>
-    <p class="qa-a">Sí. La Ley 41/2002 reconoce el derecho del paciente a recibir información adecuada, veraz y comprensible sobre su estado de salud, el diagnóstico, el pronóstico y las alternativas de tratamiento, con sus riesgos y beneficios.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿El consentimiento tiene que ser por escrito?</p>
-    <p class="qa-a">Por regla general el consentimiento es verbal. Se presta por escrito en casos concretos: intervención quirúrgica, procedimientos diagnósticos y terapéuticos invasores, y en general procedimientos que suponen riesgos o inconvenientes de notoria y previsible repercusión negativa sobre la salud.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Entonces, ¿qué queda documentado de una consulta normal?</p>
-    <p class="qa-a">La ley establece como regla general que la información se proporciona de forma verbal, dejando constancia de ella en la historia clínica. Es decir, queda constancia de que se informó y de los datos asistenciales, pero no una transcripción de lo que se explicó ni de cómo se explicó.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Puedo acceder a mi historia clínica?</p>
-    <p class="qa-a">Sí. La Ley 41/2002 regula el derecho de acceso a la historia clínica, que incluye entre otros la anamnesis y exploración física, la evolución, las órdenes médicas, los informes de exploraciones complementarias y el consentimiento informado.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cómo ayudo a un familiar mayor si no puedo acompañarle?</p>
-    <p class="qa-a">Se trata de no depender de la memoria. Pedir el informe y copia de la historia clínica ayuda, y si la persona participa en la conversación puede grabarla. Dejándolo configurado de antemano, el día de la cita no tiene que manejar nada.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento médico ni jurídico. Para decisiones de salud, consulta con tu profesional sanitario; para un caso concreto, con un abogado.</p>

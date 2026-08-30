@@ -114,27 +114,6 @@ Las grabaciones y las leyes son lo que viene después de que exista un conflicto
 
 Un presupuesto aceptado por escrito, o dos líneas por correo tras una llamada, eliminan el conflicto entero. Cuestan cinco minutos, y esos cinco minutos valen más que todo lo anterior.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Cuál es el plazo legal para que me paguen una factura?</p>
-    <p class="qa-a">Si la factura no especifica plazo, el plazo legal supletorio es de 30 días naturales desde la recepción de la factura o, si es anterior, desde la recepción de los bienes o servicios. Si hay acuerdo expreso, el máximo permitido en operaciones entre empresas es de 60 días. Para la Administración Pública el plazo es de 30 días.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Tengo que reclamar para que corran los intereses?</p>
-    <p class="qa-a">No. En las operaciones comerciales los intereses de demora se devengan de forma automática desde el día siguiente al vencimiento, sin necesidad de aviso previo ni de reclamación formal, según el artículo 5 de la Ley 3/2004. Otra cosa es que para cobrarlos haya que reclamarlos.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué es la compensación de 40 euros?</p>
-    <p class="qa-a">El artículo 8 de la Ley 3/2004 reconoce una indemnización fija de 40 euros por costes de cobro. El Tribunal Supremo ha confirmado que se cobran por cada factura, no por reclamación global: doce facturas vencidas son 480 euros, además de los intereses de cada una y de la deuda principal.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cuánto tiempo tengo para reclamar?</p>
-    <p class="qa-a">El plazo general para reclamar deudas es de cinco años, desde que la Ley 42/2015 modificó el artículo 1964 del Código Civil. Conviene no confundirlo con el plazo de pago: uno es lo que la ley obliga al cliente, el otro es el tiempo del que dispones tú para reclamar.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cómo se reclama si no paga?</p>
-    <p class="qa-a">Lo habitual es un burofax con acuse de recibo identificando las facturas, el cálculo de intereses y la indemnización de 40 euros por factura con referencia expresa a la Ley 3/2004. Si no hay respuesta, el procedimiento monitorio es la vía judicial rápida, y no requiere abogado ni procurador para deudas inferiores a 2.000 euros.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para reclamaciones concretas o antes de acudir a la vía judicial, consulta con tu asesoría o con un abogado.</p>

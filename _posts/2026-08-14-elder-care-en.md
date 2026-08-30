@@ -130,27 +130,6 @@ Documentation exists to answer a question. It is not the point.
 
 What matters more is that your parent feels able to tell you things — that visits are frequent enough, and that they know saying something will not make life harder for them. That comes first. Records come after.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Can I put a camera in my parent's nursing home room?</p>
-    <p class="qa-a">It depends on the state. Roughly seven to ten states have specific electronic monitoring laws — Illinois, Texas, Washington, Oklahoma, Missouri, Minnesota, Virginia and Connecticut among them. Those laws typically require written consent from the resident or their representative, written consent from any roommate, written notice to the facility, and posted signage. The remaining states are a legal grey area.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Do those laws cover audio as well as video?</p>
-    <p class="qa-a">Minnesota's law expressly defines electronic monitoring to include an audio recorder. Elsewhere the position varies, and state wiretap statutes apply on top of the monitoring rules. Audio is generally the more restricted of the two.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Is covert monitoring allowed?</p>
-    <p class="qa-a">Generally not where a monitoring law exists. Virginia's regulations require a facility to report discovered covert monitoring to the Long-Term Care Ombudsman and the licensing office, and the facility may then require the resident to meet the full requirements for authorized monitoring.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Are recordings usable as evidence?</p>
-    <p class="qa-a">Several state laws address admissibility directly, and some provide that recordings made with an authorized camera may be admitted in civil and criminal proceedings. Courts still expect authentication — keeping original files, a simple log of dates and times, and a record of who handled the device.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Where do I report suspected abuse or neglect?</p>
-    <p class="qa-a">Every state has a Long-Term Care Ombudsman program, which advocates for residents and investigates complaints, and Adult Protective Services handles abuse reports. Serious situations can also be reported to the state licensing agency or to law enforcement.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Monitoring and recording rules are set state by state; for a specific situation, consult an elder law attorney or your state's Long-Term Care Ombudsman.</p>

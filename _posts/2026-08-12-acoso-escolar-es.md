@@ -134,27 +134,6 @@ La documentación sirve al procedimiento, no es el objetivo.
 
 Lo que un menor necesita primero no es un expediente. Es saber que un adulto está de su lado. Eso va antes; los registros vienen después.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Qué diferencia hay entre un conflicto puntual y acoso escolar?</p>
-    <p class="qa-a">El acoso requiere tres condiciones a la vez: intencionalidad de hacer daño, repetición a lo largo del tiempo y un desequilibrio de poder claro, de modo que la víctima no puede defenderse. Una pelea puntual entre dos personas en igualdad de condiciones no encaja en esa definición.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Quién es el coordinador de bienestar y protección?</p>
-    <p class="qa-a">Es una figura obligatoria en todos los centros educativos desde la Ley Orgánica 8/2021 de protección integral a la infancia y la adolescencia frente a la violencia. Se encarga de velar por la protección del alumnado y de coordinar las actuaciones de convivencia, y es un interlocutor directo cuando se detecta una situación de acoso.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué debe hacer el centro cuando se comunica un posible caso?</p>
-    <p class="qa-a">El equipo directivo y el coordinador de bienestar registran la incidencia e inician actuaciones preliminares. Si de la valoración inicial se desprenden indicios razonables, se activa formalmente el protocolo, se comunica a las familias implicadas y, si procede, a la Inspección Educativa. Durante la investigación el centro está obligado a adoptar medidas cautelares de protección.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Puedo acceder al expediente del protocolo?</p>
-    <p class="qa-a">Las familias pueden solicitar formalmente el acceso al expediente amparándose en el artículo 53 de la Ley 39/2015 y en el artículo 17 de la Ley 19/2013. Si la solicitud se deniega o no se responde en un mes, cabe reclamación ante el Consejo de Transparencia y Buen Gobierno o recurso de alzada.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué hago si el centro no actúa?</p>
-    <p class="qa-a">La Inspección Educativa es la autoridad superior a la que pueden recurrir las familias cuando el centro no responde adecuadamente. Entre sus competencias está velar por el cumplimiento de la legislación vigente y puede mediar entre las familias y los centros. Si la situación persiste, cabe acudir con toda la documentación y, en su caso, presentar denuncia.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Cada comunidad autónoma tiene su propio protocolo; para un caso concreto, consulta con un abogado o con la Inspección Educativa de tu comunidad.</p>

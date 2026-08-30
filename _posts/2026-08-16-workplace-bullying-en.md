@@ -124,27 +124,6 @@ If the conduct is not legally actionable, the honest answer is that documentatio
 
 But the first thing worth doing is talking to someone. An employment lawyer's initial consultation is often free, and it takes one conversation to find out which of the three categories above you are in.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Is workplace bullying illegal in the United States?</p>
-    <p class="qa-a">Generally no. No federal statute prohibits a manager from berating you or a team from freezing you out. Bullying becomes unlawful only when it targets a protected characteristic such as race, sex, age, religion or disability, when it is severe or pervasive enough to create a hostile work environment, or when it is retaliation for protected activity.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Are there any state anti-bullying laws?</p>
-    <p class="qa-a">The Healthy Workplace Bill, which would allow claims for abusive conduct without proving a protected-class connection, has been introduced in dozens of state legislatures over two decades and has not been enacted in full form by any state. Puerto Rico enacted a standalone workplace harassment law in 2020.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Does it matter whether I complain verbally or in writing?</p>
-    <p class="qa-a">It matters a great deal. A written complaint creates a dated record and removes the employer's ability to later claim it was unaware of the situation. An unacknowledged verbal complaint is far easier for a company to ignore.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What if I am punished for complaining?</p>
-    <p class="qa-a">Retaliation for protected activity is unlawful in its own right and can be established even where the underlying claim does not succeed. This is why the timing of any change in your treatment after you complain is worth documenting.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">How long do I have to file?</p>
-    <p class="qa-a">EEOC charges are generally subject to a 180-day deadline, extended to 300 days where a state or local fair employment practices agency enforces a law prohibiting the same conduct. The clock does not wait while an internal process runs.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Protections and deadlines vary by state; for a specific situation, consult an employment lawyer.</p>

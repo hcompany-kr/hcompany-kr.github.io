@@ -113,27 +113,6 @@ Because the 30 seconds before the trigger are saved too, a description already u
 
 **Use platform payment protection for anything expensive.** Cash in a parking lot leaves nothing to reverse.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Does the implied warranty of merchantability apply when I buy from a private individual?</p>
-    <p class="qa-a">No. Under UCC 2-314, that warranty arises only where the seller is a merchant with respect to goods of that kind. A person making an isolated sale is not a merchant within the meaning of the section, so no implied warranty of merchantability attaches to a garage sale or a Marketplace listing by a neighbor.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Then what protection does a private buyer actually have?</p>
-    <p class="qa-a">Mainly express warranties under UCC 2-313, which arise from affirmations of fact or promises made by the seller that become part of the basis of the bargain. These are not limited to merchants. Fraud and misrepresentation are separate claims, and UCC 2-315 fitness for a particular purpose can apply to non-merchants where the circumstances justify it.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Does the listing itself create a warranty?</p>
-    <p class="qa-a">Not automatically. In a 2023 New York case involving a washing machine bought through Facebook Marketplace, the court found no evidence that the advertisement created any express warranty, and held the seller was a casual seller rather than a merchant. The buyer's claim on the implied warranty failed.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">As a private seller, what is my exposure?</p>
-    <p class="qa-a">You are not covered by the implied warranty of merchantability, but statements you make can still create an express warranty, and a knowing misstatement about a known defect can support a fraud claim. Disclosing defects and having a record of that disclosure is the practical protection.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Where do these disputes get resolved?</p>
-    <p class="qa-a">Small claims court, in most cases. Amounts are typically within the limit, filing is inexpensive and lawyers are often not required. The court decides on evidence, which is why what each side can show tends to matter more than who is more insistent.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. The UCC is adopted state by state with variations; for a specific situation, consult a lawyer in your state.</p>

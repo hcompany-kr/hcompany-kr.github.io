@@ -100,27 +100,6 @@ Grabar sin avisar es legal. Ocultar que se graba es otra cosa, y la herramienta 
 
 **Y lo más importante:** la mayoría de las grabaciones no deberían usarse nunca. Se hacen por si acaso, y si el momento para el que se hicieron no llega, ahí se quedan.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Es legal grabar una conversación en la que participo sin avisar?</p>
-    <p class="qa-a">Sí, con carácter general. El Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor. Quien graba es partícipe del secreto, de modo que grabarla no vulnera el artículo 18.3 de la Constitución.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Y si grabo una conversación ajena?</p>
-    <p class="qa-a">Eso sí es delito. El artículo 197.1 del Código Penal castiga con prisión de uno a cuatro años y multa a quien intercepte comunicaciones o utilice artificios de escucha para descubrir secretos de otro sin su consentimiento. Colocar una grabadora en una sala y salir encaja en ese supuesto.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Puedo difundir una grabación que hice legalmente?</p>
-    <p class="qa-a">Grabar y difundir son dos actos distintos. Aunque la grabación sea lícita, difundirla sin consentimiento puede vulnerar el derecho al honor y a la intimidad protegido por la LO 1/1982, encajar en la revelación de secretos del artículo 197, y dar lugar a sanciones de la Agencia Española de Protección de Datos por el tratamiento de datos personales.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Vale una grabación como prueba en un juicio?</p>
-    <p class="qa-a">Con carácter general sí, siempre que no se hayan vulnerado derechos fundamentales al obtenerla. La jurisprudencia matiza que una grabación obtenida desde una posición de superioridad o mediante engaño puede vulnerar el derecho a no declarar contra uno mismo, y sentencias recientes insisten en que el uso debe ser limitado y necesario.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Una empresa puede grabar a sus trabajadores?</p>
-    <p class="qa-a">Es un supuesto distinto del de un particular que graba su propia conversación. Cuando graba una empresa entran en juego las obligaciones del RGPD y del artículo 89 de la LOPDGDD, incluido el deber de informar previamente. No basta con que uno de los interlocutores participe.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado.</p>

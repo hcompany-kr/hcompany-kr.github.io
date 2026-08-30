@@ -143,27 +143,6 @@ Documentation serves the process. It is not the point.
 
 **What happened is not the fault of the person it happened to** — and neither is having said nothing at the time. Before any of this becomes about evidence, it helps to know you are not carrying it alone.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">How long do I have to file a sexual harassment charge with the EEOC?</p>
-    <p class="qa-a">Generally 180 calendar days from the discriminatory act, extended to 300 days where a state or local fair employment practices agency enforces a law prohibiting the same conduct. In harassment cases the clock runs from the last incident, and the EEOC will consider all incidents when investigating — including earlier ones that fall outside the window.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Does my employer have to investigate if I complain internally?</p>
-    <p class="qa-a">An employer that receives a harassment complaint through its internal procedures is obligated to conduct a prompt, thorough and impartial investigation. Failing to do so removes the employer's ability to assert the affirmative defense in a later lawsuit and can independently support a finding of liability.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What happens if I am punished for reporting?</p>
-    <p class="qa-a">Retaliation is prohibited under Title VII and is a separate violation. It can be proven even where the underlying harassment claim is not successful. During the EEOC process the employer is prohibited from retaliating against the charging party.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What can I recover if I win?</p>
-    <p class="qa-a">Compensatory damages for emotional distress, back pay, front pay and lost benefits, plus punitive damages in cases of malicious or reckless conduct. Compensatory and punitive damages are capped by employer size under 42 U.S.C. 1981a, from $50,000 for employers with 15 to 100 employees up to $300,000 for employers with more than 500. Back pay and front pay are not subject to those caps.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What should I be documenting?</p>
-    <p class="qa-a">Dates and descriptions of each incident written the same day, screenshots of messages before they are deleted, the names of anyone present, every communication with HR or management including the dates you reported, and any change in your treatment after reporting.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Deadlines and protections vary by state; for a specific situation, consult an employment lawyer or contact the EEOC.</p>

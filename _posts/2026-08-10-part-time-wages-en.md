@@ -121,27 +121,6 @@ Because the 30 seconds before that point are saved as well, a figure mentioned j
 
 **Whichever side you are on**, the useful habit is the same: write down what was agreed, at the time it was agreed.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Do I need a written contract to claim unpaid wages?</p>
-    <p class="qa-a">No. Federal law does not require a written employment contract, and most US employment is at will. What the law does require is that the employer keep accurate records of wages, hours and working conditions under 29 U.S.C. 211(c).</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What happens if my employer did not keep accurate records?</p>
-    <p class="qa-a">The consequences fall on the employer. Under Anderson v. Mt. Clemens Pottery Co. (1946), if you show you performed work you were not properly paid for and produce enough evidence for a just and reasonable inference of the amount, the burden shifts to the employer to produce precise records or disprove your estimate. If they cannot, a court can award damages based on your approximation.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">How long do I have to file a claim for unpaid wages?</p>
-    <p class="qa-a">Under the FLSA, two years from the violation, extended to three years if the violation was willful — meaning the employer knew the conduct was prohibited or showed reckless disregard. State laws can reach further: California can reach four years through its unfair competition statute, and New York labor law reaches six.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can I recover more than the wages themselves?</p>
-    <p class="qa-a">Often yes. The FLSA provides for liquidated damages equal to the unpaid amount, effectively doubling recovery, plus attorney's fees and court costs in a private suit. Some states go further — Massachusetts mandates treble damages within its three-year window.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What evidence should I keep?</p>
-    <p class="qa-a">Your own contemporaneous record of hours worked, pay stubs, schedules, texts and messages about shifts or pay, badge or app login data, and anything showing what rate was agreed. Where the terms were only discussed out loud, a record of that conversation is what fills the gap.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Wage and hour rules vary by state; for a specific situation, consult an employment lawyer or your state labor department.</p>

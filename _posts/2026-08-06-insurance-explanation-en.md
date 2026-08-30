@@ -86,27 +86,6 @@ Because the 30 seconds before that point are saved as well, an explanation you o
 
 **Keep the paperwork.** The policy, the application copy, the illustration, and any written correspondence. A recording fills the gap those leave; it does not replace them.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Is what my insurance agent told me legally binding?</p>
-    <p class="qa-a">Not through the policy itself. The entire contract clause means the insurer cannot rely on any document not contained in the contract, and the same logic leaves spoken statements outside it. Your remedy usually runs against the agent through a negligent misrepresentation claim rather than through the policy.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can I cancel a policy I just bought?</p>
-    <p class="qa-a">Free look provisions give you a review window after the policy is delivered — typically no less than 10 days, and 30 days for policies sold by mail order, with the exact period set by state law. Returning the policy in that window requires a refund of premiums paid, and you do not need a reason.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can the insurer void my policy over something on the application?</p>
-    <p class="qa-a">During the contestability period — two years from issue for life policies — an insurer that finds a material misrepresentation that would have changed its decision to issue can void the policy and refund premiums. After that window, an incontestability clause generally closes off this defense.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">The agent filled out my application. Am I still responsible for errors?</p>
-    <p class="qa-a">This is a recurring dispute. Applicants have argued that the agent completed the form without asking the questions. Courts weigh the facts, so what you actually told the agent during the meeting becomes the point in issue.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Am I supposed to verify what the agent tells me?</p>
-    <p class="qa-a">An insured is not required to independently verify the accuracy of an agent's representations about a policy, and an agent who assures proper coverage that turns out not to exist can be liable for negligent misrepresentation. General praise for a product — puffing — is usually not actionable.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Insurance rules are set state by state; for a specific situation, consult a lawyer or your state insurance department.</p>

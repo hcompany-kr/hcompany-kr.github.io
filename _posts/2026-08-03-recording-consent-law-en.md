@@ -74,27 +74,6 @@ Even in a one-party state, a workplace policy can prohibit recording, and being 
 
 That is why a notification stays visible for the entire time a recording runs and cannot be switched off, and why there is no way to hide it. The distinction above is the one that separates lawful from criminal in every jurisdiction mentioned here. There was no good reason to make that line easy to cross.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Can I record a conversation I'm part of without telling anyone?</p>
-    <p class="qa-a">Under federal law, yes. The Wiretap Act permits recording when one party consents, and as a participant you are that party. About a dozen states go further and require everyone's consent, so the answer depends on where you are.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What happens if I record a conversation I'm not part of?</p>
-    <p class="qa-a">That is interception under 18 U.S.C. 2511 and it is a crime everywhere in the US. Federal penalties run up to five years in prison, and an injured party can sue for statutory damages with a floor of ten thousand dollars.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What about leaving a recorder in a room and walking out?</p>
-    <p class="qa-a">You are no longer a participant, so it is interception rather than recording. Some state statutes treat this even more harshly than the federal rule.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Which states require everyone's consent?</p>
-    <p class="qa-a">Roughly a dozen, and published lists do not fully agree. A few states apply different rules to phone calls than to in-person conversations. Check your own state's current rule rather than relying on a list.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What if the call crosses state lines?</p>
-    <p class="qa-a">When two states' rules differ, the safe assumption is that the stricter one applies. Courts have not resolved this uniformly, which is itself a reason to be careful.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">This is general information, not legal advice. For a specific situation, talk to a lawyer in your jurisdiction.</p>

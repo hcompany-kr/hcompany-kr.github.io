@@ -125,27 +125,6 @@ Como también se guardan los 30 segundos anteriores, una cifra dicha justo antes
 
 **Cualquiera que sea tu lado**, el hábito útil es el mismo: dejar constancia de lo acordado cuando se acuerda.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Qué ocurre si no me han hecho contrato por escrito?</p>
-    <p class="qa-a">El artículo 8.2 del Estatuto de los Trabajadores establece que los contratos que no se formalicen por escrito cuando sea legalmente exigible se presumirán celebrados por tiempo indefinido y a jornada completa, salvo prueba en contrario. Además, cualquiera de las partes puede exigir que el contrato se formalice por escrito incluso durante la relación laboral.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿El contrato a tiempo parcial tiene que ser por escrito?</p>
-    <p class="qa-a">Sí. El artículo 12.4.a del Estatuto exige formalizarlo necesariamente por escrito, indicando el número de horas ordinarias al día, semana, mes o año y su distribución. Si no se cumple, el contrato se presume a jornada completa salvo prueba en contrario.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿La empresa está obligada a registrar mi jornada?</p>
-    <p class="qa-a">Sí. El artículo 34.9 del Estatuto obliga a registrar el horario concreto de inicio y finalización de la jornada de cada persona trabajadora. La empresa debe conservar esos registros durante cuatro años y mantenerlos a disposición de la plantilla, sus representantes y la Inspección de Trabajo.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Cuánto tiempo tengo para reclamar salarios impagados?</p>
-    <p class="qa-a">Un año, según el artículo 59.2 del Estatuto de los Trabajadores, contado desde el día en que la acción pudiera ejercitarse — es decir, desde que el salario debió percibirse o se percibió en cuantía inferior. La presentación de la papeleta de conciliación interrumpe ese plazo.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Puedo reclamar algo además del salario?</p>
-    <p class="qa-a">El artículo 29.3 del Estatuto reconoce un interés por mora del diez por ciento de lo adeudado. En incumplimientos graves, el artículo 50 permite al trabajador solicitar la extinción del contrato con una indemnización equivalente a la del despido improcedente.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado laboralista, un sindicato o la Inspección de Trabajo.</p>

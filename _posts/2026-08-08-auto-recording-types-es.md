@@ -110,26 +110,3 @@ Al margen del tipo, hay detalles que deciden si una grabadora sirve de algo.
 | Palabra clave | Una palabra elegida | La precisión del reconocimiento |
 
 Una sola palabra, "automática", para cinco comportamientos bastante distintos. Ninguno es mejor en abstracto: depende de qué clase de momento no quieras perder.
-
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Qué tipos de grabación automática existen en Android?</p>
-    <p class="qa-a">Cinco básicamente: la que empieza al establecerse una llamada, la que empieza al detectar sonido, la programada a una hora fija, la que además conserva los momentos previos al inicio, y la que empieza al escuchar una palabra elegida.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿En qué se diferencia la grabación por sonido de la grabación por palabra?</p>
-    <p class="qa-a">La activación por sonido arranca con cualquier ruido por encima de un umbral, así que rodeado de gente equivale a dejar la grabadora encendida. La activación por palabra solo arranca al reconocer un término concreto, de modo que solo quedan los momentos que interesaban.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Existe alguna aplicación que empiece a grabar al decir una palabra?</p>
-    <p class="qa-a">TalkSafe funciona así. Al escuchar una palabra elegida, la grabación arranca sin desbloquear el móvil, y se guardan también los 30 segundos anteriores a ese punto.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué conviene comprobar antes de elegir una grabadora?</p>
-    <p class="qa-a">Si sigue funcionando con la pantalla apagada o con otra aplicación delante, qué ocurre cuando entra una llamada, dónde se guardan los archivos, y si algo en pantalla indica que hay una grabación en marcha.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Grabar llamadas es lo mismo que grabar una conversación?</p>
-    <p class="qa-a">No. La grabación de llamadas afecta solo a las llamadas telefónicas, y el acceso de aplicaciones de terceros está restringido en las versiones recientes de Android, con diferencias según el modelo y la región. Grabar una conversación presencial usa el micrófono y es otra cosa.</p>
-  </div>
-</div>

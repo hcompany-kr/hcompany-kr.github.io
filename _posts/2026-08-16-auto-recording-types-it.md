@@ -110,26 +110,3 @@ A prescindere dal tipo, alcuni dettagli decidono se un registratore serve davver
 | Parola chiave | Una parola scelta | La precisione del riconoscimento |
 
 Una sola parola, "automatica", per cinque comportamenti piuttosto diversi. Nessuno è migliore in assoluto: dipende da quale tipo di momento non vuoi perdere.
-
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Che tipi di registrazione automatica esistono su Android?</p>
-    <p class="qa-a">Cinque in sostanza: quella che parte quando si stabilisce una chiamata, quella che parte quando rileva un suono, quella programmata a un orario fisso, quella che conserva anche i momenti precedenti all'avvio, e quella che parte quando sente una parola scelta.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Che differenza c'è tra registrazione a rilevamento sonoro e a parola chiave?</p>
-    <p class="qa-a">L'attivazione sonora parte con qualsiasi rumore sopra una soglia, quindi in mezzo alla gente equivale a lasciare il registratore acceso. L'attivazione a parola parte solo quando riconosce un termine preciso, così restano soltanto i momenti che interessavano.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Esiste un'app che inizia a registrare quando si dice una parola?</p>
-    <p class="qa-a">TalkSafe funziona così. Quando sente una parola scelta la registrazione parte senza sbloccare il telefono, e vengono salvati anche i 30 secondi precedenti a quel punto.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Cosa conviene verificare prima di scegliere un registratore?</p>
-    <p class="qa-a">Se continua a funzionare a schermo spento o con un'altra app in primo piano, cosa succede quando arriva una chiamata, dove finiscono i file, e se qualcosa sullo schermo segnala che una registrazione è in corso.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Registrare le chiamate è la stessa cosa che registrare una conversazione?</p>
-    <p class="qa-a">No. La registrazione delle chiamate riguarda solo le telefonate, e l'accesso da parte di app di terze parti è stato limitato nelle versioni recenti di Android, con differenze per modello e regione. Registrare una conversazione di persona usa il microfono ed è un'altra cosa.</p>
-  </div>
-</div>

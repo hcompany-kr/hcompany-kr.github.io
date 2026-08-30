@@ -92,27 +92,6 @@ Afterwards you can listen and find out what *they said it's fine* actually meant
 
 **If something goes wrong**, records and written communications matter more than audio. Request them early — the 30-day clock only starts when you ask.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">How much of a doctor's explanation do patients typically forget?</p>
-    <p class="qa-a">A range of studies indicates patients forget as much as 80% of the information immediately following a visit. Contributing factors include emotional distress, physical pain, unfamiliar terminology, and limited health literacy — not inattention.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can I get a copy of my medical records?</p>
-    <p class="qa-a">Yes. Under the HIPAA Privacy Rule you have the right to inspect, review and receive a copy of your health and billing records. A provider must act on the request within 30 calendar days, with one permitted extension of up to 30 more days. A few categories can be withheld, such as psychotherapy notes or information compiled for litigation.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Does the after-visit summary capture what was said?</p>
-    <p class="qa-a">Only partly. After-visit summaries and record access were introduced to address recall problems, but they are less useful for patients without strong health literacy and they miss much of the nuance — the reassurances a clinician offered, and the questions a patient asked and how they were answered.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Am I allowed to record a medical appointment?</p>
-    <p class="qa-a">Recording a conversation you are part of is permitted in most US states, while about a dozen require the consent of everyone present. Practice policies differ from the law, so asking the clinician first is both simpler and better for the relationship.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">How can I help an elderly parent whose appointments I cannot attend?</p>
-    <p class="qa-a">The goal is to remove reliance on memory. Requesting the after-visit summary and record copies helps, and where the parent is a participant in the conversation, a recording set up in advance means they do not have to operate anything during the appointment.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not medical or legal advice. For health decisions consult your clinician; for a specific legal situation consult a lawyer in your state.</p>

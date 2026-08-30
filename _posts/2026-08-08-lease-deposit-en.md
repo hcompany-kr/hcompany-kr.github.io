@@ -102,27 +102,6 @@ Because the 30 seconds before that point are saved too, a promise you only regis
 
 **Photographs first.** The move-in record is stronger than anything else here. A recording fills what photographs cannot capture — what was said — and does not replace them.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">How long does a landlord have to return my security deposit?</p>
-    <p class="qa-a">It depends on the state and generally runs from 14 to 60 days after move-out, with 30 days the most common and California at 21 days. Where deductions are taken, most states require a written itemized statement, and some require copies of receipts for repairs.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What counts as normal wear and tear?</p>
-    <p class="qa-a">Deterioration from ordinary use — faded paint, minor scuffs, carpet worn from walking, small nail holes. Landlords may deduct for damage beyond that, such as large stains, burns, holes in walls, or broken fixtures. Some states define the line by statute and others leave it undefined, which is why it is the most disputed part of deposit cases.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Is a landlord's verbal promise at the showing enforceable?</p>
-    <p class="qa-a">Usually not through the lease. Most written leases include an integration clause stating the document is the entire agreement, which generally excludes prior oral promises. Fraud is treated differently, and statements made after signing may be treated as evidence of how both parties understood the agreement.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What happens if the landlord misses the deadline or does not itemize?</p>
-    <p class="qa-a">Consequences vary by state, and in some the landlord forfeits the right to keep any portion of the deposit. Many states also provide multiplied damages for bad-faith retention, which is one reason a documented demand letter often resolves the matter before court.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What is the strongest evidence in a deposit dispute?</p>
-    <p class="qa-a">A dated move-in inspection report with time-stamped photographs. It establishes what was already damaged before you took possession, which is what most disputed deductions turn on. Written communications about repairs and any acknowledgement that the unit was undamaged also carry weight.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Landlord-tenant rules are set state by state; for a specific situation, consult a lawyer or a local legal aid office.</p>

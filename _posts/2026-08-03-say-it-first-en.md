@@ -99,26 +99,3 @@ In [TalkSafe](/talksafe/) you can also register several words. Any one of them s
 While a recording runs, a notification stays visible and cannot be switched off. This is for keeping a record of a conversation you are in, not for hiding one.
 
 Recording law varies a great deal by country and, in the US, by state. Worth checking the rule where you are before relying on it.
-
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">What does it mean to start a recording with your voice?</p>
-    <p class="qa-a">You choose a word in advance, and the app begins recording when it hears it. You do not need to unlock the phone or open anything.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Which word should I choose?</p>
-    <p class="qa-a">There is no right answer. Whatever comes out of your mouth naturally when you feel a conversation should be recorded will work. It differs by person and by situation, and a few days of use tends to make it obvious.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What if something that sounds similar sets it off?</p>
-    <p class="qa-a">You delete the file. If it misses a moment you needed, there is nothing to delete and nothing to recover. The two outcomes do not weigh the same.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can I set more than one word?</p>
-    <p class="qa-a">Yes. Register several and any one of them will start a recording.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Is what it hears sent anywhere?</p>
-    <p class="qa-a">Recognising the word happens on the device. Whether a saved recording is backed up to the cloud is your choice.</p>
-  </div>
-</div>

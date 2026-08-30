@@ -120,27 +120,6 @@ Recordings and statutes are both what happens after a dispute exists.
 
 A short contract, or a two-line email after a call, removes the dispute itself. It costs five minutes, and those five minutes are worth more than everything above.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Does my client have to give me a written contract?</p>
-    <p class="qa-a">In a growing number of jurisdictions, yes. New York State's Freelance Isn't Free Act requires a written contract for engagements worth $800 or more, counted as a single contract or multiple contracts over the preceding 120 days. Illinois sets the threshold at $500 in a 120-day period. New York City has had its own version since 2017.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">When do I have to be paid?</p>
-    <p class="qa-a">By the date in the contract, and in any case no later than 30 days after you complete the services. That rule applies in both New York State and Illinois. Under the New York law, if the contract is missing required provisions or was never provided at all, payment is due within 30 days of completion.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What if there is no written contract at all?</p>
-    <p class="qa-a">That is a violation by the client, not a defect in your claim. Under the New York law a prevailing freelancer is awarded $250 in statutory damages for the missing contract, with a two-year statute of limitations on that claim specifically.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can I recover more than the unpaid amount?</p>
-    <p class="qa-a">The New York laws provide double damages for failure to pay on time, plus reasonable attorneys' fees and costs and injunctive relief. Where a court finds a pattern or practice of violations, civil penalties of up to $25,000 may be issued.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can the client retaliate if I assert my rights?</p>
-    <p class="qa-a">Retaliation is prohibited under both the New York and Illinois laws. Under the New York State Act, a freelancer who prevails on a retaliation claim can recover statutory damages equal to the value of the underlying contract.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Freelance protection laws exist only in some states and cities and the details differ; for a specific situation, consult a lawyer in your jurisdiction.</p>

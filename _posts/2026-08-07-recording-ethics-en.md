@@ -99,26 +99,3 @@ What you do with a recording matters more than making one.
 Creating a file and circulating it are different acts with different consequences. A lawful recording can still lead to a defamation or privacy claim once shared, and the ethical question restarts at that point rather than carrying over.
 
 Which is why, in most cases, **the recording should simply sit there unused.** If the moment it was made for never arrives, nothing needs to happen. That is closer to what the tool is for.
-
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Is it morally wrong to record a conversation you are part of?</p>
-    <p class="qa-a">It depends on the situation. Keeping a record of a conversation you took part in is close to supplementing memory. It changes character if the purpose is to draw out something the other person would not have said had they known, or if you intend to use the recording somewhere else.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Do I have to tell the other person I am recording?</p>
-    <p class="qa-a">In most US states and in many countries there is no duty to notify when you are a participant. Telling them is usually better for the relationship, and if telling them feels impossible, that difficulty is worth examining rather than ignoring.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Is not telling someone the same as hiding it?</p>
-    <p class="qa-a">No. Not telling is a state of silence — if they ask, you answer, and if they notice, it is out. Hiding is designing for concealment. Whether a notification stays visible while recording, and whether it can be switched off, is the practical line between the two.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">When is recording easiest to justify?</p>
-    <p class="qa-a">When the relationship is not equal, when the facts may later be disputed, and when nothing else would leave a record. Instructions at work, contract discussions, and medical consultations are typical examples.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can I share a recording I legally made?</p>
-    <p class="qa-a">Making a recording and publishing one are treated differently. A lawful recording can still create liability if you share it — defamation and privacy claims are separate matters, and so is the ethical question.</p>
-  </div>
-</div>

@@ -128,27 +128,6 @@ Documentation serves the process. It is not the point.
 
 What a child needs first is not a case file. It is knowing an adult is on their side. That comes first, and the records come after.
 
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">Is there a federal law against bullying in US schools?</p>
-    <p class="qa-a">No. Congress has never passed a standalone anti-bullying statute. Federal law applies when bullying overlaps with discriminatory harassment based on race, color, national origin, sex, disability, or religion. Bullying itself is governed by state law, and every state addresses it in some form.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Does a school have to investigate if I never filed a formal complaint?</p>
-    <p class="qa-a">Generally yes. Under federal and most state laws, a school that knows or even suspects bullying is occurring must investigate, whether or not a formal complaint was filed. Typical state laws also require school personnel to report incidents they witness to a designated official.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What is a school required to do once bullying is reported?</p>
-    <p class="qa-a">Common requirements across state laws include promptly investigating, documenting findings, taking immediate steps to protect the student from further bullying or retaliation, notifying the parents of both students, and referring students to counseling where appropriate. Specific timelines vary by state.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">How long do I have to file a federal civil rights complaint?</p>
-    <p class="qa-a">Generally 180 calendar days from the date of the alleged discrimination. If you go through the school's internal complaint process first, you must file with the Office for Civil Rights within 60 days after that process concludes. Late filings require showing good cause for a waiver.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Can the school retaliate against my child for reporting?</p>
-    <p class="qa-a">Retaliation is prohibited. Federal guidance requires schools to take steps reasonably calculated to prevent retaliation against the targeted student, the complainant, or witnesses, and most state anti-bullying laws include protection from retaliation as a required element.</p>
-  </div>
-</div>
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Anti-bullying rules are set state by state; for a specific situation, consult an education lawyer or your state department of education.</p>

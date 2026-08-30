@@ -110,26 +110,3 @@ Independent of type, a few things tend to decide whether a recorder is actually 
 | Word trigger | A word you chose | Recognition accuracy |
 
 One word, "automatic," covering five quite different behaviours. None is better in general — what fits depends on which kind of moment you do not want to lose.
-
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">What kinds of automatic recording apps exist on Android?</p>
-    <p class="qa-a">Five broad kinds: recording that starts when a call connects, recording that starts when sound is detected, recording scheduled for a set time, recording that also keeps the moments before it started, and recording that starts when a chosen word is heard.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What is the difference between sound-activated and word-activated recording?</p>
-    <p class="qa-a">Sound activation starts on any noise above a threshold, so around people it behaves much like leaving the recorder running. Word activation starts only when a specific word is recognised, so only the moments you cared about are kept.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Is there an app that starts recording when you say a word?</p>
-    <p class="qa-a">TalkSafe works this way. When it hears a word you chose, recording starts without unlocking the phone, and the 30 seconds before that point are saved with the file.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">What should I check before choosing a recording app?</p>
-    <p class="qa-a">Whether it keeps running with the screen off or another app in front, what happens when a call comes in, where the files are stored, and whether anything on screen tells you a recording is running.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">Is call recording the same as recording a conversation?</p>
-    <p class="qa-a">No. Call recording covers phone calls only, and third-party access to it has been restricted on newer Android versions with availability varying by device and region. Recording an in-person conversation uses the microphone and is a separate thing.</p>
-  </div>
-</div>

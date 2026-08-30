@@ -97,26 +97,3 @@ También puedes registrar varias. Basta con que se escuche una, así que abrir m
 Mientras la grabación está en marcha se mantiene una notificación visible y no se puede desactivar. Está pensada para dejar constancia de una conversación en la que participas, no para ocultarla.
 
 Las leyes sobre grabación cambian según el país. Conviene comprobar la norma del lugar antes de confiar en ello; el caso español está [en otro artículo](https://hcompany-kr.github.io/blog/es/recording-consent-law/).
-
-<div class="qa">
-  <div class="qa-item">
-    <p class="qa-q">¿Qué significa iniciar una grabación con la voz?</p>
-    <p class="qa-a">Que eliges una palabra de antemano y la aplicación empieza a grabar al escucharla. No hace falta encender la pantalla ni abrir nada.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Qué palabra conviene elegir?</p>
-    <p class="qa-a">No hay una respuesta correcta. Sirve cualquier cosa que te salga de forma natural cuando sientes que algo debería quedar grabado. Cambia según la persona y la situación, y después de unos días de uso suele quedar claro cuál es la tuya.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Y si arranca por algo que suena parecido?</p>
-    <p class="qa-a">Borras el archivo. Si en cambio se pierde un momento que necesitabas, no hay nada que borrar ni nada que recuperar. Las dos cosas no pesan igual.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Puedo fijar más de una palabra?</p>
-    <p class="qa-a">Sí. Registrando varias, basta con que se escuche una de ellas para que la grabación empiece.</p>
-  </div>
-  <div class="qa-item">
-    <p class="qa-q">¿Lo que escucha se envía a algún sitio?</p>
-    <p class="qa-a">El reconocimiento de la palabra ocurre en el propio dispositivo. Que una grabación guardada se respalde en la nube es decisión del usuario.</p>
-  </div>
-</div>
