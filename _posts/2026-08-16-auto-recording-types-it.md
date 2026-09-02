@@ -110,3 +110,5 @@ A prescindere dal tipo, alcuni dettagli decidono se un registratore serve davver
 | Parola chiave | Una parola scelta | La precisione del riconoscimento |
 
 Una sola parola, "automatica", per cinque comportamenti piuttosto diversi. Nessuno è migliore in assoluto: dipende da quale tipo di momento non vuoi perdere.
+
+Questo articolo riguarda cosa fa partire una registrazione dentro un'app. Scegliere *con cosa* registrare, hardware compreso, è trattato a parte in [A distinguere i registratori non è l'audio, è quando partono](/blog/it/choosing-a-recorder/).

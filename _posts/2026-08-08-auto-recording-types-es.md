@@ -110,3 +110,5 @@ Al margen del tipo, hay detalles que deciden si una grabadora sirve de algo.
 | Palabra clave | Una palabra elegida | La precisión del reconocimiento |
 
 Una sola palabra, "automática", para cinco comportamientos bastante distintos. Ninguno es mejor en abstracto: depende de qué clase de momento no quieras perder.
+
+Este artículo trata de qué pone en marcha una grabación dentro de una aplicación. Elegir *con qué* grabar, aparatos incluidos, se aborda por separado en [Lo que separa a las grabadoras no es el sonido, es cuándo empiezan](/blog/es/choosing-a-recorder/).
