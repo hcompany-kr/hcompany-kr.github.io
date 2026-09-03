@@ -99,3 +99,5 @@ Sul quadro generale — quando la registrazione è lecita e quando diventa reato
 Tra i colloqui che si affrontano senza preparazione, il più delicato è quello in cui ti chiedono di dimetterti: le dimissioni hanno una forma obbligatoria e un termine di revoca che quasi nessuno conosce. Ne parliamo in [Il foglio che firmi in quella stanza non è una dimissione](/blog/it/dimissioni-forzate/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso concreto rivolgiti a un avvocato giuslavorista o al sindacato.</p>
+
+Lo stesso problema si presenta a chi lavora con partita IVA: quando il committente dice che l'accordo era un altro, la fattura prova l'importo ma non l'incarico. Ne parliamo in [Sono 40 euro per ogni fattura, e quasi nessuno li chiede](/blog/it/fattura-non-pagata/).

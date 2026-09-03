@@ -76,4 +76,6 @@ That is why a notification stays visible for the entire time a recording runs an
 
 
 
+Outside the US the harder question is often not whether you were allowed to record but whether a court will look at the file. India is the clearest example: participant recording is generally permitted, but since July 2024 the certificate needs an expert's signature and a hash value. That is in [In India the recording is the easy part. The certificate is not.](/blog/en/recording-law-india/)
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">This is general information, not legal advice. For a specific situation, talk to a lawyer in your jurisdiction.</p>
