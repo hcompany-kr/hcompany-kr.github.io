@@ -13,7 +13,7 @@ faq:
   - q: "¿Por qué ya no funcionan las apps para grabar llamadas en Android?"
     a: "Android 6, de 2015, eliminó la API de grabación de llamadas. Android 10, de 2019, bloqueó la grabación a través del micrófono. Los desarrolladores pasaron entonces a usar la API de accesibilidad como atajo, y el 11 de mayo de 2022 Google cerró también esa vía, señalando que esa API no fue diseñada para grabar el audio de las llamadas. Las apps de terceros fueron retiradas de Play Store."
   - q: "¿Y por qué al teléfono de otra persona sí le funciona?"
-    a: "La política de 2022 se aplica a las aplicaciones de terceros, no al marcador que viene instalado en el teléfono. La grabación integrada en Google Phone, en el marcador de Samsung o en el de Xiaomi no se vio afectada y sigue funcionando donde se ofrece."
+    a: "La política de 2022 se aplica a las aplicaciones de terceros, no al marcador que viene instalado en el teléfono. La grabación integrada se documenta en dispositivos concretos de Samsung, Vivo, Xiaomi, OnePlus y Motorola, y en determinados modelos Pixel a través de Google Phone. Nada de eso se vio afectado por la política, y sigue funcionando donde se ofrece."
   - q: "¿En qué países y teléfonos está disponible?"
     a: "Depende del fabricante, del modelo y de la región, y va cambiando. Se documenta funcionamiento estable en mercados como India, Indonesia, Sudáfrica y partes de América Latina. Google la ofrece en Pixel 6 y posteriores en Estados Unidos, Reino Unido y otros países, y Pixel 9 y posteriores, salvo el 9a, añaden Call Notes con transcripción en Estados Unidos, Reino Unido, Canadá, Irlanda, Australia y Japón."
   - q: "¿Por qué no está disponible en algunos países?"
@@ -48,7 +48,7 @@ Así que una app que hoy promete grabar llamadas **o está usando el marcador de
 
 **El marcador que venía instalado en el teléfono.**
 
-La política de 2022 afecta a las aplicaciones de terceros. La grabación integrada en **Google Phone**, en el **marcador de Samsung** o en el de **Xiaomi** quedó intacta y sigue funcionando donde se ofrece.
+La política de 2022 afecta a las aplicaciones de terceros. La grabación integrada se documenta en dispositivos concretos de **Samsung, Vivo, Xiaomi, OnePlus y Motorola**, y en determinados modelos **Pixel** a través de **Google Phone**. Todo ello quedó intacto y sigue funcionando donde se ofrece.
 
 Por eso desde fuera parece arbitrario. Dos personas con Android: una graba con un botón y la otra no consigue que le funcione nada.
 

@@ -13,7 +13,7 @@ faq:
   - q: "Perché le app per registrare le chiamate non funzionano più su Android?"
     a: "Android 6, del 2015, ha rimosso l'API per la registrazione delle chiamate. Android 10, del 2019, ha bloccato la registrazione attraverso il microfono. Gli sviluppatori sono passati alla API di accessibilità come scorciatoia e l'11 maggio 2022 Google ha chiuso anche quella, precisando che quella API non era stata progettata per registrare l'audio delle chiamate. Le app di terze parti sono state rimosse dal Play Store."
   - q: "Allora perché sul telefono di un'altra persona funziona?"
-    a: "La policy del 2022 riguarda le app di terze parti, non il dialer preinstallato sul telefono. La registrazione integrata in Google Phone, nel dialer Samsung o in quello Xiaomi non è stata toccata e continua a funzionare dove viene offerta."
+    a: "La policy del 2022 riguarda le app di terze parti, non il dialer preinstallato sul telefono. La registrazione integrata è documentata su dispositivi specifici di Samsung, Vivo, Xiaomi, OnePlus e Motorola, e su alcuni modelli Pixel tramite Google Phone. Nulla di tutto questo è stato toccato dalla policy, e continua a funzionare dove viene offerta."
   - q: "In quali paesi e su quali telefoni è disponibile?"
     a: "Dipende dal produttore, dal modello e dalla regione, e cambia nel tempo. Viene documentato un funzionamento stabile in mercati come India, Indonesia, Sudafrica e parte dell'America Latina. Google la offre su Pixel 6 e successivi negli Stati Uniti, nel Regno Unito e in altri paesi, e Pixel 9 e successivi, escluso il 9a, aggiungono Call Notes con trascrizione negli Stati Uniti, Regno Unito, Canada, Irlanda, Australia e Giappone."
   - q: "Perché in alcuni paesi non c'è?"
@@ -48,7 +48,7 @@ Quindi un'app che oggi promette di registrare le chiamate **o sta usando il dial
 
 **Il dialer preinstallato sul telefono.**
 
-La policy del 2022 riguarda le app di terze parti. La registrazione integrata in **Google Phone**, nel **dialer Samsung** o in quello **Xiaomi** è rimasta intatta e continua a funzionare dove viene offerta.
+La policy del 2022 riguarda le app di terze parti. La registrazione integrata è documentata su dispositivi specifici di **Samsung, Vivo, Xiaomi, OnePlus e Motorola**, e su alcuni modelli **Pixel** tramite **Google Phone**. Tutto questo è rimasto intatto e continua a funzionare dove viene offerta.
 
 Ecco perché da fuori sembra arbitrario. Due persone con Android: una registra con un pulsante, l'altra non riesce a far funzionare niente.
 

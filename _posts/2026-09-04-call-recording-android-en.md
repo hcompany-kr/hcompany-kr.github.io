@@ -13,7 +13,7 @@ faq:
   - q: "Why do call recording apps no longer work on Android?"
     a: "Android 6, released in 2015, removed the call recording API. Android 10, released in 2019, blocked call recording through the microphone. Developers then used the Accessibility API as a workaround, and on 11 May 2022 Google closed that route as well, stating the API was not designed for remote call audio recording. Third-party call recording apps were removed from the Play Store."
   - q: "Why does my friend's phone still record calls then?"
-    a: "The 2022 policy applies to third-party apps, not to the dialer that came with the phone. Built-in call recording in apps such as Google Phone, Samsung's dialer or Xiaomi's dialer was never affected and continues to work where it is offered."
+    a: "The 2022 policy applies to third-party apps, not to the dialer that came with the phone. Built-in call recording is reported on select devices from Samsung, Vivo, Xiaomi, OnePlus and Motorola, as well as certain Pixel models through Google Phone. None of it was affected by the policy, and it continues to work where it is offered."
   - q: "Which phones and countries have built-in call recording?"
     a: "It varies by manufacturer, model and region, and it changes. Reporting places reliable native call recording in markets including India, Indonesia, South Africa and parts of Latin America. Google has offered it on Pixel 6 and later in the US, the UK and several other countries, with Call Notes and transcription on Pixel 9 and later excluding the 9a in the US, UK, Canada, Ireland, Australia and Japan. Samsung added call recording in the US through a One UI update on the Galaxy S25, S24, S23, Z Fold and Flip 5 and 6, and selected A-series devices."
   - q: "Why is it missing in some countries?"
@@ -48,7 +48,7 @@ So an app promising call recording today is either using the built-in dialer, or
 
 **The dialer that came with your phone.**
 
-The 2022 policy applies to third-party apps. Built-in call recording in **Google Phone**, **Samsung's dialer**, **Xiaomi's dialer** and others was untouched and keeps working where it is offered.
+The 2022 policy applies to third-party apps. Built-in call recording is reported on select devices from **Samsung, Vivo, Xiaomi, OnePlus and Motorola**, and on certain **Pixel** models through **Google Phone**. All of it was untouched and keeps working where it is offered.
 
 Which is why this looks so arbitrary from the outside. Two people with Android phones, one records calls with a tap and the other cannot install anything that works.
 
