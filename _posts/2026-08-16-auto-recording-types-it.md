@@ -112,3 +112,5 @@ A prescindere dal tipo, alcuni dettagli decidono se un registratore serve davver
 Una sola parola, "automatica", per cinque comportamenti piuttosto diversi. Nessuno è migliore in assoluto: dipende da quale tipo di momento non vuoi perdere.
 
 Questo articolo riguarda cosa fa partire una registrazione dentro un'app. Scegliere *con cosa* registrare, hardware compreso, è trattato a parte in [A distinguere i registratori non è l'audio, è quando partono](/blog/it/choosing-a-recorder/).
+
+Se ti interessa nello specifico la registrazione delle chiamate — perché tutte le app di terze parti hanno smesso di funzionare e perché il dialer di sistema no — è in [Perché le app per registrare le chiamate non funzionano più su Android](/blog/it/call-recording-android/).

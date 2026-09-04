@@ -112,3 +112,5 @@ Al margen del tipo, hay detalles que deciden si una grabadora sirve de algo.
 Una sola palabra, "automática", para cinco comportamientos bastante distintos. Ninguno es mejor en abstracto: depende de qué clase de momento no quieras perder.
 
 Este artículo trata de qué pone en marcha una grabación dentro de una aplicación. Elegir *con qué* grabar, aparatos incluidos, se aborda por separado en [Lo que separa a las grabadoras no es el sonido, es cuándo empiezan](/blog/es/choosing-a-recorder/).
+
+Si lo que te interesa es grabar llamadas —por qué dejaron de funcionar todas las apps de terceros y por qué el marcador del sistema sí funciona— está en [Por qué dejaron de funcionar las apps para grabar llamadas en Android](/blog/es/call-recording-android/).

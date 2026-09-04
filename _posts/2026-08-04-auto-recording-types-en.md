@@ -112,3 +112,5 @@ Independent of type, a few things tend to decide whether a recorder is actually 
 One word, "automatic," covering five quite different behaviours. None is better in general — what fits depends on which kind of moment you do not want to lose.
 
 This piece is about what starts a recording inside an app. Choosing what to record *with* — hardware included — is covered separately in [The thing that separates recorders is when they start](/blog/en/choosing-a-recorder/).
+
+For call recording specifically — why every third-party app stopped working and why the built-in dialer still does — see [Why call recording stopped working on your Android](/blog/en/call-recording-android/).
