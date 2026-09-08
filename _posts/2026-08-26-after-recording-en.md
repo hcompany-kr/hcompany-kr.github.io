@@ -91,3 +91,5 @@ Four things after a recording: **keep the original**, **trim to the part that ma
 The first three make the file usable. The last one keeps it from coming back at you.
 
 Of all the situations where a recording helps, the hardest to prepare for is a collision. Who decides fault, and why the roadside conversation ends up nowhere, is in [No accident form has a box for what was said](/blog/en/accident-scene/).
+
+Even a carefully kept file can fail to get in. What courts actually check is in [you have the recording, you still may not be able to use it](/blog/en/recording-evidence/).

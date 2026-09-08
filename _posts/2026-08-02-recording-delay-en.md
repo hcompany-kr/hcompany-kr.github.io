@@ -92,3 +92,5 @@ Consent rules vary widely. Many US states follow one-party consent, meaning a pa
 - Saving the window before the tap removes that gap entirely.
 - Starting by voice keeps the conversation intact.
 - Choose a word that is rare in daily talk but natural in the moment that matters.
+
+What that gap costs once the file reaches a court is in [you have the recording, you still may not be able to use it](/blog/en/recording-evidence/).

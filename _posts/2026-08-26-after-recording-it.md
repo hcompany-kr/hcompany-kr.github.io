@@ -93,3 +93,5 @@ Quattro cose dopo aver registrato: **conserva l'originale**, **ritaglia a ciò c
 Le prime tre rendono il file utilizzabile. L'ultima evita che ti torni contro.
 
 Tra le situazioni in cui serve una registrazione, quella per cui è più difficile prepararsi è un incidente stradale. Chi decide la colpa e perché quello che ci si dice non finisce da nessuna parte è in [Se non lo dimostri, la legge divide la colpa a metà](/blog/it/incidente-stradale/).
+
+Anche un file conservato bene può non entrare in giudizio. Cosa guarda il giudice è in [hai la registrazione e non riesci comunque a usarla](/blog/it/recording-evidence/).

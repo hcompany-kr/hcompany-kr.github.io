@@ -94,3 +94,5 @@ Le leggi sulla registrazione variano parecchio. In Italia registrare una convers
 - Salvare la finestra precedente all'avvio elimina quella distanza
 - Partire con la voce permette di registrare senza interrompere la conversazione
 - La parola può essere tua o dell'altra persona; conta che compaia in quel momento
+
+Cosa costa quello scarto quando il file arriva in giudizio è in [hai la registrazione e non riesci comunque a usarla](/blog/it/recording-evidence/).

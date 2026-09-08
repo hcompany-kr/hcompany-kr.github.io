@@ -116,4 +116,6 @@ Three things, in order.
 
 **Since 1 July 2024 the certificate needs an expert and a hash value.** Which makes the untouched original considerably more valuable than a tidy edit.
 
+How that certificate requirement compares with thirteen other countries is in [you have the recording, you still may not be able to use it](/blog/en/recording-evidence/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Indian evidence law changed on 1 July 2024 and matters pending before that date continue under the previous Act. For a specific situation consult an advocate.</p>

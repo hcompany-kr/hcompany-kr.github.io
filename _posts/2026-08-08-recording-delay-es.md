@@ -94,3 +94,5 @@ Las leyes sobre grabación varían mucho. En España y en la mayoría de países
 - Guardar la ventana anterior al inicio elimina esa distancia
 - Empezar con la voz permite grabar sin cortar la conversación
 - La palabra puede ser tuya o de la otra persona; lo que importa es que aparezca en ese momento
+
+Lo que ese desfase cuesta cuando el archivo llega a un juicio está en [tienes la grabación y aun así no puedes usarla](/blog/es/recording-evidence/).

@@ -100,4 +100,6 @@ Per questo, mentre la registrazione è in corso resta visibile una notifica che 
 
 **E la cosa più importante:** la maggior parte delle registrazioni non dovrebbe mai essere usata. Si fanno per ogni evenienza, e se il momento per cui sono state fatte non arriva, restano lì.
 
+Registrare lecitamente e poter usare la registrazione sono due questioni diverse. La seconda è in [hai la registrazione e non riesci comunque a usarla](/blog/it/recording-evidence/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso concreto rivolgiti a un avvocato.</p>
