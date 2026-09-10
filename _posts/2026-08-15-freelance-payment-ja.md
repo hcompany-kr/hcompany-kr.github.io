@@ -128,4 +128,6 @@ faq:
 
 
 
+契約書はあるのに打ち合わせで別のことを口頭で決めた場合、13か国がどう扱うかは[契約書にはない。打ち合わせで口頭で決めたこと](https://hcompany-kr.github.io/blog/ja/verbal-contract/)にまとめています。
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">この記事は一般的な情報提供であり、法的助言ではありません。個別の事案については弁護士にご相談ください。</p>

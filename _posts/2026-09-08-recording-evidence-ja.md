@@ -121,4 +121,6 @@ TalkSafeが開始直前の30秒をあわせて保存するのは、そのため�
 
 録音したあとの扱いは[録音したあとにすべきことと、してはいけないこと](https://hcompany-kr.github.io/blog/ja/after-recording/)に、そもそも録音が適法かどうかは[録音と同意の法律](https://hcompany-kr.github.io/blog/ja/recording-consent-law/)にまとめています。
 
+契約書と違う口頭の合意を立証しなければならない場合は[契約書にはない。打ち合わせで口頭で決めたこと](https://hcompany-kr.github.io/blog/ja/verbal-contract/)をご覧ください。
+
 この記事は一般的な情報であり、法的助言ではありません。個別の事案は弁護士にご相談ください。

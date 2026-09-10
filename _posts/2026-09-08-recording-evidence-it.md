@@ -111,4 +111,6 @@ All'opposto, gli **Stati Uniti** trattano la copia come l'originale salvo contes
 
 Cosa fare del file una volta ottenuto è in [cosa fare con una registrazione, e cosa non farne](https://hcompany-kr.github.io/blog/it/after-recording/). Se la registrazione fosse lecita in partenza è trattato in [registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/).
 
+Se quello che devi provare è un patto verbale diverso dal contratto scritto, vedi [nel contratto non c'è, lo avete deciso in riunione](https://hcompany-kr.github.io/blog/it/verbal-contract/).
+
 Questo articolo è informazione generale e non costituisce consulenza legale. Per il tuo caso rivolgiti a un avvocato.

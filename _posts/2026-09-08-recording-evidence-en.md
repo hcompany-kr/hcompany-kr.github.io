@@ -117,4 +117,6 @@ That is why TalkSafe keeps the 30 seconds before it starts. Not to record more, 
 
 What to do with a file once you have it is covered in [what to do with a recording, and what not to do with it](https://hcompany-kr.github.io/blog/en/after-recording/). Whether the recording was lawful in the first place is covered in [recording consent laws by country](https://hcompany-kr.github.io/blog/en/recording-consent-law/), and India specifically in [India's recording law](https://hcompany-kr.github.io/blog/en/recording-law-india/).
 
+When what you need to prove is a verbal agreement that differs from the written contract, see [it is not in the contract, it was agreed in the meeting](https://hcompany-kr.github.io/blog/en/verbal-contract/).
+
 This article is general information, not legal advice. Speak to a lawyer about your own situation.

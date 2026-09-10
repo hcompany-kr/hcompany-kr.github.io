@@ -141,4 +141,6 @@ faq:
 
 
 
+계약서는 있는데 미팅에서 말로 다른 걸 정했다면, 나라별로 어떻게 보는지는 [계약서엔 없는데 미팅에서 말로 정한 것](https://hcompany-kr.github.io/blog/ko/verbal-contract/)에 정리했습니다.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">이 글은 일반적인 정보 제공을 위한 것이며 법률 자문이 아닙니다. 구체적인 사안은 변호사와 상담하시기 바랍니다.</p>

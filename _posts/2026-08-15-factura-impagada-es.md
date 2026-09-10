@@ -116,4 +116,6 @@ Un presupuesto aceptado por escrito, o dos líneas por correo tras una llamada, 
 
 
 
+Si hay contrato pero en una reunión se acordó otra cosa, cómo lo tratan trece países está en [no está en el contrato, se acordó en la reunión](https://hcompany-kr.github.io/blog/es/verbal-contract/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para reclamaciones concretas o antes de acudir a la vía judicial, consulta con tu asesoría o con un abogado.</p>

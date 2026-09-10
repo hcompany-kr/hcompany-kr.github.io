@@ -100,4 +100,6 @@ Come conservare il file e tenere solo la parte utile è in [Cosa fare con una re
 
 E la parte che decide davvero le controversie non è nessuna di queste tre. È **cosa era stato concordato**, che quasi mai è scritto da qualche parte.
 
+Se il contratto c'è ma in riunione si è deciso altro, come lo trattano tredici paesi è in [nel contratto non c'è, lo avete deciso in riunione](https://hcompany-kr.github.io/blog/it/verbal-contract/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni di carattere generale, non consulenza legale. Per il caso concreto rivolgersi a un avvocato o a un commercialista.</p>

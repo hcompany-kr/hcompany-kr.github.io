@@ -113,4 +113,6 @@ Por eso TalkSafe guarda los 30 segundos anteriores. No para grabar más, sino pa
 
 Qué hacer con el archivo una vez lo tienes está en [qué hacer con una grabación, y qué no hacer con ella](https://hcompany-kr.github.io/blog/es/after-recording/). Si la grabación era lícita de entrada se trata en [las leyes de consentimiento para grabar](https://hcompany-kr.github.io/blog/es/recording-consent-law/).
 
+Si lo que hay que probar es un pacto verbal distinto del contrato escrito, está en [no está en el contrato, se acordó en la reunión](https://hcompany-kr.github.io/blog/es/verbal-contract/).
+
 Este artículo es información general y no constituye asesoramiento jurídico. Consulta tu caso con un abogado.
