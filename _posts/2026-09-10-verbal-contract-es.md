@@ -136,4 +136,6 @@ Por qué importan el original y los primeros segundos cuando una grabación se u
 - La cláusula de «solo por escrito» pesa mucho en el Reino Unido y poco en Australia.
 - Lo acordado se deja por escrito ese mismo día, o se graba la reunión en la que estás.
 
+Si lo pactado de palabra fue un préstamo entre amigos, cuánto tiempo hay para reclamarlo y si un «te lo devuelvo» interrumpe la prescripción está en [le prestaste dinero sin papeles y ahora dice que se lo regalaste](https://hcompany-kr.github.io/blog/es/lent-money/).
+
 Este artículo es información general y no constituye asesoramiento jurídico. Consulta tu caso con un abogado.

@@ -135,4 +135,6 @@ Why the original file and the opening seconds matter once a recording is used as
 - Changes agreed after signing are treated differently from country to country. A "writing only" clause is strong in the UK and weak in Australia.
 - Put what was agreed in a message the same day, or record the meeting you are part of.
 
+For a personal loan agreed only by word of mouth, how long you have to recover it, and whether "I will pay you back" restarts the clock, is in [you lent them money, now they say it was a gift](https://hcompany-kr.github.io/blog/en/lent-money/).
+
 This article is general information, not legal advice. Speak to a lawyer about your own situation.

@@ -134,4 +134,6 @@ Perché contano l'originale e i primi secondi quando una registrazione viene usa
 - La clausola «modifiche solo per iscritto» pesa molto nel Regno Unito e poco in Australia; in Italia la forma convenuta si presume richiesta per la validità.
 - Quello che si decide in riunione si mette per iscritto lo stesso giorno, o si registra la riunione a cui si partecipa.
 
+Se l'accordo a voce era un prestito tra amici, quanto tempo c'è per chiederlo indietro e se un «te li ridò» interrompe la prescrizione è in [gli hai prestato dei soldi senza carte, e ora dice che era un regalo](https://hcompany-kr.github.io/blog/it/lent-money/).
+
 Questo articolo è informazione generale e non costituisce consulenza legale. Per il tuo caso rivolgiti a un avvocato.
