@@ -138,4 +138,6 @@ Por qué importan el original y los primeros segundos cuando una grabación se u
 
 Si lo pactado de palabra fue un préstamo entre amigos, cuánto tiempo hay para reclamarlo y si un «te lo devuelvo» interrumpe la prescripción está en [le prestaste dinero sin papeles y ahora dice que se lo regalaste](https://hcompany-kr.github.io/blog/es/lent-money/).
 
+Si lo pactado de palabra fue una oferta de empleo y el contrato dice otra cosa, está en [lo que te prometieron en la entrevista no está en el contrato](https://hcompany-kr.github.io/blog/es/job-offer-terms/).
+
 Este artículo es información general y no constituye asesoramiento jurídico. Consulta tu caso con un abogado.

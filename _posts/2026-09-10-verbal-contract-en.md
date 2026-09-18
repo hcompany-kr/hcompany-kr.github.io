@@ -137,4 +137,6 @@ Why the original file and the opening seconds matter once a recording is used as
 
 For a personal loan agreed only by word of mouth, how long you have to recover it, and whether "I will pay you back" restarts the clock, is in [you lent them money, now they say it was a gift](https://hcompany-kr.github.io/blog/en/lent-money/).
 
+When the spoken agreement is a job offer and the contract says something else, thirteen countries handle it in [what you were promised at interview is not what the contract says](https://hcompany-kr.github.io/blog/en/job-offer-terms/).
+
 This article is general information, not legal advice. Speak to a lawyer about your own situation.

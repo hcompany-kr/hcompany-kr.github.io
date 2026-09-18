@@ -136,4 +136,6 @@ Perché contano l'originale e i primi secondi quando una registrazione viene usa
 
 Se l'accordo a voce era un prestito tra amici, quanto tempo c'è per chiederlo indietro e se un «te li ridò» interrompe la prescrizione è in [gli hai prestato dei soldi senza carte, e ora dice che era un regalo](https://hcompany-kr.github.io/blog/it/lent-money/).
 
+Se l'accordo a voce era un'offerta di lavoro e il contratto dice altro, vedi [quello che ti hanno promesso al colloquio non è quello che c'è nel contratto](https://hcompany-kr.github.io/blog/it/job-offer-terms/).
+
 Questo articolo è informazione generale e non costituisce consulenza legale. Per il tuo caso rivolgiti a un avvocato.
