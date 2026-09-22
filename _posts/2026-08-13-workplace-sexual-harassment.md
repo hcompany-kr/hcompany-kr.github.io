@@ -148,4 +148,6 @@ faq:
 
 
 
+직장 밖에서 반복해서 찾아오거나 연락하는 경우는 [스토킹 증거는 어떻게 남기나](https://hcompany-kr.github.io/blog/ko/stalking-evidence/)에 13개국 규정과 함께 정리했습니다.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">이 글은 일반적인 정보 제공을 위한 것이며 법률 자문이 아닙니다. 구체적인 사안은 변호사나 공인노무사와 상담하시기 바랍니다.</p>

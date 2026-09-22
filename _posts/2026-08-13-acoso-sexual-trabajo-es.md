@@ -156,4 +156,6 @@ Y sobre todo: **lo que ocurrió no es culpa de quien lo sufrió.** Tampoco lo es
 
 
 
+Si alguien te sigue o te contacta una y otra vez fuera del trabajo, está en [cómo reunir pruebas de acoso o stalking](https://hcompany-kr.github.io/blog/es/stalking-evidence/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado laboralista, con el servicio jurídico de un sindicato o con la Inspección de Trabajo.</p>

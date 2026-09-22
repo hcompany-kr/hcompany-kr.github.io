@@ -145,4 +145,6 @@ Documentation serves the process. It is not the point.
 
 
 
+When someone keeps turning up or contacting you outside work, see [how to build evidence of stalking](https://hcompany-kr.github.io/blog/en/stalking-evidence/), which compares thirteen countries.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Deadlines and protections vary by state; for a specific situation, consult an employment lawyer or contact the EEOC.</p>

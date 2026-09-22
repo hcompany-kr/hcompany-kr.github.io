@@ -108,4 +108,6 @@ Lo stesso, dall'altra parte.
 
 **Ma la tutela del denunciante ha un limite**, e vale in entrambe le direzioni: non opera in caso di calunnia, diffamazione o infondatezza accertata.
 
+Se qualcuno ti segue o ti contatta ripetutamente anche fuori dal lavoro, vedi [come raccogliere le prove dello stalking](https://hcompany-kr.github.io/blog/it/stalking-evidence/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso concreto rivolgiti a un avvocato giuslavorista, al sindacato o alla consigliera di parità territorialmente competente.</p>

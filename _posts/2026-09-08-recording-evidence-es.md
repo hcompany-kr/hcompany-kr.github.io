@@ -115,4 +115,6 @@ Qué hacer con el archivo una vez lo tienes está en [qué hacer con una grabaci
 
 Si lo que hay que probar es un pacto verbal distinto del contrato escrito, está en [no está en el contrato, se acordó en la reunión](https://hcompany-kr.github.io/blog/es/verbal-contract/).
 
+Si lo que hay que acreditar es una conducta reiterada, está en [cómo reunir pruebas de acoso o stalking](https://hcompany-kr.github.io/blog/es/stalking-evidence/).
+
 Este artículo es información general y no constituye asesoramiento jurídico. Consulta tu caso con un abogado.

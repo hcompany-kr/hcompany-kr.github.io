@@ -123,4 +123,6 @@ TalkSafeが開始直前の30秒をあわせて保存するのは、そのため�
 
 契約書と違う口頭の合意を立証しなければならない場合は[契約書にはない。打ち合わせで口頭で決めたこと](https://hcompany-kr.github.io/blog/ja/verbal-contract/)をご覧ください。
 
+繰り返しを記録として積み重ねる必要がある場合は[ストーカー被害の証拠はどう残すか](https://hcompany-kr.github.io/blog/ja/stalking-evidence/)をご覧ください。
+
 この記事は一般的な情報であり、法的助言ではありません。個別の事案は弁護士にご相談ください。

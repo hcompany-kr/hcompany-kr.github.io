@@ -122,4 +122,6 @@ TalkSafe가 시작 직전 30초를 함께 저장하는 이유가 여기 있습�
 
 계약서와 다르게 미팅에서 말로 정한 것을 증명해야 하는 경우는 [계약서엔 없는데 미팅에서 말로 정한 것](https://hcompany-kr.github.io/blog/ko/verbal-contract/)에 있습니다.
 
+반복되는 연락이나 접근을 기록으로 쌓아야 하는 경우는 [스토킹 증거는 어떻게 남기나](https://hcompany-kr.github.io/blog/ko/stalking-evidence/)에 있습니다.
+
 이 글은 일반적인 정보이며 법률 자문이 아닙니다. 구체적인 사안은 변호사와 상의하시기 바랍니다.

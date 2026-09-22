@@ -119,4 +119,6 @@ What to do with a file once you have it is covered in [what to do with a recordi
 
 When what you need to prove is a verbal agreement that differs from the written contract, see [it is not in the contract, it was agreed in the meeting](https://hcompany-kr.github.io/blog/en/verbal-contract/).
 
+Where the evidence has to show a pattern over time, see [how to build evidence of stalking](https://hcompany-kr.github.io/blog/en/stalking-evidence/).
+
 This article is general information, not legal advice. Speak to a lawyer about your own situation.

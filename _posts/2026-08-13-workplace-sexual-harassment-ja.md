@@ -150,4 +150,6 @@ faq:
 
 
 
+職場の外で繰り返しつきまとわれたり連絡されたりする場合は[ストーカー被害の証拠はどう残すか](https://hcompany-kr.github.io/blog/ja/stalking-evidence/)にまとめています。
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">この記事は一般的な情報提供であり、法的助言ではありません。個別の事案については弁護士にご相談ください。</p>

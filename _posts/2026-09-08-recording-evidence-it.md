@@ -113,4 +113,6 @@ Cosa fare del file una volta ottenuto è in [cosa fare con una registrazione, e 
 
 Se quello che devi provare è un patto verbale diverso dal contratto scritto, vedi [nel contratto non c'è, lo avete deciso in riunione](https://hcompany-kr.github.io/blog/it/verbal-contract/).
 
+Se quello che devi dimostrare è una condotta reiterata, vedi [come raccogliere le prove dello stalking](https://hcompany-kr.github.io/blog/it/stalking-evidence/).
+
 Questo articolo è informazione generale e non costituisce consulenza legale. Per il tuo caso rivolgiti a un avvocato.
