@@ -102,4 +102,6 @@ Per questo, mentre la registrazione è in corso resta visibile una notifica che 
 
 Registrare lecitamente e poter usare la registrazione sono due questioni diverse. La seconda è in [hai la registrazione e non riesci comunque a usarla](/blog/it/recording-evidence/).
 
+La regola vale anche quando l'interlocutore è un agente. Registrare un controllo o un interrogatorio è messo a confronto in tredici paesi in [si può registrare la polizia?](/blog/it/recording-police/)
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso concreto rivolgiti a un avvocato.</p>

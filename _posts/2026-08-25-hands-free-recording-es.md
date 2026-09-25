@@ -96,3 +96,5 @@ TalkSafe da por supuesto que grabas una conversación en la que participas. Si e
 ## En corto
 
 Si necesitas que una grabación empiece con el móvil en el bolsillo, sin poder hablar ni alcanzarlo, de las cuatro opciones solo la palabra clave lo consigue. Y si además necesitas lo que se dijo justo antes, lo que hay que buscar es **la ventana de 30 segundos previos**.
+
+Un control policial es uno de los casos más claros en que no tienes las manos libres. Está en [¿se puede grabar a la policía?](https://hcompany-kr.github.io/blog/es/recording-police/)

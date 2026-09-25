@@ -96,3 +96,5 @@ TalkSafe assumes you are recording a conversation you take part in. Whether that
 ## The short version
 
 If you need a recording to start while your phone is in your pocket and you cannot speak or reach for it, a keyword-triggered recorder is the only one of the four that does it. If you also need what was said just before, the rolling buffer is the part to look for.
+
+A police stop is one of the clearest cases where your hands are not free. See [can you record the police?](https://hcompany-kr.github.io/blog/en/recording-police/)

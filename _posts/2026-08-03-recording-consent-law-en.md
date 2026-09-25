@@ -80,4 +80,6 @@ Outside the US the harder question is often not whether you were allowed to reco
 
 Recording lawfully and being able to use the recording are two different questions. The second one is in [you have the recording, you still may not be able to use it](/blog/en/recording-evidence/).
 
+The same rule applies when the other person is a police officer. Recording a stop or an interview is compared across thirteen countries in [can you record the police?](/blog/en/recording-police/)
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">This is general information, not legal advice. For a specific situation, talk to a lawyer in your jurisdiction.</p>

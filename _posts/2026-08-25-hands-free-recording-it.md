@@ -96,3 +96,5 @@ TalkSafe presuppone che tu stia registrando una conversazione a cui partecipi. S
 ## In breve
 
 Se ti serve che una registrazione parta con il telefono in tasca, senza poter parlare né raggiungerlo, delle quattro opzioni solo la parola chiave ci riesce. E se ti serve anche quello che è stato detto un attimo prima, la cosa da cercare è **la finestra dei 30 secondi precedenti**.
+
+Un controllo di polizia è uno dei casi più chiari in cui non hai le mani libere. Vedi [si può registrare la polizia?](https://hcompany-kr.github.io/blog/it/recording-police/)
