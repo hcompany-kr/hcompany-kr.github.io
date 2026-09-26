@@ -1,0 +1,224 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>TalkSafe — une application d'enregistrement Android qui démarre sur un mot que vous avez choisi</title>
+<meta name="description" content="TalkSafe est une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance, et conserve les 30 secondes qui précèdent. La reconnaissance du mot se fait sur l'appareil.">
+
+<link rel="canonical" href="{{ '/talksafe/fr/' | absolute_url }}">
+<link rel="alternate" hreflang="ko" href="{{ '/talksafe/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/talksafe/en/' | absolute_url }}">
+<link rel="alternate" hreflang="ja" href="{{ '/talksafe/ja/' | absolute_url }}">
+<link rel="alternate" hreflang="es" href="{{ '/talksafe/es/' | absolute_url }}">
+<link rel="alternate" hreflang="it" href="{{ '/talksafe/it/' | absolute_url }}">
+<link rel="alternate" hreflang="de" href="{{ '/talksafe/de/' | absolute_url }}">
+<link rel="alternate" hreflang="fr" href="{{ '/talksafe/fr/' | absolute_url }}">
+<link rel="alternate" hreflang="tr" href="{{ '/talksafe/tr/' | absolute_url }}">
+<link rel="alternate" hreflang="pt-BR" href="{{ '/talksafe/pt-br/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/talksafe/en/' | absolute_url }}">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="TalkSafe — une application d'enregistrement Android qui démarre sur un mot que vous avez choisi">
+<meta property="og:description" content="Démarre l'enregistrement sur un mot choisi et conserve les 30 secondes précédentes.">
+<meta property="og:url" content="{{ '/talksafe/fr/' | absolute_url }}">
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "TalkSafe Auto Voice Recorder",
+  "alternateName": "TalkSafe",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Voice Recorder",
+  "operatingSystem": "Android",
+  "url": "https://hcompany-kr.github.io/talksafe/fr/",
+  "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "identifier": "com.lab525.talksafe",
+  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi"],
+  "description": "TalkSafe est une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance par l'utilisateur. Au démarrage, les 30 secondes précédentes sont enregistrées dans le fichier. La reconnaissance du mot se fait sur l'appareil.",
+  "featureList": [
+    "Démarre l'enregistrement automatiquement sur un mot choisi",
+    "Conserve les 30 secondes précédant le début de l'enregistrement",
+    "Reconnaissance du mot sur l'appareil",
+    "Durée d'enregistrement : 10 minutes, 30 minutes, 1 heure ou arrêt manuel",
+    "Une notification reste visible pendant l'enregistrement et ne peut pas être désactivée",
+    "14 langues"
+  ],
+  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
+  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que TalkSafe ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe est une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, les 30 secondes précédentes sont enregistrées dans le fichier." }
+    },
+    {
+      "@type": "Question",
+      "name": "Existe-t-il une application qui commence à enregistrer quand on dit un mot ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe fonctionne ainsi. Quand elle entend un mot que vous avez choisi, l'enregistrement démarre sans déverrouiller le téléphone ni ouvrir l'application." }
+    },
+    {
+      "@type": "Question",
+      "name": "Une application peut-elle enregistrer ce qui a été dit avant d'appuyer sur enregistrer ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe conserve les 30 secondes qui précèdent le début de l'enregistrement. Les enregistreurs ordinaires ne sauvegardent qu'à partir du moment où l'on appuie ; tout ce qui précède est perdu." }
+    },
+    {
+      "@type": "Question",
+      "name": "TalkSafe sert-il à enregistrer quelqu'un en cachette ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Non. Une notification reste visible pendant toute la durée de l'enregistrement et ne peut pas être désactivée, et il n'existe aucune fonction pour dissimuler un enregistrement. En France, enregistrer sans son consentement des paroles prononcées à titre privé ou confidentiel est puni d'un an d'emprisonnement et de 45 000 euros d'amende par l'article 226-1 du Code pénal, même lorsqu'on participe à la conversation." }
+    },
+    {
+      "@type": "Question",
+      "name": "Le son est-il envoyé à un serveur ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "La reconnaissance du mot choisi se fait sur l'appareil. La sauvegarde d'un enregistrement dans le cloud relève du choix de l'utilisateur." }
+    },
+    {
+      "@type": "Question",
+      "name": "Le mot-clé doit-il être un mot que je prononce moi-même ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Non. Contrairement à un assistant vocal, conçu pour reconnaître la voix de son propriétaire, TalkSafe détecte le mot lui-même, quelle que soit la personne qui le prononce. L'enregistrement démarre aussi écran verrouillé." }
+    },
+    {
+      "@type": "Question",
+      "name": "Que comprend la version gratuite ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "La version gratuite permet jusqu'à 5 mots-clés et des enregistrements de 30 minutes maximum, avec de la publicité. Le forfait Pro supprime les limites de mots-clés et de durée ainsi que la publicité. Les résumés par IA et la sauvegarde dans le cloud font partie du forfait Premium, et Premium+ en supprime les plafonds." }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles langues TalkSafe prend-il en charge ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Quatorze : coréen, anglais, chinois, japonais, espagnol, italien, turc, bengali, portugais, français, allemand, hindi, polonais et vietnamien." }
+    },
+    {
+      "@type": "Question",
+      "name": "TalkSafe est-il disponible sur iPhone ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Pour l'instant, TalkSafe n'est disponible que sur Android." }
+    }
+  ]
+}
+</script>
+</head>
+
+<body>
+<header class="masthead">
+  <a class="wordmark" href="{{ '/' | relative_url }}">H Company</a>
+  <nav class="langs" aria-label="Langue">
+    <a class="lang" href="{{ '/talksafe/' | relative_url }}">ko</a>
+    <a class="lang" href="{{ '/talksafe/en/' | relative_url }}">en</a>
+    <a class="lang" href="{{ '/talksafe/ja/' | relative_url }}">ja</a>
+    <a class="lang" href="{{ '/talksafe/es/' | relative_url }}">es</a>
+    <a class="lang" href="{{ '/talksafe/it/' | relative_url }}">it</a>
+    <a class="lang" href="{{ '/talksafe/de/' | relative_url }}">de</a>
+    <span class="lang is-current">fr</span>
+    <a class="lang" href="{{ '/talksafe/tr/' | relative_url }}">tr</a>
+    <a class="lang" href="{{ '/talksafe/pt-br/' | relative_url }}">pt</a>
+  </nav>
+</header>
+
+<main>
+  <article class="post">
+    <p class="eyebrow">Application</p>
+    <h1>TalkSafe</h1>
+    <p class="standfirst">TalkSafe est une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, les 30 secondes précédentes sont enregistrées dans le fichier. La reconnaissance du mot se fait sur l'appareil.</p>
+
+    <div class="body">
+
+      <h2>Ce qu'elle fait</h2>
+
+      <p>Un enregistreur ordinaire sauvegarde à partir du moment où vous appuyez sur enregistrer. TalkSafe diffère sur deux points.</p>
+
+      <p><strong>Un mot sert de déclencheur.</strong> Quand l'application entend un mot que vous avez choisi, l'enregistrement démarre tout seul. Rien à déverrouiller, rien à ouvrir.</p>
+
+      <p><strong>Ce qui précède est conservé.</strong> Au démarrage, les 30 secondes précédentes sont placées au début du fichier, y compris l'échange qui vous a fait penser qu'il valait la peine d'enregistrer.</p>
+
+      <h2>L'essentiel</h2>
+
+      <div class="qa">
+        <div class="qa-item"><p class="qa-q">Plateforme</p><p class="qa-a">Android (Google Play)</p></div>
+        <div class="qa-item"><p class="qa-q">Nom du paquet</p><p class="qa-a">com.lab525.talksafe</p></div>
+        <div class="qa-item"><p class="qa-q">Catégorie</p><p class="qa-a">Enregistreur vocal / Outils</p></div>
+        <div class="qa-item"><p class="qa-q">Langues</p><p class="qa-a">Coréen, anglais, chinois, japonais, espagnol, italien, turc, bengali, portugais, français, allemand, hindi, polonais, vietnamien (14)</p></div>
+        <div class="qa-item"><p class="qa-q">Prix</p><p class="qa-a">Utilisation gratuite. Forfaits payants : Pro, Premium et Premium+</p></div>
+        <div class="qa-item"><p class="qa-q">Développeur</p><p class="qa-a">H Company</p></div>
+      </div>
+
+      <h2>Fonctions</h2>
+
+      <ul>
+        <li><strong>Enregistrement déclenché par un mot</strong> — l'enregistrement démarre quand un mot choisi est entendu. Plusieurs mots peuvent être enregistrés.</li>
+        <li><strong>30 secondes en amont</strong> — les 30 secondes qui précèdent le début sont conservées.</li>
+        <li><strong>Reconnaissance sur l'appareil</strong> — l'écoute du mot se fait sur le téléphone.</li>
+        <li><strong>Durée d'enregistrement</strong> — 10 minutes, 30 minutes, 1 heure ou arrêt manuel.</li>
+        <li><strong>Notification permanente</strong> — visible pendant l'enregistrement, impossible à désactiver.</li>
+      </ul>
+
+      <h2>La différence avec un assistant vocal</h2>
+
+      <p>Siri ou Bixby sont conçus pour <strong>reconnaître la voix du propriétaire</strong> et répondre quand on les appelle. L'appel allume l'écran et la réponse se fait à voix haute. La conversation s'interrompt, et l'autre personne s'en rend compte.</p>
+
+      <p>TalkSafe <strong>détecte le mot lui-même, quelle que soit la personne qui le prononce.</strong> Le mot choisi n'a donc pas besoin d'être un mot que vous dites vous-même. C'est surtout utile quand vous ne pouvez pas parler ou que vous n'avez pas les mains libres.</p>
+
+      <p>L'enregistrement démarre aussi écran verrouillé, sans son et sans changement visible au moment où il commence.</p>
+
+      <h2>Forfaits</h2>
+
+      <p>L'application est gratuite, avec trois niveaux payants.</p>
+
+      <ul>
+        <li><strong>Gratuit</strong> — jusqu'à 5 mots-clés, enregistrements de 30 minutes maximum, avec publicité</li>
+        <li><strong>Pro</strong> — sans limite de mots-clés ni de durée, sans publicité</li>
+        <li><strong>Premium</strong> — tout Pro, plus les résumés par IA et la sauvegarde dans le cloud</li>
+        <li><strong>Premium+</strong> — Premium sans plafond de durée de résumé IA ni de stockage cloud</li>
+      </ul>
+
+      <p>L'enregistrement déclenché par un mot et les 30 secondes en amont fonctionnent aussi dans la version gratuite. Les tarifs sont indiqués sur Google Play.</p>
+
+      <h2>La différence avec d'autres enregistreurs</h2>
+
+      <p>Conserver le son d'avant le début de l'enregistrement n'est pas unique en soi : quelques applications proposent une mémoire tampon. Mais il faut toujours que quelqu'un appuie sur un bouton pour que ce tampon soit gardé.</p>
+
+      <p>TalkSafe associe <strong>ces secondes en amont à un déclencheur qui est un mot prononcé</strong>. Comme aucun bouton n'est nécessaire, l'enregistrement démarre dans des situations où prendre son téléphone n'est pas possible ou pas approprié.</p>
+
+      <h2>Ce qu'elle ne fait pas</h2>
+
+      <p>TalkSafe part du principe que l'utilisateur participe à la conversation enregistrée.</p>
+
+      <p>Une notification reste visible pendant toute la durée de l'enregistrement et ne peut pas être désactivée. Il n'existe aucune fonction pour cacher qu'un enregistrement est en cours, et aucune n'est prévue.</p>
+
+      <p>Le droit varie selon le pays. En <strong>France</strong>, enregistrer sans son consentement des paroles prononcées à titre privé ou confidentiel est puni d'un an d'emprisonnement et de 45 000 euros d'amende (article 226-1 du Code pénal), même lorsqu'on participe à la conversation ; depuis les arrêts d'Assemblée plénière de la Cour de cassation du 22 décembre 2023, une telle preuve peut toutefois être admise au civil si elle est indispensable et proportionnée. En <strong>Suisse</strong>, l'article 179ter du Code pénal punit le participant qui enregistre une conversation non publique sans le consentement des autres. En <strong>Belgique</strong>, la Cour de cassation a confirmé en 2015 qu'un participant qui enregistre une communication ne commet pas d'infraction, mais l'utiliser dans une intention frauduleuse ou de nuire est puni (article 314bis du Code pénal). Au <strong>Québec</strong>, le Code criminel canadien permet à un participant d'enregistrer une conversation. Avec le consentement de tous, l'enregistrement ne pose pas de problème : réunions, cours, entretiens ou notes vocales personnelles.</p>
+
+      <h2>À lire aussi</h2>
+
+      <ul>
+        <li><a href="{{ '/blog/fr/hands-free-recording/' | relative_url }}">Lancer un enregistrement sans toucher son téléphone</a></li>
+      </ul>
+
+    </div>
+  </article>
+
+  <aside class="endcard">
+    <p class="endcard-label">Google Play</p>
+    <p class="endcard-name">TalkSafe</p>
+    <p class="endcard-desc">Démarre l'enregistrement quand elle entend un mot que vous avez choisi, et conserve les 30 secondes précédentes.</p>
+    <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">Voir sur Google Play</a>
+  </aside>
+</main>
+
+<footer class="colophon">
+  <p>H Company</p>
+</footer>
+</body>
+</html>

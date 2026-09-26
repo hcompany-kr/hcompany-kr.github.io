@@ -1,0 +1,224 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>TalkSafe — seçtiğiniz bir kelimeyle başlayan Android ses kayıt uygulaması</title>
+<meta name="description" content="TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan ve önceki 30 saniyeyi de saklayan bir Android ses kayıt uygulamasıdır. Kelime tanıma cihazın üzerinde çalışır.">
+
+<link rel="canonical" href="{{ '/talksafe/tr/' | absolute_url }}">
+<link rel="alternate" hreflang="ko" href="{{ '/talksafe/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/talksafe/en/' | absolute_url }}">
+<link rel="alternate" hreflang="ja" href="{{ '/talksafe/ja/' | absolute_url }}">
+<link rel="alternate" hreflang="es" href="{{ '/talksafe/es/' | absolute_url }}">
+<link rel="alternate" hreflang="it" href="{{ '/talksafe/it/' | absolute_url }}">
+<link rel="alternate" hreflang="de" href="{{ '/talksafe/de/' | absolute_url }}">
+<link rel="alternate" hreflang="fr" href="{{ '/talksafe/fr/' | absolute_url }}">
+<link rel="alternate" hreflang="tr" href="{{ '/talksafe/tr/' | absolute_url }}">
+<link rel="alternate" hreflang="pt-BR" href="{{ '/talksafe/pt-br/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/talksafe/en/' | absolute_url }}">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="TalkSafe — seçtiğiniz bir kelimeyle başlayan Android ses kayıt uygulaması">
+<meta property="og:description" content="Belirlediğiniz bir kelimeyle kayda başlar ve önceki 30 saniyeyi de saklar.">
+<meta property="og:url" content="{{ '/talksafe/tr/' | absolute_url }}">
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "TalkSafe Auto Voice Recorder",
+  "alternateName": "TalkSafe",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Voice Recorder",
+  "operatingSystem": "Android",
+  "url": "https://hcompany-kr.github.io/talksafe/tr/",
+  "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "identifier": "com.lab525.talksafe",
+  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi"],
+  "description": "TalkSafe, kullanıcının önceden belirlediği bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulamasıdır. Kayıt başladığında önceki 30 saniye de dosyaya kaydedilir. Kelime tanıma cihazın üzerinde çalışır.",
+  "featureList": [
+    "Seçilen bir kelimeyle kayda otomatik olarak başlar",
+    "Kayıt başlamadan önceki 30 saniyeyi de saklar",
+    "Kelime tanıma cihaz üzerinde çalışır",
+    "Kayıt süresi: 10 dakika, 30 dakika, 1 saat veya elle durdurma",
+    "Kayıt boyunca kapatılamayan bir bildirim görünür kalır",
+    "14 dil desteği"
+  ],
+  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
+  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "TalkSafe nedir?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulamasıdır. Kayıt başladığında önceki 30 saniye de dosyaya kaydedilir." }
+    },
+    {
+      "@type": "Question",
+      "name": "Bir kelime söylendiğinde kayda başlayan bir uygulama var mı?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe bu şekilde çalışır. Seçtiğiniz bir kelimeyi duyduğunda, telefonun kilidini açmanıza veya uygulamayı açmanıza gerek kalmadan kayıt başlar." }
+    },
+    {
+      "@type": "Question",
+      "name": "Bir kayıt uygulaması kayıt tuşuna basmadan önce söyleneni de kaydedebilir mi?",
+      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe, kaydın başladığı andan önceki 30 saniyeyi saklar. Sıradan kayıt uygulamaları yalnızca tuşa bastığınız andan itibaren kaydeder; öncesi kaybolur." }
+    },
+    {
+      "@type": "Question",
+      "name": "TalkSafe birilerini gizlice kaydetmek için mi?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Hayır. Kayıt süresince kapatılamayan bir bildirim görünür kalır ve kaydı gizlemeye yarayan bir özellik yoktur. Türkiye'de katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek, Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre altı aydan iki yıla kadar hapis veya adli para cezası gerektiren bir suçtur." }
+    },
+    {
+      "@type": "Question",
+      "name": "Ses bir sunucuya gönderiliyor mu?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Seçilen kelimenin tanınması cihazın üzerinde yapılır. Kaydedilen bir dosyanın buluta yedeklenip yedeklenmeyeceği kullanıcının tercihidir." }
+    },
+    {
+      "@type": "Question",
+      "name": "Anahtar kelime benim söyleyeceğim bir kelime mi olmalı?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Hayır. Sahibinin sesini tanımak üzere tasarlanmış bir sesli asistanın aksine, TalkSafe kelimenin kendisini, onu kimin söylediğinden bağımsız olarak algılar. Kayıt, ekran kilitliyken de başlar." }
+    },
+    {
+      "@type": "Question",
+      "name": "Ücretsiz sürümde neler var?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Ücretsiz sürümde en fazla 5 anahtar kelime ve her biri en fazla 30 dakikalık kayıt kullanılabilir, reklam gösterilir. Pro plan anahtar kelime ve kayıt süresi sınırlarını ve reklamları kaldırır. Yapay zekâ özetleri ve bulut yedekleme Premium planın parçasıdır; Premium+ bunların üst sınırlarını kaldırır." }
+    },
+    {
+      "@type": "Question",
+      "name": "TalkSafe hangi dilleri destekliyor?",
+      "acceptedAnswer": { "@type": "Answer", "text": "On dört dil: Korece, İngilizce, Çince, Japonca, İspanyolca, İtalyanca, Türkçe, Bengalce, Portekizce, Fransızca, Almanca, Hintçe, Lehçe ve Vietnamca." }
+    },
+    {
+      "@type": "Question",
+      "name": "TalkSafe iPhone'da var mı?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Şu anda yalnızca Android'de kullanılabilir." }
+    }
+  ]
+}
+</script>
+</head>
+
+<body>
+<header class="masthead">
+  <a class="wordmark" href="{{ '/' | relative_url }}">H Company</a>
+  <nav class="langs" aria-label="Dil">
+    <a class="lang" href="{{ '/talksafe/' | relative_url }}">ko</a>
+    <a class="lang" href="{{ '/talksafe/en/' | relative_url }}">en</a>
+    <a class="lang" href="{{ '/talksafe/ja/' | relative_url }}">ja</a>
+    <a class="lang" href="{{ '/talksafe/es/' | relative_url }}">es</a>
+    <a class="lang" href="{{ '/talksafe/it/' | relative_url }}">it</a>
+    <a class="lang" href="{{ '/talksafe/de/' | relative_url }}">de</a>
+    <a class="lang" href="{{ '/talksafe/fr/' | relative_url }}">fr</a>
+    <span class="lang is-current">tr</span>
+    <a class="lang" href="{{ '/talksafe/pt-br/' | relative_url }}">pt</a>
+  </nav>
+</header>
+
+<main>
+  <article class="post">
+    <p class="eyebrow">Uygulama</p>
+    <h1>TalkSafe</h1>
+    <p class="standfirst">TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulamasıdır. Kayıt başladığında önceki 30 saniye de dosyaya kaydedilir. Kelime tanıma cihazın üzerinde çalışır.</p>
+
+    <div class="body">
+
+      <h2>Ne yapar</h2>
+
+      <p>Sıradan bir kayıt uygulaması, kayıt tuşuna bastığınız andan itibaren kaydeder. TalkSafe iki noktada farklıdır.</p>
+
+      <p><strong>Tetikleyici bir kelimedir.</strong> Uygulama seçtiğiniz bir kelimeyi duyduğunda kayıt kendiliğinden başlar. Kilit açmak ya da uygulama açmak gerekmez.</p>
+
+      <p><strong>Öncesi kaybolmaz.</strong> Kayıt başladığında önceki 30 saniye dosyanın başına eklenir; kaydetmeye değer olduğunu fark ettiğiniz o an da dahil.</p>
+
+      <h2>Temel bilgiler</h2>
+
+      <div class="qa">
+        <div class="qa-item"><p class="qa-q">Platform</p><p class="qa-a">Android (Google Play)</p></div>
+        <div class="qa-item"><p class="qa-q">Paket adı</p><p class="qa-a">com.lab525.talksafe</p></div>
+        <div class="qa-item"><p class="qa-q">Kategori</p><p class="qa-a">Ses kaydedici / Araçlar</p></div>
+        <div class="qa-item"><p class="qa-q">Diller</p><p class="qa-a">Korece, İngilizce, Çince, Japonca, İspanyolca, İtalyanca, Türkçe, Bengalce, Portekizce, Fransızca, Almanca, Hintçe, Lehçe, Vietnamca (14)</p></div>
+        <div class="qa-item"><p class="qa-q">Fiyat</p><p class="qa-a">Ücretsiz kullanılabilir. Ücretli planlar: Pro, Premium ve Premium+</p></div>
+        <div class="qa-item"><p class="qa-q">Geliştirici</p><p class="qa-a">H Company</p></div>
+      </div>
+
+      <h2>Özellikler</h2>
+
+      <ul>
+        <li><strong>Kelimeyle kayıt</strong> — belirlediğiniz bir kelime duyulduğunda kayıt başlar. Birden fazla kelime kaydedilebilir.</li>
+        <li><strong>30 saniyelik ön kayıt</strong> — kayıt başlamadan önceki 30 saniye de saklanır.</li>
+        <li><strong>Cihaz üzerinde tanıma</strong> — kelimeyi dinleme işi telefonda yapılır.</li>
+        <li><strong>Kayıt süresi</strong> — 10 dakika, 30 dakika, 1 saat veya elle durdurma.</li>
+        <li><strong>Kalıcı bildirim</strong> — kayıt boyunca görünür, kapatılamaz.</li>
+      </ul>
+
+      <h2>Sesli asistandan farkı</h2>
+
+      <p>Siri ya da Bixby <strong>sahibinin sesini tanımak</strong> ve çağrıldığında yanıt vermek üzere tasarlanmıştır. Çağırdığınızda ekran açılır ve yanıt yüksek sesle verilir. Konuşma kesilir ve karşınızdaki bunu fark eder.</p>
+
+      <p>TalkSafe <strong>kelimenin kendisini, kimin söylediğinden bağımsız olarak algılar.</strong> Belirlediğiniz kelimenin sizin söyleyeceğiniz bir kelime olması gerekmez. Bu, özellikle konuşamadığınız ya da elleriniz dolu olduğu anlarda önemlidir.</p>
+
+      <p>Kayıt, ekran kilitliyken de başlar; başladığı anda ses çıkmaz ve görünür bir değişiklik olmaz.</p>
+
+      <h2>Planlar</h2>
+
+      <p>Uygulama ücretsiz kullanılabilir; üzerinde üç ücretli seviye vardır.</p>
+
+      <ul>
+        <li><strong>Ücretsiz</strong> — en fazla 5 anahtar kelime, her biri en fazla 30 dakikalık kayıt, reklamlı</li>
+        <li><strong>Pro</strong> — anahtar kelime ve kayıt süresi sınırı yok, reklamsız</li>
+        <li><strong>Premium</strong> — Pro'daki her şey, artı yapay zekâ özetleri ve bulut yedekleme</li>
+        <li><strong>Premium+</strong> — yapay zekâ özet süresi ve bulut depolama sınırları olmadan Premium</li>
+      </ul>
+
+      <p>Kelimeyle kayıt ve 30 saniyelik ön kayıt ücretsiz sürümde de çalışır. Fiyatlar Google Play'de gösterilir.</p>
+
+      <h2>Diğer kayıt uygulamalarından farkı</h2>
+
+      <p>Kayıt başlamadan önceki sesi saklamak tek başına benzersiz değildir; bazı uygulamalar sürekli bir arabellek sunar. Ancak o uygulamalarda arabelleğin saklanması için yine birinin bir tuşa basması gerekir.</p>
+
+      <p>TalkSafe <strong>ön kaydı, söylenen bir kelime olan tetikleyiciyle</strong> birleştirir. Tuşa basmak gerekmediği için, telefona uzanmanın mümkün ya da uygun olmadığı durumlarda da kayıt başlar.</p>
+
+      <h2>Yapmadıkları</h2>
+
+      <p>TalkSafe, kullanıcının kaydedilen konuşmanın bir tarafı olduğunu varsayar.</p>
+
+      <p>Kayıt süresince kapatılamayan bir bildirim görünür kalır. Kaydın yapıldığını gizlemeye yarayan bir özellik yoktur ve planlanmamaktadır.</p>
+
+      <p>Hukuk ülkeden ülkeye değişir. <strong>Türkiye'de</strong> katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek, Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre altı aydan iki yıla kadar hapis veya adli para cezası gerektiren bir suçtur. Yargıtay, kişinin tehdit veya hakarete uğradığı ve bunu başka bir yolla ispat etme imkânının bulunmadığı durumlarda böyle bir kaydı hukuka uygun kabul eden kararlar vermiştir. Tüm katılımcıların rızası olduğunda kayıt sorun oluşturmaz: toplantılar, dersler, röportajlar ya da kendi sesli notlarınız gibi.</p>
+
+      <h2>Daha fazlası</h2>
+
+      <ul>
+        <li><a href="{{ '/blog/tr/hands-free-recording/' | relative_url }}">Telefona dokunmadan kayda nasıl başlanır</a></li>
+      </ul>
+
+    </div>
+  </article>
+
+  <aside class="endcard">
+    <p class="endcard-label">Google Play</p>
+    <p class="endcard-name">TalkSafe</p>
+    <p class="endcard-desc">Seçtiğiniz bir kelimeyi duyduğunda kayda başlar ve önceki 30 saniyeyi de saklar.</p>
+    <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">Google Play'de görüntüle</a>
+  </aside>
+</main>
+
+<footer class="colophon">
+  <p>H Company</p>
+</footer>
+</body>
+</html>

@@ -2,12 +2,12 @@
 layout: null
 ---
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="fr">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>블로그 | {{ site.title }}</title>
-<meta name="description" content="녹음과 기록에 관해 알아두면 좋은 것들.">
+<title>Blog | H Company</title>
+<meta name="description" content="Notes sur l'enregistrement, et sur la façon de garder une trace de ce qui a été dit.">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 
 <link rel="alternate" hreflang="ko" href="{{ '/blog/ko/' | absolute_url }}">
@@ -22,24 +22,24 @@ layout: null
 <link rel="alternate" hreflang="x-default" href="{{ '/blog/en/' | absolute_url }}">
 
 <meta property="og:type" content="website">
-<meta property="og:title" content="블로그 | {{ site.title }}">
-<meta property="og:description" content="녹음과 기록에 관해 알아두면 좋은 것들.">
+<meta property="og:title" content="Blog | H Company">
+<meta property="og:description" content="Notes sur l'enregistrement, et sur la façon de garder une trace de ce qui a été dit.">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:site_name" content="H Company">
 
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body>
 <header class="masthead">
-  <a class="wordmark" href="{{ '/' | relative_url }}">에이치컴퍼니</a>
-  <nav class="langs" aria-label="언어">
-    <span class="lang is-current">ko</span>
+  <a class="wordmark" href="{{ '/' | relative_url }}">H Company</a>
+  <nav class="langs" aria-label="Langue">
+    <a class="lang" href="{{ '/blog/ko/' | relative_url }}">ko</a>
     <a class="lang" href="{{ '/blog/en/' | relative_url }}">en</a>
     <a class="lang" href="{{ '/blog/ja/' | relative_url }}">ja</a>
     <a class="lang" href="{{ '/blog/es/' | relative_url }}">es</a>
     <a class="lang" href="{{ '/blog/it/' | relative_url }}">it</a>
     <a class="lang" href="{{ '/blog/de/' | relative_url }}">de</a>
-    <a class="lang" href="{{ '/blog/fr/' | relative_url }}">fr</a>
+    <span class="lang is-current">fr</span>
     <a class="lang" href="{{ '/blog/tr/' | relative_url }}">tr</a>
     <a class="lang" href="{{ '/blog/pt-br/' | relative_url }}">pt</a>
   </nav>
@@ -47,11 +47,11 @@ layout: null
 
 <main>
   <div class="index-head">
-    <h1>블로그</h1>
+    <h1>Blog</h1>
   </div>
 
   <div class="list">
-    {% assign posts = site.posts | where: "lang", "ko" | sort: "date" | reverse %}
+    {% assign posts = site.posts | where: "lang", "fr" | sort: "date" | reverse %}
     {% for post in posts %}
     <div class="list-item">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
@@ -62,7 +62,7 @@ layout: null
 </main>
 
 <footer class="colophon">
-  <p>{{ site.title }}</p>
+  <p>H Company</p>
 </footer>
 </body>
 </html>
