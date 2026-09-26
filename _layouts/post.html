@@ -78,12 +78,17 @@
   <a class="wordmark" href="{{ '/blog/' | append: page.lang | downcase | append: '/' | relative_url }}">{% case page.lang %}{% when 'ko' %}에이치컴퍼니{% when 'ja' %}エイチカンパニー{% else %}H Company{% endcase %}</a>
   {% if siblings.size > 1 %}
   <nav class="langs" aria-label="Language">
+    {% assign lang_order = "ko,en,ja,es,it,de,fr,tr,pt-BR" | split: "," %}
+    {% for code in lang_order %}
     {% for p in siblings %}
+      {% if p.lang == code %}
       {% if p.lang == page.lang %}
         <span class="lang is-current">{{ p.lang }}</span>
       {% else %}
         <a class="lang" href="{{ p.url | relative_url }}">{{ p.lang }}</a>
       {% endif %}
+      {% endif %}
+    {% endfor %}
     {% endfor %}
   </nav>
   {% endif %}

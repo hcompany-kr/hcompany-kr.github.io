@@ -22,6 +22,8 @@ faq:
     a: "Não. Como a detecção não está ligada a uma voz, dá para escolher palavras que outra pessoa provavelmente vai dizer, como prova numa aula. Também dá para escolher uma palavra sua para começar uma nota de voz sem as mãos enquanto dirige ou cozinha."
   - q: "No Brasil é permitido gravar uma conversa da qual eu participo?"
     a: "Sim. O STF fixou em 2009, no Tema 237 de repercussão geral (RE 583.937), que é lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro. Em Portugal é diferente: o artigo 199.º do Código Penal pune quem, sem consentimento, grava palavras não destinadas ao público, mesmo que lhe sejam dirigidas."
+  - q: "Qual é o jeito mais fácil de pedir consentimento para gravar?"
+    a: "Com o TalkSafe, dá para definir como palavra-chave uma palavra da sua própria pergunta, como gravar. Quando você pergunta se pode gravar, a gravação começa naquele momento e a concordância da outra pessoa fica no arquivo, sem precisar ligar um gravador na frente dela antes de perguntar."
 ---
 
 Essa pergunta costuma surgir num momento bem específico. Você está com as mãos ocupadas, ou pegar o celular naquela hora é impossível, e é justamente agora que alguém diz algo que você queria guardar.
@@ -86,6 +88,14 @@ Não existe uma lista universal. Mas duas regras valem sempre.
 **Específicas, não genéricas.** "Problema" aparece em qualquer conversa. "Prova", não.
 
 Uma dica prática: escolha duas palavras que provavelmente aparecem na mesma frase, para que qualquer uma delas dispare a gravação.
+
+## Pedir o consentimento sem interromper a conversa
+
+Quando é preciso o consentimento de todos, ou quando você simplesmente prefere perguntar, a palavra-chave serve exatamente para isso. Escolha uma palavra da sua própria pergunta, por exemplo **"gravar"**.
+
+Depois é só perguntar: "Posso gravar?" A gravação começa no exato momento em que você pergunta, e o "pode" da outra pessoa fica no arquivo.
+
+Não tem gravador em cima da mesa, e você não precisa apertar gravar na frente de todo mundo antes de perguntar. A pergunta continua sendo uma pergunta normal, e a concordância fica registrada do mesmo jeito.
 
 ## O que este app não faz
 

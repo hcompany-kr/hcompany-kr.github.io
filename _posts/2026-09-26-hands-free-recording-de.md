@@ -22,6 +22,8 @@ faq:
     a: "Nein. Weil die Erkennung nicht an eine bestimmte Stimme gebunden ist, kann man auch Wörter festlegen, die andere wahrscheinlich sagen, etwa ein Dozent, der ‚Prüfung‘ sagt. Gleichzeitig kann man ein eigenes Wort wählen, um beim Autofahren oder Kochen freihändig eine Sprachnotiz zu starten."
   - q: "Darf man in Deutschland ein Gespräch aufnehmen, an dem man teilnimmt?"
     a: "Nur mit Einwilligung der anderen Beteiligten. Nach § 201 StGB ist es strafbar, das nichtöffentlich gesprochene Wort eines anderen unbefugt aufzunehmen, auch wenn man selbst am Gespräch teilnimmt. Mit Einwilligung aller, etwa bei einer Besprechung, einer Vorlesung, die aufgezeichnet werden darf, oder bei eigenen Sprachnotizen, ist die Aufnahme zulässig."
+  - q: "Wie holt man am einfachsten die Einwilligung für eine Aufnahme ein?"
+    a: "Mit TalkSafe kann man ein Wort aus der eigenen Frage als Schlüsselwort festlegen, etwa ‚aufnehmen‘. Fragt man dann ‚Darf ich das aufnehmen?‘, beginnt die Aufnahme genau in diesem Moment, und die Zustimmung des Gegenübers ist in der Datei festgehalten, ohne dass vorher sichtbar ein Aufnahmegerät eingeschaltet werden muss."
 ---
 
 Diese Frage entsteht meist in einem ganz bestimmten Moment. Die Hände sind nicht frei, oder gerade jetzt zum Telefon zu greifen ist unmöglich – und genau jetzt wird etwas gesagt, das man festhalten möchte.
@@ -86,6 +88,14 @@ Eine allgemeingültige Liste gibt es nicht. Zwei Regeln gelten aber überall.
 **Konkret statt allgemein.** ‚Problem‘ kommt in jedem Gespräch vor. ‚Prüfung‘ nicht.
 
 Ein praktischer Trick: Legen Sie zwei Wörter fest, die wahrscheinlich im selben Satz vorkommen, sodass eines davon den Start auslöst.
+
+## Einwilligung einholen, ohne das Gespräch zu unterbrechen
+
+Wo die Einwilligung aller Beteiligten nötig ist, lässt sich das Schlüsselwort genau dafür nutzen. Legen Sie ein Wort aus Ihrer Frage fest, zum Beispiel **„aufnehmen“**.
+
+Dann fragen Sie einfach: „Darf ich das aufnehmen?“ In dem Moment, in dem Sie fragen, beginnt die Aufnahme – und das „Ja“ Ihres Gegenübers ist in der Datei.
+
+Es liegt kein Aufnahmegerät auf dem Tisch, und Sie müssen nicht erst sichtbar auf Aufnahme drücken und danach fragen. Die Frage bleibt eine ganz normale Frage, und die Zustimmung ist trotzdem festgehalten.
 
 ## Was diese App nicht macht
 

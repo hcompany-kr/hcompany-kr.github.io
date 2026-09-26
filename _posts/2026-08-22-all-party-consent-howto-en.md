@@ -19,7 +19,7 @@ faq:
   - q: "How does a keyword-triggered recorder help with consent?"
     a: "Because the question itself can be the trigger. Set the keyword to a word in your request, and the recording starts as you ask — which means the other person's answer is captured in the file. With a normal recorder you have to press record before asking, so the agreement lands outside the recording or forces you to explain later that it happened."
   - q: "What about the audio captured before consent?"
-    a: "TalkSafe saves the 30 seconds preceding the trigger, so a short stretch before the exchange is in the file. If you would rather it wasn't there, the trim function removes it and you keep the rest."
+    a: "TalkSafe saves the 30 seconds preceding the trigger, so a short stretch before the exchange is in the file. If you would rather it wasn't there, the trim function saves a new file without it, and the original stays as it was."
   - q: "Is there anything that stays off-limits?"
     a: "One thing, everywhere. Recording a conversation you are not part of — leaving a device running in a room you have left, capturing other people's conversations — is a serious criminal offence in every state, and consent from someone else does not cure it."
 ---
@@ -67,7 +67,7 @@ That ordering is not available on a recorder with a button, because the button a
 
 TalkSafe also saves the half-minute preceding the trigger, which means a short stretch of conversation from before you asked is attached to the front of the file.
 
-Often that is the point — it is the part that made you decide to record. If you would rather it wasn't in there, **the trim function removes it** and the rest of the file stays intact.
+Often that is the point — it is the part that made you decide to record. If you would rather it wasn't in there, **the trim function saves a new file without it**, and the original recording stays as it was.
 
 Worth knowing either way, so it is a decision rather than a surprise.
 

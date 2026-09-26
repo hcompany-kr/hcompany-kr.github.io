@@ -22,6 +22,8 @@ faq:
     a: "Non. Comme la détection n'est pas liée à une voix, on peut choisir des mots qu'une autre personne dira probablement, comme « examen » dans un cours. On peut aussi choisir un mot à soi pour lancer une note vocale mains libres en conduisant ou en cuisinant."
   - q: "En France, peut-on enregistrer une conversation à laquelle on participe ?"
     a: "Pas sans le consentement des autres. L'article 226-1 du Code pénal punit d'un an d'emprisonnement et de 45 000 euros d'amende le fait d'enregistrer sans consentement des paroles prononcées à titre privé ou confidentiel, même lorsqu'on participe à la conversation. Avec le consentement de tous, par exemple pour une réunion, un entretien ou ses propres notes vocales, l'enregistrement ne pose pas de problème."
+  - q: "Quelle est la façon la plus simple d'obtenir le consentement pour enregistrer ?"
+    a: "Avec TalkSafe, on peut choisir comme mot-clé un mot de sa propre question, par exemple « enregistrer ». En demandant « Je peux enregistrer ? », l'enregistrement démarre à ce moment-là et l'accord de l'interlocuteur est conservé dans le fichier, sans avoir à allumer un enregistreur devant lui avant de poser la question."
 ---
 
 Cette question naît souvent à un moment bien précis. Vous n'avez pas les mains libres, ou prendre votre téléphone à cet instant est impossible, et c'est justement maintenant qu'est dit quelque chose que vous voudriez garder.
@@ -86,6 +88,14 @@ Il n'existe pas de liste universelle. Deux règles valent partout.
 **Précis plutôt que général.** « Problème » apparaît dans n'importe quelle conversation. « Examen », non.
 
 Une astuce pratique : choisissez deux mots qui ont des chances d'apparaître dans la même phrase, pour que l'un ou l'autre déclenche l'enregistrement.
+
+## Demander le consentement sans casser la conversation
+
+Là où le consentement de tous est nécessaire, le mot-clé peut servir exactement à ça. Choisissez un mot de votre propre question, par exemple **« enregistrer »**.
+
+Il suffit ensuite de demander : « Je peux enregistrer ? » L'enregistrement démarre au moment même où vous posez la question, et le « oui » de votre interlocuteur se retrouve dans le fichier.
+
+Pas d'appareil posé sur la table, pas besoin d'appuyer ostensiblement sur enregistrer avant de demander. La question reste une question ordinaire, et l'accord est quand même conservé.
 
 ## Ce que cette application ne fait pas
 

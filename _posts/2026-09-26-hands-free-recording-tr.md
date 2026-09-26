@@ -22,6 +22,8 @@ faq:
     a: "Hayır. Algılama belirli bir sese bağlı olmadığı için, bir derste hocanın söyleyeceği sınav gibi başkasının söylemesi muhtemel kelimeler seçebilirsiniz. Araba kullanırken ya da yemek yaparken eller serbest sesli not başlatmak için kendi kelimenizi de seçebilirsiniz."
   - q: "Türkiye'de katıldığım bir konuşmayı kaydetmek suç mu?"
     a: "Diğer konuşanların rızası yoksa evet. Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre, katıldığı aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydeden kişi altı aydan iki yıla kadar hapis veya adli para cezasıyla cezalandırılır. Tüm katılımcıların rızası olduğunda, örneğin bir toplantıda ya da kendi sesli notlarınızda, kayıt sorun oluşturmaz."
+  - q: "Kayıt için rıza almanın en kolay yolu nedir?"
+    a: "TalkSafe ile kendi sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini, anahtar kelime olarak belirleyebilirsiniz. Kayıt alabilir miyim diye sorduğunuzda kayıt tam o anda başlar ve karşınızdakinin onayı dosyada yer alır; soruyu sormadan önce göz önünde bir kayıt cihazı açmanız gerekmez."
 ---
 
 Bu soru genellikle belli bir anda ortaya çıkar. Elleriniz dolu ya da tam o anda telefona uzanmak mümkün değil; saklamak istediğiniz bir şey de tam o sırada söyleniyor.
@@ -86,6 +88,14 @@ Herkese uyan bir liste yok. Ama iki kural her yerde geçerli.
 **Genel değil, belirli.** "Sorun" her konuşmada geçer. "Sınav" geçmez.
 
 Pratik bir ipucu: aynı cümlede geçmesi muhtemel iki kelime seçin; hangisi söylenirse kayıt başlasın.
+
+## Konuşmayı bölmeden rıza almak
+
+Tüm katılımcıların rızasının gerektiği yerlerde anahtar kelime tam da bunun için kullanılabilir. Kendi sorunuzdaki bir kelimeyi seçin, örneğin **"kayıt"**.
+
+Sonra sadece sorun: "Kayıt alabilir miyim?" Soruyu sorduğunuz anda kayıt başlar ve karşınızdakinin "evet"i dosyada olur.
+
+Masada bir kayıt cihazı durmaz; önce göz önünde kayda basıp sonra sormanız gerekmez. Soru sıradan bir soru olarak kalır, rıza da kayıtta yer alır.
 
 ## Bu uygulamanın yapmadığı şeyler
 
