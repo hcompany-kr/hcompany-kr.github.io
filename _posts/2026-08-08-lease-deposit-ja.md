@@ -135,4 +135,6 @@ SiriやBixbyは端末の持ち主の声を聞き分けて呼び出される仕�
 
 
 
+内見で仲介業者が何を説明しなければならないか、16か国の比較は[内見で仲介業者が言ったこと、あとで証明できますか](https://hcompany-kr.github.io/blog/ja/agent-explanation/)にまとめています。
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">この記事は一般的な情報提供であり、法的助言ではありません。個別の事案については弁護士にご相談ください。</p>

@@ -114,4 +114,6 @@ faq:
 
 
 
+중개사가 집을 보여주며 한 설명에 어떤 의무와 책임이 따르는지, 16개국 비교는 [집 볼 때 중개사가 한 말, 나중에 증명할 수 있나요](https://hcompany-kr.github.io/blog/ko/agent-explanation/)에 정리했습니다.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">이 글은 일반적인 정보 제공을 위한 것이며 법률 자문이 아닙니다. 구체적인 사안은 변호사와 상담하시기 바랍니다.</p>

@@ -126,4 +126,6 @@ Lo stesso, dall'altra parte.
 
 **E quanto detto a voce durante la visita vincola.** Un impegno preso per chiudere l'affitto torna alla fine del contratto.
 
+Cosa deve dirti l'agente durante la visita, a confronto in sedici paesi, è in [quello che ti ha detto l'agente durante la visita: puoi dimostrarlo dopo?](https://hcompany-kr.github.io/blog/it/agent-explanation/)
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso concreto rivolgiti a un avvocato o a un'associazione degli inquilini.</p>

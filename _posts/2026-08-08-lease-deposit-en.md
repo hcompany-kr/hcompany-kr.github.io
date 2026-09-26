@@ -104,4 +104,6 @@ Because the 30 seconds before that point are saved too, a promise you only regis
 
 
 
+What an agent has to tell you at a viewing, compared across sixteen countries, is in [what the agent told you at the viewing: can you prove it later?](https://hcompany-kr.github.io/blog/en/agent-explanation/)
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Landlord-tenant rules are set state by state; for a specific situation, consult a lawyer or a local legal aid office.</p>

@@ -116,4 +116,6 @@ Fotos del primer día, contadores anotados, y por escrito cualquier compromiso d
 
 Es menos trabajo que una reclamación, y en la mayoría de los casos hace que no exista.
 
+Qué tiene que contarte el agente en la visita, comparado en dieciséis países, está en [lo que te dijo el agente en la visita: ¿puedes probarlo después?](https://hcompany-kr.github.io/blog/es/agent-explanation/)
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Existen reglas autonómicas sobre depósito de fianzas y sobre zonas tensionadas. Para un caso concreto, consulta con un abogado o con una oficina municipal de vivienda.</p>
