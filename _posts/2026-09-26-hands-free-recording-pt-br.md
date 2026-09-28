@@ -111,3 +111,5 @@ Com o consentimento de todos, gravar não é problema nos dois países: reuniõe
 ## Resumindo
 
 Se você precisa que uma gravação comece com o celular no bolso e sem poder falar nem pegá-lo, o gravador por palavra-chave é a única das quatro opções que faz isso. Se você também precisa do que foi dito logo antes, o que você deve procurar é o buffer contínuo.
+
+Por que apertar gravar quase sempre é tarde demais está em [Por que apertar gravar é sempre tarde demais](/blog/pt-br/recording-delay/), e os tipos de gravação automática em [Nem todo gravador “automático” faz a mesma coisa](/blog/pt-br/auto-recording-types/).

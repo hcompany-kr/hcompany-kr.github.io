@@ -112,3 +112,5 @@ TalkSafe geht davon aus, dass Sie ein Gespräch aufnehmen, an dem Sie selbst tei
 ## Kurz gesagt
 
 Wenn eine Aufnahme starten soll, während das Telefon in der Tasche steckt und Sie weder sprechen noch hingreifen können, ist die Aufnahme per Schlüsselwort die einzige der vier Möglichkeiten, die das schafft. Wenn Sie zusätzlich brauchen, was kurz davor gesagt wurde, ist der laufende Puffer das Entscheidende.
+
+Warum der Aufnahmeknopf fast immer zu spät kommt, steht in [Warum der Druck auf Aufnahme immer zu spät kommt](/blog/de/recording-delay/), und welche Arten automatischer Aufnahme es gibt, in [„Automatische Aufnahme“ heißt nicht immer dasselbe](/blog/de/auto-recording-types/).

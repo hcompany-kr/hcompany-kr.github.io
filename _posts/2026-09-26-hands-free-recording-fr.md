@@ -113,3 +113,5 @@ TalkSafe part du principe que vous enregistrez une conversation à laquelle vous
 ## En bref
 
 Si un enregistrement doit démarrer pendant que votre téléphone est dans votre poche et que vous ne pouvez ni parler ni le prendre, l'enregistreur à mot-clé est la seule des quatre options qui le fait. Si vous avez aussi besoin de ce qui a été dit juste avant, c'est la mémoire tampon qu'il faut chercher.
+
+Pourquoi on appuie presque toujours trop tard est expliqué dans [Pourquoi on appuie toujours trop tard sur enregistrer](/blog/fr/recording-delay/), et les différents types d'enregistrement automatique dans [Tous les enregistreurs « automatiques » ne font pas la même chose](/blog/fr/auto-recording-types/).

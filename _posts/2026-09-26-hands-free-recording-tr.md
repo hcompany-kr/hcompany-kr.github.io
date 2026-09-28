@@ -110,3 +110,5 @@ TalkSafe, katıldığınız bir konuşmayı kaydettiğinizi varsayar. Bunun serb
 ## Kısacası
 
 Telefon cebinizdeyken, ne konuşabildiğiniz ne de ona uzanabildiğiniz bir anda kaydın başlaması gerekiyorsa, dört seçenekten bunu yapabilen tek yöntem anahtar kelimeyle kayıttır. Hemen öncesinde söyleneni de istiyorsanız, aranacak özellik sürekli arabellektir.
+
+Kayıt tuşuna neden neredeyse her zaman geç basıldığı [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/) yazısında, otomatik kayıt türleri ise [Her “otomatik” kayıt uygulaması aynı şeyi yapmaz](/blog/tr/auto-recording-types/) yazısında.
