@@ -114,3 +114,5 @@ Indépendamment du type, quelques points décident si un enregistreur est vraime
 Un seul mot, « automatique », pour cinq comportements bien différents. Aucun n'est meilleur en général : le bon dépend du genre de moment que vous ne voulez pas perdre.
 
 Pourquoi on appuie presque toujours trop tard est expliqué dans [Pourquoi on appuie toujours trop tard sur enregistrer](/blog/fr/recording-delay/). Les façons de démarrer sans les mains sont détaillées dans [Lancer un enregistrement sans toucher son téléphone](/blog/fr/hands-free-recording/).
+
+Comment se comparent enregistreurs à clip, appareils VOX, prise de notes par IA et applications au quotidien est détaillé dans [Ce qui distingue les enregistreurs, c'est le moment où ils démarrent](/blog/fr/choosing-a-recorder/).

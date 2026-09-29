@@ -94,3 +94,5 @@ Onde é preciso o consentimento de todos, ou quando você simplesmente prefere p
 - Salvar a janela de antes do toque fecha essa lacuna por completo.
 - Começar pela voz deixa a conversa intacta.
 - Escolha uma palavra rara no dia a dia, mas natural no momento que importa.
+
+Como achar a sua própria palavra-chave está em [Primeiro você diz alguma coisa](/blog/pt-br/say-it-first/).

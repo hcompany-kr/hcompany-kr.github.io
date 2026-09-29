@@ -92,3 +92,5 @@ Anahtar kelime tam burada işe yarar. "Kayıt" kelimesiyle, "Kayıt alabilir miy
 - Dokunmadan önceki pencereyi saklamak bu boşluğu tamamen kapatır.
 - Sesle başlatmak konuşmayı bozmaz.
 - Günlük konuşmada nadir, ama önemli anda doğal olarak söylenen bir kelime seçin.
+
+Kendi anahtar kelimenizi nasıl bulacağınız [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.

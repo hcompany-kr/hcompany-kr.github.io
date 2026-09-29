@@ -114,3 +114,5 @@ Unabhängig von der Art entscheiden ein paar Dinge darüber, ob eine Aufnahme-Ap
 Ein Wort, „automatisch“, für fünf recht verschiedene Verhaltensweisen. Keines ist grundsätzlich besser – was passt, hängt davon ab, welche Art von Moment Sie nicht verlieren wollen.
 
 Warum der Druck auf Aufnahme fast immer zu spät kommt, steht in [Warum der Druck auf Aufnahme immer zu spät kommt](/blog/de/recording-delay/). Die freihändigen Wege im Einzelnen stehen in [Aufnahme starten, ohne das Telefon zu berühren](/blog/de/hands-free-recording/).
+
+Wie sich Anstecker-Recorder, VOX-Geräte, KI-Notizgeräte und Telefon-Apps im Alltag unterscheiden, steht in [Was Aufnahmegeräte unterscheidet, ist, wann sie starten](/blog/de/choosing-a-recorder/).

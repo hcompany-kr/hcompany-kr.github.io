@@ -92,3 +92,5 @@ C'est précisément là que le mot-clé aide. Avec « enregistrer », l'enregist
 - Garder la fenêtre d'avant l'appui supprime complètement cet écart.
 - Démarrer à la voix laisse la conversation intacte.
 - Choisissez un mot rare dans la vie courante mais naturel au moment qui compte.
+
+Comment trouver son propre mot-clé est expliqué dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).

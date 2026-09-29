@@ -114,3 +114,5 @@ Türünden bağımsız olarak, bir kayıt uygulamasının gerçekten kullanışl
 "Otomatik" tek bir kelime, ama birbirinden oldukça farklı beş davranışı kapsıyor. Hiçbiri genel olarak daha iyi değil; hangisinin uyduğu, kaybetmek istemediğiniz anın türüne bağlı.
 
 Kayıt tuşuna neden neredeyse her zaman geç basıldığı [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/) yazısında. Eller serbest başlatmanın yolları ise [Telefona dokunmadan kayda nasıl başlanır](/blog/tr/hands-free-recording/) yazısında.
+
+Yakaya takılan cihazların, VOX cihazlarının, yapay zekâlı not cihazlarının ve telefon uygulamalarının günlük kullanımda nasıl ayrıştığı [Kayıt cihazlarını birbirinden ayıran, ne zaman başladıklarıdır](/blog/tr/choosing-a-recorder/) yazısında.

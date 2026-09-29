@@ -114,3 +114,5 @@ Independente do tipo, algumas coisas decidem se um gravador é realmente usável
 Uma palavra só, "automático", para cinco comportamentos bem diferentes. Nenhum é melhor em geral: o que serve depende do tipo de momento que você não quer perder.
 
 Por que apertar gravar quase sempre é tarde demais está em [Por que apertar gravar é sempre tarde demais](/blog/pt-br/recording-delay/). Os jeitos de começar sem as mãos estão em [Como começar a gravar sem tocar no celular](/blog/pt-br/hands-free-recording/).
+
+Como gravadores de lapela, aparelhos VOX, gravadores com IA e apps se comparam no dia a dia está em [O que separa os gravadores é quando eles começam](/blog/pt-br/choosing-a-recorder/).
