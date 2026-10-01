@@ -132,4 +132,6 @@ Un deuxième téléphone, un dictaphone ou le haut-parleur ne change rien au con
 
 Les cinq sens de « enregistrement automatique », y compris celui qui démarre avec un appel, sont détaillés dans [Tous les enregistreurs « automatiques » ne font pas la même chose](/blog/fr/auto-recording-types/). Les façons de démarrer sans les mains sont dans [Lancer un enregistrement sans toucher son téléphone](/blog/fr/hands-free-recording/).
 
+Ce qu'il faut faire du fichier ensuite, et pourquoi le diffuser obéit à ses propres règles, est expliqué dans [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les informations sur les appareils et les régions reposent sur des annonces des fabricants et des articles qui changent souvent ; vérifiez votre propre application Téléphone. Information générale, pas un conseil juridique — le droit de l'enregistrement diffère d'un pays à l'autre.</p>

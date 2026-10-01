@@ -105,3 +105,5 @@ Bu, herkesin rızasının gerektiği yerde önemlidir. **Türkiye'de** katıldı
 Avrupa'da yaşıyorsanız geçerli olan bulunduğunuz ülkenin kanunudur. **Almanya**, **Fransa** ve **İsviçre'de** katıldığınız bir konuşmayı rıza olmadan kaydetmek de suçtur. **Avusturya'da** bu kayıt Ceza Kanunu'nun 120. paragrafının 1. fıkrasına girmez, ama rıza olmadan üçüncü kişilere vermek suçtur. **Belçika** ve **Hollanda'da** katılımcının kendi konuşmasını kaydetmesi suç değildir. Ülke ülke karşılaştırma [Android'de arama kaydı uygulamaları neden artık çalışmıyor](/blog/tr/call-recording-android/) yazısında.
 
 Kayıt tuşuna neden zaten geç basıldığı [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/) yazısında, eller serbest başlatmanın yolları [Telefona dokunmadan kayda nasıl başlanır](/blog/tr/hands-free-recording/) yazısında.
+
+Kayıttan sonra dosyayla ne yapılacağı ve yaymanın neden ayrı kuralları olduğu [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/) yazısında.

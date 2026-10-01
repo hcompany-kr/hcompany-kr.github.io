@@ -132,4 +132,6 @@ Ein zweites Telefon, ein Diktiergerät oder der Lautsprecher ändert nichts dara
 
 Welche Arten automatischer Aufnahme es gibt, einschließlich der Aufnahme beim Zustandekommen eines Anrufs, steht in [„Automatische Aufnahme“ heißt nicht immer dasselbe](/blog/de/auto-recording-types/). Wie man eine Aufnahme ganz ohne Hände startet, steht in [Aufnahme starten, ohne das Telefon zu berühren](/blog/de/hands-free-recording/).
 
+Was man nach der Aufnahme mit der Datei tun sollte – und warum das Weitergeben eigene Regeln hat –, steht in [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Geräten und Regionen beruhen auf Herstellerangaben und Berichten, die sich häufig ändern; prüfen Sie Ihre eigene Telefon-App. Allgemeine Information, keine Rechtsberatung – das Aufnahmerecht unterscheidet sich von Land zu Land.</p>

@@ -118,4 +118,6 @@ Um segundo celular, um gravador ou o viva-voz não mudam o consentimento exigido
 
 Os cinco significados de "gravação automática", incluindo a que começa quando uma ligação é conectada, estão em [Nem todo gravador “automático” faz a mesma coisa](/blog/pt-br/auto-recording-types/). Os jeitos de começar sem as mãos estão em [Como começar a gravar sem tocar no celular](/blog/pt-br/hands-free-recording/).
 
+O que fazer com o arquivo depois, e por que divulgar tem regras próprias, está em [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">As informações sobre aparelhos e regiões se baseiam em anúncios dos fabricantes e em reportagens que mudam com frequência; confira o seu próprio app de Telefone. Informação geral, não é aconselhamento jurídico — a lei sobre gravação muda de país para país.</p>

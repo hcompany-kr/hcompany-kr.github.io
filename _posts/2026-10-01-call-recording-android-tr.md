@@ -132,4 +132,6 @@ Sonra sorun: "Görüşmeyi kayda alabilir miyim?" Kayıt siz soruyu sorduğunuz 
 
 "Otomatik kayıt"ın beş farklı anlamı, arama bağlandığında başlayan kayıt dahil, [Her “otomatik” kayıt uygulaması aynı şeyi yapmaz](/blog/tr/auto-recording-types/) yazısında. Eller serbest başlatmanın yolları [Telefona dokunmadan kayda nasıl başlanır](/blog/tr/hands-free-recording/) yazısında.
 
+Kayıttan sonra dosyayla ne yapılacağı ve yaymanın neden ayrı kuralları olduğu [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Cihaz ve bölgelerle ilgili bilgiler üreticilerin duyurularına ve sık değişen haberlere dayanır; kendi arama uygulamanızı kontrol edin. Genel bilgidir, hukuki tavsiye değildir — kayıtla ilgili kanunlar ülkeden ülkeye değişir.</p>
