@@ -78,7 +78,7 @@ Bunun önerilen yol olmamasının bir sebebi var.
 
 **Katılmadığınız konuşmaları da kaydedersiniz.** Yanınızda konuşan iş arkadaşları, odanın öbür ucundan söylenenler. Telefonu üzerinizde taşımanız bunu değiştirmez; orada bulunmak, konuşmaya katılmak demek değildir.
 
-**Türkiye'de** Türk Ceza Kanunu'nun 133. maddesi, kişiler arasındaki aleni olmayan konuşmaları rızaları olmadan dinlemeyi veya kaydetmeyi suç sayar. Katıldığınız bir söyleşiyi diğerlerinin rızası olmadan kaydetmek bile aynı maddenin 2. fıkrasına göre altı aydan iki yıla kadar hapis veya adli para cezası gerektirir.
+**Türkiye'de** Türk Ceza Kanunu'nun 133. maddesi, kişiler arasındaki aleni olmayan konuşmaları rızaları olmadan dinlemeyi veya kaydetmeyi suç sayar. Katıldığınız bir söyleşiyi diğerlerinin rızası olmadan kaydetmek bile aynı maddenin 2. fıkrasına göre altı aydan iki yıla kadar hapis veya adli para cezası gerektirir. Avrupa'da da durum farklı değil: Almanya, Avusturya, Fransa, Belçika ve Hollanda'da başkaları arasındaki aleni olmayan bir konuşmayı rızaları olmadan kaydetmek suçtur.
 
 **Üstelik sonra aleyhinize işler.** Sekiz saatlik bir dosya, birinin içindeki birkaç önemli dakikayı bulmak zorunda kalması demektir ve ilgisiz insanların özel konuşmaları da onunla birlikte gider. Yalnızca önemli olanı içeren bir dosya çok daha kullanışlıdır.
 
@@ -116,3 +116,5 @@ Türünden bağımsız olarak, bir kayıt uygulamasının gerçekten kullanışl
 Kayıt tuşuna neden neredeyse her zaman geç basıldığı [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/) yazısında. Eller serbest başlatmanın yolları ise [Telefona dokunmadan kayda nasıl başlanır](/blog/tr/hands-free-recording/) yazısında.
 
 Yakaya takılan cihazların, VOX cihazlarının, yapay zekâlı not cihazlarının ve telefon uygulamalarının günlük kullanımda nasıl ayrıştığı [Kayıt cihazlarını birbirinden ayıran, ne zaman başladıklarıdır](/blog/tr/choosing-a-recorder/) yazısında.
+
+Arama kaydı uygulamalarının neden artık çalışmadığı ve telefonda hâlâ neyin işe yaradığı [Android'de arama kaydı uygulamaları neden artık çalışmıyor, ve hâlâ ne çalışıyor](/blog/tr/call-recording-android/) yazısında.

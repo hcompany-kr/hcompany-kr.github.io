@@ -102,4 +102,6 @@ Yukarıdaki cümlelerden biri "Kayıt alabilir miyim?". Tam da bu soru tetikleyi
 
 Bu, herkesin rızasının gerektiği yerde önemlidir. **Türkiye'de** katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek, Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre altı aydan iki yıla kadar hapis veya adli para cezası gerektiren bir suçtur.
 
+Avrupa'da yaşıyorsanız geçerli olan bulunduğunuz ülkenin kanunudur. **Almanya**, **Fransa** ve **İsviçre'de** katıldığınız bir konuşmayı rıza olmadan kaydetmek de suçtur. **Avusturya'da** bu kayıt Ceza Kanunu'nun 120. paragrafının 1. fıkrasına girmez, ama rıza olmadan üçüncü kişilere vermek suçtur. **Belçika** ve **Hollanda'da** katılımcının kendi konuşmasını kaydetmesi suç değildir. Ülke ülke karşılaştırma [Android'de arama kaydı uygulamaları neden artık çalışmıyor](/blog/tr/call-recording-android/) yazısında.
+
 Kayıt tuşuna neden zaten geç basıldığı [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/) yazısında, eller serbest başlatmanın yolları [Telefona dokunmadan kayda nasıl başlanır](/blog/tr/hands-free-recording/) yazısında.

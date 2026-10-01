@@ -106,6 +106,8 @@ O TalkSafe parte do princípio de que você está gravando uma conversa da qual 
 - **Brasil:** o STF fixou em 2009, no Tema 237 de repercussão geral (RE 583.937), que **é lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro**.
 - **Portugal:** é diferente. O artigo 199.º do Código Penal pune quem, sem consentimento, grava palavras de outra pessoa não destinadas ao público, **mesmo que lhe sejam dirigidas**, com pena de prisão até 1 ano ou multa até 240 dias, salvo causa de justificação.
 
+Como isso se aplica a ligações, e o que o app de Telefone oferece, está em [Por que os apps de gravar ligação pararam de funcionar no Android](/blog/pt-br/call-recording-android/).
+
 Com o consentimento de todos, gravar não é problema nos dois países: reuniões em que todos concordaram, entrevistas, aulas que podem ser gravadas e suas próprias notas de voz. O TalkSafe funciona do mesmo jeito para tudo isso.
 
 ## Resumindo

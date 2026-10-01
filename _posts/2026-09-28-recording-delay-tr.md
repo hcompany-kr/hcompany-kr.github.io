@@ -84,6 +84,8 @@ Widget'lar, zamanlama ve sesli asistanlarla karşılaştırması [Telefona dokun
 
 **Türkiye'de** katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek, Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre **altı aydan iki yıla kadar hapis veya adli para cezası** gerektiren bir suçtur. Yargıtay, tehdit veya hakaretin başka bir yolla ispat edilemediği durumlarda böyle bir kaydı hukuka uygun kabul eden kararlar vermiştir.
 
+Avrupa'da yaşıyorsanız geçerli olan bulunduğunuz ülkenin kanunudur. **Almanya**, **Fransa** ve **İsviçre'de** katıldığınız bir konuşmayı rıza olmadan kaydetmek de suçtur. **Avusturya'da** bu kayıt Ceza Kanunu'nun 120. paragrafının 1. fıkrasına girmez, ama rıza olmadan üçüncü kişilere vermek suçtur. **Belçika** ve **Hollanda'da** katılımcının kendi konuşmasını kaydetmesi suç değildir. Ülke ülke karşılaştırma [Android'de arama kaydı uygulamaları neden artık çalışmıyor](/blog/tr/call-recording-android/) yazısında.
+
 Anahtar kelime tam burada işe yarar. "Kayıt" kelimesiyle, "Kayıt alabilir miyim?" diye sorduğunuz anda kayıt başlar ve "evet" dosyada olur. Önceden göz önünde açılması gereken bir cihaz, uzun uzun bir duyuru yoktur.
 
 ## Kısacası

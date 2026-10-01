@@ -60,7 +60,7 @@ Mais le VOX a une faiblesse précise. **Il se déclenche sur le son, pas sur le 
 
 Et comme il démarre quand le son est déjà là, **le début d'une phrase est souvent coupé.**
 
-Un point important avec les appareils portables en mode continu : **ils enregistrent aussi des conversations auxquelles vous ne participez pas**, des collègues à côté, des échanges croisés au passage. En France, l'article 226-1 du Code pénal punit le fait de capter sans consentement des paroles prononcées à titre privé ou confidentiel.
+Un point important avec les appareils portables en mode continu : **ils enregistrent aussi des conversations auxquelles vous ne participez pas**, des collègues à côté, des échanges croisés au passage. En France, l'article 226-1 du Code pénal punit le fait de capter sans consentement des paroles prononcées à titre privé ou confidentiel. Au Luxembourg (article 2 de la loi du 11 août 1982) et à Monaco (article 308-2 du Code pénal), l'enregistrement de paroles privées sans consentement est aussi puni, et en Belgique l'article 314bis du Code pénal interdit d'enregistrer une communication à laquelle on ne participe pas.
 
 ## Les enregistreurs dédiés
 

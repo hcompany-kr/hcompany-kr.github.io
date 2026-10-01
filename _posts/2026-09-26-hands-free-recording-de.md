@@ -106,6 +106,11 @@ TalkSafe geht davon aus, dass Sie ein Gespräch aufnehmen, an dem Sie selbst tei
 - **Deutschland:** Nach § 201 StGB ist es strafbar, das nichtöffentlich gesprochene Wort eines anderen unbefugt aufzunehmen – **auch als Gesprächsteilnehmer**. Die Strafe reicht bis zu drei Jahren Freiheitsstrafe oder Geldstrafe.
 - **Schweiz:** Art. 179ter StGB bestraft auf Antrag, wer als Gesprächsteilnehmer ein nichtöffentliches Gespräch ohne Einwilligung der anderen aufnimmt.
 - **Österreich:** Die Aufnahme eines Gesprächs, an dem man selbst teilnimmt, fällt nicht unter § 120 Abs. 1 StGB. Wer eine solche Aufnahme aber ohne Zustimmung des Sprechers einem Dritten zugänglich macht oder veröffentlicht, macht sich nach § 120 Abs. 2 strafbar.
+- **Liechtenstein:** § 120 StGB ist wie in Österreich aufgebaut: Die Aufnahme als Teilnehmer fällt nicht unter Abs. 1, die Weitergabe ohne Einverständnis des Sprechenden aber unter Abs. 2.
+- **Luxemburg:** Art. 2 des Gesetzes vom 11. August 1982 über den Schutz des Privatlebens bestraft die Aufnahme von im privaten Rahmen gesprochenen Worten ohne Einwilligung des Sprechenden; eine Ausnahme für Gesprächsteilnehmer enthält der Wortlaut nicht.
+- **Belgien:** Der Kassationshof hat 2015 bestätigt, dass ein Teilnehmer, der eine Kommunikation aufnimmt, keine Straftat begeht; die Verwendung in betrügerischer oder schädigender Absicht ist nach Art. 314bis StGB strafbar.
+
+Die Regeln für Telefonate in allen sechs Ländern stehen im Vergleich in [Warum Anrufaufnahme-Apps auf Android nicht mehr funktionieren](/blog/de/call-recording-android/).
 
 **Mit Einwilligung aller Beteiligten ist die Aufnahme zulässig.** Das gilt für Besprechungen, bei denen alle zugestimmt haben, für Interviews, für Vorlesungen, die aufgezeichnet werden dürfen, und für eigene Sprachnotizen. Für all das funktioniert TalkSafe genauso.
 

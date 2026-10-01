@@ -78,7 +78,7 @@ Il y a une raison pour laquelle ce n'est pas la voie recommandée.
 
 **On enregistre des conversations auxquelles on ne participe pas.** Des collègues qui parlent à côté, des phrases lancées d'un bout à l'autre de la pièce. Avoir le téléphone sur soi n'y change rien : être présent n'est pas participer.
 
-En **France**, l'article 226-1 du Code pénal punit le fait de capter, enregistrer ou transmettre sans consentement des paroles prononcées à titre privé ou confidentiel. En **Belgique**, l'article 314bis du Code pénal interdit l'interception de communications par des tiers. En **Suisse**, même l'enregistrement par un participant sans consentement est punissable (article 179ter du Code pénal). Au **Québec**, le Code criminel canadien interdit d'intercepter une communication privée à laquelle on n'est pas partie.
+En **France**, l'article 226-1 du Code pénal punit le fait de capter, enregistrer ou transmettre sans consentement des paroles prononcées à titre privé ou confidentiel. En **Belgique**, l'article 314bis du Code pénal interdit l'interception de communications par des tiers. En **Suisse**, même l'enregistrement par un participant sans consentement est punissable (article 179ter du Code pénal). Au **Québec**, le Code criminel canadien interdit d'intercepter une communication privée à laquelle on n'est pas partie. Au **Luxembourg**, l'article 2 de la loi du 11 août 1982 et, à **Monaco**, l'article 308-2 du Code pénal punissent aussi l'enregistrement de paroles privées sans consentement.
 
 **Cela joue aussi contre vous.** Un fichier de huit heures oblige quelqu'un à retrouver les quelques minutes utiles, et les conversations privées de personnes étrangères à l'affaire suivent avec. Un fichier qui ne contient que l'essentiel est bien plus utile.
 
@@ -116,3 +116,5 @@ Un seul mot, « automatique », pour cinq comportements bien différents. Aucun 
 Pourquoi on appuie presque toujours trop tard est expliqué dans [Pourquoi on appuie toujours trop tard sur enregistrer](/blog/fr/recording-delay/). Les façons de démarrer sans les mains sont détaillées dans [Lancer un enregistrement sans toucher son téléphone](/blog/fr/hands-free-recording/).
 
 Comment se comparent enregistreurs à clip, appareils VOX, prise de notes par IA et applications au quotidien est détaillé dans [Ce qui distingue les enregistreurs, c'est le moment où ils démarrent](/blog/fr/choosing-a-recorder/).
+
+Pourquoi les applications d'enregistrement d'appels ne marchent plus, et ce qui fonctionne encore au téléphone, est expliqué dans [Pourquoi les applications d'enregistrement d'appels ne marchent plus sur Android, et ce qui fonctionne encore](/blog/fr/call-recording-android/).

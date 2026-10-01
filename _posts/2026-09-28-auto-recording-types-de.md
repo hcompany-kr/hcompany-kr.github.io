@@ -78,7 +78,7 @@ Es gibt einen Grund, warum das nicht der empfohlene Weg ist.
 
 **Man nimmt Gespräche auf, an denen man nicht teilnimmt.** Kollegen, die nebenan reden, Dinge, die quer durch den Raum gesagt werden. Das Telefon bei sich zu tragen, ändert daran nichts – anwesend sein heißt nicht, am Gespräch teilzunehmen.
 
-In **Deutschland** ist es nach § 201 StGB strafbar, das nichtöffentlich gesprochene Wort eines anderen unbefugt aufzunehmen. In **Österreich** bestraft § 120 Abs. 1 StGB, wer sich mit einem Aufnahmegerät Kenntnis von einer nichtöffentlichen Äußerung verschafft, die nicht für ihn bestimmt ist. In der **Schweiz** ist schon die Aufnahme als Teilnehmer ohne Einwilligung strafbar (Art. 179ter StGB).
+In **Deutschland** ist es nach § 201 StGB strafbar, das nichtöffentlich gesprochene Wort eines anderen unbefugt aufzunehmen. In **Österreich** bestraft § 120 Abs. 1 StGB, wer sich mit einem Aufnahmegerät Kenntnis von einer nichtöffentlichen Äußerung verschafft, die nicht für ihn bestimmt ist. In der **Schweiz** ist schon die Aufnahme als Teilnehmer ohne Einwilligung strafbar (Art. 179ter StGB). In **Liechtenstein** gilt § 120 Abs. 1 StGB wie in Österreich, in **Luxemburg** bestraft Art. 2 des Gesetzes vom 11. August 1982 die Aufnahme privat gesprochener Worte ohne Einwilligung, und in **Belgien** verbietet Art. 314bis StGB das Abhören und Aufnehmen fremder Kommunikation.
 
 **Es arbeitet außerdem gegen Sie.** Eine Acht-Stunden-Datei bedeutet, dass jemand die relevanten Minuten darin erst finden muss, und die privaten Gespräche unbeteiligter Menschen gehen gleich mit. Eine Datei, die nur das Wichtige enthält, ist deutlich brauchbarer.
 
@@ -116,3 +116,5 @@ Ein Wort, „automatisch“, für fünf recht verschiedene Verhaltensweisen. Kei
 Warum der Druck auf Aufnahme fast immer zu spät kommt, steht in [Warum der Druck auf Aufnahme immer zu spät kommt](/blog/de/recording-delay/). Die freihändigen Wege im Einzelnen stehen in [Aufnahme starten, ohne das Telefon zu berühren](/blog/de/hands-free-recording/).
 
 Wie sich Anstecker-Recorder, VOX-Geräte, KI-Notizgeräte und Telefon-Apps im Alltag unterscheiden, steht in [Was Aufnahmegeräte unterscheidet, ist, wann sie starten](/blog/de/choosing-a-recorder/).
+
+Warum Anrufaufnahme-Apps nicht mehr funktionieren und was bei Telefonaten noch geht, steht in [Warum Anrufaufnahme-Apps auf Android nicht mehr funktionieren – und was noch geht](/blog/de/call-recording-android/).

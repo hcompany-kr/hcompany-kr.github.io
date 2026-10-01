@@ -106,7 +106,11 @@ TalkSafe part du principe que vous enregistrez une conversation à laquelle vous
 - **France :** l'article 226-1 du Code pénal punit d'un an d'emprisonnement et de 45 000 euros d'amende le fait d'enregistrer sans consentement des paroles prononcées à titre privé ou confidentiel, **même lorsqu'on participe à la conversation**. Depuis les arrêts d'Assemblée plénière de la Cour de cassation du 22 décembre 2023, un tel enregistrement peut être admis comme preuve au civil s'il est indispensable et proportionné, mais cela n'efface pas l'infraction pénale.
 - **Suisse :** l'article 179ter du Code pénal punit, sur plainte, le participant qui enregistre une conversation non publique sans le consentement des autres.
 - **Belgique :** la Cour de cassation a confirmé en 2015 qu'un participant qui enregistre une communication ne commet pas d'infraction ; en revanche, utiliser cet enregistrement dans une intention frauduleuse ou de nuire est puni (article 314bis du Code pénal).
+- **Luxembourg :** l'article 2 de la loi du 11 août 1982 concernant la protection de la vie privée punit l'enregistrement, sans son consentement, de paroles prononcées en privé par une personne ; le texte ne prévoit pas d'exception pour le participant.
+- **Monaco :** l'article 308-2 du Code pénal punit de six mois à trois ans d'emprisonnement l'enregistrement, sans son consentement, de paroles prononcées par une personne à titre privé ou confidentiel ; le texte ne prévoit pas d'exception pour le participant.
 - **Québec :** le Code criminel canadien permet à un participant d'enregistrer une conversation.
+
+La comparaison pays par pays pour les appels est dans [Pourquoi les applications d'enregistrement d'appels ne marchent plus sur Android](/blog/fr/call-recording-android/).
 
 **Avec le consentement de tous, l'enregistrement ne pose pas de problème.** Réunions où chacun a accepté, entretiens, cours qu'on a le droit d'enregistrer, notes vocales personnelles : TalkSafe fonctionne de la même façon pour tout cela.
 

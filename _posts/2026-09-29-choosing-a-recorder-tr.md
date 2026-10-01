@@ -60,7 +60,7 @@ Ama VOX'un belli bir zaafı var. **Anlama değil sese tepki verir.** Bir kapı, 
 
 Ve ses zaten varken başladığı için **cümlenin başı çoğu zaman kesilir.**
 
-Sürekli moddaki taşınabilir cihazlarla ilgili önemli bir nokta: **katılmadığınız konuşmaları da kaydederler**; yandaki iş arkadaşları, yolda geçen sohbetler. Türk Ceza Kanunu'nun 133. maddesi, kişiler arasındaki aleni olmayan konuşmaları rızaları olmadan kaydetmeyi suç sayar.
+Sürekli moddaki taşınabilir cihazlarla ilgili önemli bir nokta: **katılmadığınız konuşmaları da kaydederler**; yandaki iş arkadaşları, yolda geçen sohbetler. Türk Ceza Kanunu'nun 133. maddesi, kişiler arasındaki aleni olmayan konuşmaları rızaları olmadan kaydetmeyi suç sayar. Avrupa'da da durum farklı değil: Almanya, Avusturya, Fransa, Belçika ve Hollanda'da başkaları arasındaki aleni olmayan bir konuşmayı rızaları olmadan kaydetmek suçtur.
 
 ## Ayrı kayıt cihazları
 

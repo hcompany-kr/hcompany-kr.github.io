@@ -82,7 +82,7 @@ Wie das freihändige Starten im Vergleich zu Widgets, Zeitplänen und Sprachassi
 
 ## Wo die Einwilligung aller nötig ist
 
-In **Deutschland** (§ 201 StGB) und der **Schweiz** (Art. 179ter StGB) ist es strafbar, ein nichtöffentliches Gespräch ohne Einwilligung der anderen Beteiligten aufzunehmen – auch wenn man selbst daran teilnimmt. In **Österreich** fällt die Aufnahme als Teilnehmer nicht unter § 120 Abs. 1 StGB; wer sie ohne Zustimmung des Sprechers einem Dritten zugänglich macht, macht sich aber nach § 120 Abs. 2 strafbar.
+In **Deutschland** (§ 201 StGB) und der **Schweiz** (Art. 179ter StGB) ist es strafbar, ein nichtöffentliches Gespräch ohne Einwilligung der anderen Beteiligten aufzunehmen – auch wenn man selbst daran teilnimmt. In **Österreich** fällt die Aufnahme als Teilnehmer nicht unter § 120 Abs. 1 StGB; wer sie ohne Zustimmung des Sprechers einem Dritten zugänglich macht, macht sich aber nach § 120 Abs. 2 strafbar. In **Liechtenstein** gilt dasselbe wie in Österreich (§ 120 StGB). In **Luxemburg** enthält Art. 2 des Gesetzes vom 11. August 1982 keine Ausnahme für Gesprächsteilnehmer, und in **Belgien** begeht ein Teilnehmer, der aufnimmt, nach dem Kassationshof (2015) keine Straftat. Die Regeln für Telefonate in allen sechs Ländern stehen im Vergleich in [Warum Anrufaufnahme-Apps auf Android nicht mehr funktionieren](/blog/de/call-recording-android/).
 
 Genau hier hilft das Schlüsselwort. Mit ‚aufnehmen‘ als Wort beginnt die Aufnahme in dem Moment, in dem Sie fragen „Darf ich das aufnehmen?“ – und das „Ja“ ist in der Datei. Kein Gerät, das vorher sichtbar eingeschaltet werden muss, keine umständliche Ankündigung.
 

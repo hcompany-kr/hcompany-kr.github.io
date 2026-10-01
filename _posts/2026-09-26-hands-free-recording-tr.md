@@ -105,6 +105,8 @@ TalkSafe, katıldığınız bir konuşmayı kaydettiğinizi varsayar. Bunun serb
 
 **Türkiye'de** katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek, Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre **altı aydan iki yıla kadar hapis veya adli para cezası** gerektiren bir suçtur. Yargıtay, kişinin tehdit veya hakarete uğradığı ve bunu başka bir yolla ispat etme imkânının bulunmadığı durumlarda böyle bir kaydı hukuka uygun kabul eden kararlar vermiştir; ancak bu genel bir izin değil, dar bir istisnadır.
 
+Avrupa'da yaşıyorsanız geçerli olan bulunduğunuz ülkenin kanunudur. **Almanya**, **Fransa** ve **İsviçre'de** katıldığınız bir konuşmayı rıza olmadan kaydetmek de suçtur. **Avusturya'da** bu kayıt Ceza Kanunu'nun 120. paragrafının 1. fıkrasına girmez, ama rıza olmadan üçüncü kişilere vermek suçtur. **Belçika** ve **Hollanda'da** katılımcının kendi konuşmasını kaydetmesi suç değildir. Ülke ülke karşılaştırma [Android'de arama kaydı uygulamaları neden artık çalışmıyor](/blog/tr/call-recording-android/) yazısında.
+
 **Tüm katılımcıların rızası olduğunda kayıt sorun oluşturmaz.** Herkesin onay verdiği toplantılar, röportajlar, kaydına izin verilen dersler ve kendi sesli notlarınız için TalkSafe aynı şekilde çalışır.
 
 ## Kısacası

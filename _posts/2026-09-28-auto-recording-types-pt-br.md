@@ -116,3 +116,5 @@ Uma palavra só, "automático", para cinco comportamentos bem diferentes. Nenhum
 Por que apertar gravar quase sempre é tarde demais está em [Por que apertar gravar é sempre tarde demais](/blog/pt-br/recording-delay/). Os jeitos de começar sem as mãos estão em [Como começar a gravar sem tocar no celular](/blog/pt-br/hands-free-recording/).
 
 Como gravadores de lapela, aparelhos VOX, gravadores com IA e apps se comparam no dia a dia está em [O que separa os gravadores é quando eles começam](/blog/pt-br/choosing-a-recorder/).
+
+Por que os apps de gravar ligação pararam de funcionar, e o que ainda funciona no telefone, está em [Por que os apps de gravar ligação pararam de funcionar no Android, e o que ainda funciona](/blog/pt-br/call-recording-android/).

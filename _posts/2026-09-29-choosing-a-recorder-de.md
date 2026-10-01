@@ -60,7 +60,7 @@ VOX hat aber eine bestimmte Schwäche. **Es reagiert auf Geräusch, nicht auf Be
 
 Und weil es erst startet, wenn schon Ton da ist, **fehlt oft der Anfang eines Satzes.**
 
-Ein Punkt, der bei tragbaren Geräten im Dauermodus wichtig ist: **Sie nehmen auch Gespräche auf, an denen Sie nicht teilnehmen** – Kollegen nebenan, Gespräche im Vorbeigehen. In Deutschland ist es nach § 201 StGB strafbar, das nichtöffentlich gesprochene Wort eines anderen unbefugt aufzunehmen.
+Ein Punkt, der bei tragbaren Geräten im Dauermodus wichtig ist: **Sie nehmen auch Gespräche auf, an denen Sie nicht teilnehmen** – Kollegen nebenan, Gespräche im Vorbeigehen. In Deutschland ist es nach § 201 StGB strafbar, das nichtöffentlich gesprochene Wort eines anderen unbefugt aufzunehmen. In Österreich und Liechtenstein gilt § 120 Abs. 1 StGB, in Luxemburg Art. 2 des Gesetzes vom 11. August 1982, in Belgien Art. 314bis StGB.
 
 ## Eigene Aufnahmegeräte
 
