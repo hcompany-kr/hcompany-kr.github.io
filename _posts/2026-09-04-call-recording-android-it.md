@@ -72,7 +72,7 @@ Dove tutti i partecipanti devono acconsentire prima che una chiamata venga regis
 
 Guarda come Google risolve lo stesso problema dove la funzione c'è: l'app Phone **riproduce un avviso sonoro che informa che la chiamata è in registrazione**, e lo sentono tutti. Quell'avviso non è cortesia. È il meccanismo che soddisfa il consenso di tutte le parti.
 
-Come viene trattata in Italia la registrazione di una conversazione a cui partecipi è in [Registrare sì, diffondere no](/blog/it/registrare-conversazione/).
+Come viene trattata in Italia la registrazione di una conversazione a cui partecipi è in [Registrare sì, diffondere no](/blog/it/registrare-conversazione/). Nella **Svizzera italiana**, l'articolo 179ter del Codice penale svizzero punisce, a querela di parte, chi registra senza consenso una conversazione non pubblica a cui partecipa; l'articolo 179quinquies esclude però le telefonate nei rapporti d'affari che riguardano **ordinazioni, mandati, prenotazioni e operazioni analoghe**.
 
 ## Quello che resta è la stanza, non la linea
 

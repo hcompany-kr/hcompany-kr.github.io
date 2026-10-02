@@ -76,4 +76,6 @@ TalkSafe salva anche i **30 secondi precedenti** all'avvio. Quindi la frase che 
 
 Mentre registra resta visibile una notifica che **non si può disattivare**. Non esiste una modalità nascosta né un'icona camuffata.
 
-L'app presuppone che tu stia registrando una conversazione a cui partecipi. Su quando questo è lecito in Italia — e su dove invece diventa reato — c'è [un articolo a parte](https://hcompany-kr.github.io/blog/it/registrare-conversazione/).
+L'app presuppone che tu stia registrando una conversazione a cui partecipi. Su quando questo è lecito in Italia — e su dove invece diventa reato — c'è [un articolo a parte](https://hcompany-kr.github.io/blog/it/registrare-conversazione/). Nella **Svizzera italiana** è diverso: l'articolo 179ter del Codice penale svizzero punisce, a querela di parte, chi registra senza il consenso degli altri una conversazione non pubblica a cui partecipa.
+
+Dove serve il consenso di tutti, la parola chiave aiuta anche a chiederlo: con `registrare` come parola, la registrazione parte quando chiedi "Posso registrare?", e la risposta resta nel file.

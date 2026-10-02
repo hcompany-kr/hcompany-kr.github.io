@@ -96,4 +96,6 @@ También puedes registrar varias. Basta con que se escuche una, así que abrir m
 
 Mientras la grabación está en marcha se mantiene una notificación visible y no se puede desactivar. Está pensada para dejar constancia de una conversación en la que participas, no para ocultarla.
 
-Las leyes sobre grabación cambian según el país. Conviene comprobar la norma del lugar antes de confiar en ello; el caso español está [en otro artículo](https://hcompany-kr.github.io/blog/es/recording-consent-law/).
+Las leyes sobre grabación cambian según el país. En **España** (STC 114/1984), **México**, **Perú**, **Ecuador**, **Colombia** y **Costa Rica**, grabar una conversación en la que participas es lícito, y en **Venezuela** la ley no lo prohíbe. En **Chile** y **Uruguay** no es delito, pero los tribunales pueden excluir la grabación como prueba; en **Bolivia** la cuestión está discutida y en **Argentina** no hay una regla clara. La comparación completa está en [Grabar tu propia conversación: país por país](/blog/es/grabar-latinoamerica/), y el caso español en [Grabar sí, difundir no](/blog/es/recording-consent-law/).
+
+Y la palabra clave sirve también para pedir permiso: con `grabar` como palabra, la grabación empieza cuando preguntas "¿Te importa que lo grabe?", y la respuesta queda en el archivo.

@@ -78,7 +78,7 @@ There is a reason that is not the recommended route.
 
 **It captures conversations you are not a party to.** Colleagues talking nearby, things said across the room. Carrying the phone on you does not change this — being present is not the same as being a participant.
 
-In the US, intercepting a communication you are not part of is a federal offense under 18 U.S.C. §2511, with penalties up to five years. Details vary by country, but treating the recording of conversations you took no part in as a serious matter is close to universal.
+In the US, intercepting a communication you are not part of is a federal offense under 18 U.S.C. §2511, with penalties up to five years. In Europe the same line appears in the statutes themselves: the Netherlands punishes recording a conversation without being a participant (Criminal Code art. 139a), Sweden punishes covertly recording a conversation between others (Criminal Code ch. 4 s. 9a), and in Victoria, Australia, the Surveillance Devices Act 1999 prohibits recording a private conversation to which you are not a party.
 
 **It also works against you later.** Handing over an eight-hour file means somebody has to locate the relevant few minutes inside it, and unrelated people's private conversations travel along with it. A file containing only what matters is considerably stronger.
 

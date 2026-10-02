@@ -54,6 +54,8 @@ Funziona. Vale la pena sapere a che prezzo.
 
 **In modalita continua** ti resta una registrazione enorme. I produttori dichiarano in genere dalle 20 alle 100 ore di registrazione continua per carica, con memoria da centinaia di ore. All'uscita dal lavoro quel file contiene il tragitto, la pausa pranzo e, da qualche parte in mezzo, lo scambio che ti preoccupava. **Non c'e un indice.** Trovarlo vuol dire ascoltare.
 
+E in modalità continua **registra anche conversazioni a cui non partecipi**: colleghi accanto, scambi di passaggio. In Italia, registrare una conversazione a cui si è estranei può configurare l'interferenza illecita nella vita privata dell'art. 615-bis c.p. o l'intercettazione abusiva dell'art. 617 c.p.; nella Svizzera italiana l'articolo 179ter del Codice penale svizzero punisce persino chi partecipa e registra senza il consenso degli altri.
+
 **In modalita VOX** l'apparecchio aspetta il suono, registra finche dura e si ferma. Per questo le autonomie in standby si dichiarano in mesi: per la maggior parte del tempo e fermo. I file escono separati e con data e ora, il che rende il lavoro molto piu gestibile.
 
 Ma il VOX ha un limite preciso. **Reagisce al suono, non al significato.** Una porta, una stampante e un bollitore lo fanno partire allo stesso modo. Una giornata in un ufficio normale produce moltissimi file di nulla, e quello che cerchi sta li in mezzo.
@@ -116,4 +118,4 @@ Le classifiche vendono apparecchi. Quello che decide se una registrazione ti ser
 
 Un registratore che ha catturato tutto e uno che ha catturato i due minuti giusti non sono lo stesso prodotto, anche quando le schede tecniche si somigliano.
 
-<p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le specifiche e i prezzi descritti qui sono quelli pubblicati dai produttori e cambiano spesso; conviene verificarli prima di acquistare. Realizziamo un'app di registrazione, come indicato sopra. La legge sulle registrazioni varia da paese a paese: per la tua giurisdizione vedi gli articoli legali di questo sito.</p>
+<p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le specifiche e i prezzi descritti qui sono quelli pubblicati dai produttori e cambiano spesso; conviene verificarli prima di acquistare. Realizziamo un'app di registrazione, come indicato sopra. La legge sulle registrazioni varia da paese a paese: il caso italiano è in [Registrare sì, diffondere no](/blog/it/registrare-conversazione/).</p>

@@ -91,7 +91,9 @@ Un accorgimento pratico: imposta **due parole che probabilmente compaiono nella 
 
 Mentre registra resta visibile una notifica che **non si può disattivare**. Non esiste una modalità nascosta né un'icona camuffata.
 
-TalkSafe presuppone che tu stia registrando una conversazione a cui partecipi. Se questo sia lecito in Italia è spiegato in [un articolo a parte](https://hcompany-kr.github.io/blog/it/registrare-conversazione/), e il rapporto con le regole aziendali [qui](https://hcompany-kr.github.io/blog/it/registrare-sul-lavoro/).
+TalkSafe presuppone che tu stia registrando una conversazione a cui partecipi. In **Italia**, secondo l'orientamento consolidato della Cassazione, registrare una conversazione a cui si partecipa non costituisce intercettazione ed è lecito. Nella **Svizzera italiana** è diverso: l'articolo 179ter del Codice penale svizzero punisce, a querela di parte, chi registra senza il consenso degli altri una conversazione non pubblica a cui partecipa. San Marino non è trattato qui. Il caso italiano è spiegato in [un articolo a parte](https://hcompany-kr.github.io/blog/it/registrare-conversazione/), e il rapporto con le regole aziendali [qui](https://hcompany-kr.github.io/blog/it/registrare-sul-lavoro/).
+
+Dove serve il consenso di tutti, la parola chiave aiuta anche a chiederlo: con `registrare` come parola, la registrazione parte quando chiedi "Posso registrare?", e la risposta resta nel file.
 
 ## In breve
 

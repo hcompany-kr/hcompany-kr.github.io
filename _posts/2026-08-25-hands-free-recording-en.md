@@ -91,7 +91,9 @@ A practical trick: set two words likely to appear in the same sentence, so eithe
 
 A notification stays visible for the entire recording and **cannot be switched off**. There is no hidden mode and no disguised icon.
 
-TalkSafe assumes you are recording a conversation you take part in. Whether that is lawful depends on where you are — in the US it varies by state, and there is [a state-by-state breakdown](/blog/en/state-recording-consent/) as well as [an article on how consent works](/blog/en/recording-with-consent/) in the states that require it.
+TalkSafe assumes you are recording a conversation you take part in. Whether that is lawful depends on where you are. In the **US**, federal law lets a participant record, but about a dozen states require everyone's consent — [the state-by-state breakdown](/blog/en/state-recording-consent/) works through which. In **Canada**, the Criminal Code lets a party to a private communication record it. In the **UK**, recording a conversation you take part in for your own records is generally not a criminal offence. In **Australia** it depends on the state: Victoria lets a party record (Surveillance Devices Act 1999, s 6), while New South Wales requires everyone's consent unless an exception applies, such as protecting the recorder's lawful interests (Surveillance Devices Act 2007, s 7). In **Europe** the split is sharp: the **Netherlands** (Criminal Code arts. 139a and 139c), **Belgium** (Court of Cassation, 2015) and **Sweden** (Criminal Code ch. 4 s. 9a) let a participant record, while **Germany** (§ 201 StGB), **France** (Penal Code art. 226-1) and **Switzerland** (art. 179ter) make it an offence without consent, even for a participant. Ireland, Norway, Denmark and Finland are not covered here.
+
+Where everyone's consent is needed, the keyword can collect it: with `record` as the word, recording starts the moment you ask "Mind if I record this?", and the answer is in the file. The sequence is set out in [In an all-party state, ask — and let the answer land in the file](/blog/en/recording-with-consent/).
 
 ## The short version
 

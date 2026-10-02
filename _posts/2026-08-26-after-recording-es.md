@@ -36,7 +36,7 @@ Va primero porque es la parte que no tiene marcha atrás.
 
 **No difundirla.**
 
-Grabar y publicar se tratan como actos distintos en prácticamente todos los ordenamientos. Aunque la grabación fuera lícita, subirla a un grupo o publicarla puede constituir una intromisión ilegítima en el honor o la intimidad. La línea es la misma en [España](https://hcompany-kr.github.io/blog/es/recording-consent-law/), en [Hispanoamérica](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/), en [Estados Unidos](https://hcompany-kr.github.io/blog/en/recording-consent-law/) y en [Italia](https://hcompany-kr.github.io/blog/it/registrare-conversazione/).
+Grabar y publicar se tratan como actos distintos en prácticamente todos los ordenamientos. Aunque la grabación fuera lícita, subirla a un grupo o publicarla puede constituir una intromisión ilegítima en el honor o la intimidad. La línea es la misma en [España](https://hcompany-kr.github.io/blog/es/recording-consent-law/), en [Estados Unidos](https://hcompany-kr.github.io/blog/en/recording-consent-law/) y en [Italia](https://hcompany-kr.github.io/blog/it/registrare-conversazione/). En [Hispanoamérica](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/) la regla general es la misma, con una excepción escrita: el artículo 178 del COIP de **Ecuador** no se aplica a quien divulgue grabaciones en las que interviene personalmente. En **Colombia**, la jurisprudencia constitucional trata grabar y publicar como cosas separadas, y en **Argentina** el artículo 155 del Código Penal sanciona publicar indebidamente comunicaciones no destinadas a la publicidad.
 
 **Una regla práctica lo resume: una grabación se aporta a un procedimiento, no se comparte.**
 

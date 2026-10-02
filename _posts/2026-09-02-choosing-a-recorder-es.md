@@ -54,6 +54,8 @@ Funciona. Conviene saber a cambio de qué.
 
 **En modo continuo** te queda una grabación enorme. Los fabricantes suelen indicar entre 20 y 100 horas de grabación continua por carga, con almacenamiento de cientos de horas. Al salir del trabajo, ese archivo contiene el trayecto, la comida y, en algún punto intermedio, la conversación que te preocupaba. **No hay índice.** Encontrarla significa escuchar.
 
+Y en modo continuo **graba también conversaciones en las que no participas**: compañeros al lado, conversaciones de paso. En España, el artículo 197.1 del Código Penal castiga a quien utilice artificios de grabación para descubrir secretos de otro sin su consentimiento; en Ecuador, el artículo 178 del COIP castiga grabar comunicaciones privadas de otra persona sin consentimiento.
+
 **En modo VOX** el aparato espera al sonido, graba mientras dura y se detiene. Por eso las autonomías en espera se anuncian en meses: está inactivo la mayor parte del tiempo. Los archivos salen separados y con fecha, lo que sí facilita mucho el trabajo.
 
 Pero el VOX tiene una debilidad concreta. **Reacciona al sonido, no al significado.** Una puerta, una impresora y un hervidor lo arrancan igual. Un día en una oficina normal produce muchísimos archivos de nada, y el que buscas está entre ellos.
@@ -116,4 +118,4 @@ Las listas ordenadas venden aparatos. Lo que decide si una grabación te sirve d
 
 Una grabadora que lo capturó todo y una que capturó los dos minutos correctos no son el mismo producto, aunque las fichas técnicas se parezcan.
 
-<p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las especificaciones y precios aquí descritos son los publicados por los fabricantes y cambian con frecuencia; conviene verificarlos antes de comprar. Fabricamos una aplicación de grabación, como se indica más arriba. La ley sobre grabaciones varía según el país: consulta los artículos legales de este sitio para tu jurisdicción.</p>
+<p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las especificaciones y precios aquí descritos son los publicados por los fabricantes y cambian con frecuencia; conviene verificarlos antes de comprar. Fabricamos una aplicación de grabación, como se indica más arriba. La ley sobre grabaciones varía según el país: la comparación entre países hispanohablantes está en [Grabar tu propia conversación: país por país](/blog/es/grabar-latinoamerica/).</p>

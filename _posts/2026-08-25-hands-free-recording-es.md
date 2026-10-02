@@ -91,7 +91,9 @@ Un truco práctico: fija **dos palabras que probablemente aparezcan en la misma 
 
 Mientras graba se mantiene una notificación visible y **no se puede desactivar**. No hay modo oculto ni icono camuflado.
 
-TalkSafe da por supuesto que grabas una conversación en la que participas. Si eso es lícito depende del país: está [explicado para España](https://hcompany-kr.github.io/blog/es/recording-consent-law/) y [país por país para Hispanoamérica](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/).
+TalkSafe da por supuesto que grabas una conversación en la que participas. Si eso es lícito depende del país. En **España** (STC 114/1984), **México**, **Perú**, **Ecuador**, **Colombia** y **Costa Rica**, grabar una conversación en la que participas es lícito, y en **Venezuela** la ley no lo prohíbe. En **Chile** y **Uruguay** no es delito, pero los tribunales pueden excluir la grabación como prueba; en **Bolivia** la cuestión está discutida y en **Argentina** no hay una regla clara. La comparación completa está en [Grabar tu propia conversación: país por país](/blog/es/grabar-latinoamerica/), y el caso español en [Grabar sí, difundir no](/blog/es/recording-consent-law/).
+
+Y la palabra clave sirve también para pedir permiso: con `grabar` como palabra, la grabación empieza cuando preguntas "¿Te importa que lo grabe?", y la respuesta queda en el archivo.
 
 ## En corto
 

@@ -38,6 +38,8 @@ This comes first because it is the part that cannot be undone.
 
 Making a recording and publishing it are treated as separate acts almost everywhere. Even where the recording itself was lawful, posting it in a group chat or putting it online can amount to defamation or an invasion of privacy. The line is drawn the same way in [the US](/blog/en/recording-consent-law/), [Spain](https://hcompany-kr.github.io/blog/es/recording-consent-law/), [Italy](https://hcompany-kr.github.io/blog/it/registrare-conversazione/) and [Japan](https://hcompany-kr.github.io/blog/ja/recording-consent-law/).
 
+In some places sharing is treated more strictly than recording. In **Austria**, recording a conversation you take part in is not covered by § 120(1) StGB, but making that recording available to a third party without the speaker's consent is an offence under § 120(2). In **Portugal**, art. 199(1)(b) of the Penal Code punishes using recordings of words not meant for the public without consent, **even if they were lawfully made**. In **Turkey**, unlawfully disclosing data obtained by recording private conversations carries two to five years (Penal Code art. 133(3)) — more than the recording itself. The exception runs the other way in **Ecuador**, where art. 178 of the COIP does not apply to someone who discloses recordings they personally took part in.
+
 **One working rule covers it: a recording is submitted to a proceeding, not shared.**
 
 Sending it to a colleague, posting it in a family thread, attaching it to a forum post — none of those are submission. They are distribution.

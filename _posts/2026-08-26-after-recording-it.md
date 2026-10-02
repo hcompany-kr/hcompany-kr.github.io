@@ -38,7 +38,7 @@ Viene prima perché è la parte che non si torna indietro.
 
 Registrare e pubblicare sono atti distinti quasi ovunque. Anche quando la registrazione era lecita, metterla in un gruppo o pubblicarla può integrare violazione della privacy e diffamazione. In Italia c'è inoltre l'**art. 617-septies c.p.**, che punisce la diffusione fraudolenta di registrazioni diretta a danneggiare la reputazione o l'immagine altrui.
 
-La stessa linea vale in [Spagna](https://hcompany-kr.github.io/blog/es/recording-consent-law/), negli [Stati Uniti](https://hcompany-kr.github.io/blog/en/recording-consent-law/) e in [Giappone](https://hcompany-kr.github.io/blog/ja/recording-consent-law/). In Italia è spiegata [qui](https://hcompany-kr.github.io/blog/it/registrare-conversazione/).
+La stessa linea vale in [Spagna](https://hcompany-kr.github.io/blog/es/recording-consent-law/), negli [Stati Uniti](https://hcompany-kr.github.io/blog/en/recording-consent-law/) e in [Giappone](https://hcompany-kr.github.io/blog/ja/recording-consent-law/). In Italia è spiegata [qui](https://hcompany-kr.github.io/blog/it/registrare-conversazione/). Nella **Svizzera italiana**, l'articolo 179ter, capoverso 2, del Codice penale svizzero punisce chi conserva, sfrutta o rende accessibile a un terzo una registrazione che sa, o deve presumere, fatta senza il consenso degli altri partecipanti.
 
 **Una regola pratica la riassume: una registrazione si deposita in un procedimento, non si condivide.**
 

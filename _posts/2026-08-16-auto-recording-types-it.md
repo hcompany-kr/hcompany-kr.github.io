@@ -78,7 +78,7 @@ C'è un motivo per cui non è consigliabile.
 
 **Cattura conversazioni a cui non partecipi.** Colleghi che parlano accanto, cose dette dall'altra parte della stanza. Portare il telefono addosso non cambia nulla: essere presenti non è la stessa cosa che essere parte della conversazione.
 
-In Italia registrare una conversazione a cui si prende parte è generalmente lecito. Captare conversazioni altrui è un'altra cosa: l'articolo 615-bis del Codice penale punisce chi si procura indebitamente notizie attinenti alla vita privata svolgentesi nei luoghi di privata dimora mediante l'uso di strumenti di ripresa. I dettagli cambiano da paese a paese, ma trattare con severità la registrazione di conversazioni altrui è pressoché universale.
+In Italia registrare una conversazione a cui si prende parte è generalmente lecito. Captare conversazioni altrui è un'altra cosa: l'articolo 615-bis del Codice penale punisce chi si procura indebitamente notizie attinenti alla vita privata svolgentesi nei luoghi di privata dimora mediante l'uso di strumenti di ripresa. Nella **Svizzera italiana**, l'articolo 179ter del Codice penale svizzero punisce, a querela di parte, persino chi registra senza consenso una conversazione non pubblica a cui partecipa.
 
 **E dopo gioca contro di te.** Consegnare otto ore di audio obbliga qualcuno a cercarci dentro i minuti rilevanti, e trascina nel procedimento conversazioni private di persone estranee alla vicenda. Un file con quello che conta è parecchio più solido.
 

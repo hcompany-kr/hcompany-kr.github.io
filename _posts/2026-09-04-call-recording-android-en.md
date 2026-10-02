@@ -104,6 +104,8 @@ Using a second phone, a dedicated recorder or a speakerphone does not alter what
 
 The Play Store restrictions are a platform policy. They are not the law, and satisfying one does not satisfy the other.
 
+For calls, the split between countries is the same as in person. The **US** federal rule, **Canada**, the **Netherlands** and **Belgium** let a participant record; **Germany** (§ 201 StGB) and **France** (Penal Code art. 226-1) make it an offence without consent, even for a participant. **Switzerland** does too (art. 179ter), with one exception: business calls that contain orders, commissions, reservations and similar transactions (art. 179quinquies). Where the manufacturers do offer call recording in those countries, as Samsung does on the Galaxy S25 in Germany, the other side hears an announcement.
+
 ## In short
 
 **Third-party call recording is gone**, in three steps ending in May 2022, and it is not coming back through an app.

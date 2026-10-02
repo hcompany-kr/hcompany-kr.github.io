@@ -86,7 +86,7 @@ Mentre la registrazione è in corso resta visibile una notifica, e **non si può
 
 La situazione per cui è pensato è conservare traccia di una conversazione a cui partecipi. Non serve a captare persone con cui non stai parlando, ed è fatto apposta perché usarlo così sia scomodo.
 
-Le leggi sulla registrazione variano parecchio. In Italia registrare una conversazione a cui si prende parte è generalmente lecito, mentre altri paesi richiedono il consenso di tutti i presenti. Conviene verificare la regola del posto in cui ti trovi prima di farci affidamento.
+Le leggi sulla registrazione variano parecchio. In **Italia**, secondo l'orientamento consolidato della Cassazione, registrare una conversazione a cui si partecipa non costituisce intercettazione ed è lecito. Nella **Svizzera italiana** è diverso: l'articolo 179ter del Codice penale svizzero punisce, a querela di parte, chi registra senza il consenso degli altri una conversazione non pubblica a cui partecipa. San Marino non è trattato qui. Il caso italiano è spiegato in [Registrare sì, diffondere no](/blog/it/registrare-conversazione/).
 
 ## In sintesi
 

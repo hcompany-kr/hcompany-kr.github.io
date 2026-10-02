@@ -86,7 +86,7 @@ Mientras la grabación está en marcha se mantiene una notificación visible, y 
 
 La situación para la que está pensada es dejar constancia de una conversación en la que participas. No sirve para captar a gente con la que no estás hablando, y está hecha deliberadamente para que sea incómodo usarla así.
 
-Las leyes sobre grabación varían mucho. En España y en la mayoría de países hispanohablantes, grabar una conversación en la que uno participa no es delito. Otros países exigen el consentimiento de todos los presentes. Conviene comprobar la norma del lugar antes de confiar en ello.
+Las leyes sobre grabación varían según el país. En **España** (STC 114/1984), **México**, **Perú**, **Ecuador**, **Colombia** y **Costa Rica**, grabar una conversación en la que participas es lícito, y en **Venezuela** la ley no lo prohíbe. En **Chile** y **Uruguay** no es delito, pero los tribunales pueden excluir la grabación como prueba; en **Bolivia** la cuestión está discutida y en **Argentina** no hay una regla clara. La comparación completa está en [Grabar tu propia conversación: país por país](/blog/es/grabar-latinoamerica/), y el caso español en [Grabar sí, difundir no](/blog/es/recording-consent-law/).
 
 ## En resumen
 

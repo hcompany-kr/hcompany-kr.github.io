@@ -54,6 +54,8 @@ That works, and it is worth understanding what it costs.
 
 **In continuous mode** you get one enormous recording. Makers commonly quote something in the range of 20 to 100 hours of continuous recording per charge, with storage measured in hundreds of hours. At the end of the day the file contains your commute, your lunch, and somewhere in the middle, the exchange you were worried about. There is no index. Finding it means listening.
 
+And in continuous mode **it also records conversations you are not part of** — colleagues at the next desk, exchanges in passing. In the US, intercepting a communication you are not part of is a federal offence under 18 U.S.C. §2511; the Netherlands (Criminal Code art. 139a) and Sweden (Criminal Code ch. 4 s. 9a) punish recording a conversation you do not participate in.
+
 **In VOX mode** the device waits for sound, records while sound continues, then stops. This is why standby figures get quoted in months rather than hours: it is idle most of the time. The files come out separated and time stamped, which is genuinely easier to work with.
 
 But VOX has a specific weakness that matters here. **It triggers on sound, not on meaning.** A door, a printer and a kettle all start it. A day in an ordinary office produces a great many clips of nothing, and the one you want is somewhere among them.
@@ -116,4 +118,4 @@ The ranked lists sell devices. The thing that decides whether a recording is any
 
 A recorder that captured everything and a recorder that captured the right two minutes are not the same product, even when the specs look identical.
 
-<p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Specifications and pricing described here are as published by the manufacturers and change frequently; verify before buying. We make a recording app, which is disclosed above. Recording law differs by country and by state — see the law articles on this site for your jurisdiction.</p>
+<p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Specifications and pricing described here are as published by the manufacturers and change frequently; verify before buying. We make a recording app, which is disclosed above. Recording law differs by country and by state — see [Is it legal to record a conversation you're in?](/blog/en/recording-consent-law/) and [the state-by-state breakdown](/blog/en/state-recording-consent/).</p>
