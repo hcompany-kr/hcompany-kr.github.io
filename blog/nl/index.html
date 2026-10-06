@@ -2,12 +2,12 @@
 layout: null
 ---
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="nl">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Blog | H Company</title>
-<meta name="description" content="Notas sobre gravação e sobre guardar um registro do que foi dito.">
+<meta name="description" content="Notities over opnemen en over vasthouden wat er gezegd is.">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 
 <link rel="alternate" hreflang="ko" href="{{ '/blog/ko/' | absolute_url }}">
@@ -26,7 +26,7 @@ layout: null
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="Blog | H Company">
-<meta property="og:description" content="Notas sobre gravação e sobre guardar um registro do que foi dito.">
+<meta property="og:description" content="Notities over opnemen en over vasthouden wat er gezegd is.">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:site_name" content="H Company">
 
@@ -35,7 +35,7 @@ layout: null
 <body>
 <header class="masthead">
   <a class="wordmark" href="{{ '/' | relative_url }}">H Company</a>
-  <nav class="langs" aria-label="Idioma">
+  <nav class="langs" aria-label="Taal">
     <a class="lang" href="{{ '/blog/ko/' | relative_url }}">ko</a>
     <a class="lang" href="{{ '/blog/en/' | relative_url }}">en</a>
     <a class="lang" href="{{ '/blog/ja/' | relative_url }}">ja</a>
@@ -44,9 +44,9 @@ layout: null
     <a class="lang" href="{{ '/blog/de/' | relative_url }}">de</a>
     <a class="lang" href="{{ '/blog/fr/' | relative_url }}">fr</a>
     <a class="lang" href="{{ '/blog/tr/' | relative_url }}">tr</a>
-    <span class="lang is-current">pt</span>
+    <a class="lang" href="{{ '/blog/pt-br/' | relative_url }}">pt</a>
     <a class="lang" href="{{ '/blog/pl/' | relative_url }}">pl</a>
-    <a class="lang" href="{{ '/blog/nl/' | relative_url }}">nl</a>
+    <span class="lang is-current">nl</span>
     <a class="lang" href="{{ '/blog/cs/' | relative_url }}">cs</a>
   </nav>
 </header>
@@ -57,7 +57,7 @@ layout: null
   </div>
 
   <div class="list">
-    {% assign posts = site.posts | where: "lang", "pt-BR" | sort: "date" | reverse %}
+    {% assign posts = site.posts | where: "lang", "nl" | sort: "date" | reverse %}
     {% for post in posts %}
     <div class="list-item">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
