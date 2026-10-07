@@ -119,4 +119,6 @@ Een tweede telefoon, een dictafoon of de luidspreker verandert niets aan wat er 
 
 Manieren om een opname zonder handen te starten, staan in [Een opname starten zonder je telefoon aan te raken](/blog/nl/hands-free-recording/).
 
+De vijf betekenissen van „automatisch opnemen”, inclusief opname die start als een gesprek tot stand komt, staan in [Niet elke „automatische” recorder doet hetzelfde](/blog/nl/auto-recording-types/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De informatie over toestellen en regio's berust op aankondigingen van fabrikanten en berichten die vaak veranderen; controleer je eigen Telefoon-app. Algemene informatie, geen juridisch advies — de regels voor opnemen verschillen per land.</p>

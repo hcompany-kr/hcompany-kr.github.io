@@ -119,4 +119,6 @@ Hoe dat bij telefoongesprekken werkt, staat in [Waarom apps om gesprekken op te 
 
 Als een opname moet starten terwijl de telefoon in je zak zit en je niet kunt praten of hem pakken, is de opname op een trefwoord de enige van de vier mogelijkheden die dat kan. Als je daarnaast nodig hebt wat er net daarvoor gezegd werd, is de doorlopende buffer het beslissende verschil.
 
+Waarom je bijna altijd te laat op opnemen drukt, staat in [Waarom je altijd te laat op opnemen drukt](/blog/nl/recording-delay/), en de vijf soorten automatisch opnemen in [Niet elke „automatische” recorder doet hetzelfde](/blog/nl/auto-recording-types/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen verschillen per land.</p>

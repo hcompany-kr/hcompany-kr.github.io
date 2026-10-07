@@ -120,4 +120,6 @@ Druhý telefon, diktafon nebo hlasitý odposlech nic nemění na tom, co platí 
 
 Způsoby, jak spustit nahrávání bez rukou, popisuje [Jak začít nahrávat, aniž byste se dotkli telefonu](/blog/cs/hands-free-recording/).
 
+Pět významů „automatického nahrávání“, včetně nahrávání při spojení hovoru, popisuje [Ne každý „automatický“ diktafon dělá totéž](/blog/cs/auto-recording-types/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Údaje o zařízeních a regionech vycházejí z oznámení výrobců a článků, které se často mění; zkontrolujte vlastní aplikaci Telefon. Obecná informace, nikoli právní rada — pravidla pro nahrávání se v jednotlivých zemích liší.</p>

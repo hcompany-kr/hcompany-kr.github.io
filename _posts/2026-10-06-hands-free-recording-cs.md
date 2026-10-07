@@ -114,4 +114,6 @@ Jak je to u telefonních hovorů, popisuje [Proč aplikace na nahrávání hovor
 
 Pokud má nahrávání začít, zatímco je telefon v kapse a vy nemůžete mluvit ani po něm sáhnout, je nahrávání po klíčovém slově jedinou ze čtyř možností, která to zvládne. Pokud k tomu potřebujete i to, co zaznělo těsně předtím, rozhoduje průběžná paměť.
 
+Proč tlačítko nahrávání mačkáte skoro vždycky pozdě, popisuje [Proč tlačítko nahrávání mačkáte vždycky pozdě](/blog/cs/recording-delay/), a pět typů automatického nahrávání [Ne každý „automatický“ diktafon dělá totéž](/blog/cs/auto-recording-types/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání se v jednotlivých zemích liší.</p>

@@ -126,4 +126,6 @@ Drugi telefon, dyktafon czy głośnik nie zmieniają tego, jakiej zgody wymaga k
 
 Sposoby na rozpoczęcie nagrywania bez rąk opisuje [Jak zacząć nagrywać, nie dotykając telefonu](/blog/pl/hands-free-recording/).
 
+Pięć znaczeń „automatycznego nagrywania”, w tym nagrywanie po nawiązaniu połączenia, opisuje [Nie każda „automatyczna” nagrywarka robi to samo](/blog/pl/auto-recording-types/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacje o urządzeniach i regionach opierają się na komunikatach producentów i artykułach, które często się zmieniają; sprawdź własną aplikację Telefon. Informacja ogólna, nie porada prawna — prawo dotyczące nagrywania różni się w zależności od kraju.</p>

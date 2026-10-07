@@ -117,3 +117,5 @@ Irlandia i pozostałe kraje nie są tu omówione.
 Jeśli nagrywanie ma zacząć się, gdy telefon jest w kieszeni, a ty nie możesz ani mówić, ani po niego sięgnąć, nagrywanie po słowie kluczowym jest jedyną z czterech możliwości, która to umożliwia. Jeśli potrzebujesz też tego, co padło tuż przed startem, kluczowy jest bufor działający w tle.
 
 Jak to wygląda przy rozmowach telefonicznych, opisuje [Dlaczego aplikacje do nagrywania rozmów na Androidzie przestały działać i co nadal działa](/blog/pl/call-recording-android/).
+
+Dlaczego przycisk nagrywania prawie zawsze wciskasz za późno, opisuje [Dlaczego przycisk nagrywania zawsze wciskasz za późno](/blog/pl/recording-delay/), a pięć rodzajów automatycznego nagrywania — [Nie każda „automatyczna” nagrywarka robi to samo](/blog/pl/auto-recording-types/).
