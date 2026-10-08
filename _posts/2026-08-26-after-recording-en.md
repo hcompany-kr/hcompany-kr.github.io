@@ -22,6 +22,8 @@ faq:
     a: "A file that exists only on one phone disappears with that phone. Keeping one copy off the device is worth the two minutes. TalkSafe uses the Android share function, so a file can be sent to any app that accepts it — email to yourself, cloud storage, a computer."
   - q: "Does trimming weaken the recording as evidence?"
     a: "Not if the original is preserved. Submitting a full two-hour file is usually worse, because the person reading it has to find the relevant part themselves. A short excerpt plus the untouched original is the stronger combination."
+  - q: "What if a recording is full of background noise?"
+    a: "Apply TalkSafe's AI noise removal to the recording or to a trimmed clip. It saves a new version with the background noise stripped out, processed on the device, and leaves the original as it was, so you can submit the cleaned copy and keep the original alongside it."
 ---
 
 Starting a recording is the hard part. What comes after looks simple.
@@ -49,6 +51,8 @@ Sending it to a colleague, posting it in a family thread, attaching it to a foru
 If only an edited file exists, the other side can argue it was manipulated. If the original exists, you can show that the edit was a straightforward excerpt.
 
 TalkSafe's **trim function does not touch the original.** The selected section is saved as a new file and the full recording stays where it was. That means you can prepare a submission copy without losing what it came from.
+
+The same goes for **AI noise removal**. If a recording was made on the street and the background drowns out parts of it, noise removal creates a new file with the background stripped out. It works on a trimmed clip too, so you can cut the section you need first and then clean that. It runs on the device and the original stays as it was. Submit the cleaned copy if it is easier to follow, and keep the original: it is what shows nothing else was changed.
 
 The sequence worth following:
 

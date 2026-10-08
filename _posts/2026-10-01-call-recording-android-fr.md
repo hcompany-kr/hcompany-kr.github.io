@@ -98,6 +98,8 @@ Une application qui capte le son de la pièce ne touche pas au flux de l'appel, 
 
 Les inconvénients sont réels. **La qualité baisse**, puisqu'on enregistre un petit haut-parleur dans une pièce plutôt qu'un signal propre. **Le bruit ambiant s'invite.** Et **tout le monde autour entend l'appel**, ce qui exclut l'open space ou le train.
 
+Des trois, le bruit ambiant est celui qu'on peut traiter après coup. La **suppression du bruit par IA** de TalkSafe retire le bruit de fond d'un enregistrement terminé et garde les voix. Le traitement se fait sur l'appareil, et la version nettoyée est enregistrée dans un nouveau fichier, l'original restant intact.
+
 Pour un appel que vous pouvez prendre dans un endroit calme, cela marche.
 
 ## Où se situe cette application, et où elle ne se situe pas

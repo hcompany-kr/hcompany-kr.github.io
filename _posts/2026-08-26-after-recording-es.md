@@ -22,6 +22,8 @@ faq:
     a: "Un archivo que solo existe en un teléfono desaparece con ese teléfono. Conviene dejar una copia fuera del dispositivo. TalkSafe utiliza la función de compartir de Android, así que el archivo puede enviarse a cualquier aplicación que lo acepte: correo a ti mismo, almacenamiento en la nube, un ordenador."
   - q: "¿Recortar debilita la grabación como prueba?"
     a: "No si se conserva el original. Aportar dos horas de audio suele ser peor, porque quien lo revisa tiene que localizar la parte relevante. Un extracto breve más el original sin tocar es la combinación más sólida."
+  - q: "¿Qué hago con una grabación llena de ruido de fondo?"
+    a: "Aplica la eliminación de ruido con IA de TalkSafe a la grabación o a un fragmento recortado. Guarda una versión nueva sin el ruido de fondo, procesada en el dispositivo, y deja el original intacto, de modo que puedes aportar la versión limpia y conservar el original junto a ella."
 ---
 
 Empezar a grabar es la parte difícil. Lo que viene después parece sencillo.
@@ -47,6 +49,8 @@ Mandársela a un compañero, subirla al grupo de la familia, adjuntarla en un fo
 Si solo existe el archivo editado, la otra parte puede alegar manipulación. Si existe el original, puedes mostrar que la edición fue un extracto sin más.
 
 La **función de recorte de TalkSafe no toca el original.** El fragmento seleccionado se guarda como archivo nuevo y la grabación completa permanece. Puedes preparar la copia que vas a aportar sin perder aquello de lo que salió.
+
+Lo mismo vale para la **eliminación de ruido con IA**. Si grabaste en la calle y el ruido tapa partes de la conversación, puedes crear un archivo nuevo sin el ruido de fondo. También funciona sobre un fragmento recortado, así que puedes recortar primero lo que necesitas y limpiar ese archivo. Se procesa en el dispositivo y el original queda intacto. Aporta la versión limpia si se entiende mejor y conserva el original: es lo que demuestra que no se cambió nada más.
 
 El orden que conviene seguir:
 

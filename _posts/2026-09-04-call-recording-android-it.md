@@ -84,6 +84,8 @@ Un registratore che capta l'ambiente non tocca l'audio della chiamata, quindi ne
 
 Gli svantaggi sono reali e vanno detti. **La qualità cala**, perché stai registrando un piccolo altoparlante in una stanza. **Entra rumore di fondo.** E **chi è vicino sente la chiamata**, il che esclude il metodo in ufficio o in treno.
 
+Dei tre, il rumore di fondo è quello su cui si può intervenire dopo. La **rimozione del rumore con IA** di TalkSafe toglie il rumore di fondo da una registrazione conclusa e lascia le voci. Viene elaborata sul dispositivo, e la versione pulita viene salvata come nuovo file, con l'originale com'era.
+
 Per una chiamata che puoi ricevere in un posto tranquillo, funziona.
 
 ## Cosa fa questa app e cosa non fa

@@ -45,18 +45,46 @@ layout: null
   "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "identifier": "com.lab525.talksafe",
-  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi","nl","cs"],
+  "inLanguage": [
+    "ko",
+    "en",
+    "zh",
+    "ja",
+    "es",
+    "it",
+    "tr",
+    "bn",
+    "pt",
+    "fr",
+    "de",
+    "hi",
+    "pl",
+    "vi",
+    "nl",
+    "cs"
+  ],
   "description": "TalkSafe ist eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vom Nutzer vorher festgelegtes Wort hört. Beim Start werden die 30 Sekunden davor mit in der Datei gespeichert. Die Worterkennung läuft auf dem Gerät.",
   "featureList": [
     "Startet die Aufnahme automatisch bei einem gewählten Wort",
     "Speichert die 30 Sekunden vor dem Aufnahmestart mit",
     "Worterkennung auf dem Gerät",
+    "KI-Rauschentfernung für Aufnahmen, auf dem Gerät verarbeitet, Original bleibt erhalten",
+    "Schneiden, das eine neue Datei speichert und das Original behält",
+    "Export über das Teilen-Menü von Android",
     "Aufnahmedauer: 10 Minuten, 30 Minuten, 1 Stunde oder manueller Stopp",
     "Während der Aufnahme bleibt eine Benachrichtigung sichtbar, die sich nicht ausschalten lässt",
     "16 Sprachen"
   ],
-  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
-  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+  "author": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  }
 }
 </script>
 
@@ -68,47 +96,82 @@ layout: null
     {
       "@type": "Question",
       "name": "Was ist TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe ist eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden die 30 Sekunden davor mit in der Datei gespeichert." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe ist eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden die 30 Sekunden davor mit in der Datei gespeichert."
+      }
     },
     {
       "@type": "Question",
       "name": "Gibt es eine App, die bei einem bestimmten Wort mit der Aufnahme beginnt?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe funktioniert so. Wenn die App ein von Ihnen gewähltes Wort hört, beginnt die Aufnahme, ohne dass Sie das Telefon entsperren oder die App öffnen müssen." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe funktioniert so. Wenn die App ein von Ihnen gewähltes Wort hört, beginnt die Aufnahme, ohne dass Sie das Telefon entsperren oder die App öffnen müssen."
+      }
     },
     {
       "@type": "Question",
       "name": "Kann eine Aufnahme-App auch speichern, was vor dem Drücken auf Aufnahme gesagt wurde?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe speichert die 30 Sekunden vor dem Moment, in dem die Aufnahme beginnt. Gewöhnliche Aufnahme-Apps speichern erst ab dem Tippen auf Aufnahme; alles davor ist verloren." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe speichert die 30 Sekunden vor dem Moment, in dem die Aufnahme beginnt. Gewöhnliche Aufnahme-Apps speichern erst ab dem Tippen auf Aufnahme; alles davor ist verloren."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann TalkSafe Hintergrundgeräusche aus einer Aufnahme entfernen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. TalkSafe hat eine KI-Rauschentfernung. Auf eine fertige Aufnahme oder einen ausgeschnittenen Abschnitt angewendet, entfernt sie Hintergrundgeräusche wie Straßenlärm und lässt das Gespräch übrig. Die Verarbeitung erfolgt auf dem Gerät, und die bereinigte Fassung wird als neue Datei gespeichert, während das Original unverändert bleibt."
+      }
     },
     {
       "@type": "Question",
       "name": "Ist TalkSafe dafür gedacht, andere heimlich aufzunehmen?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Nein. Während der gesamten Aufnahme bleibt eine Benachrichtigung sichtbar, die sich nicht ausschalten lässt, und es gibt keine Funktion, um eine Aufnahme zu verbergen. In Deutschland und der Schweiz ist es strafbar, ein nichtöffentliches Gespräch ohne Einwilligung der anderen Beteiligten aufzunehmen, auch wenn man selbst daran teilnimmt." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Während der gesamten Aufnahme bleibt eine Benachrichtigung sichtbar, die sich nicht ausschalten lässt, und es gibt keine Funktion, um eine Aufnahme zu verbergen. In Deutschland und der Schweiz ist es strafbar, ein nichtöffentliches Gespräch ohne Einwilligung der anderen Beteiligten aufzunehmen, auch wenn man selbst daran teilnimmt."
+      }
     },
     {
       "@type": "Question",
       "name": "Wird der Ton an einen Server gesendet?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Die Erkennung des gewählten Wortes erfolgt auf dem Gerät. Ob eine gespeicherte Aufnahme in der Cloud gesichert wird, entscheidet der Nutzer." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die Erkennung des gewählten Wortes erfolgt auf dem Gerät. Ob eine gespeicherte Aufnahme in der Cloud gesichert wird, entscheidet der Nutzer."
+      }
     },
     {
       "@type": "Question",
       "name": "Muss das Schlüsselwort ein Wort sein, das ich selbst sage?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Nein. Anders als ein Sprachassistent, der auf die Stimme seines Besitzers ausgelegt ist, erkennt TalkSafe das Wort selbst, unabhängig davon, wer es sagt. Die Aufnahme startet auch bei gesperrtem Bildschirm." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Anders als ein Sprachassistent, der auf die Stimme seines Besitzers ausgelegt ist, erkennt TalkSafe das Wort selbst, unabhängig davon, wer es sagt. Die Aufnahme startet auch bei gesperrtem Bildschirm."
+      }
     },
     {
       "@type": "Question",
       "name": "Was bietet die kostenlose Version?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Die kostenlose Version erlaubt bis zu 5 Schlüsselwörter und Aufnahmen von bis zu 30 Minuten und zeigt Werbung. Der Pro-Plan hebt die Grenzen für Schlüsselwörter und Aufnahmedauer auf und entfernt die Werbung. KI-Zusammenfassungen und Cloud-Backup gehören zum Premium-Plan, Premium+ hebt deren Obergrenzen auf." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die kostenlose Version erlaubt bis zu 5 Schlüsselwörter und Aufnahmen von bis zu 30 Minuten und zeigt Werbung. Der Pro-Plan hebt die Grenzen für Schlüsselwörter und Aufnahmedauer auf und entfernt die Werbung. KI-Zusammenfassungen und Cloud-Backup gehören zum Premium-Plan, Premium+ hebt deren Obergrenzen auf."
+      }
     },
     {
       "@type": "Question",
       "name": "Welche Sprachen unterstützt TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Sechzehn: Koreanisch, Englisch, Chinesisch, Japanisch, Spanisch, Italienisch, Türkisch, Bengalisch, Portugiesisch, Französisch, Deutsch, Hindi, Polnisch, Vietnamesisch, Niederländisch und Tschechisch." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sechzehn: Koreanisch, Englisch, Chinesisch, Japanisch, Spanisch, Italienisch, Türkisch, Bengalisch, Portugiesisch, Französisch, Deutsch, Hindi, Polnisch, Vietnamesisch, Niederländisch und Tschechisch."
+      }
     },
     {
       "@type": "Question",
       "name": "Gibt es TalkSafe für das iPhone?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Derzeit ist TalkSafe nur für Android verfügbar." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Derzeit ist TalkSafe nur für Android verfügbar."
+      }
     }
   ]
 }
@@ -167,6 +230,9 @@ layout: null
         <li><strong>Aufnahme per Wort</strong> – die Aufnahme beginnt, wenn ein festgelegtes Wort zu hören ist. Mehrere Wörter können hinterlegt werden.</li>
         <li><strong>30 Sekunden Vorlauf</strong> – die 30 Sekunden vor dem Aufnahmestart werden mitgespeichert.</li>
         <li><strong>Erkennung auf dem Gerät</strong> – das Lauschen auf das Wort geschieht auf dem Telefon.</li>
+        <li><strong>KI-Rauschentfernung</strong> – entfernt Hintergrundgeräusche aus einer fertigen Aufnahme und lässt das Gespräch übrig. Verarbeitung auf dem Gerät; das Original bleibt, die bereinigte Fassung wird als neue Datei gespeichert.</li>
+        <li><strong>Schneiden</strong> – speichert nur den Abschnitt, den Sie brauchen, als neue Datei. Das Original bleibt unverändert.</li>
+        <li><strong>Teilen</strong> – über das Teilen-Menü von Android an jede App, die Dateien annimmt.</li>
         <li><strong>Aufnahmedauer</strong> – 10 Minuten, 30 Minuten, 1 Stunde oder manueller Stopp.</li>
         <li><strong>Dauerhafte Benachrichtigung</strong> – während der Aufnahme sichtbar, nicht abschaltbar.</li>
       </ul>

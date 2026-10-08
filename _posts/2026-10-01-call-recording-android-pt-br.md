@@ -84,6 +84,8 @@ Um app que grava o som do ambiente não toca na ligação em si, então nenhuma 
 
 O preço é real. **A qualidade cai**, porque você está gravando um alto-falante pequeno numa sala, e não um sinal limpo. **O barulho em volta entra.** E **todo mundo por perto escuta a ligação**, o que descarta o escritório aberto ou o ônibus.
 
+Dos três, o barulho é o que dá para resolver depois. A **remoção de ruído com IA** do TalkSafe tira o ruído de fundo de uma gravação já feita e deixa as vozes. Ela é processada no aparelho, e a versão limpa é salva como arquivo novo, com o original como estava.
+
 Para uma ligação que você pode atender num lugar quieto, funciona.
 
 ## Onde este app se encaixa, e onde não

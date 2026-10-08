@@ -90,7 +90,7 @@ Dos versiones.
 
 **Una aplicación que arranca por palabra** empieza cuando oye un término que fijaste de antemano. El archivo empieza **en el momento**, no a las nueve de la mañana, así que después no hay nada que rebuscar.
 
-Trabajamos en esta categoría, así que lee lo siguiente con eso presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) es una aplicación de Android que arranca con una palabra que eliges, funciona con la pantalla bloqueada y guarda **los 30 segundos anteriores al inicio** junto con el archivo, que es precisamente la respuesta al problema de la sílaba perdida del VOX. Al recortar un fragmento, el original se conserva en lugar de sustituirse.
+Trabajamos en esta categoría, así que lee lo siguiente con eso presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) es una aplicación de Android que arranca con una palabra que eliges, funciona con la pantalla bloqueada y guarda **los 30 segundos anteriores al inicio** junto con el archivo, que es precisamente la respuesta al problema de la sílaba perdida del VOX. Al recortar un fragmento, el original se conserva en lugar de sustituirse. Una grabación hecha en un sitio ruidoso, como la calle, puede limpiarse después con la eliminación de ruido con IA, que se procesa en el dispositivo y guarda un archivo nuevo junto al original.
 
 ## Dónde gana el hardware sin discusión
 

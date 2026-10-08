@@ -86,6 +86,8 @@ Aplikace, která nahrává zvuk v místnosti, se samotného hovoru vůbec nedot�
 
 Nevýhody jsou skutečné. **Kvalita zvuku klesne**, protože se nahrává malý reproduktor v místnosti místo čistého signálu. **Přidá se hluk v pozadí.** A **hovor slyší všichni v okolí** — v open space nebo ve vlaku tenhle způsob nepřipadá v úvahu.
 
+Z těch tří nevýhod se dá hluk v pozadí řešit dodatečně. **Odstranění šumu pomocí AI** v TalkSafe odstraní z hotové nahrávky hluk v pozadí a ponechá hlasy. Běží v zařízení a vyčištěná verze se uloží jako nový soubor; originál zůstane beze změny.
+
 Pro hovor, který můžete vyřídit na klidném místě, funguje.
 
 ## Kde je místo této aplikace, a kde ne

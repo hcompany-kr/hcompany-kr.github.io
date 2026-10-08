@@ -22,6 +22,8 @@ faq:
     a: "Yalnızca bir telefonda duran dosya o telefonla birlikte kaybolur. TalkSafe Android'in paylaşım menüsünü kullanır; kayıt, dosya kabul eden her uygulamaya gönderilebilir: kendinize e-posta, bulut depolama, bir bilgisayar."
   - q: "Kırpmak kaydı delil olarak zayıflatır mı?"
     a: "Orijinal korunuyorsa hayır. İki saatlik tam bir dosya sunmak genellikle daha kötüdür, çünkü inceleyen kişi ilgili kısmı kendisi bulmak zorunda kalır. Kısa bir kesit ile dokunulmamış orijinal en güçlü birleşimdir."
+  - q: "Arka plan gürültüsüyle dolu bir kayıtla ne yapmalı?"
+    a: "TalkSafe'in yapay zekâ ile gürültü giderme özelliğini kayda ya da kırpılmış bir bölüme uygulayın. Arka plan gürültüsü temizlenmiş yeni bir sürüm cihazda işlenerek kaydedilir ve orijinal olduğu gibi kalır; böylece temizlenmiş kopyayı sunup orijinali yanında saklayabilirsiniz."
 ---
 
 Zor kısım kaydı başlatmak gibi görünür. Sonrası basit görünür.
@@ -57,6 +59,8 @@ Bir iş arkadaşına göndermek, aile grubuna atmak, bir forum gönderisine ekle
 Yalnızca düzenlenmiş bir dosya varsa karşı taraf oynandığını iddia edebilir. Orijinal varsa kesitin basit bir alıntı olduğunu gösterebilirsiniz.
 
 TalkSafe'in **kırpma özelliği orijinale dokunmaz.** Seçilen bölüm yeni bir dosya olarak kaydedilir, tam kayıt olduğu yerde kalır. Böylece kaynağını kaybetmeden sunulacak bir kopya hazırlayabilirsiniz.
+
+Aynısı **yapay zekâ ile gürültü giderme** için de geçerlidir. Kayıt sokakta yapıldıysa ve gürültü konuşmanın bazı kısımlarını bastırıyorsa, gürültü giderme arka planı temizlenmiş yeni bir dosya oluşturur. Kırpılmış bir bölüm üzerinde de çalışır; önce gereken kısmı kırpıp sonra o dosyayı temizleyebilirsiniz. İşlem cihazda yapılır ve orijinal olduğu gibi kalır. Daha anlaşılırsa temizlenmiş kopyayı sunun, orijinali saklayın: başka hiçbir şeyin değiştirilmediğini gösteren odur.
 
 İzlenmeye değer sıra:
 

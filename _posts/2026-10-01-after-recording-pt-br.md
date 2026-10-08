@@ -22,6 +22,8 @@ faq:
     a: "Um arquivo que só existe num celular some junto com ele. O TalkSafe usa o menu de compartilhamento do Android, então a gravação pode ser enviada para qualquer app que aceite arquivos: um e-mail para você mesmo, um armazenamento na nuvem, um computador."
   - q: "Cortar a gravação enfraquece a prova?"
     a: "Não, se o original estiver guardado. Apresentar um arquivo inteiro de duas horas costuma ser pior, porque quem analisa precisa achar sozinho a parte relevante. Um trecho curto mais o original intacto é a combinação mais forte."
+  - q: "O que fazer com uma gravação cheia de ruído de fundo?"
+    a: "Aplique a remoção de ruído com IA do TalkSafe à gravação ou a um trecho cortado. Ela salva uma versão nova sem o ruído de fundo, processada no aparelho, e deixa o original como estava, então você pode apresentar a versão limpa e guardar o original junto."
 ---
 
 A parte difícil parece ser começar a gravar. O que vem depois parece simples.
@@ -56,6 +58,8 @@ Mandar para um colega, postar no grupo da família, anexar num post de fórum �
 Se só existir um arquivo editado, a outra parte pode alegar que ele foi manipulado. Se o original existir, dá para mostrar que o corte é só um trecho.
 
 A **função de corte do TalkSafe não mexe no original.** O trecho escolhido é salvo como um arquivo novo, e a gravação completa fica onde estava. Assim você prepara uma cópia para apresentar sem perder de onde ela veio.
+
+O mesmo vale para a **remoção de ruído com IA**. Se você gravou na rua e o barulho cobre partes da conversa, ela cria um arquivo novo sem o ruído de fundo. Funciona também num trecho cortado: corte primeiro o que importa e depois limpe esse arquivo. O processamento acontece no aparelho e o original fica como estava. Apresente a versão limpa se ela for mais fácil de entender e guarde o original: é ele que mostra que nada mais foi mudado.
 
 A sequência que vale seguir:
 

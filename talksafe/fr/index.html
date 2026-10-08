@@ -45,18 +45,46 @@ layout: null
   "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "identifier": "com.lab525.talksafe",
-  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi","nl","cs"],
+  "inLanguage": [
+    "ko",
+    "en",
+    "zh",
+    "ja",
+    "es",
+    "it",
+    "tr",
+    "bn",
+    "pt",
+    "fr",
+    "de",
+    "hi",
+    "pl",
+    "vi",
+    "nl",
+    "cs"
+  ],
   "description": "TalkSafe est une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance par l'utilisateur. Au démarrage, les 30 secondes précédentes sont enregistrées dans le fichier. La reconnaissance du mot se fait sur l'appareil.",
   "featureList": [
     "Démarre l'enregistrement automatiquement sur un mot choisi",
     "Conserve les 30 secondes précédant le début de l'enregistrement",
     "Reconnaissance du mot sur l'appareil",
+    "Suppression du bruit par IA sur les enregistrements, traitée sur l'appareil, original conservé",
+    "Découpe qui enregistre un nouveau fichier et conserve l'original",
+    "Export via le menu de partage d'Android",
     "Durée d'enregistrement : 10 minutes, 30 minutes, 1 heure ou arrêt manuel",
     "Une notification reste visible pendant l'enregistrement et ne peut pas être désactivée",
     "16 langues"
   ],
-  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
-  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+  "author": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  }
 }
 </script>
 
@@ -68,47 +96,82 @@ layout: null
     {
       "@type": "Question",
       "name": "Qu'est-ce que TalkSafe ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe est une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, les 30 secondes précédentes sont enregistrées dans le fichier." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe est une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, les 30 secondes précédentes sont enregistrées dans le fichier."
+      }
     },
     {
       "@type": "Question",
       "name": "Existe-t-il une application qui commence à enregistrer quand on dit un mot ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe fonctionne ainsi. Quand elle entend un mot que vous avez choisi, l'enregistrement démarre sans déverrouiller le téléphone ni ouvrir l'application." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe fonctionne ainsi. Quand elle entend un mot que vous avez choisi, l'enregistrement démarre sans déverrouiller le téléphone ni ouvrir l'application."
+      }
     },
     {
       "@type": "Question",
       "name": "Une application peut-elle enregistrer ce qui a été dit avant d'appuyer sur enregistrer ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe conserve les 30 secondes qui précèdent le début de l'enregistrement. Les enregistreurs ordinaires ne sauvegardent qu'à partir du moment où l'on appuie ; tout ce qui précède est perdu." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe conserve les 30 secondes qui précèdent le début de l'enregistrement. Les enregistreurs ordinaires ne sauvegardent qu'à partir du moment où l'on appuie ; tout ce qui précède est perdu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "TalkSafe peut-elle retirer le bruit de fond d'un enregistrement ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. TalkSafe dispose d'une suppression du bruit par IA. Appliquée à un enregistrement terminé ou à un passage découpé, elle retire les bruits de fond comme ceux de la rue et garde la conversation. Le traitement se fait sur l'appareil, et la version nettoyée est enregistrée dans un nouveau fichier tandis que l'original reste intact."
+      }
     },
     {
       "@type": "Question",
       "name": "TalkSafe sert-il à enregistrer quelqu'un en cachette ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Non. Une notification reste visible pendant toute la durée de l'enregistrement et ne peut pas être désactivée, et il n'existe aucune fonction pour dissimuler un enregistrement. En France, enregistrer sans son consentement des paroles prononcées à titre privé ou confidentiel est puni d'un an d'emprisonnement et de 45 000 euros d'amende par l'article 226-1 du Code pénal, même lorsqu'on participe à la conversation." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Une notification reste visible pendant toute la durée de l'enregistrement et ne peut pas être désactivée, et il n'existe aucune fonction pour dissimuler un enregistrement. En France, enregistrer sans son consentement des paroles prononcées à titre privé ou confidentiel est puni d'un an d'emprisonnement et de 45 000 euros d'amende par l'article 226-1 du Code pénal, même lorsqu'on participe à la conversation."
+      }
     },
     {
       "@type": "Question",
       "name": "Le son est-il envoyé à un serveur ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "La reconnaissance du mot choisi se fait sur l'appareil. La sauvegarde d'un enregistrement dans le cloud relève du choix de l'utilisateur." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La reconnaissance du mot choisi se fait sur l'appareil. La sauvegarde d'un enregistrement dans le cloud relève du choix de l'utilisateur."
+      }
     },
     {
       "@type": "Question",
       "name": "Le mot-clé doit-il être un mot que je prononce moi-même ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Non. Contrairement à un assistant vocal, conçu pour reconnaître la voix de son propriétaire, TalkSafe détecte le mot lui-même, quelle que soit la personne qui le prononce. L'enregistrement démarre aussi écran verrouillé." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Contrairement à un assistant vocal, conçu pour reconnaître la voix de son propriétaire, TalkSafe détecte le mot lui-même, quelle que soit la personne qui le prononce. L'enregistrement démarre aussi écran verrouillé."
+      }
     },
     {
       "@type": "Question",
       "name": "Que comprend la version gratuite ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "La version gratuite permet jusqu'à 5 mots-clés et des enregistrements de 30 minutes maximum, avec de la publicité. Le forfait Pro supprime les limites de mots-clés et de durée ainsi que la publicité. Les résumés par IA et la sauvegarde dans le cloud font partie du forfait Premium, et Premium+ en supprime les plafonds." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La version gratuite permet jusqu'à 5 mots-clés et des enregistrements de 30 minutes maximum, avec de la publicité. Le forfait Pro supprime les limites de mots-clés et de durée ainsi que la publicité. Les résumés par IA et la sauvegarde dans le cloud font partie du forfait Premium, et Premium+ en supprime les plafonds."
+      }
     },
     {
       "@type": "Question",
       "name": "Quelles langues TalkSafe prend-il en charge ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Seize : coréen, anglais, chinois, japonais, espagnol, italien, turc, bengali, portugais, français, allemand, hindi, polonais, vietnamien, néerlandais et tchèque." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seize : coréen, anglais, chinois, japonais, espagnol, italien, turc, bengali, portugais, français, allemand, hindi, polonais, vietnamien, néerlandais et tchèque."
+      }
     },
     {
       "@type": "Question",
       "name": "TalkSafe est-il disponible sur iPhone ?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Pour l'instant, TalkSafe n'est disponible que sur Android." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour l'instant, TalkSafe n'est disponible que sur Android."
+      }
     }
   ]
 }
@@ -167,6 +230,9 @@ layout: null
         <li><strong>Enregistrement déclenché par un mot</strong> — l'enregistrement démarre quand un mot choisi est entendu. Plusieurs mots peuvent être enregistrés.</li>
         <li><strong>30 secondes en amont</strong> — les 30 secondes qui précèdent le début sont conservées.</li>
         <li><strong>Reconnaissance sur l'appareil</strong> — l'écoute du mot se fait sur le téléphone.</li>
+        <li><strong>Suppression du bruit par IA</strong> — retire le bruit de fond d'un enregistrement terminé et garde la conversation. Traitement sur l'appareil ; l'original est conservé et la version nettoyée est enregistrée dans un nouveau fichier.</li>
+        <li><strong>Découpe</strong> — enregistre seulement le passage utile dans un nouveau fichier. L'original reste intact.</li>
+        <li><strong>Partage</strong> — via le menu de partage d'Android, vers toute application qui accepte un fichier.</li>
         <li><strong>Durée d'enregistrement</strong> — 10 minutes, 30 minutes, 1 heure ou arrêt manuel.</li>
         <li><strong>Notification permanente</strong> — visible pendant l'enregistrement, impossible à désactiver.</li>
       </ul>

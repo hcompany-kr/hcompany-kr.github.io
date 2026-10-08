@@ -90,7 +90,7 @@ Twee varianten.
 
 **Een app met start op trefwoord** begint als hij een vooraf ingesteld woord hoort. Het bestand begint op het moment, niet om negen uur 's ochtends, dus er valt daarna niets te doorzoeken.
 
-Dit is de categorie waarin wij werken, dus lees de volgende alinea met die wetenschap. [TalkSafe](/talksafe/nl/) is een Android-app die start bij een gekozen woord, werkt met een vergrendeld scherm en de 30 seconden vóór de start met het bestand bewaart — dat beantwoordt het probleem van de ontbrekende eerste lettergreep. Bij het knippen van een stuk blijft het originele bestand bewaard.
+Dit is de categorie waarin wij werken, dus lees de volgende alinea met die wetenschap. [TalkSafe](/talksafe/nl/) is een Android-app die start bij een gekozen woord, werkt met een vergrendeld scherm en de 30 seconden vóór de start met het bestand bewaart — dat beantwoordt het probleem van de ontbrekende eerste lettergreep. Bij het knippen van een stuk blijft het originele bestand bewaard. Een opname uit een lawaaiige omgeving, zoals op straat, kun je achteraf opschonen met de AI-ruisonderdrukking, die op het toestel werkt en een nieuw bestand naast het origineel bewaart.
 
 ## Waar hardware echt wint
 

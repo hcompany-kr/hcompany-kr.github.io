@@ -90,7 +90,7 @@ Due versioni.
 
 **Un'app che parte a parola** inizia quando sente un termine deciso in anticipo. Il file comincia **nel momento**, non alle nove del mattino, quindi dopo non c'e nulla da spulciare.
 
-Lavoriamo in questa categoria, quindi leggi il prossimo passaggio tenendolo presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) e un'app Android che parte da una parola scelta da te, funziona a schermo bloccato e salva **i 30 secondi precedenti all'avvio** insieme al file — che e esattamente la risposta al problema della sillaba persa del VOX. Ritagliando un pezzo, l'originale resta invece di essere sostituito.
+Lavoriamo in questa categoria, quindi leggi il prossimo passaggio tenendolo presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) e un'app Android che parte da una parola scelta da te, funziona a schermo bloccato e salva **i 30 secondi precedenti all'avvio** insieme al file — che e esattamente la risposta al problema della sillaba persa del VOX. Ritagliando un pezzo, l'originale resta invece di essere sostituito. Una registrazione fatta in un posto rumoroso, come la strada, può essere pulita dopo con la rimozione del rumore con IA, elaborata sul dispositivo, che salva un nuovo file accanto all'originale.
 
 ## Dove l'hardware vince senza discussioni
 

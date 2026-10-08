@@ -90,7 +90,7 @@ Dvě varianty.
 
 **Aplikace se startem po klíčovém slově** začne, když uslyší předem nastavené slovo. Soubor začíná v dané chvíli, ne v devět ráno, takže potom není co prohledávat.
 
-V této kategorii pracujeme my, takže další odstavec čtěte s tímto vědomím. [TalkSafe](/talksafe/cs/) je aplikace pro Android, která se spustí po zvoleném slově, funguje při zamčené obrazovce a ukládá se souborem 30 sekund před začátkem — což řeší problém chybějící první slabiky. Při vystřižení úseku zůstane původní soubor zachován.
+V této kategorii pracujeme my, takže další odstavec čtěte s tímto vědomím. [TalkSafe](/talksafe/cs/) je aplikace pro Android, která se spustí po zvoleném slově, funguje při zamčené obrazovce a ukládá se souborem 30 sekund před začátkem — což řeší problém chybějící první slabiky. Při vystřižení úseku zůstane původní soubor zachován. Nahrávku pořízenou v hlučném prostředí, třeba na ulici, lze dodatečně vyčistit odstraněním šumu pomocí AI, které běží v zařízení a uloží nový soubor vedle originálu.
 
 ## Kde hardware opravdu vyhrává
 

@@ -92,6 +92,8 @@ Aplikacja, która nagrywa dźwięk w pomieszczeniu, w ogóle nie dotyka połącz
 
 Ceną jest kilka realnych wad. **Jakość dźwięku spada**, bo nagrywany jest mały głośnik w pomieszczeniu, a nie czysty sygnał. **Wchodzi hałas w tle.** I **wszyscy w pobliżu słyszą rozmowę** — w open space czy w pociągu ten sposób odpada.
 
+Z tych trzech wad hałas w tle da się poprawić później. **Usuwanie szumów z AI** w TalkSafe usuwa hałas w tle z gotowego nagrania i zostawia głosy. Działa na urządzeniu, a oczyszczona wersja jest zapisywana jako nowy plik; oryginał zostaje bez zmian.
+
 Przy rozmowie, którą możesz odbyć w cichym miejscu, działa.
 
 ## Gdzie jest miejsce tej aplikacji, a gdzie nie

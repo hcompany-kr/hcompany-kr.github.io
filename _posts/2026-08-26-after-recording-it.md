@@ -22,6 +22,8 @@ faq:
     a: "Un file che esiste solo su un telefono sparisce con quel telefono. Conviene tenerne una copia fuori dal dispositivo. TalkSafe usa la funzione di condivisione di Android, quindi il file può essere inviato a qualunque app lo accetti: una mail a te stesso, uno spazio cloud, un computer."
   - q: "Il ritaglio indebolisce la registrazione come prova?"
     a: "Non se l'originale è conservato. Produrre due ore di audio è di solito peggio, perché chi legge deve trovare da solo il passaggio rilevante. Un estratto breve più l'originale intatto è la combinazione più solida."
+  - q: "Che cosa faccio con una registrazione piena di rumore di fondo?"
+    a: "Applica la rimozione del rumore con IA di TalkSafe alla registrazione o a un tratto ritagliato. Salva una nuova versione senza il rumore di fondo, elaborata sul dispositivo, e lascia l'originale com'era, così puoi consegnare la versione pulita e conservare l'originale accanto."
 ---
 
 Iniziare a registrare è la parte difficile. Quello che viene dopo sembra semplice.
@@ -49,6 +51,8 @@ Mandarla a un collega, metterla nel gruppo di famiglia, allegarla a un post — 
 Se esiste solo il file modificato, la controparte può sostenere che sia stato manipolato. Se esiste l'originale, puoi mostrare che la modifica era un estratto e basta.
 
 La **funzione di ritaglio di TalkSafe non tocca l'originale.** Il tratto selezionato viene salvato come nuovo file e la registrazione completa resta dov'era. Puoi preparare la copia da produrre senza perdere quella da cui è uscita.
+
+Lo stesso vale per la **rimozione del rumore con IA**. Se hai registrato per strada e il rumore copre parti della conversazione, puoi creare un nuovo file senza il rumore di fondo. Funziona anche su un tratto ritagliato, quindi puoi ritagliare prima ciò che ti serve e poi pulire quel file. L'elaborazione avviene sul dispositivo e l'originale resta com'era. Consegna la versione pulita se si capisce meglio e conserva l'originale: è ciò che dimostra che non è stato cambiato nient'altro.
 
 L'ordine da seguire:
 

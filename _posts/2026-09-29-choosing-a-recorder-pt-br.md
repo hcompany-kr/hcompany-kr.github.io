@@ -90,7 +90,7 @@ Duas versões.
 
 **Um app que começa por palavra-chave** começa quando ouve uma palavra definida antes. O arquivo começa no momento, não às nove da manhã, então não há nada para vasculhar depois.
 
-Essa é a categoria em que trabalhamos, então leia o próximo trecho sabendo disso. O [TalkSafe](/talksafe/pt-br/) é um app para Android que começa com uma palavra escolhida, funciona com a tela bloqueada e salva os 30 segundos antes do início junto com o arquivo, o que resolve o problema da primeira sílaba cortada. Cortar um trecho mantém o arquivo original intacto.
+Essa é a categoria em que trabalhamos, então leia o próximo trecho sabendo disso. O [TalkSafe](/talksafe/pt-br/) é um app para Android que começa com uma palavra escolhida, funciona com a tela bloqueada e salva os 30 segundos antes do início junto com o arquivo, o que resolve o problema da primeira sílaba cortada. Cortar um trecho mantém o arquivo original intacto. Uma gravação feita num lugar barulhento, como a rua, pode ser limpa depois com a remoção de ruído com IA, processada no aparelho, que salva um arquivo novo ao lado do original.
 
 ## Onde o equipamento realmente ganha
 

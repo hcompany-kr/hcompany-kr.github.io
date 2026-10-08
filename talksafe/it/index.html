@@ -45,18 +45,46 @@ layout: null
   "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "identifier": "com.lab525.talksafe",
-  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi","nl","cs"],
+  "inLanguage": [
+    "ko",
+    "en",
+    "zh",
+    "ja",
+    "es",
+    "it",
+    "tr",
+    "bn",
+    "pt",
+    "fr",
+    "de",
+    "hi",
+    "pl",
+    "vi",
+    "nl",
+    "cs"
+  ],
   "description": "TalkSafe e un registratore vocale per Android che inizia a registrare automaticamente quando sente una parola fissata in anticipo dall'utente. All'avvio della registrazione, i 30 secondi precedenti vengono salvati insieme al file. Il riconoscimento della parola avviene sul dispositivo.",
   "featureList": [
     "Parte automaticamente quando sente una parola scelta",
     "Salva i 30 secondi precedenti all'avvio della registrazione",
     "Il riconoscimento della parola avviene sul dispositivo",
+    "Rimozione del rumore con IA sulle registrazioni, elaborata sul dispositivo, con l'originale conservato",
+    "Ritaglio che salva un nuovo file e conserva l'originale",
+    "Esportazione con il menu di condivisione di Android",
     "Durata registrazione: 10 minuti, 30 minuti, 1 ora o stop manuale",
     "Notifica visibile durante la registrazione, non disattivabile",
     "16 lingue supportate"
   ],
-  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
-  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+  "author": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  }
 }
 </script>
 
@@ -68,52 +96,90 @@ layout: null
     {
       "@type": "Question",
       "name": "Che cos'e TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "E un registratore vocale per Android che inizia a registrare automaticamente quando sente una parola fissata in anticipo. All'avvio vengono salvati anche i 30 secondi precedenti." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "E un registratore vocale per Android che inizia a registrare automaticamente quando sente una parola fissata in anticipo. All'avvio vengono salvati anche i 30 secondi precedenti."
+      }
     },
     {
       "@type": "Question",
       "name": "Esiste un'app che inizia a registrare quando si dice una parola?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe funziona cosi. Quando sente la parola scelta la registrazione parte senza sbloccare il telefono ne aprire l'app, e funziona a schermo bloccato." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe funziona cosi. Quando sente la parola scelta la registrazione parte senza sbloccare il telefono ne aprire l'app, e funziona a schermo bloccato."
+      }
     },
     {
       "@type": "Question",
       "name": "Si puo salvare l'audio precedente alla pressione del tasto registra?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe salva i 30 secondi precedenti al momento in cui la registrazione e partita. I registratori comuni salvano solo da quel momento, quindi cio che viene prima va perso." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe salva i 30 secondi precedenti al momento in cui la registrazione e partita. I registratori comuni salvano solo da quel momento, quindi cio che viene prima va perso."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "TalkSafe può togliere il rumore di fondo da una registrazione?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì. TalkSafe ha la rimozione del rumore con IA. Applicata a una registrazione conclusa o a un tratto ritagliato, toglie rumori di fondo come quelli della strada e lascia la conversazione. L'elaborazione avviene sul dispositivo, e la versione pulita viene salvata come nuovo file mentre l'originale resta com'era."
+      }
     },
     {
       "@type": "Question",
       "name": "La parola chiave deve dirla l'utente stesso?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No. Puo essere qualcosa che l'altra persona tende a dire in quella situazione. A differenza di un assistente vocale, costruito per riconoscere la voce del proprietario, TalkSafe rileva la parola in se, chiunque la pronunci. La registrazione parte anche a schermo bloccato." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Puo essere qualcosa che l'altra persona tende a dire in quella situazione. A differenza di un assistente vocale, costruito per riconoscere la voce del proprietario, TalkSafe rileva la parola in se, chiunque la pronunci. La registrazione parte anche a schermo bloccato."
+      }
     },
     {
       "@type": "Question",
       "name": "E un'app per registrare di nascosto?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No. Mentre la registrazione e in corso resta visibile una notifica che non si puo disattivare, e non esiste alcuna funzione per nasconderla. Serve a conservare traccia di una conversazione a cui l'utente partecipa." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Mentre la registrazione e in corso resta visibile una notifica che non si puo disattivare, e non esiste alcuna funzione per nasconderla. Serve a conservare traccia di una conversazione a cui l'utente partecipa."
+      }
     },
     {
       "@type": "Question",
       "name": "Cosa include il piano gratuito?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Il piano gratuito consente fino a 5 parole chiave e registrazioni fino a 30 minuti ciascuna, con pubblicita. Il piano Pro elimina i limiti di parole chiave e durata e la pubblicita. I riassunti con IA e il backup sul cloud fanno parte del piano Premium, e Premium+ ne rimuove i limiti." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il piano gratuito consente fino a 5 parole chiave e registrazioni fino a 30 minuti ciascuna, con pubblicita. Il piano Pro elimina i limiti di parole chiave e durata e la pubblicita. I riassunti con IA e il backup sul cloud fanno parte del piano Premium, e Premium+ ne rimuove i limiti."
+      }
     },
     {
       "@type": "Question",
       "name": "Quali lingue supporta TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Sedici: coreano, inglese, cinese, giapponese, spagnolo, italiano, turco, bengalese, portoghese, francese, tedesco, hindi, polacco, vietnamita, olandese e ceco." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sedici: coreano, inglese, cinese, giapponese, spagnolo, italiano, turco, bengalese, portoghese, francese, tedesco, hindi, polacco, vietnamita, olandese e ceco."
+      }
     },
     {
       "@type": "Question",
       "name": "E disponibile per iPhone?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Al momento e disponibile solo per Android." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Al momento e disponibile solo per Android."
+      }
     },
     {
       "@type": "Question",
       "name": "E lecito registrare una conversazione senza avvisare l'altra persona?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Sono due casi che la legge tratta in modo molto diverso. Registrare una conversazione a cui si partecipa e lecito in Italia e la registrazione ha valore di prova documentale. Registrare una conversazione tra altri, alla quale non si prende parte, e invece illecito. TalkSafe e pensato per il primo caso: conservare cio che viene detto davanti a te." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sono due casi che la legge tratta in modo molto diverso. Registrare una conversazione a cui si partecipa e lecito in Italia e la registrazione ha valore di prova documentale. Registrare una conversazione tra altri, alla quale non si prende parte, e invece illecito. TalkSafe e pensato per il primo caso: conservare cio che viene detto davanti a te."
+      }
     },
     {
       "@type": "Question",
       "name": "Posso lasciare il telefono a registrare in una stanza dove non sono presente?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No. Registrare una conversazione a cui non si partecipa e illecito a prescindere dal fatto che i presenti se ne accorgano, e quella registrazione non sarebbe comunque utilizzabile. TalkSafe non prevede alcuna funzione pensata per questo uso." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Registrare una conversazione a cui non si partecipa e illecito a prescindere dal fatto che i presenti se ne accorgano, e quella registrazione non sarebbe comunque utilizzabile. TalkSafe non prevede alcuna funzione pensata per questo uso."
+      }
     }
   ]
 }
@@ -172,6 +238,9 @@ layout: null
         <li><strong>Registrazione a parola chiave</strong> — parte quando sente una parola fissata. Se ne possono registrare diverse.</li>
         <li><strong>30 secondi precedenti</strong> — l'audio antecedente all'avvio viene salvato con il file.</li>
         <li><strong>Elaborazione sul dispositivo</strong> — il riconoscimento della parola avviene sul telefono.</li>
+        <li><strong>Rimozione del rumore con IA</strong> — toglie il rumore di fondo da una registrazione conclusa e lascia la conversazione. Elaborata sul dispositivo; l'originale resta e la versione pulita viene salvata come nuovo file.</li>
+        <li><strong>Ritaglio</strong> — salva solo il tratto che ti serve come nuovo file. L'originale resta com'era.</li>
+        <li><strong>Condivisione</strong> — con il menu di condivisione di Android, verso qualunque app accetti file.</li>
         <li><strong>Durata della registrazione</strong> — 10 minuti, 30 minuti, 1 ora o stop manuale.</li>
         <li><strong>Notifica permanente</strong> — visibile durante la registrazione e non disattivabile.</li>
       </ul>

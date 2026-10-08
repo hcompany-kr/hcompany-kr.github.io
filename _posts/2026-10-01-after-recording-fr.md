@@ -22,6 +22,8 @@ faq:
     a: "Un fichier qui n'existe que sur un téléphone disparaît avec lui. TalkSafe utilise le menu de partage d'Android, si bien qu'un enregistrement peut être envoyé à toute application qui accepte un fichier : un e-mail à soi-même, un stockage en ligne, un ordinateur."
   - q: "Découper l'enregistrement l'affaiblit-il comme preuve ?"
     a: "Pas si l'original est conservé. Remettre un fichier complet de deux heures est généralement pire, parce que la personne qui l'examine doit trouver elle-même le passage utile. Un court extrait plus l'original intact forment la combinaison la plus solide."
+  - q: "Que faire d'un enregistrement plein de bruit de fond ?"
+    a: "Appliquez la suppression du bruit par IA de TalkSafe à l'enregistrement ou à un passage découpé. Elle enregistre une nouvelle version sans le bruit de fond, traitée sur l'appareil, et laisse l'original intact, ce qui permet de remettre la version nettoyée tout en gardant l'original."
 ---
 
 Le plus difficile semble être de lancer l'enregistrement. La suite paraît simple.
@@ -62,6 +64,8 @@ L'envoyer à un collègue, le poster dans le groupe familial, le joindre à un m
 S'il n'existe qu'un fichier modifié, l'autre partie peut soutenir qu'il a été manipulé. Si l'original existe, on peut montrer que l'extrait est un simple passage.
 
 La **fonction de découpe de TalkSafe ne touche pas à l'original.** La partie sélectionnée est enregistrée dans un nouveau fichier, et l'enregistrement complet reste où il était. Vous pouvez donc préparer une copie à remettre sans perdre ce dont elle provient.
+
+Il en va de même pour la **suppression du bruit par IA**. Si l'enregistrement a été fait dans la rue et que le bruit couvre des passages, elle crée un nouveau fichier sans le bruit de fond. Elle fonctionne aussi sur un passage découpé : on découpe d'abord ce qui compte, puis on nettoie ce fichier. Le traitement se fait sur l'appareil et l'original reste intact. Remettez la version nettoyée si elle se comprend mieux, et gardez l'original : c'est lui qui montre que rien d'autre n'a été modifié.
 
 La marche à suivre :
 

@@ -98,6 +98,8 @@ Eine Aufnahme-App, die den Ton im Raum aufnimmt, berührt den Anruf selbst nicht
 
 Die Nachteile sind real. **Die Tonqualität sinkt**, weil ein kleiner Lautsprecher im Raum aufgenommen wird statt eines sauberen Signals. **Hintergrundgeräusche kommen dazu.** Und **alle in der Nähe hören mit** – im Großraumbüro oder im Zug scheidet das aus.
 
+Von den dreien lassen sich die Hintergrundgeräusche nachträglich angehen. Die **KI-Rauschentfernung** von TalkSafe entfernt Hintergrundgeräusche aus einer fertigen Aufnahme und lässt die Stimmen übrig. Sie läuft auf dem Gerät, und die bereinigte Fassung wird als neue Datei gespeichert; das Original bleibt unverändert.
+
 Für ein Telefonat, das Sie an einem ruhigen Ort führen können, funktioniert es.
 
 ## Wo diese App steht – und wo nicht

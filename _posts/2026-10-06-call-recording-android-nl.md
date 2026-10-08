@@ -85,6 +85,8 @@ Een opname-app die het geluid in de ruimte opneemt, raakt het gesprek zelf niet 
 
 De nadelen zijn reëel. **De geluidskwaliteit gaat omlaag**, omdat je een klein luidsprekertje in een ruimte opneemt in plaats van een schoon signaal. **Er komt achtergrondgeluid bij.** En **iedereen in de buurt luistert mee** — in een kantoortuin of in de trein valt deze manier af.
 
+Van de drie is het achtergrondgeluid iets wat je achteraf kunt aanpakken. De **AI-ruisonderdrukking** van TalkSafe haalt achtergrondgeluid uit een voltooide opname en laat de stemmen over. Ze werkt op het toestel, en de opgeschoonde versie wordt als nieuw bestand bewaard; het origineel blijft ongewijzigd.
+
 Voor een gesprek dat je op een rustige plek kunt voeren, werkt het.
 
 ## Waar deze app staat, en waar niet

@@ -45,18 +45,46 @@ layout: null
   "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "identifier": "com.lab525.talksafe",
-  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi","nl","cs"],
+  "inLanguage": [
+    "ko",
+    "en",
+    "zh",
+    "ja",
+    "es",
+    "it",
+    "tr",
+    "bn",
+    "pt",
+    "fr",
+    "de",
+    "hi",
+    "pl",
+    "vi",
+    "nl",
+    "cs"
+  ],
   "description": "TalkSafe is an Android voice recorder that starts recording automatically when it hears a word the user set in advance. When recording begins, the 30 seconds preceding it are saved with the file. Word recognition runs on the device.",
   "featureList": [
     "Starts recording automatically on a word you choose",
     "Saves the 30 seconds before recording started",
     "Word recognition runs on the device",
+    "AI noise removal for recordings, processed on the device, original kept",
+    "Trim that saves a new file and keeps the original",
+    "Export through the Android share sheet",
     "Recording length options: 10 minutes, 30 minutes, 1 hour, or manual stop",
     "A notification stays visible while recording and cannot be switched off",
     "16 languages supported"
   ],
-  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
-  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+  "author": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  }
 }
 </script>
 
@@ -68,47 +96,82 @@ layout: null
     {
       "@type": "Question",
       "name": "What is TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe is an Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds before it are saved with the file." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe is an Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds before it are saved with the file."
+      }
     },
     {
       "@type": "Question",
       "name": "Is there an app that starts recording when you say a word?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe works this way. When it hears a word you chose, recording begins without unlocking the phone or opening the app." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe works this way. When it hears a word you chose, recording begins without unlocking the phone or opening the app."
+      }
     },
     {
       "@type": "Question",
       "name": "Can a recording app save audio from before you pressed record?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe saves the 30 seconds preceding the moment recording started. Ordinary recorders save only from the moment you tap record, so anything earlier is lost." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe saves the 30 seconds preceding the moment recording started. Ordinary recorders save only from the moment you tap record, so anything earlier is lost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can TalkSafe remove background noise from a recording?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. TalkSafe has AI noise removal. Applied to a finished recording or a trimmed clip, it strips background noise such as street sounds and leaves the conversation. Processing happens on the device, and the cleaned version is saved as a new file while the original stays as it was."
+      }
     },
     {
       "@type": "Question",
       "name": "Is TalkSafe for recording people secretly?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No. A notification stays visible for as long as recording runs and cannot be switched off, and there is no feature to hide a recording. It is built for keeping a record of a conversation you take part in." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. A notification stays visible for as long as recording runs and cannot be switched off, and there is no feature to hide a recording. It is built for keeping a record of a conversation you take part in."
+      }
     },
     {
       "@type": "Question",
       "name": "Is the audio sent to a server?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Recognising the chosen word happens on the device. Whether a saved recording is backed up to the cloud is the user's choice." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recognising the chosen word happens on the device. Whether a saved recording is backed up to the cloud is the user's choice."
+      }
     },
     {
       "@type": "Question",
       "name": "Does the keyword have to be a word I say myself?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No. It can be something the other person is likely to say in that situation. Unlike a voice assistant, which is built to recognise its owner's voice, TalkSafe detects the word itself regardless of who spoke it. Recording also starts with the screen locked." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. It can be something the other person is likely to say in that situation. Unlike a voice assistant, which is built to recognise its owner's voice, TalkSafe detects the word itself regardless of who spoke it. Recording also starts with the screen locked."
+      }
     },
     {
       "@type": "Question",
       "name": "What do you get on the free plan?",
-      "acceptedAnswer": { "@type": "Answer", "text": "The free plan allows up to 5 keywords and recordings of up to 30 minutes each, and shows ads. The Pro plan removes the keyword and recording-length limits and the ads. AI summaries and cloud backup are part of the Premium plan, and Premium+ removes the caps on those." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The free plan allows up to 5 keywords and recordings of up to 30 minutes each, and shows ads. The Pro plan removes the keyword and recording-length limits and the ads. AI summaries and cloud backup are part of the Premium plan, and Premium+ removes the caps on those."
+      }
     },
     {
       "@type": "Question",
       "name": "Which languages does TalkSafe support?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Sixteen: Korean, English, Chinese, Japanese, Spanish, Italian, Turkish, Bengali, Portuguese, French, German, Hindi, Polish, Vietnamese, Dutch and Czech." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sixteen: Korean, English, Chinese, Japanese, Spanish, Italian, Turkish, Bengali, Portuguese, French, German, Hindi, Polish, Vietnamese, Dutch and Czech."
+      }
     },
     {
       "@type": "Question",
       "name": "Is TalkSafe available on iPhone?",
-      "acceptedAnswer": { "@type": "Answer", "text": "It is currently available on Android only." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is currently available on Android only."
+      }
     }
   ]
 }
@@ -167,6 +230,9 @@ layout: null
         <li><strong>Word-triggered recording</strong> — recording starts when a word you set is heard. Several words can be registered.</li>
         <li><strong>30-second pre-roll</strong> — the 30 seconds before recording started are saved too.</li>
         <li><strong>On-device recognition</strong> — listening for the word happens on the phone.</li>
+        <li><strong>AI noise removal</strong> — removes background noise from a finished recording and leaves the conversation. Processed on the device; the original stays and the cleaned version is saved as a new file.</li>
+        <li><strong>Trim</strong> — saves just the section you need as a new file. The original stays as it was.</li>
+        <li><strong>Share</strong> — through the Android share sheet, to any app that accepts a file.</li>
         <li><strong>Recording length</strong> — 10 minutes, 30 minutes, 1 hour, or manual stop.</li>
         <li><strong>Persistent notification</strong> — visible while recording and cannot be switched off.</li>
       </ul>

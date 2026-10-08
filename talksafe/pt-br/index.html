@@ -45,18 +45,46 @@ layout: null
   "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "identifier": "com.lab525.talksafe",
-  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi","nl","cs"],
+  "inLanguage": [
+    "ko",
+    "en",
+    "zh",
+    "ja",
+    "es",
+    "it",
+    "tr",
+    "bn",
+    "pt",
+    "fr",
+    "de",
+    "hi",
+    "pl",
+    "vi",
+    "nl",
+    "cs"
+  ],
   "description": "TalkSafe é um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra definida antes pelo usuário. Quando a gravação começa, os 30 segundos anteriores também são salvos no arquivo. O reconhecimento da palavra acontece no próprio aparelho.",
   "featureList": [
     "Começa a gravar sozinho com uma palavra escolhida",
     "Salva os 30 segundos anteriores ao início da gravação",
     "Reconhecimento da palavra no próprio aparelho",
+    "Remoção de ruído com IA nas gravações, processada no aparelho, com o original preservado",
+    "Corte que salva um arquivo novo e preserva o original",
+    "Exportação pelo menu de compartilhamento do Android",
     "Duração da gravação: 10 minutos, 30 minutos, 1 hora ou parada manual",
     "Uma notificação fica visível durante a gravação e não pode ser desativada",
     "16 idiomas"
   ],
-  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
-  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+  "author": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  }
 }
 </script>
 
@@ -68,47 +96,82 @@ layout: null
     {
       "@type": "Question",
       "name": "O que é o TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe é um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Quando a gravação começa, os 30 segundos anteriores também são salvos no arquivo." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe é um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Quando a gravação começa, os 30 segundos anteriores também são salvos no arquivo."
+      }
     },
     {
       "@type": "Question",
       "name": "Existe um app que começa a gravar quando alguém diz uma palavra?",
-      "acceptedAnswer": { "@type": "Answer", "text": "O TalkSafe funciona assim. Quando ouve uma palavra escolhida por você, a gravação começa sem desbloquear o celular nem abrir o app." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "O TalkSafe funciona assim. Quando ouve uma palavra escolhida por você, a gravação começa sem desbloquear o celular nem abrir o app."
+      }
     },
     {
       "@type": "Question",
       "name": "Um app de gravação consegue salvar o que foi dito antes de apertar o botão?",
-      "acceptedAnswer": { "@type": "Answer", "text": "O TalkSafe salva os 30 segundos anteriores ao momento em que a gravação começa. Gravadores comuns só salvam a partir do momento em que você aperta o botão; o que veio antes se perde." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "O TalkSafe salva os 30 segundos anteriores ao momento em que a gravação começa. Gravadores comuns só salvam a partir do momento em que você aperta o botão; o que veio antes se perde."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "O TalkSafe consegue tirar o ruído de fundo de uma gravação?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sim. O TalkSafe tem remoção de ruído com IA. Aplicada a uma gravação já feita ou a um trecho cortado, ela tira ruídos de fundo como o da rua e deixa a conversa. O processamento acontece no aparelho, e a versão limpa é salva como arquivo novo, enquanto o original fica como estava."
+      }
     },
     {
       "@type": "Question",
       "name": "O TalkSafe serve para gravar pessoas escondido?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Não. Uma notificação fica visível durante toda a gravação e não pode ser desativada, e não há nenhuma função para esconder uma gravação. O app parte do princípio de que você participa da conversa. No Brasil, o STF fixou em 2009 (Tema 237) que é lícita a gravação ambiental feita por um dos interlocutores sem o conhecimento do outro." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Não. Uma notificação fica visível durante toda a gravação e não pode ser desativada, e não há nenhuma função para esconder uma gravação. O app parte do princípio de que você participa da conversa. No Brasil, o STF fixou em 2009 (Tema 237) que é lícita a gravação ambiental feita por um dos interlocutores sem o conhecimento do outro."
+      }
     },
     {
       "@type": "Question",
       "name": "O áudio é enviado para um servidor?",
-      "acceptedAnswer": { "@type": "Answer", "text": "O reconhecimento da palavra escolhida acontece no próprio aparelho. Fazer ou não backup de uma gravação na nuvem é escolha do usuário." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "O reconhecimento da palavra escolhida acontece no próprio aparelho. Fazer ou não backup de uma gravação na nuvem é escolha do usuário."
+      }
     },
     {
       "@type": "Question",
       "name": "A palavra-chave precisa ser uma palavra que eu mesmo diga?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Não. Diferente de um assistente de voz, que é feito para reconhecer a voz do dono, o TalkSafe detecta a própria palavra, não importa quem a diga. A gravação também começa com a tela bloqueada." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Não. Diferente de um assistente de voz, que é feito para reconhecer a voz do dono, o TalkSafe detecta a própria palavra, não importa quem a diga. A gravação também começa com a tela bloqueada."
+      }
     },
     {
       "@type": "Question",
       "name": "O que vem na versão gratuita?",
-      "acceptedAnswer": { "@type": "Answer", "text": "A versão gratuita permite até 5 palavras-chave e gravações de até 30 minutos cada, com anúncios. O plano Pro remove os limites de palavras-chave e de duração, e os anúncios. Resumos por IA e backup na nuvem fazem parte do plano Premium, e o Premium+ remove os limites desses recursos." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A versão gratuita permite até 5 palavras-chave e gravações de até 30 minutos cada, com anúncios. O plano Pro remove os limites de palavras-chave e de duração, e os anúncios. Resumos por IA e backup na nuvem fazem parte do plano Premium, e o Premium+ remove os limites desses recursos."
+      }
     },
     {
       "@type": "Question",
       "name": "Quais idiomas o TalkSafe suporta?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Dezesseis: coreano, inglês, chinês, japonês, espanhol, italiano, turco, bengali, português, francês, alemão, hindi, polonês, vietnamita, holandês e tcheco." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dezesseis: coreano, inglês, chinês, japonês, espanhol, italiano, turco, bengali, português, francês, alemão, hindi, polonês, vietnamita, holandês e tcheco."
+      }
     },
     {
       "@type": "Question",
       "name": "O TalkSafe está disponível para iPhone?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Por enquanto, só para Android." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Por enquanto, só para Android."
+      }
     }
   ]
 }
@@ -167,6 +230,9 @@ layout: null
         <li><strong>Gravação acionada por palavra</strong> — a gravação começa quando uma palavra definida é ouvida. Dá para cadastrar várias palavras.</li>
         <li><strong>30 segundos anteriores</strong> — os 30 segundos antes do início também são salvos.</li>
         <li><strong>Reconhecimento no aparelho</strong> — a escuta da palavra acontece no celular.</li>
+        <li><strong>Remoção de ruído com IA</strong> — tira o ruído de fundo de uma gravação já feita e deixa a conversa. Processada no aparelho; o original fica e a versão limpa é salva como arquivo novo.</li>
+        <li><strong>Corte</strong> — salva só o trecho que você precisa como arquivo novo. O original fica como estava.</li>
+        <li><strong>Compartilhar</strong> — pelo menu de compartilhamento do Android, para qualquer app que aceite arquivos.</li>
         <li><strong>Duração da gravação</strong> — 10 minutos, 30 minutos, 1 hora ou parada manual.</li>
         <li><strong>Notificação permanente</strong> — visível durante a gravação, não pode ser desativada.</li>
       </ul>

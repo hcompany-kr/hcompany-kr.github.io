@@ -90,7 +90,7 @@ Satın almadan önce sürekli maliyetin nerede olduğuna bakın. **Donanım bir 
 
 **Anahtar kelimeyle başlayan bir uygulama** önceden belirlediğiniz bir kelimeyi duyduğunda başlar. Dosya sabah dokuzda değil, o anda başlar; sonradan içinde aranacak bir şey kalmaz.
 
-Bizim çalıştığımız kategori bu; bir sonraki kısmı bunu bilerek okuyun. [TalkSafe](/talksafe/tr/), seçtiğiniz bir kelimeyle başlayan, ekran kilitliyken çalışan ve başlamadan önceki 30 saniyeyi dosyayla birlikte saklayan bir Android uygulamasıdır; kesilen ilk hece sorununa cevap veren kısım budur. Bir bölümü kesip ayırmak orijinal dosyayı olduğu gibi bırakır.
+Bizim çalıştığımız kategori bu; bir sonraki kısmı bunu bilerek okuyun. [TalkSafe](/talksafe/tr/), seçtiğiniz bir kelimeyle başlayan, ekran kilitliyken çalışan ve başlamadan önceki 30 saniyeyi dosyayla birlikte saklayan bir Android uygulamasıdır; kesilen ilk hece sorununa cevap veren kısım budur. Bir bölümü kesip ayırmak orijinal dosyayı olduğu gibi bırakır. Sokak gibi gürültülü bir yerde yapılan bir kayıt, cihazda çalışan yapay zekâ ile gürültü giderme özelliğiyle sonradan temizlenebilir; bu, orijinalin yanına yeni bir dosya kaydeder.
 
 ## Donanımın gerçekten kazandığı yerler
 

@@ -98,6 +98,8 @@ Odadaki sesi kaydeden bir uygulama aramanın kendisine dokunmaz, bu yüzden kıs
 
 Bedeli gerçektir. **Ses kalitesi düşer**, çünkü temiz bir sinyal yerine odadaki küçük bir hoparlör kaydedilir. **Arka plan gürültüsü girer.** Ve **yakındaki herkes görüşmeyi duyar**; açık ofiste ya da trende bu yol olmaz.
 
+Bunlardan arka plan gürültüsü sonradan ele alınabilir. TalkSafe'in **yapay zekâ ile gürültü giderme** özelliği tamamlanmış bir kayıttan arka plan gürültüsünü temizler ve sesleri bırakır. İşlem cihazda yapılır; temizlenmiş sürüm yeni bir dosya olarak kaydedilir, orijinal olduğu gibi kalır.
+
 Sessiz bir yerde yapabileceğiniz bir görüşme için işe yarar.
 
 ## Bu uygulama nerede duruyor, nerede durmuyor

@@ -90,7 +90,7 @@ Two versions of this.
 
 **A keyword triggered app** starts when it hears a word you set in advance. The file begins at the moment, not at nine in the morning, so there is nothing to search through afterwards.
 
-This is the category we work in, so read the next part with that in mind. [TalkSafe](https://hcompany-kr.github.io/talksafe/) is an Android app that starts on a word you choose, works with the screen locked, and saves the 30 seconds before the start along with the file — which is the part that answers the clipped first syllable problem. Cutting a section keeps the original file intact rather than replacing it.
+This is the category we work in, so read the next part with that in mind. [TalkSafe](https://hcompany-kr.github.io/talksafe/) is an Android app that starts on a word you choose, works with the screen locked, and saves the 30 seconds before the start along with the file — which is the part that answers the clipped first syllable problem. Cutting a section keeps the original file intact rather than replacing it. A recording made somewhere noisy, like a street, can be cleaned afterwards with AI noise removal, which runs on the device and saves a new file alongside the original.
 
 ## Where hardware genuinely wins
 

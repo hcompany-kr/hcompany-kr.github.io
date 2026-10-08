@@ -68,6 +68,9 @@ layout: null
     "Automatické spuštění nahrávání po zvoleném slově",
     "Uložení 30 sekund před začátkem nahrávky",
     "Rozpoznávání slova v zařízení",
+    "Odstranění šumu pomocí AI v nahrávkách, zpracované v zařízení, s ponecháním originálu",
+    "Vystřižení, které uloží nový soubor a ponechá originál",
+    "Export přes nabídku sdílení v Androidu",
     "Délka nahrávky: 10 minut, 30 minut, 1 hodina nebo ruční zastavení",
     "Během nahrávání zůstává viditelné oznámení, které nelze vypnout",
     "16 jazyků"
@@ -112,6 +115,14 @@ layout: null
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "TalkSafe ukládá 30 sekund před okamžikem, kdy nahrávání začne. Běžné aplikace nahrávají až od stisknutí tlačítka a všechno předtím je ztraceno."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Umí TalkSafe odstranit z nahrávky hluk v pozadí?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ano. TalkSafe má odstranění šumu pomocí AI. Použité na hotovou nahrávku nebo vystřižený úsek odstraní hluk v pozadí, například z ulice, a ponechá rozhovor. Zpracování probíhá v zařízení a vyčištěná verze se uloží jako nový soubor, zatímco originál zůstane beze změny."
       }
     },
     {
@@ -227,6 +238,9 @@ layout: null
         <li><strong>Nahrávání po slově</strong> — nahrávka začne, když zazní nastavené slovo. Lze uložit více slov.</li>
         <li><strong>30 sekund zpětně</strong> — uloží i 30 sekund před začátkem nahrávky.</li>
         <li><strong>Rozpoznávání v zařízení</strong> — naslouchání slovu probíhá v telefonu.</li>
+        <li><strong>Odstranění šumu pomocí AI</strong> — odstraní z hotové nahrávky hluk v pozadí a ponechá rozhovor. Zpracování v zařízení; originál zůstane a vyčištěná verze se uloží jako nový soubor.</li>
+        <li><strong>Vystřižení</strong> — uloží jen potřebný úsek jako nový soubor. Originál zůstane beze změny.</li>
+        <li><strong>Sdílení</strong> — přes nabídku sdílení v Androidu do jakékoli aplikace, která přijímá soubory.</li>
         <li><strong>Délka nahrávky</strong> — 10 minut, 30 minut, 1 hodina nebo ruční zastavení.</li>
         <li><strong>Trvalé oznámení</strong> — viditelné během nahrávání, nelze vypnout.</li>
       </ul>

@@ -84,6 +84,8 @@ Una grabadora que capta el sonido ambiente no toca el audio de la llamada, así 
 
 Los inconvenientes son reales y conviene decirlos. **Baja la calidad**, porque estás grabando un altavoz pequeño en una habitación. **Entra ruido de fondo.** Y **quien esté cerca oye la llamada**, lo que descarta el método en una oficina o en el tren.
 
+De los tres, el ruido de fondo es el que se puede arreglar después. La **eliminación de ruido con IA** de TalkSafe quita el ruido de fondo de una grabación terminada y deja las voces. Se procesa en el dispositivo, y la versión limpia se guarda como archivo nuevo, con el original intacto.
+
 Para una llamada que puedas atender en un sitio tranquilo, sirve.
 
 ## Qué hace esta aplicación y qué no

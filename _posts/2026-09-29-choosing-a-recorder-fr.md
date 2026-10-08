@@ -90,7 +90,7 @@ Deux versions.
 
 **Une application à mot-clé** démarre quand elle entend un mot choisi à l'avance. Le fichier commence au bon moment, pas à neuf heures du matin, donc il n'y a rien à fouiller ensuite.
 
-C'est la catégorie dans laquelle nous travaillons, gardez-le en tête pour la suite. [TalkSafe](/talksafe/fr/) est une application Android qui démarre sur un mot choisi, fonctionne écran verrouillé et conserve les 30 secondes précédant le démarrage avec le fichier, ce qui répond au problème de la première syllabe coupée. Découper un passage laisse le fichier d'origine intact.
+C'est la catégorie dans laquelle nous travaillons, gardez-le en tête pour la suite. [TalkSafe](/talksafe/fr/) est une application Android qui démarre sur un mot choisi, fonctionne écran verrouillé et conserve les 30 secondes précédant le démarrage avec le fichier, ce qui répond au problème de la première syllabe coupée. Découper un passage laisse le fichier d'origine intact. Un enregistrement fait dans un endroit bruyant, comme la rue, peut être nettoyé après coup avec la suppression du bruit par IA, traitée sur l'appareil, qui enregistre un nouveau fichier à côté de l'original.
 
 ## Là où le matériel gagne vraiment
 

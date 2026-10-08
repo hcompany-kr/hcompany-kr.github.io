@@ -45,18 +45,46 @@ layout: null
   "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "identifier": "com.lab525.talksafe",
-  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi","nl","cs"],
+  "inLanguage": [
+    "ko",
+    "en",
+    "zh",
+    "ja",
+    "es",
+    "it",
+    "tr",
+    "bn",
+    "pt",
+    "fr",
+    "de",
+    "hi",
+    "pl",
+    "vi",
+    "nl",
+    "cs"
+  ],
   "description": "TalkSafe es una grabadora de voz para Android que empieza a grabar automáticamente cuando escucha una palabra fijada de antemano por el usuario. Al iniciarse la grabación, los 30 segundos anteriores se guardan junto con el archivo. El reconocimiento de la palabra ocurre en el propio dispositivo.",
   "featureList": [
     "Empieza a grabar automáticamente al oír una palabra elegida",
     "Guarda los 30 segundos anteriores al inicio de la grabación",
     "El reconocimiento de la palabra ocurre en el dispositivo",
+    "Eliminación de ruido con IA en las grabaciones, procesada en el dispositivo, con el original conservado",
+    "Recorte que guarda un archivo nuevo y conserva el original",
+    "Exportación con el menú de compartir de Android",
     "Duración de grabación: 10 minutos, 30 minutos, 1 hora o parada manual",
     "Notificación visible durante la grabación que no se puede desactivar",
     "16 idiomas admitidos"
   ],
-  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
-  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+  "author": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  }
 }
 </script>
 
@@ -68,52 +96,90 @@ layout: null
     {
       "@type": "Question",
       "name": "¿Qué es TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Es una grabadora de voz para Android que empieza a grabar automáticamente cuando escucha una palabra fijada de antemano. Al iniciarse la grabación, se guardan también los 30 segundos anteriores." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Es una grabadora de voz para Android que empieza a grabar automáticamente cuando escucha una palabra fijada de antemano. Al iniciarse la grabación, se guardan también los 30 segundos anteriores."
+      }
     },
     {
       "@type": "Question",
       "name": "¿Existe alguna aplicación que empiece a grabar al decir una palabra?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe funciona así. Al escuchar la palabra elegida, la grabación arranca sin necesidad de desbloquear el móvil ni abrir la aplicación, y funciona con la pantalla bloqueada." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe funciona así. Al escuchar la palabra elegida, la grabación arranca sin necesidad de desbloquear el móvil ni abrir la aplicación, y funciona con la pantalla bloqueada."
+      }
     },
     {
       "@type": "Question",
       "name": "¿Se puede guardar el audio anterior a pulsar grabar?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe guarda los 30 segundos previos al momento en que la grabación comenzó. Las grabadoras corrientes solo guardan desde ese momento, así que lo anterior se pierde." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe guarda los 30 segundos previos al momento en que la grabación comenzó. Las grabadoras corrientes solo guardan desde ese momento, así que lo anterior se pierde."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿TalkSafe puede quitar el ruido de fondo de una grabación?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí. TalkSafe tiene eliminación de ruido con IA. Aplicada a una grabación terminada o a un fragmento recortado, quita ruidos de fondo como el de la calle y deja la conversación. El procesamiento se hace en el dispositivo, y la versión limpia se guarda como archivo nuevo mientras el original queda intacto."
+      }
     },
     {
       "@type": "Question",
       "name": "¿La palabra clave tiene que decirla el propio usuario?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No. Puede ser algo que la otra persona suela decir en esa situación. A diferencia de un asistente de voz, construido para reconocer la voz de su dueño, TalkSafe detecta la palabra en sí, la diga quien la diga. La grabación también arranca con la pantalla bloqueada." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Puede ser algo que la otra persona suela decir en esa situación. A diferencia de un asistente de voz, construido para reconocer la voz de su dueño, TalkSafe detecta la palabra en sí, la diga quien la diga. La grabación también arranca con la pantalla bloqueada."
+      }
     },
     {
       "@type": "Question",
       "name": "¿Es una aplicación para grabar a escondidas?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No. Mientras la grabación está en marcha se mantiene una notificación visible que no se puede desactivar, y no existe ninguna función para ocultarla. Está pensada para dejar constancia de una conversación en la que el usuario participa." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Mientras la grabación está en marcha se mantiene una notificación visible que no se puede desactivar, y no existe ninguna función para ocultarla. Está pensada para dejar constancia de una conversación en la que el usuario participa."
+      }
     },
     {
       "@type": "Question",
       "name": "¿Qué incluye el plan gratuito?",
-      "acceptedAnswer": { "@type": "Answer", "text": "El plan gratuito permite hasta 5 palabras clave y grabaciones de hasta 30 minutos cada una, y muestra anuncios. El plan Pro elimina los límites de palabras clave y duración y quita los anuncios. Los resúmenes con IA y la copia en la nube forman parte del plan Premium, y Premium+ elimina los límites de esos dos." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El plan gratuito permite hasta 5 palabras clave y grabaciones de hasta 30 minutos cada una, y muestra anuncios. El plan Pro elimina los límites de palabras clave y duración y quita los anuncios. Los resúmenes con IA y la copia en la nube forman parte del plan Premium, y Premium+ elimina los límites de esos dos."
+      }
     },
     {
       "@type": "Question",
       "name": "¿Qué idiomas admite TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Dieciséis: coreano, inglés, chino, japonés, español, italiano, turco, bengalí, portugués, francés, alemán, hindi, polaco, vietnamita, neerlandés y checo." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dieciséis: coreano, inglés, chino, japonés, español, italiano, turco, bengalí, portugués, francés, alemán, hindi, polaco, vietnamita, neerlandés y checo."
+      }
     },
     {
       "@type": "Question",
       "name": "¿Está disponible para iPhone?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Por ahora solo está disponible en Android." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Por ahora solo está disponible en Android."
+      }
     },
     {
       "@type": "Question",
       "name": "¿Es legal grabar una conversación sin avisar a la otra persona?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Hay que distinguir dos supuestos que la ley trata de forma muy distinta. Grabar una conversación en la que participas es lícito en España y en la mayoría de los países hispanohablantes, y la grabación puede valer como prueba. Grabar una conversación ajena, en la que no intervienes, es un delito de descubrimiento y revelación de secretos. TalkSafe está pensado para el primer supuesto: registrar lo que se dice delante de ti." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hay que distinguir dos supuestos que la ley trata de forma muy distinta. Grabar una conversación en la que participas es lícito en España y en la mayoría de los países hispanohablantes, y la grabación puede valer como prueba. Grabar una conversación ajena, en la que no intervienes, es un delito de descubrimiento y revelación de secretos. TalkSafe está pensado para el primer supuesto: registrar lo que se dice delante de ti."
+      }
     },
     {
       "@type": "Question",
       "name": "¿Puedo dejar el móvil grabando en una sala donde yo no estoy?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No. Grabar una conversación en la que no participas es delito con independencia de que los presentes se enteren o no, y la grabación además no serviría como prueba. TalkSafe no ofrece ninguna función pensada para ese uso." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Grabar una conversación en la que no participas es delito con independencia de que los presentes se enteren o no, y la grabación además no serviría como prueba. TalkSafe no ofrece ninguna función pensada para ese uso."
+      }
     }
   ]
 }
@@ -172,6 +238,9 @@ layout: null
         <li><strong>Grabación por palabra clave</strong> — la grabación arranca al oír una palabra fijada. Se pueden registrar varias.</li>
         <li><strong>30 segundos previos</strong> — el audio anterior al inicio se guarda con el archivo.</li>
         <li><strong>Procesamiento en el dispositivo</strong> — el reconocimiento de la palabra ocurre en el móvil.</li>
+        <li><strong>Eliminación de ruido con IA</strong> — quita el ruido de fondo de una grabación terminada y deja la conversación. Se procesa en el dispositivo; el original se conserva y la versión limpia se guarda como archivo nuevo.</li>
+        <li><strong>Recorte</strong> — guarda solo el fragmento que necesitas como archivo nuevo. El original queda intacto.</li>
+        <li><strong>Compartir</strong> — con el menú de compartir de Android, a cualquier app que acepte archivos.</li>
         <li><strong>Duración de la grabación</strong> — 10 minutos, 30 minutos, 1 hora o parada manual.</li>
         <li><strong>Notificación permanente</strong> — visible mientras se graba y no se puede desactivar.</li>
       </ul>

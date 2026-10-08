@@ -82,6 +82,8 @@ A voice recorder capturing room audio is not touching the call stream at all, so
 
 The trade-offs are real and worth stating plainly. **Audio quality drops**, because you are recording a small speaker in a room rather than a clean signal. **Background noise gets in.** And **everyone nearby hears the call**, which rules the method out in an office or on a train.
 
+Of the three, background noise is the one you can deal with afterwards. TalkSafe's **AI noise removal** strips background noise from a finished recording and leaves the voices. It runs on the device, and the cleaned version is saved as a new file, with the original kept as it was.
+
 For a call you can take somewhere quiet, it works.
 
 ## Where this app sits, and where it does not

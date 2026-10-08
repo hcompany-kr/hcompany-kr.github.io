@@ -22,6 +22,8 @@ faq:
     a: "Eine Datei, die nur auf einem Telefon liegt, verschwindet mit diesem Telefon. TalkSafe nutzt das Teilen-Menü von Android, sodass eine Aufnahme an jede App geschickt werden kann, die Dateien annimmt – als E-Mail an sich selbst, in einen Cloud-Speicher oder auf einen Computer."
   - q: "Schwächt das Schneiden die Aufnahme als Beweis?"
     a: "Nicht, wenn das Original erhalten bleibt. Eine vollständige Zwei-Stunden-Datei einzureichen ist meist schlechter, weil die Person, die sie prüft, die relevante Stelle selbst suchen muss. Ein kurzer Ausschnitt plus unverändertes Original ist die stärkere Kombination."
+  - q: "Was tun mit einer Aufnahme voller Hintergrundgeräusche?"
+    a: "Wenden Sie die KI-Rauschentfernung von TalkSafe auf die Aufnahme oder einen ausgeschnittenen Abschnitt an. Sie speichert eine neue Fassung ohne Hintergrundgeräusche, verarbeitet auf dem Gerät, und lässt das Original unverändert, sodass Sie die bereinigte Fassung einreichen und das Original daneben behalten können."
 ---
 
 Der schwierige Teil scheint das Starten der Aufnahme zu sein. Was danach kommt, wirkt einfach.
@@ -60,6 +62,8 @@ Sie einem Kollegen schicken, in den Familienchat stellen, an einen Forenbeitrag 
 Gibt es nur eine bearbeitete Datei, kann die Gegenseite behaupten, sie sei manipuliert. Gibt es das Original, lässt sich zeigen, dass der Ausschnitt ein einfacher Auszug ist.
 
 Die **Schneidefunktion von TalkSafe lässt das Original unangetastet.** Der ausgewählte Abschnitt wird als neue Datei gespeichert, die vollständige Aufnahme bleibt, wo sie war. So können Sie eine Fassung zum Einreichen vorbereiten, ohne zu verlieren, woraus sie stammt.
+
+Dasselbe gilt für die **KI-Rauschentfernung**. Wurde auf der Straße aufgenommen und überdecken Geräusche Teile des Gesprächs, erzeugt die Rauschentfernung eine neue Datei ohne den Hintergrund. Das funktioniert auch bei einem ausgeschnittenen Abschnitt: erst den nötigen Teil ausschneiden, dann diese Datei bereinigen. Die Verarbeitung läuft auf dem Gerät, und das Original bleibt unverändert. Reichen Sie die bereinigte Fassung ein, wenn sie besser verständlich ist, und behalten Sie das Original: Es zeigt, dass sonst nichts verändert wurde.
 
 Die Reihenfolge, die sich bewährt:
 

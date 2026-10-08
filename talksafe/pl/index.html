@@ -45,18 +45,46 @@ layout: null
   "installUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
   "identifier": "com.lab525.talksafe",
-  "inLanguage": ["ko","en","zh","ja","es","it","tr","bn","pt","fr","de","hi","pl","vi","nl","cs"],
+  "inLanguage": [
+    "ko",
+    "en",
+    "zh",
+    "ja",
+    "es",
+    "it",
+    "tr",
+    "bn",
+    "pt",
+    "fr",
+    "de",
+    "hi",
+    "pl",
+    "vi",
+    "nl",
+    "cs"
+  ],
   "description": "TalkSafe to aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy słowo wybrane wcześniej przez użytkownika. Po rozpoczęciu nagrania zapisuje w pliku także 30 sekund sprzed startu. Rozpoznawanie słowa odbywa się na urządzeniu.",
   "featureList": [
     "Automatyczne rozpoczęcie nagrywania po wybranym słowie",
     "Zapis 30 sekund sprzed rozpoczęcia nagrania",
     "Rozpoznawanie słowa na urządzeniu",
+    "Usuwanie szumów z AI w nagraniach, przetwarzane na urządzeniu, z zachowaniem oryginału",
+    "Wycinanie, które zapisuje nowy plik i zachowuje oryginał",
+    "Eksport przez menu udostępniania Androida",
     "Czas nagrania: 10 minut, 30 minut, 1 godzina lub ręczne zatrzymanie",
     "Podczas nagrywania widoczne jest powiadomienie, którego nie można wyłączyć",
     "16 języków"
   ],
-  "author": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" },
-  "publisher": { "@type": "Organization", "name": "H Company", "url": "https://hcompany-kr.github.io/" }
+  "author": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "H Company",
+    "url": "https://hcompany-kr.github.io/"
+  }
 }
 </script>
 
@@ -68,52 +96,90 @@ layout: null
     {
       "@type": "Question",
       "name": "Czym jest TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe to aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu nagrania zapisuje w pliku także 30 sekund sprzed startu." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe to aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu nagrania zapisuje w pliku także 30 sekund sprzed startu."
+      }
     },
     {
       "@type": "Question",
       "name": "Czy jest aplikacja, która zaczyna nagrywać po określonym słowie?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Tak działa TalkSafe. Gdy aplikacja usłyszy wybrane przez ciebie słowo, nagrywanie zaczyna się bez odblokowywania telefonu i bez otwierania aplikacji." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tak działa TalkSafe. Gdy aplikacja usłyszy wybrane przez ciebie słowo, nagrywanie zaczyna się bez odblokowywania telefonu i bez otwierania aplikacji."
+      }
     },
     {
       "@type": "Question",
       "name": "Czy aplikacja do nagrywania może zapisać to, co powiedziano przed naciśnięciem przycisku?",
-      "acceptedAnswer": { "@type": "Answer", "text": "TalkSafe zapisuje 30 sekund sprzed momentu, w którym zaczyna się nagranie. Zwykłe aplikacje do nagrywania zapisują dopiero od naciśnięcia przycisku, a wszystko, co padło wcześniej, przepada." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TalkSafe zapisuje 30 sekund sprzed momentu, w którym zaczyna się nagranie. Zwykłe aplikacje do nagrywania zapisują dopiero od naciśnięcia przycisku, a wszystko, co padło wcześniej, przepada."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Czy TalkSafe potrafi usunąć hałas w tle z nagrania?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tak. TalkSafe ma usuwanie szumów z AI. Zastosowane do gotowego nagrania albo wyciętego fragmentu usuwa hałasy w tle, takie jak odgłosy ulicy, i zostawia rozmowę. Przetwarzanie odbywa się na urządzeniu, a oczyszczona wersja jest zapisywana jako nowy plik, podczas gdy oryginał zostaje bez zmian."
+      }
     },
     {
       "@type": "Question",
       "name": "Czy w Polsce wolno nagrywać rozmowę, w której się uczestniczy?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Co do zasady tak. Art. 267 § 3 Kodeksu karnego dotyczy posługiwania się urządzeniem podsłuchowym w celu uzyskania informacji, do której nie jest się uprawnionym, a uczestnik rozmowy jest uprawniony do tego, co mówi się do niego. Sąd Najwyższy uznawał nagrania dokonane bez wiedzy rozmówcy za dowód w sprawach cywilnych, jeśli nie podważono skutecznie ich autentyczności. Rozpowszechnianie nagrania może natomiast naruszać dobra osobiste chronione art. 23 i 24 Kodeksu cywilnego." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Co do zasady tak. Art. 267 § 3 Kodeksu karnego dotyczy posługiwania się urządzeniem podsłuchowym w celu uzyskania informacji, do której nie jest się uprawnionym, a uczestnik rozmowy jest uprawniony do tego, co mówi się do niego. Sąd Najwyższy uznawał nagrania dokonane bez wiedzy rozmówcy za dowód w sprawach cywilnych, jeśli nie podważono skutecznie ich autentyczności. Rozpowszechnianie nagrania może natomiast naruszać dobra osobiste chronione art. 23 i 24 Kodeksu cywilnego."
+      }
     },
     {
       "@type": "Question",
       "name": "Czy TalkSafe służy do potajemnego nagrywania innych?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Nie. Przez cały czas nagrywania widoczne jest powiadomienie, którego nie można wyłączyć, i nie ma funkcji ukrywania nagrania. Aplikacja zakłada, że nagrywasz rozmowę, w której sam uczestniczysz." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nie. Przez cały czas nagrywania widoczne jest powiadomienie, którego nie można wyłączyć, i nie ma funkcji ukrywania nagrania. Aplikacja zakłada, że nagrywasz rozmowę, w której sam uczestniczysz."
+      }
     },
     {
       "@type": "Question",
       "name": "Czy dźwięk jest wysyłany na serwer?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Rozpoznawanie wybranego słowa odbywa się na urządzeniu. O tym, czy zapisane nagranie trafi do kopii zapasowej w chmurze, decyduje użytkownik." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rozpoznawanie wybranego słowa odbywa się na urządzeniu. O tym, czy zapisane nagranie trafi do kopii zapasowej w chmurze, decyduje użytkownik."
+      }
     },
     {
       "@type": "Question",
       "name": "Czy słowo kluczowe musi być słowem, które sam wypowiadam?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Nie. W przeciwieństwie do asystenta głosowego, który jest nastawiony na głos właściciela, TalkSafe rozpoznaje samo słowo, niezależnie od tego, kto je wypowie. Nagrywanie startuje także przy zablokowanym ekranie." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nie. W przeciwieństwie do asystenta głosowego, który jest nastawiony na głos właściciela, TalkSafe rozpoznaje samo słowo, niezależnie od tego, kto je wypowie. Nagrywanie startuje także przy zablokowanym ekranie."
+      }
     },
     {
       "@type": "Question",
       "name": "Co oferuje wersja bezpłatna?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Wersja bezpłatna pozwala ustawić do 5 słów kluczowych i nagrywać do 30 minut, z reklamami. Plan Pro znosi limity słów kluczowych i czasu nagrania oraz usuwa reklamy. Podsumowania AI i kopia zapasowa w chmurze należą do planu Premium, a Premium+ znosi ich limity." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wersja bezpłatna pozwala ustawić do 5 słów kluczowych i nagrywać do 30 minut, z reklamami. Plan Pro znosi limity słów kluczowych i czasu nagrania oraz usuwa reklamy. Podsumowania AI i kopia zapasowa w chmurze należą do planu Premium, a Premium+ znosi ich limity."
+      }
     },
     {
       "@type": "Question",
       "name": "Jakie języki obsługuje TalkSafe?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Szesnaście: koreański, angielski, chiński, japoński, hiszpański, włoski, turecki, bengalski, portugalski, francuski, niemiecki, hindi, polski, wietnamski, niderlandzki i czeski." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Szesnaście: koreański, angielski, chiński, japoński, hiszpański, włoski, turecki, bengalski, portugalski, francuski, niemiecki, hindi, polski, wietnamski, niderlandzki i czeski."
+      }
     },
     {
       "@type": "Question",
       "name": "Czy TalkSafe jest dostępny na iPhone'a?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Obecnie TalkSafe jest dostępny tylko na Androida." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Obecnie TalkSafe jest dostępny tylko na Androida."
+      }
     }
   ]
 }
@@ -172,6 +238,9 @@ layout: null
         <li><strong>Nagrywanie po słowie</strong> — nagranie zaczyna się, gdy słychać ustawione słowo. Można zapisać kilka słów.</li>
         <li><strong>30 sekund wstecz</strong> — zapisuje też 30 sekund sprzed rozpoczęcia nagrania.</li>
         <li><strong>Rozpoznawanie na urządzeniu</strong> — nasłuchiwanie słowa odbywa się w telefonie.</li>
+        <li><strong>Usuwanie szumów z AI</strong> — usuwa hałas w tle z gotowego nagrania i zostawia rozmowę. Przetwarzanie na urządzeniu; oryginał zostaje, a oczyszczona wersja jest zapisywana jako nowy plik.</li>
+        <li><strong>Wycinanie</strong> — zapisuje tylko potrzebny fragment jako nowy plik. Oryginał zostaje bez zmian.</li>
+        <li><strong>Udostępnianie</strong> — przez menu udostępniania Androida, do każdej aplikacji, która przyjmuje pliki.</li>
         <li><strong>Czas nagrania</strong> — 10 minut, 30 minut, 1 godzina lub ręczne zatrzymanie.</li>
         <li><strong>Stałe powiadomienie</strong> — widoczne podczas nagrywania, nie można go wyłączyć.</li>
       </ul>

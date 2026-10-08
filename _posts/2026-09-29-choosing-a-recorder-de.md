@@ -90,7 +90,7 @@ Zwei Varianten.
 
 **Eine App mit Start per Schlüsselwort** beginnt, wenn sie ein vorab festgelegtes Wort hört. Die Datei beginnt im Moment, nicht um neun Uhr morgens, also gibt es danach nichts zu durchsuchen.
 
-Das ist die Kategorie, in der wir arbeiten, also lesen Sie den nächsten Absatz mit diesem Wissen. [TalkSafe](/talksafe/de/) ist eine Android-App, die bei einem gewählten Wort startet, bei gesperrtem Bildschirm funktioniert und die 30 Sekunden vor dem Start mit der Datei speichert – das beantwortet das Problem der fehlenden ersten Silbe. Beim Ausschneiden eines Abschnitts bleibt die Originaldatei erhalten.
+Das ist die Kategorie, in der wir arbeiten, also lesen Sie den nächsten Absatz mit diesem Wissen. [TalkSafe](/talksafe/de/) ist eine Android-App, die bei einem gewählten Wort startet, bei gesperrtem Bildschirm funktioniert und die 30 Sekunden vor dem Start mit der Datei speichert – das beantwortet das Problem der fehlenden ersten Silbe. Beim Ausschneiden eines Abschnitts bleibt die Originaldatei erhalten. Eine Aufnahme aus lauter Umgebung, etwa auf der Straße, lässt sich nachträglich mit der KI-Rauschentfernung bereinigen, die auf dem Gerät läuft und eine neue Datei neben dem Original speichert.
 
 ## Wo Hardware wirklich gewinnt
 

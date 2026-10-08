@@ -90,7 +90,7 @@ Dwie wersje.
 
 **Aplikacja ze startem po słowie kluczowym** zaczyna, gdy usłyszy wcześniej ustawione słowo. Plik zaczyna się w danej chwili, a nie o dziewiątej rano, więc potem nie ma czego przeszukiwać.
 
-To kategoria, w której pracujemy, więc czytaj następny akapit z tą wiedzą. [TalkSafe](/talksafe/pl/) to aplikacja na Androida, która startuje po wybranym słowie, działa przy zablokowanym ekranie i zapisuje z plikiem 30 sekund sprzed startu — co odpowiada na problem brakującej pierwszej sylaby. Przy wycinaniu fragmentu oryginalny plik zostaje.
+To kategoria, w której pracujemy, więc czytaj następny akapit z tą wiedzą. [TalkSafe](/talksafe/pl/) to aplikacja na Androida, która startuje po wybranym słowie, działa przy zablokowanym ekranie i zapisuje z plikiem 30 sekund sprzed startu — co odpowiada na problem brakującej pierwszej sylaby. Przy wycinaniu fragmentu oryginalny plik zostaje. Nagranie zrobione w hałaśliwym miejscu, na przykład na ulicy, można potem oczyścić usuwaniem szumów z AI, które działa na urządzeniu i zapisuje nowy plik obok oryginału.
 
 ## Gdzie sprzęt naprawdę wygrywa
 
