@@ -94,3 +94,5 @@ Wil je het toch vragen — uit beleefdheid, of omdat de ander in een land woont 
 - Kies een woord dat in het dagelijks leven zelden valt, maar op het moment dat ertoe doet heel natuurlijk komt.
 
 Hoe het zit bij telefoongesprekken, staat in [Waarom apps om gesprekken op te nemen op Android niet meer werken, en wat nog wel werkt](/blog/nl/call-recording-android/).
+
+Hoe je je eigen trefwoord vindt, staat in [Eerst zeg je iets](/blog/nl/say-it-first/).

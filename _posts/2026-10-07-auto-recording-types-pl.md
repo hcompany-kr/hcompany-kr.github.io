@@ -114,3 +114,5 @@ Niezależnie od rodzaju kilka rzeczy decyduje o tym, czy aplikacja do nagrywania
 Jedno słowo, „automatyczne”, na pięć całkiem różnych zachowań. Żadne nie jest ogólnie lepsze: to, które pasuje, zależy od rodzaju chwili, której nie chcesz stracić.
 
 Dlaczego przycisk nagrywania prawie zawsze wciskasz za późno, opisuje [Dlaczego przycisk nagrywania zawsze wciskasz za późno](/blog/pl/recording-delay/). Sposoby na start bez rąk — [Jak zacząć nagrywać, nie dotykając telefonu](/blog/pl/hands-free-recording/).
+
+Jak w codziennym użyciu wypadają dyktafony przypinane, urządzenia VOX, notatniki z AI i aplikacje na telefon, opisuje [Nagrywarki różnią się tym, kiedy zaczynają nagrywać](/blog/pl/choosing-a-recorder/).

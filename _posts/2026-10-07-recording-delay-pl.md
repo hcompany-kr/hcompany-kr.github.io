@@ -96,3 +96,5 @@ Kiedy chcesz zapytać o zgodę — bo tego wymaga prawo albo po prostu wolisz �
 - Wybierz słowo, które na co dzień pada rzadko, ale w ważnej chwili pojawia się całkiem naturalnie.
 
 Jak to wygląda przy rozmowach telefonicznych, opisuje [Dlaczego aplikacje do nagrywania rozmów na Androidzie przestały działać i co nadal działa](/blog/pl/call-recording-android/).
+
+Jak znaleźć własne słowo kluczowe, opisuje [Najpierw coś mówisz](/blog/pl/say-it-first/).

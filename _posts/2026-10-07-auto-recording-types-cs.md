@@ -114,3 +114,5 @@ Bez ohledu na typ rozhoduje pár věcí o tom, jestli aplikace na nahrávání v
 Jedno slovo, „automatický“, pro pět dost odlišných chování. Žádné není obecně lepší: co se hodí, závisí na tom, jakou chvíli nechcete ztratit.
 
 Proč tlačítko nahrávání mačkáte skoro vždycky pozdě, popisuje [Proč tlačítko nahrávání mačkáte vždycky pozdě](/blog/cs/recording-delay/). Způsoby, jak začít bez rukou, najdete v [Jak začít nahrávat, aniž byste se dotkli telefonu](/blog/cs/hands-free-recording/).
+
+Jak si v běžném používání stojí připínací diktafony, zařízení s VOX, poznámkovače s AI a aplikace v telefonu, popisuje [Diktafony se liší tím, kdy začnou nahrávat](/blog/cs/choosing-a-recorder/).

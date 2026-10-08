@@ -114,3 +114,5 @@ Ongeacht het type bepalen een paar dingen of een opname-app in de praktijk deugt
 Eén woord, „automatisch”, voor vijf behoorlijk verschillende gedragingen. Geen ervan is in het algemeen beter: wat past, hangt af van het soort moment dat je niet wilt verliezen.
 
 Waarom je bijna altijd te laat op opnemen drukt, staat in [Waarom je altijd te laat op opnemen drukt](/blog/nl/recording-delay/). De manieren om zonder handen te starten, in [Een opname starten zonder je telefoon aan te raken](/blog/nl/hands-free-recording/).
+
+Hoe clip-on-recorders, VOX-apparaten, AI-notitierecorders en telefoonapps zich in de praktijk tot elkaar verhouden, staat in [Wat recorders onderscheidt, is wanneer ze starten](/blog/nl/choosing-a-recorder/).

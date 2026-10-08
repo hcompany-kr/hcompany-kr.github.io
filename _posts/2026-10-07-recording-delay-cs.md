@@ -96,3 +96,5 @@ Právě tady pomáhá klíčové slovo. S „nahrát“ jako slovem začne nahr�
 - Zvolte slovo, které v běžném životě padá zřídka, ale ve chvíli, na které záleží, přijde úplně přirozeně.
 
 Jak je to u telefonních hovorů, popisuje [Proč aplikace na nahrávání hovorů na Androidu přestaly fungovat a co funguje dál](/blog/cs/call-recording-android/).
+
+Jak najít vlastní klíčové slovo, popisuje [Nejdřív něco řeknete](/blog/cs/say-it-first/).
