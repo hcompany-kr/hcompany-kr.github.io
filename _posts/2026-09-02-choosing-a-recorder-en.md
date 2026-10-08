@@ -118,4 +118,6 @@ The ranked lists sell devices. The thing that decides whether a recording is any
 
 A recorder that captured everything and a recorder that captured the right two minutes are not the same product, even when the specs look identical.
 
+How to strip street and traffic noise from a recording on the phone, and which tools handle it, is in [How to remove background noise from a voice recording on Android](/blog/en/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Specifications and pricing described here are as published by the manufacturers and change frequently; verify before buying. We make a recording app, which is disclosed above. Recording law differs by country and by state — see [Is it legal to record a conversation you're in?](/blog/en/recording-consent-law/) and [the state-by-state breakdown](/blog/en/state-recording-consent/).</p>

@@ -118,4 +118,6 @@ For calls, the split between countries is the same as in person. The **US** fede
 
 **And none of it changes the consent rules** where you live.
 
+How to strip street and traffic noise from a recording on the phone, and which tools handle it, is in [How to remove background noise from a voice recording on Android](/blog/en/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Device and regional availability described here reflects reporting that changes frequently; check your own dialer. General information, not legal advice — recording law differs by country and by state.</p>
