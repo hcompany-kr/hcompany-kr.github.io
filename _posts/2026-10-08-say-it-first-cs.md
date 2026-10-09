@@ -103,3 +103,5 @@ Jedna z vět výše je „Můžu si to nahrát?“. Právě ta otázka může b�
 V **České republice** podle § 86 občanského zákoníku nelze bez svolení člověka pořizovat zvukový záznam jeho soukromého života; podle § 88 odst. 1 ale svolení není třeba, pokud se záznam pořídí nebo použije k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů jiných osob. Na **Slovensku** vyžaduje § 12 občanského zákoníku k pořízení zvukového záznamu svolení dotčené osoby, s výjimkami pro úřední, vědecké, umělecké a zpravodajské účely. Když se zeptáte a odpověď máte v souboru, nemusíte řešit, jestli se na vás nějaká výjimka vztahuje.
 
 Proč tlačítko nahrávání stejně mačkáte pozdě, popisuje [Proč tlačítko nahrávání mačkáte vždycky pozdě](/blog/cs/recording-delay/), a způsoby, jak začít bez rukou, [Jak začít nahrávat, aniž byste se dotkli telefonu](/blog/cs/hands-free-recording/).
+
+Co se souborem po nahrání dělat — a proč má šíření vlastní pravidla — popisuje [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/after-recording/).

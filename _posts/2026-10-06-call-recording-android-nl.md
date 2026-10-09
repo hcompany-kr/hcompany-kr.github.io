@@ -123,4 +123,6 @@ Manieren om een opname zonder handen te starten, staan in [Een opname starten zo
 
 De vijf betekenissen van „automatisch opnemen”, inclusief opname die start als een gesprek tot stand komt, staan in [Niet elke „automatische” recorder doet hetzelfde](/blog/nl/auto-recording-types/).
 
+Wat je na de opname met het bestand doet — en waarom verspreiden eigen regels heeft — staat in [Wat je met een opname doet, en wat je er niet mee doet](/blog/nl/after-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De informatie over toestellen en regio's berust op aankondigingen van fabrikanten en berichten die vaak veranderen; controleer je eigen Telefoon-app. Algemene informatie, geen juridisch advies — de regels voor opnemen verschillen per land.</p>

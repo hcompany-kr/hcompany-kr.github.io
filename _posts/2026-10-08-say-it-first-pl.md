@@ -103,3 +103,5 @@ Jedno ze zdań powyżej to „Mogę to nagrać?”. Właśnie to pytanie może b
 W **Polsce** nagrywanie rozmowy, w której się uczestniczy, co do zasady nie jest przestępstwem: art. 267 § 3 Kodeksu karnego dotyczy posługiwania się urządzeniem podsłuchowym w celu uzyskania informacji, do której nie jest się uprawnionym. Pytanie bywa jednak po prostu uprzejmością — a za granicą bywa konieczne. W **Niemczech** (§ 201 StGB) nagranie rozmowy bez zgody jest przestępstwem nawet dla jej uczestnika. W **Holandii** (art. 139a kodeksu karnego) uczestnik może nagrywać, a w **Wielkiej Brytanii** nagrywanie własnej rozmowy na własny użytek co do zasady nie jest przestępstwem.
 
 Dlaczego przycisk nagrywania i tak wciskasz za późno, opisuje [Dlaczego przycisk nagrywania zawsze wciskasz za późno](/blog/pl/recording-delay/), a sposoby na start bez rąk — [Jak zacząć nagrywać, nie dotykając telefonu](/blog/pl/hands-free-recording/).
+
+Co zrobić z plikiem po nagraniu — i dlaczego rozpowszechnianie to osobna sprawa — opisuje [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
