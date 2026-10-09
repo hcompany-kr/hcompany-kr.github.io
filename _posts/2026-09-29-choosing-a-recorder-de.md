@@ -118,4 +118,6 @@ Ranglisten verkaufen Geräte. Ob eine Aufnahme Ihnen etwas nützt, entscheidet e
 
 Welche Arten automatischer Aufnahme es gibt, steht in [„Automatische Aufnahme“ heißt nicht immer dasselbe](/blog/de/auto-recording-types/).
 
+Wie man Straßenlärm auf dem Telefon aus einer Aufnahme entfernt und welche Werkzeuge damit umgehen, steht in [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die genannten Daten und Preise sind Herstellerangaben und ändern sich häufig; bitte vor dem Kauf prüfen. Wir entwickeln selbst eine Aufnahme-App, wie oben offengelegt. In Deutschland (§ 201 StGB) und der Schweiz (Art. 179ter StGB) ist die Aufnahme eines nichtöffentlichen Gesprächs ohne Einwilligung auch als Teilnehmer strafbar.</p>

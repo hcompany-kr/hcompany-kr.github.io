@@ -122,4 +122,6 @@ Os cinco significados de "gravação automática", incluindo a que começa quand
 
 O que fazer com o arquivo depois, e por que divulgar tem regras próprias, está em [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/).
 
+Como tirar o barulho da rua de uma gravação no celular, e quais ferramentas dão conta disso, está em [Como tirar o ruído de fundo de uma gravação de voz no Android](/blog/pt-br/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">As informações sobre aparelhos e regiões se baseiam em anúncios dos fabricantes e em reportagens que mudam com frequência; confira o seu próprio app de Telefone. Informação geral, não é aconselhamento jurídico — a lei sobre gravação muda de país para país.</p>

@@ -118,4 +118,6 @@ Být v tom upřímní je jediný způsob, jak má zbytek téhle stránky nějako
 
 Jaké typy automatického nahrávání existují, popisuje [Ne každý „automatický“ diktafon dělá totéž](/blog/cs/auto-recording-types/).
 
+Jak odstranit z nahrávky hluk ulice přímo v telefonu a které nástroje to zvládnou, popisuje [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Uvedené údaje a ceny pocházejí od výrobců a často se mění; před nákupem je ověřte. Sami vyvíjíme aplikaci na nahrávání, jak je uvedeno výše. V Česku a na Slovensku upravuje pořizování zvukových záznamů hlavně občanský zákoník (v Česku § 86 a 88, na Slovensku § 12).</p>

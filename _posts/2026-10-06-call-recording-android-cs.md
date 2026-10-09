@@ -126,4 +126,6 @@ Pět významů „automatického nahrávání“, včetně nahrávání při spo
 
 Co se souborem po nahrání dělat — a proč má šíření vlastní pravidla — popisuje [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/after-recording/).
 
+Jak odstranit z nahrávky hluk ulice přímo v telefonu a které nástroje to zvládnou, popisuje [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Údaje o zařízeních a regionech vycházejí z oznámení výrobců a článků, které se často mění; zkontrolujte vlastní aplikaci Telefon. Obecná informace, nikoli právní rada — pravidla pro nahrávání se v jednotlivých zemích liší.</p>

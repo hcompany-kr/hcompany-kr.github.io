@@ -118,4 +118,6 @@ Les classements vendent des appareils. Ce qui décide si un enregistrement vous 
 
 Les différents types d'enregistrement automatique sont détaillés dans [Tous les enregistreurs « automatiques » ne font pas la même chose](/blog/fr/auto-recording-types/).
 
+Comment retirer le bruit de la rue d'un enregistrement sur le téléphone, et quels outils y parviennent, est expliqué dans [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les caractéristiques et prix cités sont ceux publiés par les fabricants et changent souvent ; vérifiez avant d'acheter. Nous développons nous-mêmes une application d'enregistrement, comme indiqué plus haut. En France (article 226-1 du Code pénal) et en Suisse (article 179ter du Code pénal), enregistrer une conversation privée sans le consentement des autres est punissable, même pour un participant.</p>

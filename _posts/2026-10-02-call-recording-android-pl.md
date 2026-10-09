@@ -132,4 +132,6 @@ Pięć znaczeń „automatycznego nagrywania”, w tym nagrywanie po nawiązaniu
 
 Co zrobić z plikiem po nagraniu — i dlaczego rozpowszechnianie to osobna sprawa — opisuje [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
 
+Jak usunąć hałas ulicy z nagrania na telefonie i które narzędzia sobie z tym radzą, opisuje [Jak usunąć hałas w tle z nagrania głosu na Androidzie](/blog/pl/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacje o urządzeniach i regionach opierają się na komunikatach producentów i artykułach, które często się zmieniają; sprawdź własną aplikację Telefon. Informacja ogólna, nie porada prawna — prawo dotyczące nagrywania różni się w zależności od kraju.</p>

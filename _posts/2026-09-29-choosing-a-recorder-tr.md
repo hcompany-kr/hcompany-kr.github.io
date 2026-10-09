@@ -118,4 +118,6 @@ Sıralama listeleri cihaz satar. Bir kaydın işinize yarayıp yaramadığını 
 
 Otomatik kayıt türleri [Her “otomatik” kayıt uygulaması aynı şeyi yapmaz](/blog/tr/auto-recording-types/) yazısında.
 
+Bir kayıttaki sokak gürültüsünün telefonda nasıl giderileceği ve hangi araçların bunu yapabildiği [Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir](/blog/tr/remove-background-noise/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Burada anılan özellikler ve fiyatlar üreticilerin yayımladıklarıdır ve sık değişir; satın almadan önce kontrol edin. Yukarıda belirtildiği gibi biz de bir kayıt uygulaması geliştiriyoruz. Türkiye'de katıldığınız aleni olmayan bir söyleşiyi diğerlerinin rızası olmadan kaydetmek Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre suçtur.</p>

@@ -107,4 +107,6 @@ První tři dělají soubor použitelným. Ta poslední brání tomu, aby se obr
 
 Jak nahrát rovnou i souhlas, popisuje [Nejdřív něco řeknete](/blog/cs/say-it-first/). Co platí pro telefonní hovory a pro samotné nahrávání, popisuje [Proč aplikace na nahrávání hovorů na Androidu přestaly fungovat a co funguje dál](/blog/cs/call-recording-android/).
 
+Jak odstranit z nahrávky hluk ulice přímo v telefonu a které nástroje to zvládnou, popisuje [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání a šíření se v jednotlivých zemích liší.</p>

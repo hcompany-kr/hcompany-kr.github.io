@@ -118,4 +118,6 @@ Os rankings vendem aparelhos. O que decide se uma gravação serve para alguma c
 
 Os tipos de gravação automática estão em [Nem todo gravador “automático” faz a mesma coisa](/blog/pt-br/auto-recording-types/).
 
+Como tirar o barulho da rua de uma gravação no celular, e quais ferramentas dão conta disso, está em [Como tirar o ruído de fundo de uma gravação de voz no Android](/blog/pt-br/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">As especificações e os preços citados são os publicados pelos fabricantes e mudam com frequência; confira antes de comprar. Nós também desenvolvemos um app de gravação, como dito acima. No Brasil, o STF considera lícita a gravação feita por um dos interlocutores (Tema 237); em Portugal, gravar sem consentimento palavras não destinadas ao público é crime (artigo 199.º do Código Penal).</p>

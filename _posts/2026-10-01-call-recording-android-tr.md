@@ -136,4 +136,6 @@ Sonra sorun: "Görüşmeyi kayda alabilir miyim?" Kayıt siz soruyu sorduğunuz 
 
 Kayıttan sonra dosyayla ne yapılacağı ve yaymanın neden ayrı kuralları olduğu [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/) yazısında.
 
+Bir kayıttaki sokak gürültüsünün telefonda nasıl giderileceği ve hangi araçların bunu yapabildiği [Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir](/blog/tr/remove-background-noise/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Cihaz ve bölgelerle ilgili bilgiler üreticilerin duyurularına ve sık değişen haberlere dayanır; kendi arama uygulamanızı kontrol edin. Genel bilgidir, hukuki tavsiye değildir — kayıtla ilgili kanunlar ülkeden ülkeye değişir.</p>

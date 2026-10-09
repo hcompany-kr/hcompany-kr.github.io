@@ -118,4 +118,6 @@ Le restrizioni del Play Store sono **una policy di piattaforma, non una legge.**
 
 **E niente di tutto questo cambia le regole sul consenso** dove vivi.
 
+Come togliere il rumore della strada da una registrazione sul telefono, e quali strumenti lo gestiscono, è in [Come togliere il rumore di fondo da una registrazione vocale su Android](/blog/it/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">La disponibilità per dispositivo e regione cambia spesso; controlla il tuo dialer. Informazioni di carattere generale, non consulenza legale.</p>

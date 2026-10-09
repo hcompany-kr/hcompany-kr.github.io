@@ -136,4 +136,6 @@ Les cinq sens de « enregistrement automatique », y compris celui qui démarre 
 
 Ce qu'il faut faire du fichier ensuite, et pourquoi le diffuser obéit à ses propres règles, est expliqué dans [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
 
+Comment retirer le bruit de la rue d'un enregistrement sur le téléphone, et quels outils y parviennent, est expliqué dans [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les informations sur les appareils et les régions reposent sur des annonces des fabricants et des articles qui changent souvent ; vérifiez votre propre application Téléphone. Information générale, pas un conseil juridique — le droit de l'enregistrement diffère d'un pays à l'autre.</p>

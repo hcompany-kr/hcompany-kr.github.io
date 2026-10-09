@@ -97,3 +97,5 @@ Las tres primeras hacen que el archivo sirva. La última evita que se vuelva con
 De todas las situaciones en las que hace falta grabar, la más difícil de preparar es un accidente de tráfico. Quién decide la culpa y por qué lo que os decís no queda en ningún sitio está en [El parte amistoso no es reconocer la culpa](/blog/es/parte-amistoso/).
 
 Aun conservando bien el archivo, puede no llegar a usarse. Qué miran los tribunales está en [tienes la grabación y aun así no puedes usarla](/blog/es/recording-evidence/).
+
+Cómo quitar el ruido de la calle de una grabación en el móvil, y qué herramientas sirven para eso, está en [Cómo quitar el ruido de fondo de una grabación de voz en Android](/blog/es/remove-background-noise/).

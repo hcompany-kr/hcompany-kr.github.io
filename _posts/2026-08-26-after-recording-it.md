@@ -99,3 +99,5 @@ Le prime tre rendono il file utilizzabile. L'ultima evita che ti torni contro.
 Tra le situazioni in cui serve una registrazione, quella per cui è più difficile prepararsi è un incidente stradale. Chi decide la colpa e perché quello che ci si dice non finisce da nessuna parte è in [Se non lo dimostri, la legge divide la colpa a metà](/blog/it/incidente-stradale/).
 
 Anche un file conservato bene può non entrare in giudizio. Cosa guarda il giudice è in [hai la registrazione e non riesci comunque a usarla](/blog/it/recording-evidence/).
+
+Come togliere il rumore della strada da una registrazione sul telefono, e quali strumenti lo gestiscono, è in [Come togliere il rumore di fondo da una registrazione vocale su Android](/blog/it/remove-background-noise/).

@@ -118,4 +118,6 @@ Las listas ordenadas venden aparatos. Lo que decide si una grabación te sirve d
 
 Una grabadora que lo capturó todo y una que capturó los dos minutos correctos no son el mismo producto, aunque las fichas técnicas se parezcan.
 
+Cómo quitar el ruido de la calle de una grabación en el móvil, y qué herramientas sirven para eso, está en [Cómo quitar el ruido de fondo de una grabación de voz en Android](/blog/es/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las especificaciones y precios aquí descritos son los publicados por los fabricantes y cambian con frecuencia; conviene verificarlos antes de comprar. Fabricamos una aplicación de grabación, como se indica más arriba. La ley sobre grabaciones varía según el país: la comparación entre países hispanohablantes está en [Grabar tu propia conversación: país por país](/blog/es/grabar-latinoamerica/).</p>

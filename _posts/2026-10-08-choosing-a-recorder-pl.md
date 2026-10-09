@@ -118,4 +118,6 @@ Rankingi sprzedają urządzenia. O tym, czy nagranie ci się przyda, decyduje co
 
 Jakie są rodzaje automatycznego nagrywania, opisuje [Nie każda „automatyczna” nagrywarka robi to samo](/blog/pl/auto-recording-types/).
 
+Jak usunąć hałas ulicy z nagrania na telefonie i które narzędzia sobie z tym radzą, opisuje [Jak usunąć hałas w tle z nagrania głosu na Androidzie](/blog/pl/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Podane dane i ceny pochodzą od producentów i często się zmieniają; sprawdź je przed zakupem. Sami tworzymy aplikację do nagrywania, jak zaznaczono wyżej. W Polsce nagrywanie rozmowy, w której się uczestniczy, co do zasady nie jest przestępstwem; nagrywanie cudzych rozmów w celu uzyskania informacji, do której nie jest się uprawnionym, jest karane z art. 267 § 3 Kodeksu karnego.</p>

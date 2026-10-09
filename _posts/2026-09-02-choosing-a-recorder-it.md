@@ -118,4 +118,6 @@ Le classifiche vendono apparecchi. Quello che decide se una registrazione ti ser
 
 Un registratore che ha catturato tutto e uno che ha catturato i due minuti giusti non sono lo stesso prodotto, anche quando le schede tecniche si somigliano.
 
+Come togliere il rumore della strada da una registrazione sul telefono, e quali strumenti lo gestiscono, è in [Come togliere il rumore di fondo da una registrazione vocale su Android](/blog/it/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le specifiche e i prezzi descritti qui sono quelli pubblicati dai produttori e cambiano spesso; conviene verificarli prima di acquistare. Realizziamo un'app di registrazione, come indicato sopra. La legge sulle registrazioni varia da paese a paese: il caso italiano è in [Registrare sì, diffondere no](/blog/it/registrare-conversazione/).</p>

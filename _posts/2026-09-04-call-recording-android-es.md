@@ -118,4 +118,6 @@ Las restricciones de Play Store son **una política de plataforma, no una ley.**
 
 **Y nada de esto cambia las reglas de consentimiento** de donde vives.
 
+Cómo quitar el ruido de la calle de una grabación en el móvil, y qué herramientas sirven para eso, está en [Cómo quitar el ruido de fondo de una grabación de voz en Android](/blog/es/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">La disponibilidad por dispositivo y región cambia con frecuencia; comprueba tu propio marcador. Información general, no asesoramiento jurídico.</p>

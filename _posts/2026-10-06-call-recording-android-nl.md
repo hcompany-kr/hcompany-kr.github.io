@@ -125,4 +125,6 @@ De vijf betekenissen van „automatisch opnemen”, inclusief opname die start a
 
 Wat je na de opname met het bestand doet — en waarom verspreiden eigen regels heeft — staat in [Wat je met een opname doet, en wat je er niet mee doet](/blog/nl/after-recording/).
 
+Hoe je straatlawaai op de telefoon uit een opname haalt, en welke hulpmiddelen dat aankunnen, staat in [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De informatie over toestellen en regio's berust op aankondigingen van fabrikanten en berichten die vaak veranderen; controleer je eigen Telefoon-app. Algemene informatie, geen juridisch advies — de regels voor opnemen verschillen per land.</p>

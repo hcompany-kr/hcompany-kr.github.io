@@ -118,4 +118,6 @@ Ranglijsten verkopen apparaten. Of een opname je iets oplevert, hangt af van iet
 
 Welke soorten automatisch opnemen er zijn, staat in [Niet elke „automatische” recorder doet hetzelfde](/blog/nl/auto-recording-types/).
 
+Hoe je straatlawaai op de telefoon uit een opname haalt, en welke hulpmiddelen dat aankunnen, staat in [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De genoemde gegevens en prijzen zijn opgaven van de fabrikanten en veranderen vaak; controleer ze voor aankoop. Wij maken zelf een opname-app, zoals hierboven vermeld. In het hier besproken Nederlandse taalgebied mag je een gesprek waaraan je deelneemt opnemen; strafbaar is opnemen door wie geen deelnemer is.</p>

@@ -109,4 +109,6 @@ De eerste drie maken het bestand bruikbaar. De laatste voorkomt dat het zich teg
 
 Hoe je de toestemming meteen mee opneemt, staat in [Eerst zeg je iets](/blog/nl/say-it-first/). Wat er geldt bij telefoongesprekken en voor het opnemen zelf, staat in [Waarom apps om gesprekken op te nemen op Android niet meer werken, en wat nog wel werkt](/blog/nl/call-recording-android/).
 
+Hoe je straatlawaai op de telefoon uit een opname haalt, en welke hulpmiddelen dat aankunnen, staat in [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen en verspreiden verschillen per land.</p>

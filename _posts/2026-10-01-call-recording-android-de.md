@@ -136,4 +136,6 @@ Welche Arten automatischer Aufnahme es gibt, einschließlich der Aufnahme beim Z
 
 Was man nach der Aufnahme mit der Datei tun sollte – und warum das Weitergeben eigene Regeln hat –, steht in [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
 
+Wie man Straßenlärm auf dem Telefon aus einer Aufnahme entfernt und welche Werkzeuge damit umgehen, steht in [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Geräten und Regionen beruhen auf Herstellerangaben und Berichten, die sich häufig ändern; prüfen Sie Ihre eigene Telefon-App. Allgemeine Information, keine Rechtsberatung – das Aufnahmerecht unterscheidet sich von Land zu Land.</p>

@@ -105,4 +105,6 @@ As três primeiras deixam o arquivo utilizável. A última impede que ele se vol
 
 Como gravar o consentimento junto está em [Primeiro você diz alguma coisa](/blog/pt-br/say-it-first/). O que vale para ligações está em [Por que os apps de gravar ligação pararam de funcionar no Android, e o que ainda funciona](/blog/pt-br/call-recording-android/).
 
+Como tirar o barulho da rua de uma gravação no celular, e quais ferramentas dão conta disso, está em [Como tirar o ruído de fundo de uma gravação de voz no Android](/blog/pt-br/remove-background-noise/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não é aconselhamento jurídico — as regras sobre gravar e divulgar mudam de país para país.</p>
