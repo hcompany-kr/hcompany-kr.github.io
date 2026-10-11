@@ -21,6 +21,15 @@
 <meta property="og:description" content="{{ page.description }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:site_name" content="{{ site.title }}">
+<meta name="robots" content="max-image-preview:large">
+{% if page.image %}
+<meta property="og:image" content="{{ page.image | absolute_url }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ page.image_alt | escape }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{% endif %}
 
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
@@ -35,6 +44,7 @@
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.date | date_to_xmlschema }}",
   "mainEntityOfPage": {{ page.url | absolute_url | jsonify }},
+  {% if page.image %}"image": [{{ page.image | absolute_url | jsonify }}],{% endif %}
   "author": { "@type": "Organization", "name": {{ site.title | jsonify }} },
   "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }} }
 }
@@ -99,6 +109,7 @@
     <p class="eyebrow">{{ page.eyebrow }}</p>
     <h1>{{ page.title }}</h1>
     <p class="standfirst">{{ page.description }}</p>
+    {% if page.image %}<figure class="hero"><img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | escape }}" width="1200" height="630"></figure>{% endif %}
     <div class="body">
       {{ content }}
 

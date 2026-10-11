@@ -7,6 +7,8 @@ date: 2026-09-04
 eyebrow: How to
 title: "Why call recording stopped working on your Android, and what still does"
 description: "Android removed the API in 2015, blocked the microphone route in 2019, and Google closed the accessibility loophole in May 2022. Built-in dialers were never affected — whether yours has it depends on the phone and the country."
+image: /assets/img/og/call-recording-android-en.png
+image_alt: "Timeline: Android 6 removed the call recording API in 2015, Android 10 blocked the microphone route in 2019, the Play Store closed the accessibility loophole in 2022; the built-in dialer was never part of the ban."
 app: true
 app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:

@@ -304,3 +304,6 @@ a:focus-visible, .endcard-cta:focus-visible {
   .body tbody td { padding-right: 0.5rem; }
   .body tbody tr td:first-child { white-space: normal; }
 }
+
+.hero { margin: 1.75rem 0 0; }
+.hero img { display: block; width: 100%; height: auto; border-radius: 14px; }
