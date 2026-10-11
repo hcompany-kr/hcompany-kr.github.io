@@ -1,0 +1,76 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blog | H Company</title>
+<meta name="description" content="रिकॉर्डिंग के बारे में, और कही गई बात को सहेजकर रखने के बारे में नोट्स।">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<link rel="alternate" hreflang="ko" href="{{ '/blog/ko/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/blog/en/' | absolute_url }}">
+<link rel="alternate" hreflang="ja" href="{{ '/blog/ja/' | absolute_url }}">
+<link rel="alternate" hreflang="es" href="{{ '/blog/es/' | absolute_url }}">
+<link rel="alternate" hreflang="it" href="{{ '/blog/it/' | absolute_url }}">
+<link rel="alternate" hreflang="de" href="{{ '/blog/de/' | absolute_url }}">
+<link rel="alternate" hreflang="fr" href="{{ '/blog/fr/' | absolute_url }}">
+<link rel="alternate" hreflang="tr" href="{{ '/blog/tr/' | absolute_url }}">
+<link rel="alternate" hreflang="pt-BR" href="{{ '/blog/pt-br/' | absolute_url }}">
+<link rel="alternate" hreflang="pl" href="{{ '/blog/pl/' | absolute_url }}">
+<link rel="alternate" hreflang="nl" href="{{ '/blog/nl/' | absolute_url }}">
+<link rel="alternate" hreflang="cs" href="{{ '/blog/cs/' | absolute_url }}">
+<link rel="alternate" hreflang="hi" href="{{ '/blog/hi/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/blog/en/' | absolute_url }}">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Blog | H Company">
+<meta property="og:description" content="रिकॉर्डिंग के बारे में, और कही गई बात को सहेजकर रखने के बारे में नोट्स।">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="H Company">
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+<header class="masthead">
+  <a class="wordmark" href="{{ '/' | relative_url }}">H Company</a>
+  <nav class="langs" aria-label="भाषा">
+    <a class="lang" href="{{ '/blog/ko/' | relative_url }}">ko</a>
+    <a class="lang" href="{{ '/blog/en/' | relative_url }}">en</a>
+    <a class="lang" href="{{ '/blog/ja/' | relative_url }}">ja</a>
+    <a class="lang" href="{{ '/blog/es/' | relative_url }}">es</a>
+    <a class="lang" href="{{ '/blog/it/' | relative_url }}">it</a>
+    <a class="lang" href="{{ '/blog/de/' | relative_url }}">de</a>
+    <a class="lang" href="{{ '/blog/fr/' | relative_url }}">fr</a>
+    <a class="lang" href="{{ '/blog/tr/' | relative_url }}">tr</a>
+    <a class="lang" href="{{ '/blog/pt-br/' | relative_url }}">pt</a>
+    <a class="lang" href="{{ '/blog/pl/' | relative_url }}">pl</a>
+    <a class="lang" href="{{ '/blog/nl/' | relative_url }}">nl</a>
+    <a class="lang" href="{{ '/blog/cs/' | relative_url }}">cs</a>
+    <span class="lang is-current">hi</span>
+  </nav>
+</header>
+
+<main>
+  <div class="index-head">
+    <h1>Blog</h1>
+  </div>
+
+  <div class="list">
+    {% assign posts = site.posts | where: "lang", "hi" | sort: "date" | reverse %}
+    {% for post in posts %}
+    <div class="list-item">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</main>
+
+<footer class="colophon">
+  <p>H Company</p>
+</footer>
+</body>
+</html>
