@@ -101,3 +101,5 @@ Tra le situazioni in cui serve una registrazione, quella per cui è più diffici
 Anche un file conservato bene può non entrare in giudizio. Cosa guarda il giudice è in [hai la registrazione e non riesci comunque a usarla](/blog/it/recording-evidence/).
 
 Come togliere il rumore della strada da una registrazione sul telefono, e quali strumenti lo gestiscono, è in [Come togliere il rumore di fondo da una registrazione vocale su Android](/blog/it/remove-background-noise/).
+
+Come ridurre una registrazione alla parte che conta senza perdere l'originale, e come cambiano le app, è in [Come tagliare una registrazione vocale su Android senza perdere l'originale](/blog/it/trim-recording/).

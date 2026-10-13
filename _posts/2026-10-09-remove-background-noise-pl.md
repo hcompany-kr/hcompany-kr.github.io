@@ -98,4 +98,6 @@ Jeśli nagranie może zostać użyte — w skardze, sporze, roszczeniu —, **z�
 
 Jak osobne dyktafony wypadają w porównaniu z telefonem pod względem jakości dźwięku, opisuje [Nagrywarki różnią się tym, kiedy zaczynają nagrywać](/blog/pl/choosing-a-recorder/).
 
+Jak skrócić nagranie do tego, co ważne, nie tracąc oryginału, i czym różnią się aplikacje, opisuje [Jak przyciąć nagranie głosu na Androidzie i nie stracić oryginału](/blog/pl/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkcje narzędzi innych firm opisano na podstawie ich dokumentacji i doniesień z chwili pisania i mogą się zmienić. Sami tworzymy aplikację do nagrywania, jak zaznaczono wyżej.</p>

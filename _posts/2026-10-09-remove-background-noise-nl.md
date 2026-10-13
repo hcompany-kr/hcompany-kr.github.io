@@ -98,4 +98,6 @@ Geen enkel hulpmiddel haalt terug wat de microfoon nooit heeft opgevangen. Een p
 
 Hoe losse recorders zich qua geluidskwaliteit verhouden tot telefoons, staat in [Wat recorders onderscheidt, is wanneer ze starten](/blog/nl/choosing-a-recorder/).
 
+Hoe je een opname terugbrengt tot wat ertoe doet zonder het origineel te verliezen, en hoe de apps verschillen, staat in [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De functies van hulpmiddelen van derden zijn beschreven op basis van hun documentatie en berichtgeving op het moment van schrijven en kunnen veranderen. Wij maken zelf een opname-app, zoals hierboven vermeld.</p>

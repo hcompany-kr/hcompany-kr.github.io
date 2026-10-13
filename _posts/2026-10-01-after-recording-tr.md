@@ -108,4 +108,6 @@ Rızayı da kayda almanın yolu [Önce bir şey söylersiniz](/blog/tr/say-it-fi
 
 Bir kayıttaki sokak gürültüsünün telefonda nasıl giderileceği ve hangi araçların bunu yapabildiği [Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir](/blog/tr/remove-background-noise/) yazısında.
 
+Bir kaydı orijinali kaybetmeden önemli kısmına nasıl indireceğiniz ve uygulamaların farkı [Android'de bir ses kaydı orijinali kaybetmeden nasıl kırpılır](/blog/tr/trim-recording/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

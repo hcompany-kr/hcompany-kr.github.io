@@ -111,4 +111,6 @@ Hoe je de toestemming meteen mee opneemt, staat in [Eerst zeg je iets](/blog/nl/
 
 Hoe je straatlawaai op de telefoon uit een opname haalt, en welke hulpmiddelen dat aankunnen, staat in [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/).
 
+Hoe je een opname terugbrengt tot wat ertoe doet zonder het origineel te verliezen, en hoe de apps verschillen, staat in [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen en verspreiden verschillen per land.</p>

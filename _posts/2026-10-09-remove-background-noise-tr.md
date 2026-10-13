@@ -98,4 +98,6 @@ Hiçbir araç mikrofonun hiç yakalamadığını geri getiremez. Birkaç alışk
 
 Ayrı kayıt cihazlarının ses kalitesinde telefonlarla nasıl karşılaştırıldığı [Kayıt cihazlarını birbirinden ayıran, ne zaman başladıklarıdır](/blog/tr/choosing-a-recorder/) yazısında.
 
+Bir kaydı orijinali kaybetmeden önemli kısmına nasıl indireceğiniz ve uygulamaların farkı [Android'de bir ses kaydı orijinali kaybetmeden nasıl kırpılır](/blog/tr/trim-recording/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Üçüncü taraf araçların özellikleri, yazıldığı tarihteki belgelerine ve haberlere dayanır ve değişebilir. Yukarıda belirtildiği gibi biz de bir kayıt uygulaması geliştiriyoruz.</p>

@@ -98,4 +98,6 @@ Pokud by se nahrávka mohla použít — ve stížnosti, ve sporu, v nároku —
 
 Jak se samostatné diktafony srovnávají s telefonem v kvalitě zvuku, popisuje [Diktafony se liší tím, kdy začnou nahrávat](/blog/cs/choosing-a-recorder/).
 
+Jak zkrátit nahrávku na to podstatné a nepřijít o originál a čím se aplikace liší, popisuje [Jak na Androidu zkrátit hlasovou nahrávku a nepřijít o originál](/blog/cs/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkce nástrojů třetích stran jsou popsány podle jejich dokumentace a zpráv v době psaní a mohou se změnit. Sami vyvíjíme aplikaci na nahrávání, jak je uvedeno výše.</p>

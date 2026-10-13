@@ -98,4 +98,6 @@ Nessuno strumento restituisce ciò che il microfono non ha mai catturato. Qualch
 
 Come si confrontano i registratori dedicati con il telefono per qualità audio è in [A distinguere i registratori non è l'audio, è quando partono](/blog/it/choosing-a-recorder/).
 
+Come ridurre una registrazione alla parte che conta senza perdere l'originale, e come cambiano le app, è in [Come tagliare una registrazione vocale su Android senza perdere l'originale](/blog/it/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le funzioni degli strumenti di terzi riflettono la loro documentazione e quanto riportato al momento della scrittura, e possono cambiare. Realizziamo un'app di registrazione, come indicato sopra.</p>

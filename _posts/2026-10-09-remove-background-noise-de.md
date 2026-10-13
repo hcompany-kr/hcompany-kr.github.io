@@ -98,4 +98,6 @@ Kein Werkzeug holt zurück, was das Mikrofon nie erfasst hat. Ein paar Gewohnhei
 
 Wie sich eigene Aufnahmegeräte und Telefone bei der Tonqualität vergleichen, steht in [Was Aufnahmegeräte unterscheidet, ist, wann sie starten](/blog/de/choosing-a-recorder/).
 
+Wie man eine Aufnahme auf das Wesentliche kürzt, ohne das Original zu verlieren, und wie sich die Apps unterscheiden, steht in [Sprachaufnahme auf Android kürzen, ohne das Original zu verlieren](/blog/de/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Werkzeugen anderer Anbieter beruhen auf deren Dokumentation und Berichten zum Zeitpunkt des Schreibens und können sich ändern. Wir entwickeln selbst eine Aufnahme-App, wie oben offengelegt.</p>

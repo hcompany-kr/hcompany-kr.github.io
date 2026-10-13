@@ -111,4 +111,6 @@ Wie man die Einwilligung gleich mit aufnimmt, steht in [Zuerst sagt man etwas](/
 
 Wie man Straßenlärm auf dem Telefon aus einer Aufnahme entfernt und welche Werkzeuge damit umgehen, steht in [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/).
 
+Wie man eine Aufnahme auf das Wesentliche kürzt, ohne das Original zu verlieren, und wie sich die Apps unterscheiden, steht in [Sprachaufnahme auf Android kürzen, ohne das Original zu verlieren](/blog/de/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung – das Recht zum Aufnehmen und Weitergeben unterscheidet sich von Land zu Land.</p>

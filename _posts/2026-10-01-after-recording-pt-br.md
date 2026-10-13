@@ -107,4 +107,6 @@ Como gravar o consentimento junto está em [Primeiro você diz alguma coisa](/bl
 
 Como tirar o barulho da rua de uma gravação no celular, e quais ferramentas dão conta disso, está em [Como tirar o ruído de fundo de uma gravação de voz no Android](/blog/pt-br/remove-background-noise/).
 
+Como reduzir uma gravação ao que importa sem perder o original, e no que os apps diferem, está em [Como cortar uma gravação de voz no Android sem perder o original](/blog/pt-br/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não é aconselhamento jurídico — as regras sobre gravar e divulgar mudam de país para país.</p>

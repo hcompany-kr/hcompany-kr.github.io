@@ -98,4 +98,6 @@ Ninguna herramienta devuelve lo que el micrófono nunca captó. Algunos hábitos
 
 Cómo se comparan las grabadoras dedicadas con el móvil en calidad de sonido está en [Lo que separa a las grabadoras no es el sonido, es cuándo empiezan](/blog/es/choosing-a-recorder/).
 
+Cómo recortar una grabación hasta lo que importa sin perder el original, y en qué se diferencian las apps, está en [Cómo recortar una grabación de voz en Android sin perder el original](/blog/es/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las funciones de herramientas de terceros reflejan su documentación y lo publicado al momento de escribir, y pueden cambiar. Hacemos una app de grabación, como se indica arriba.</p>

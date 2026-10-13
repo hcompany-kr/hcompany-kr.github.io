@@ -113,4 +113,6 @@ Comment enregistrer l'accord en même temps est expliqué dans [On dit d'abord q
 
 Comment retirer le bruit de la rue d'un enregistrement sur le téléphone, et quels outils y parviennent, est expliqué dans [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/).
 
+Comment réduire un enregistrement à ce qui compte sans perdre l'original, et en quoi les applications diffèrent : [Couper un enregistrement vocal sur Android sans perdre l'original](/blog/fr/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique — le droit d'enregistrer et de diffuser diffère d'un pays à l'autre.</p>

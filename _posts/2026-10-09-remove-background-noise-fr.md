@@ -98,4 +98,6 @@ Aucun outil ne rend ce que le micro n'a jamais capté. Quelques habitudes facili
 
 Comment les enregistreurs dédiés se comparent aux téléphones en qualité sonore est détaillé dans [Ce qui distingue les enregistreurs, c'est le moment où ils démarrent](/blog/fr/choosing-a-recorder/).
 
+Comment réduire un enregistrement à ce qui compte sans perdre l'original, et en quoi les applications diffèrent : [Couper un enregistrement vocal sur Android sans perdre l'original](/blog/fr/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les fonctions des outils tiers reflètent leur documentation et les articles publiés au moment de la rédaction, et peuvent changer. Nous développons nous-mêmes une application d'enregistrement, comme indiqué plus haut.</p>

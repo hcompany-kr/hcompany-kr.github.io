@@ -98,4 +98,6 @@ Nenhuma ferramenta devolve o que o microfone nunca captou. Alguns hábitos facil
 
 Como gravadores dedicados se comparam ao celular em qualidade de som está em [O que separa os gravadores é quando eles começam](/blog/pt-br/choosing-a-recorder/).
 
+Como reduzir uma gravação ao que importa sem perder o original, e no que os apps diferem, está em [Como cortar uma gravação de voz no Android sem perder o original](/blog/pt-br/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Os recursos de ferramentas de terceiros refletem a documentação e as reportagens no momento em que este texto foi escrito e podem mudar. Nós também desenvolvemos um app de gravação, como dito acima.</p>

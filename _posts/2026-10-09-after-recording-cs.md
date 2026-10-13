@@ -109,4 +109,6 @@ Jak nahrát rovnou i souhlas, popisuje [Nejdřív něco řeknete](/blog/cs/say-i
 
 Jak odstranit z nahrávky hluk ulice přímo v telefonu a které nástroje to zvládnou, popisuje [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/).
 
+Jak zkrátit nahrávku na to podstatné a nepřijít o originál a čím se aplikace liší, popisuje [Jak na Androidu zkrátit hlasovou nahrávku a nepřijít o originál](/blog/cs/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání a šíření se v jednotlivých zemích liší.</p>

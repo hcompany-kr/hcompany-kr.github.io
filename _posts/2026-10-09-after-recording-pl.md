@@ -108,4 +108,6 @@ Jak nagrać od razu także zgodę, opisuje [Najpierw coś mówisz](/blog/pl/say-
 
 Jak usunąć hałas ulicy z nagrania na telefonie i które narzędzia sobie z tym radzą, opisuje [Jak usunąć hałas w tle z nagrania głosu na Androidzie](/blog/pl/remove-background-noise/).
 
+Jak skrócić nagranie do tego, co ważne, nie tracąc oryginału, i czym różnią się aplikacje, opisuje [Jak przyciąć nagranie głosu na Androidzie i nie stracić oryginału](/blog/pl/trim-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna — zasady nagrywania i rozpowszechniania różnią się w zależności od kraju.</p>
