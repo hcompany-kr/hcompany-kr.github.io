@@ -1,6 +1,6 @@
 import os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from og_gen import render
+from og_gen import render, panel_call, panel_noise
 
 HI_CSS = '''body{font-family:'Nirmala UI','Segoe UI',sans-serif}
 .title{font-size:52px;line-height:1.3}
@@ -52,6 +52,11 @@ def panel_rec(t):
     rows += f'<div class="row hl"><div class="lab"><b>{a}</b><small>{b}</small></div><div class="x ok">✓</div></div>'
     return f'<div class="panel" style="padding:18px 26px"><div class="cap">एक दिन बाद आपके पास क्या है</div>{rows}</div>'
 
+def panel_check(t):
+    rows = ''.join(f'<div class="row{" hl" if ok == "best" else ""}"><div class="lab">{"<b>" + a + "</b>" if ok == "best" else a}<small>{b}</small></div><div class="x{"" if ok == "no" else " ok"}">{"✕" if ok == "no" else "✓"}</div></div>'
+                   for a, b, ok in t['rows'])
+    return f'<div class="panel" style="padding:18px 26px"><div class="cap">{t["cap"]}</div>{rows}</div>'
+
 CARDS = {
  ('recording-delay', 'hi'): dict(eyebrow='Android · रिकॉर्डिंग', title='रिकॉर्ड बटन हमेशा देर से क्यों दबता है', sub='ज़रूरी बात बटन से पहले कही जा चुकी होती है।', tagline=TAG, panel=panel_delay,
      chips=['पहले के 30 सेकंड', 'कीवर्ड से शुरू', 'लॉक स्क्रीन पर']),
@@ -60,8 +65,16 @@ CARDS = {
  ('say-it-first', 'hi'): dict(eyebrow='Android · कीवर्ड रिकॉर्डिंग', title='पहले आप कुछ कहते हैं', sub='मुँह हाथों से तेज़ है — तो वही ट्रिगर बने।', tagline=TAG, panel=panel_say,
      chips=['फ़ोन जेब में', 'लॉक स्क्रीन', 'सहमति फ़ाइल में']),
  ('choosing-a-recorder', 'hi'): dict(eyebrow='वॉइस रिकॉर्डर · तुलना', title='<span style="display:block;font-size:46px;line-height:1.3">रिकॉर्डर इस बात से अलग होते हैं कि वे कब शुरू होते हैं</span>', sub='शाम को वे दो मिनट कौन-सा रिकॉर्डर ढूँढने देता है।', tagline=TAG, panel=panel_rec,
-     kinds=[('पोर्टेबल, लगातार', 'पूरे दिन की एक फ़ाइल'), ('पोर्टेबल, VOX', 'ढेर सारे क्लिप'), ('अलग वॉइस रिकॉर्डर', 'हर सेशन की एक फ़ाइल'), ('AI नोटटेकर', 'फ़ाइल + ट्रांसक्रिप्ट'), ('फ़ोन, कीवर्ड पर', 'उसी पल से शुरू होने वाली फ़ाइल')]),
+     kinds=[('पोर्टेबल, लगातार', 'पूरे दिन की एक फ़ाइल'), ('पोर्टेबल, VOX', 'ढेर सारे क्लिप'), ('अलग वॉइस रिकॉर्डर', 'हर सेशन की एक फ़ाइल'), ('AI नोटटेकर', 'फ़ाइल + ट्रांसक्रिप्ट'), ('फ़ोन, कीवर्ड पर', 'उसी पल से शुरू होने वाली फ़ाइल')]), ('hands-free-recording', 'hi'): dict(eyebrow='Android · बिना हाथ लगाए', title='फ़ोन छुए बिना रिकॉर्डिंग कैसे शुरू करें', sub='चार तरीके, और जेब में कौन-सा चलता है।', tagline=TAG, panel=panel_check,
+     cap='लॉक स्क्रीन, फ़ोन जेब में', rows=[('विजेट या शॉर्टकट', 'स्क्रीन और टैप चाहिए', 'no'), ('तय समय पर', 'पहले से समय पता होना चाहिए', 'no'), ('वॉइस असिस्टेंट', 'ज़ोर से जवाब देता है', 'no'), ('कीवर्ड पर रिकॉर्डिंग', 'चुपचाप शुरू + पहले के 30 सेकंड', 'best')]),
+ ('call-recording-android', 'hi'): dict(eyebrow='Android · कॉल रिकॉर्डिंग', title='कॉल रिकॉर्डिंग ऐप क्यों बंद हो गए', sub='और वह एक चीज़ जिस पर कभी पाबंदी नहीं लगी।', tagline=TAG, panel=panel_call,
+     steps=[('2015', 'Android 6: कॉल रिकॉर्डिंग इंटरफ़ेस हटाया'), ('2019', 'Android 10: माइक्रोफ़ोन वाला रास्ता बंद'), ('2022', 'Play Store: आख़िरी रास्ता बंद')], ok='फ़ोन का अपना डायलर इस पाबंदी में कभी नहीं था'),
+ ('after-recording', 'hi'): dict(eyebrow='गाइड · रिकॉर्डिंग के बाद', title='रिकॉर्डिंग के बाद क्या करें, और क्या न करें', sub='रिकॉर्डिंग जमा की जाती है, बाँटी नहीं जाती।', tagline=TAG, panel=panel_check,
+     cap='रिकॉर्डिंग के बाद चार बातें', rows=[('मूल फ़ाइल वैसी ही रखें', 'ट्रिम और नॉइज़ रिमूवल नई फ़ाइल बनाते हैं', 'yes'), ('ज़रूरी हिस्सा ट्रिम करें', 'साथ में क्या कहा गया, इसका नोट', 'yes'), ('फ़ोन के बाहर कॉपी', 'खुद को ईमेल, क्लाउड, कंप्यूटर', 'yes'), ('इधर-उधर भेजना', 'दोस्त, ग्रुप, सोशल मीडिया', 'no')]),
+ ('remove-background-noise', 'hi'): dict(eyebrow='Android · शोर हटाना', title='वॉइस रिकॉर्डिंग से पीछे का शोर हटाएँ', sub='सड़क का शोर बाहर, बातचीत बची रहे।', tagline=TAG, panel=panel_noise,
+     before='सड़क पर रिकॉर्ड की गई मूल फ़ाइल', arrow='AI नॉइज़ रिमूवल', after='साफ़ वर्ज़न · नई फ़ाइल', chips=['डिवाइस पर', 'मूल फ़ाइल वैसी ही', 'ट्रिम किए हिस्से पर भी']),
 }
 
 if __name__ == '__main__':
-    render(CARDS, HI_CSS)
+    only = set(sys.argv[1:])
+    render({k: v for k, v in CARDS.items() if not only or k[0] in only}, HI_CSS)
