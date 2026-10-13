@@ -101,3 +101,5 @@ Of all the situations where a recording helps, the hardest to prepare for is a c
 Even a carefully kept file can fail to get in. What courts actually check is in [you have the recording, you still may not be able to use it](/blog/en/recording-evidence/).
 
 How to strip street and traffic noise from a recording on the phone, and which tools handle it, is in [How to remove background noise from a voice recording on Android](/blog/en/remove-background-noise/).
+
+How to cut a recording down to the part that matters while keeping the original, and how the common apps differ, is in [How to trim a voice recording on Android without losing the original](/blog/en/trim-recording/).

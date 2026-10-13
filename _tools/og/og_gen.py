@@ -66,6 +66,24 @@ def panel_noise(t):
             f'<div class="cap">{t["after"]}</div>{bars(11, False)}'
             '<div class="chips">' + ''.join(f'<div class="chip">{c}</div>' for c in t['chips']) + '</div></div>')
 
+TRIM_CSS = '''.tw{position:relative;margin:6px 0 8px}
+.tw .wave{height:84px}
+.sel{position:absolute;top:-8px;bottom:-8px;left:58%;width:22%;border:3px solid #ffd84d;border-radius:12px;background:rgba(255,216,77,.12)}
+.tl{display:flex;justify-content:space-between;font-size:16px;color:#d4d0ff;font-weight:600;margin-bottom:10px}
+.lab small{display:block;color:#bdb8ff;font-size:16px;font-weight:600;margin-top:2px}'''
+
+def panel_trim(t):
+    r = random.Random(5); bars = []
+    for i in range(46):
+        on = 27 <= i <= 36
+        h = r.randint(24, 80)
+        bars.append(f'<i style="height:{h}px;background:{"#ffffff" if on else "rgba(255,255,255,.4)"}"></i>')
+    rows = ''.join(f'<div class="row{" hl" if i else ""}"><div class="lab">{"<b>" + a + "</b>" if i else a}<small>{b}</small></div><div class="x ok">✓</div></div>'
+                   for i, (a, b) in enumerate(t['rows']))
+    return (f'<div class="panel"><div class="cap">{t["cap"]}</div><div class="tw"><div class="wave">{"".join(bars)}</div><div class="sel"></div></div>'
+            f'<div class="tl"><span>0:00</span><span>{t["mark"]}</span><span>{t["end"]}</span></div>{rows}'
+            '<div class="chips">' + ''.join(f'<div class="chip">{c}</div>' for c in t['chips']) + '</div></div>')
+
 CARDS = {
  ('call-recording-android', 'en'): dict(eyebrow='ANDROID · CALL RECORDING', title='Why call recording apps stopped working', sub='And the one thing that was never banned.', tagline='KEYWORD-TRIGGERED RECORDER', panel=panel_call,
      steps=[('2015', 'Android 6 removed the call recording API'), ('2019', 'Android 10 blocked the microphone route'), ('2022', 'Play Store closed the accessibility loophole')], ok='The built-in dialer was never part of the ban'),
@@ -74,7 +92,10 @@ CARDS = {
  ('remove-background-noise', 'en'): dict(eyebrow='ANDROID · NOISE REMOVAL', title='Remove background noise from a voice recording', sub='Street noise out, the conversation stays — on the phone.', tagline='KEYWORD-TRIGGERED RECORDER', panel=panel_noise,
      before='Recorded on the street', arrow='AI noise removal', after='Cleaned · saved as a new file', chips=['On the device', 'Original kept', 'Works on a trimmed clip']),
  ('remove-background-noise', 'ko'): dict(eyebrow='안드로이드 · 잡음 제거', title='녹음 파일 잡음 제거, 휴대폰에서 바로', sub='길거리 소음은 빼고, 대화는 남기고.', tagline='키워드로 시작되는 녹음 앱', panel=panel_noise,
-     before='길거리에서 녹음한 원본', arrow='AI 노이즈 제거', after='정리본 · 새 파일로 저장', chips=['기기 안에서 처리', '원본 그대로 보존', '잘라낸 파일에도']),
+     before='길거리에서 녹음한 원본', arrow='AI 노이즈 제거', after='정리본 · 새 파일로 저장', chips=['기기 안에서 처리', '원본 그대로 보존', '잘라낸 파일에도']), ('trim-recording', 'en'): dict(eyebrow='ANDROID · TRIM A RECORDING', title='Trim a voice recording, keep the original', sub='The two minutes that matter — and the full file behind them.', tagline='KEYWORD-TRIGGERED RECORDER', panel=panel_trim,
+     cap='1 h 40 min recording', mark='1:04:10 → 1:06:10', end='1:40:00', rows=[('Original', 'Untouched, where it was'), ('Trimmed clip', 'Saved as a new file')], chips=['Noise removal on the clip', 'Android share sheet']),
+ ('trim-recording', 'ko'): dict(eyebrow='안드로이드 · 녹음 자르기', title='녹음 파일 자르기, 원본은 남기고', sub='필요한 2분만 — 전체 파일은 그대로.', tagline='키워드로 시작되는 녹음 앱', panel=panel_trim,
+     cap='1시간 40분 녹음', mark='1:04:10 → 1:06:10', end='1:40:00', rows=[('원본', '건드리지 않고 그대로'), ('잘라낸 구간', '새 파일로 저장')], chips=['잘라낸 파일에 노이즈 제거', '안드로이드 공유 시트']),
 }
 
 def render(cards, extra_css=''):
@@ -90,4 +111,6 @@ def render(cards, extra_css=''):
     print(name, os.path.getsize(png))
 
 if __name__ == '__main__':
-    render(CARDS)
+    import sys
+    only = set(sys.argv[1:])
+    render({k: v for k, v in CARDS.items() if not only or k[0] in only}, TRIM_CSS)
