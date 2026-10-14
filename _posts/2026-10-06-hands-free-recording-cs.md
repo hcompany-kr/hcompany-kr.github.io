@@ -116,4 +116,6 @@ Pokud má nahrávání začít, zatímco je telefon v kapse a vy nemůžete mluv
 
 Proč tlačítko nahrávání mačkáte skoro vždycky pozdě, popisuje [Proč tlačítko nahrávání mačkáte vždycky pozdě](/blog/cs/recording-delay/), a pět typů automatického nahrávání [Ne každý „automatický“ diktafon dělá totéž](/blog/cs/auto-recording-types/).
 
+Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání se v jednotlivých zemích liší.</p>

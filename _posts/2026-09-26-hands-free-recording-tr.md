@@ -114,3 +114,5 @@ Avrupa'da yaşıyorsanız geçerli olan bulunduğunuz ülkenin kanunudur. **Alma
 Telefon cebinizdeyken, ne konuşabildiğiniz ne de ona uzanabildiğiniz bir anda kaydın başlaması gerekiyorsa, dört seçenekten bunu yapabilen tek yöntem anahtar kelimeyle kayıttır. Hemen öncesinde söyleneni de istiyorsanız, aranacak özellik sürekli arabellektir.
 
 Kayıt tuşuna neden neredeyse her zaman geç basıldığı [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/) yazısında, otomatik kayıt türleri ise [Her “otomatik” kayıt uygulaması aynı şeyi yapmaz](/blog/tr/auto-recording-types/) yazısında.
+
+Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.

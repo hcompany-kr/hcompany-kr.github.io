@@ -98,3 +98,5 @@ Právě tady pomáhá klíčové slovo. S „nahrát“ jako slovem začne nahr�
 Jak je to u telefonních hovorů, popisuje [Proč aplikace na nahrávání hovorů na Androidu přestaly fungovat a co funguje dál](/blog/cs/call-recording-android/).
 
 Jak najít vlastní klíčové slovo, popisuje [Nejdřív něco řeknete](/blog/cs/say-it-first/).
+
+Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).

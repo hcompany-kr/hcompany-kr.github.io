@@ -58,6 +58,28 @@ CARDS = {
        ("Enregistrer celle d'autrui", 'sans y participer', (False, False, False, False)),
        ("Avec l'accord de tous", 'le « oui » enregistré', (True, True, True, True))]),
      '.title{font-size:50px}.cmp td.m{width:54px}'),
+ ('ses-kaydi-suc-mu', 'tr'): (dict(eyebrow='HUKUK · SES KAYDI', title='Gizli ses kaydı almak suç mu?', sub='TCK 133, HMK 189/2 ve Yargıtay — bir bakışta.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('Katıldığınız konuşmayı rızasız kaydetmek', 'suç — TCK 133/2', False),
+       ('Başkalarının konuşmasını kaydetmek', 'suç — TCK 133/1', False),
+       ('Kaydı ifşa etmek', 'suç — TCK 133/3', False),
+       ('Herkesin rızasıyla kayıt', '"evet" dosyada', True)]), ''),
+ ('nagrywanie-rozmowy', 'pl'): (dict(eyebrow='PRAWO · NAGRYWANIE', title='Czy można nagrywać rozmowę bez zgody?', sub='Art. 267 k.k., art. 23–24 k.c., art. 168a k.p.k.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Własna rozmowa bez wiedzy rozmówcy', 'co do zasady nie jest przestępstwem', True),
+       ('Nagranie jako dowód', 'jeśli nie podważono autentyczności', True),
+       ('Cudza rozmowa — podsłuch', 'przestępstwo — art. 267 § 3 k.k.', False),
+       ('Rozpowszechnianie nagrania', 'może naruszać dobra osobiste', False)]), ''),
+ ('gesprek-opnemen', 'nl'): (dict(eyebrow='RECHT · GESPREK OPNEMEN', title='Mag je een gesprek stiekem opnemen?', sub='Art. 139a Sr, art. 314bis Sw. en de hoogste rechters.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE', 'SR', 'CW'], rows=[
+       ('Eigen gesprek opnemen', 'zonder toestemming', (True, True, True, True)),
+       ('Gesprek van anderen opnemen', 'geen deelnemer', (False, False, False, False)),
+       ('Met toestemming van iedereen', 'het „ja” staat erin', (True, True, True, True))]), '.cmp td.m{width:54px}'),
+ ('nahravani-rozhovoru', 'cs'): (dict(eyebrow='PRÁVO · NAHRÁVÁNÍ', title='Je legální nahrávat rozhovor bez souhlasu?', sub='Občanský zákoník, trestní zákon a Ústavní soud.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Vlastní rozhovor bez svolení', 'k ochraně svých práv', (True, False)),
+       ('Cizí rozhovor', 'neúčastníte se ho', (False, False)),
+       ('Se svolením všech', '„ano“ je v souboru', (True, True))]), ''),
 }
 
 if __name__ == '__main__':

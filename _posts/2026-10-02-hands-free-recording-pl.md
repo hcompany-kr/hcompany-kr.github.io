@@ -119,3 +119,5 @@ Jeśli nagrywanie ma zacząć się, gdy telefon jest w kieszeni, a ty nie możes
 Jak to wygląda przy rozmowach telefonicznych, opisuje [Dlaczego aplikacje do nagrywania rozmów na Androidzie przestały działać i co nadal działa](/blog/pl/call-recording-android/).
 
 Dlaczego przycisk nagrywania prawie zawsze wciskasz za późno, opisuje [Dlaczego przycisk nagrywania zawsze wciskasz za późno](/blog/pl/recording-delay/), a pięć rodzajów automatycznego nagrywania — [Nie każda „automatyczna” nagrywarka robi to samo](/blog/pl/auto-recording-types/).
+
+Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).

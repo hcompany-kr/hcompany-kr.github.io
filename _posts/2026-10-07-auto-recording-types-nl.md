@@ -116,3 +116,5 @@ Eén woord, „automatisch”, voor vijf behoorlijk verschillende gedragingen. G
 Waarom je bijna altijd te laat op opnemen drukt, staat in [Waarom je altijd te laat op opnemen drukt](/blog/nl/recording-delay/). De manieren om zonder handen te starten, in [Een opname starten zonder je telefoon aan te raken](/blog/nl/hands-free-recording/).
 
 Hoe clip-on-recorders, VOX-apparaten, AI-notitierecorders en telefoonapps zich in de praktijk tot elkaar verhouden, staat in [Wat recorders onderscheidt, is wanneer ze starten](/blog/nl/choosing-a-recorder/).
+
+Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).

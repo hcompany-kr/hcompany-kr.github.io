@@ -110,4 +110,6 @@ Bir kayıttaki sokak gürültüsünün telefonda nasıl giderileceği ve hangi a
 
 Bir kaydı orijinali kaybetmeden önemli kısmına nasıl indireceğiniz ve uygulamaların farkı [Android'de bir ses kaydı orijinali kaybetmeden nasıl kırpılır](/blog/tr/trim-recording/) yazısında.
 
+Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

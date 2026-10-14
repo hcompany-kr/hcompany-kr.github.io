@@ -97,4 +97,6 @@ Przycisk udostępniania robi dwie różne rzeczy. Wysłanie pliku na własny e-m
 
 Przy hałaśliwych fragmentach [Jak usunąć hałas w tle z nagrania głosu na Androidzie](/blog/pl/remove-background-noise/) porównuje narzędzia, które radzą sobie z hałasem ulicy, i te, które nie.
 
+Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkcje innych aplikacji opisano na podstawie ich oficjalnych przewodników z chwili pisania i mogą się zmienić. Sami tworzymy aplikację do nagrywania, jak zaznaczono wyżej. Informacja ogólna, nie porada prawna.</p>

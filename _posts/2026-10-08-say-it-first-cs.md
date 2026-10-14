@@ -105,3 +105,5 @@ V **České republice** podle § 86 občanského zákoníku nelze bez svolení �
 Proč tlačítko nahrávání stejně mačkáte pozdě, popisuje [Proč tlačítko nahrávání mačkáte vždycky pozdě](/blog/cs/recording-delay/), a způsoby, jak začít bez rukou, [Jak začít nahrávat, aniž byste se dotkli telefonu](/blog/cs/hands-free-recording/).
 
 Co se souborem po nahrání dělat — a proč má šíření vlastní pravidla — popisuje [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/after-recording/).
+
+Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).

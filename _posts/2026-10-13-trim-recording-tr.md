@@ -101,4 +101,6 @@ Paylaş düğmesi iki farklı iş yapar. Bir dosyayı kendi e-postanıza ya da b
 
 Gürültülü bölümler için [Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir](/blog/tr/remove-background-noise/) sokak gürültüsünün üstesinden gelen ve gelemeyen araçları karşılaştırıyor.
 
+Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Diğer uygulamaların özellikleri yazım sırasındaki resmî kılavuzlarına göre anlatılmıştır ve değişebilir. Biz de bir kayıt uygulaması geliştiriyoruz; bunu yukarıda belirttik. Genel bilgidir, hukuki tavsiye değildir.</p>

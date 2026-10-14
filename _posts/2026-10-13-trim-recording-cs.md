@@ -99,4 +99,6 @@ Tlačítko sdílení dělá dvě různé věci. Poslat soubor na vlastní e-mail
 
 U hlučných úseků porovnává [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/) nástroje, které si s hlukem ulice poradí, a ty, které ne.
 
+Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkce jiných aplikací jsou popsány podle jejich oficiálních návodů v době psaní a mohou se změnit. Sami vyvíjíme aplikaci pro nahrávání, jak je uvedeno výše. Obecné informace, nikoli právní rada.</p>

@@ -121,4 +121,6 @@ Als een opname moet starten terwijl de telefoon in je zak zit en je niet kunt pr
 
 Waarom je bijna altijd te laat op opnemen drukt, staat in [Waarom je altijd te laat op opnemen drukt](/blog/nl/recording-delay/), en de vijf soorten automatisch opnemen in [Niet elke „automatische” recorder doet hetzelfde](/blog/nl/auto-recording-types/).
 
+Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen verschillen per land.</p>

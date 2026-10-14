@@ -96,3 +96,5 @@ Wil je het toch vragen — uit beleefdheid, of omdat de ander in een land woont 
 Hoe het zit bij telefoongesprekken, staat in [Waarom apps om gesprekken op te nemen op Android niet meer werken, en wat nog wel werkt](/blog/nl/call-recording-android/).
 
 Hoe je je eigen trefwoord vindt, staat in [Eerst zeg je iets](/blog/nl/say-it-first/).
+
+Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).

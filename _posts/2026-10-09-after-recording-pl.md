@@ -110,4 +110,6 @@ Jak usunąć hałas ulicy z nagrania na telefonie i które narzędzia sobie z ty
 
 Jak skrócić nagranie do tego, co ważne, nie tracąc oryginału, i czym różnią się aplikacje, opisuje [Jak przyciąć nagranie głosu na Androidzie i nie stracić oryginału](/blog/pl/trim-recording/).
 
+Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna — zasady nagrywania i rozpowszechniania różnią się w zależności od kraju.</p>

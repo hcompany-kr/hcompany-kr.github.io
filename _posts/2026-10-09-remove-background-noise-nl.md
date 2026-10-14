@@ -100,4 +100,6 @@ Hoe losse recorders zich qua geluidskwaliteit verhouden tot telefoons, staat in 
 
 Hoe je een opname terugbrengt tot wat ertoe doet zonder het origineel te verliezen, en hoe de apps verschillen, staat in [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/).
 
+Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De functies van hulpmiddelen van derden zijn beschreven op basis van hun documentatie en berichtgeving op het moment van schrijven en kunnen veranderen. Wij maken zelf een opname-app, zoals hierboven vermeld.</p>

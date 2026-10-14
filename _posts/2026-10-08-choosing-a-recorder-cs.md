@@ -120,4 +120,6 @@ Jaké typy automatického nahrávání existují, popisuje [Ne každý „automa
 
 Jak odstranit z nahrávky hluk ulice přímo v telefonu a které nástroje to zvládnou, popisuje [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/).
 
+Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Uvedené údaje a ceny pocházejí od výrobců a často se mění; před nákupem je ověřte. Sami vyvíjíme aplikaci na nahrávání, jak je uvedeno výše. V Česku a na Slovensku upravuje pořizování zvukových záznamů hlavně občanský zákoník (v Česku § 86 a 88, na Slovensku § 12).</p>

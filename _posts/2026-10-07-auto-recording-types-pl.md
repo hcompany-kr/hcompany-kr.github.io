@@ -116,3 +116,5 @@ Jedno słowo, „automatyczne”, na pięć całkiem różnych zachowań. Żadne
 Dlaczego przycisk nagrywania prawie zawsze wciskasz za późno, opisuje [Dlaczego przycisk nagrywania zawsze wciskasz za późno](/blog/pl/recording-delay/). Sposoby na start bez rąk — [Jak zacząć nagrywać, nie dotykając telefonu](/blog/pl/hands-free-recording/).
 
 Jak w codziennym użyciu wypadają dyktafony przypinane, urządzenia VOX, notatniki z AI i aplikacje na telefon, opisuje [Nagrywarki różnią się tym, kiedy zaczynają nagrywać](/blog/pl/choosing-a-recorder/).
+
+Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).

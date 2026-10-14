@@ -105,3 +105,5 @@ In het hier besproken Nederlandse taalgebied is vragen geen wettelijke plicht. I
 Waarom je toch altijd te laat op opnemen drukt, staat in [Waarom je altijd te laat op opnemen drukt](/blog/nl/recording-delay/), en de manieren om zonder handen te starten in [Een opname starten zonder je telefoon aan te raken](/blog/nl/hands-free-recording/).
 
 Wat je na de opname met het bestand doet — en waarom verspreiden eigen regels heeft — staat in [Wat je met een opname doet, en wat je er niet mee doet](/blog/nl/after-recording/).
+
+Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).

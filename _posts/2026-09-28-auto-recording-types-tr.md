@@ -118,3 +118,5 @@ Kayıt tuşuna neden neredeyse her zaman geç basıldığı [Kayıt tuşuna nede
 Yakaya takılan cihazların, VOX cihazlarının, yapay zekâlı not cihazlarının ve telefon uygulamalarının günlük kullanımda nasıl ayrıştığı [Kayıt cihazlarını birbirinden ayıran, ne zaman başladıklarıdır](/blog/tr/choosing-a-recorder/) yazısında.
 
 Arama kaydı uygulamalarının neden artık çalışmadığı ve telefonda hâlâ neyin işe yaradığı [Android'de arama kaydı uygulamaları neden artık çalışmıyor, ve hâlâ ne çalışıyor](/blog/tr/call-recording-android/) yazısında.
+
+Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.

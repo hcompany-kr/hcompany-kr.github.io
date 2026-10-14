@@ -138,4 +138,6 @@ Kayıttan sonra dosyayla ne yapılacağı ve yaymanın neden ayrı kuralları ol
 
 Bir kayıttaki sokak gürültüsünün telefonda nasıl giderileceği ve hangi araçların bunu yapabildiği [Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir](/blog/tr/remove-background-noise/) yazısında.
 
+Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Cihaz ve bölgelerle ilgili bilgiler üreticilerin duyurularına ve sık değişen haberlere dayanır; kendi arama uygulamanızı kontrol edin. Genel bilgidir, hukuki tavsiye değildir — kayıtla ilgili kanunlar ülkeden ülkeye değişir.</p>

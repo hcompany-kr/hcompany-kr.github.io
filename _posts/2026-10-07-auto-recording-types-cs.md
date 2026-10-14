@@ -116,3 +116,5 @@ Jedno slovo, „automatický“, pro pět dost odlišných chování. Žádné n
 Proč tlačítko nahrávání mačkáte skoro vždycky pozdě, popisuje [Proč tlačítko nahrávání mačkáte vždycky pozdě](/blog/cs/recording-delay/). Způsoby, jak začít bez rukou, najdete v [Jak začít nahrávat, aniž byste se dotkli telefonu](/blog/cs/hands-free-recording/).
 
 Jak si v běžném používání stojí připínací diktafony, zařízení s VOX, poznámkovače s AI a aplikace v telefonu, popisuje [Diktafony se liší tím, kdy začnou nahrávat](/blog/cs/choosing-a-recorder/).
+
+Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).

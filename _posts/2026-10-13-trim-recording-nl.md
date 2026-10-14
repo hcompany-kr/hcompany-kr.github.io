@@ -97,4 +97,6 @@ De deelknop doet twee verschillende dingen. Een bestand naar je eigen e-mail of 
 
 Voor stukken met veel lawaai vergelijkt [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/) de hulpmiddelen die straatlawaai aankunnen en die dat niet doen.
 
+Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De functies van andere apps zijn beschreven op basis van hun officiële handleidingen op het moment van schrijven en kunnen veranderen. We maken zelf een opname-app, zoals hierboven vermeld. Algemene informatie, geen juridisch advies.</p>

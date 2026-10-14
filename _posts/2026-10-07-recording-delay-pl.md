@@ -98,3 +98,5 @@ Kiedy chcesz zapytać o zgodę — bo tego wymaga prawo albo po prostu wolisz �
 Jak to wygląda przy rozmowach telefonicznych, opisuje [Dlaczego aplikacje do nagrywania rozmów na Androidzie przestały działać i co nadal działa](/blog/pl/call-recording-android/).
 
 Jak znaleźć własne słowo kluczowe, opisuje [Najpierw coś mówisz](/blog/pl/say-it-first/).
+
+Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).

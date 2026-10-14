@@ -105,3 +105,5 @@ W **Polsce** nagrywanie rozmowy, w której się uczestniczy, co do zasady nie je
 Dlaczego przycisk nagrywania i tak wciskasz za późno, opisuje [Dlaczego przycisk nagrywania zawsze wciskasz za późno](/blog/pl/recording-delay/), a sposoby na start bez rąk — [Jak zacząć nagrywać, nie dotykając telefonu](/blog/pl/hands-free-recording/).
 
 Co zrobić z plikiem po nagraniu — i dlaczego rozpowszechnianie to osobna sprawa — opisuje [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
+
+Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).

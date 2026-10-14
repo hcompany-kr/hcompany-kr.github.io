@@ -127,4 +127,6 @@ Wat je na de opname met het bestand doet — en waarom verspreiden eigen regels 
 
 Hoe je straatlawaai op de telefoon uit een opname haalt, en welke hulpmiddelen dat aankunnen, staat in [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/).
 
+Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De informatie over toestellen en regio's berust op aankondigingen van fabrikanten en berichten die vaak veranderen; controleer je eigen Telefoon-app. Algemene informatie, geen juridisch advies — de regels voor opnemen verschillen per land.</p>

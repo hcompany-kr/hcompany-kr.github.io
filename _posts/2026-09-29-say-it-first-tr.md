@@ -107,3 +107,5 @@ Avrupa'da yaşıyorsanız geçerli olan bulunduğunuz ülkenin kanunudur. **Alma
 Kayıt tuşuna neden zaten geç basıldığı [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/) yazısında, eller serbest başlatmanın yolları [Telefona dokunmadan kayda nasıl başlanır](/blog/tr/hands-free-recording/) yazısında.
 
 Kayıttan sonra dosyayla ne yapılacağı ve yaymanın neden ayrı kuralları olduğu [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/) yazısında.
+
+Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.
