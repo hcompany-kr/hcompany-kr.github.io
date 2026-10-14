@@ -97,4 +97,6 @@ O botão de compartilhar faz dois trabalhos diferentes. Mandar um arquivo para o
 
 Para trechos com ruído, [Como tirar o ruído de fundo de uma gravação de voz no Android](/blog/pt-br/remove-background-noise/) compara as ferramentas que dão conta do barulho da rua e as que não dão.
 
+O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">As funções de outros apps são descritas conforme seus guias oficiais no momento em que escrevemos e podem mudar. Fazemos um app de gravação, como dito acima. Informação geral, não aconselhamento jurídico.</p>

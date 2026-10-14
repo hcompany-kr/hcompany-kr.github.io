@@ -118,3 +118,5 @@ Por que apertar gravar quase sempre é tarde demais está em [Por que apertar gr
 Como gravadores de lapela, aparelhos VOX, gravadores com IA e apps se comparam no dia a dia está em [O que separa os gravadores é quando eles começam](/blog/pt-br/choosing-a-recorder/).
 
 Por que os apps de gravar ligação pararam de funcionar, e o que ainda funciona no telefone, está em [Por que os apps de gravar ligação pararam de funcionar no Android, e o que ainda funciona](/blog/pt-br/call-recording-android/).
+
+O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).

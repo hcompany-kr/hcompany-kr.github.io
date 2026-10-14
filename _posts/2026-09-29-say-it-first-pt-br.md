@@ -105,3 +105,5 @@ No **Brasil**, o STF fixou em 2009 (Tema 237) que é lícita a gravação feita 
 Por que apertar gravar já é tarde demais está em [Por que apertar gravar é sempre tarde demais](/blog/pt-br/recording-delay/), e os jeitos de começar sem as mãos em [Como começar a gravar sem tocar no celular](/blog/pt-br/hands-free-recording/).
 
 O que fazer com o arquivo depois, e por que divulgar tem regras próprias, está em [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/).
+
+O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).

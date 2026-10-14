@@ -120,4 +120,6 @@ Os tipos de gravação automática estão em [Nem todo gravador “automático�
 
 Como tirar o barulho da rua de uma gravação no celular, e quais ferramentas dão conta disso, está em [Como tirar o ruído de fundo de uma gravação de voz no Android](/blog/pt-br/remove-background-noise/).
 
+O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">As especificações e os preços citados são os publicados pelos fabricantes e mudam com frequência; confira antes de comprar. Nós também desenvolvemos um app de gravação, como dito acima. No Brasil, o STF considera lícita a gravação feita por um dos interlocutores (Tema 237); em Portugal, gravar sem consentimento palavras não destinadas ao público é crime (artigo 199.º do Código Penal).</p>

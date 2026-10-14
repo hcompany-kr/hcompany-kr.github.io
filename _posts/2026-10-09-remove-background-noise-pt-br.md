@@ -100,4 +100,6 @@ Como gravadores dedicados se comparam ao celular em qualidade de som está em [O
 
 Como reduzir uma gravação ao que importa sem perder o original, e no que os apps diferem, está em [Como cortar uma gravação de voz no Android sem perder o original](/blog/pt-br/trim-recording/).
 
+O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Os recursos de ferramentas de terceiros refletem a documentação e as reportagens no momento em que este texto foi escrito e podem mudar. Nós também desenvolvemos um app de gravação, como dito acima.</p>

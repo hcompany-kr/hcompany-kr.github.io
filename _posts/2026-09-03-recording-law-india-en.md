@@ -13,7 +13,7 @@ faq:
   - q: "Is it legal to record a phone call you are part of in India?"
     a: "Recording a conversation you are a participant in is generally treated as permitted and is not explicitly made illegal by Indian law, and it can be done without the other party's consent. It is not free of tension with the right to privacy under Article 21 of the Constitution, but that tension has not made participant recording unlawful in itself."
   - q: "What about recording a conversation between two other people?"
-    a: "That is interception rather than participation, and it is where the penal provisions bite. Section 25 of the Indian Telegraph Act, 1885 carries punishment that may extend to three years, or fine, or both. The Information Technology Act, 2000 also applies to interception."
+    a: "That is interception rather than participation, and it is where the penal provisions bite. Since 26 June 2024, section 42 of the Telecommunications Act, 2023 makes unlawful interception of a message an offence punishable with imprisonment of up to three years, a fine of up to two crore rupees, or both. The Information Technology Act, 2000 also applies to interception."
   - q: "Can a recording made without consent still be used as evidence?"
     a: "Yes. Indian law separates how evidence was obtained from whether it is admissible, so a recording made without the other party's consent may still be submitted in a proceeding. Admissibility then depends on satisfying the conditions for electronic records."
   - q: "What replaced Section 65B of the Indian Evidence Act?"
@@ -44,7 +44,7 @@ The line falls where it falls in most countries. Being in the conversation is on
 
 Here the penal provisions apply.
 
-**Section 25 of the Indian Telegraph Act, 1885** carries punishment that may extend to **three years, or fine, or both**. The **Information Technology Act, 2000** also governs interception.
+Since **26 June 2024**, **section 42 of the Telecommunications Act, 2023**, the law that replaces the Indian Telegraph Act, 1885, makes unlawful interception of a message an offence punishable with **imprisonment of up to three years, a fine of up to two crore rupees, or both**. The **Information Technology Act, 2000** also governs interception.
 
 This is the category the rest of this site treats as off limits, and India is no exception. Whatever the dispute, a recording of a conversation you were not part of creates a second problem rather than solving the first.
 
@@ -75,6 +75,8 @@ Three changes matter in practice.
 **It needs a hash value.** A report of the **hash value** of the electronic record must be submitted along with the certificate.
 
 And it goes in at the **admission stage**, not later.
+
+On **22 May 2026**, in **Pune Bar Association v. Union of India**, a three-judge bench of the Supreme Court rejected a challenge that the requirement was manifestly arbitrary and upheld section 63(4). The Court described the hash value as an "electronic fingerprint" of the record, and said that the Madras High Court's view, that only an examiner notified under section 79A of the IT Act may sign Part B, would not operate as a binding precedent.
 
 A hash value is a fingerprint computed from the file itself. Change one byte and the fingerprint changes. Which means the certificate is, in substance, a statement that this file is the file that came off the device.
 

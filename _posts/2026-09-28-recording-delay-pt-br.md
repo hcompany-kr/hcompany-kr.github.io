@@ -96,3 +96,5 @@ Onde é preciso o consentimento de todos, ou quando você simplesmente prefere p
 - Escolha uma palavra rara no dia a dia, mas natural no momento que importa.
 
 Como achar a sua própria palavra-chave está em [Primeiro você diz alguma coisa](/blog/pt-br/say-it-first/).
+
+O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).
