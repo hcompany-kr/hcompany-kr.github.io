@@ -94,3 +94,5 @@ C'est précisément là que le mot-clé aide. Avec « enregistrer », l'enregist
 - Choisissez un mot rare dans la vie courante mais naturel au moment qui compte.
 
 Comment trouver son propre mot-clé est expliqué dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+
+Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).

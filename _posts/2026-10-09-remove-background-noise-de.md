@@ -100,4 +100,6 @@ Wie sich eigene Aufnahmegeräte und Telefone bei der Tonqualität vergleichen, s
 
 Wie man eine Aufnahme auf das Wesentliche kürzt, ohne das Original zu verlieren, und wie sich die Apps unterscheiden, steht in [Sprachaufnahme auf Android kürzen, ohne das Original zu verlieren](/blog/de/trim-recording/).
 
+Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Werkzeugen anderer Anbieter beruhen auf deren Dokumentation und Berichten zum Zeitpunkt des Schreibens und können sich ändern. Wir entwickeln selbst eine Aufnahme-App, wie oben offengelegt.</p>

@@ -106,4 +106,6 @@ Le bouton de partage fait deux choses différentes. S'envoyer un fichier à son 
 
 Pour les passages bruyants, [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/) compare les outils qui viennent à bout du bruit de la rue et ceux qui n'y arrivent pas.
 
+Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les fonctions des autres applications sont décrites d'après leurs guides officiels au moment de la rédaction et peuvent changer. Nous développons une application d'enregistrement, comme indiqué plus haut. Information générale, pas un conseil juridique.</p>

@@ -120,4 +120,6 @@ Welche Arten automatischer Aufnahme es gibt, steht in [„Automatische Aufnahme�
 
 Wie man Straßenlärm auf dem Telefon aus einer Aufnahme entfernt und welche Werkzeuge damit umgehen, steht in [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/).
 
+Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die genannten Daten und Preise sind Herstellerangaben und ändern sich häufig; bitte vor dem Kauf prüfen. Wir entwickeln selbst eine Aufnahme-App, wie oben offengelegt. In Deutschland (§ 201 StGB) und der Schweiz (Art. 179ter StGB) ist die Aufnahme eines nichtöffentlichen Gesprächs ohne Einwilligung auch als Teilnehmer strafbar.</p>

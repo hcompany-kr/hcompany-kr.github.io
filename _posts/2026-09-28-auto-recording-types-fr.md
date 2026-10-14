@@ -118,3 +118,5 @@ Pourquoi on appuie presque toujours trop tard est expliqué dans [Pourquoi on ap
 Comment se comparent enregistreurs à clip, appareils VOX, prise de notes par IA et applications au quotidien est détaillé dans [Ce qui distingue les enregistreurs, c'est le moment où ils démarrent](/blog/fr/choosing-a-recorder/).
 
 Pourquoi les applications d'enregistrement d'appels ne marchent plus, et ce qui fonctionne encore au téléphone, est expliqué dans [Pourquoi les applications d'enregistrement d'appels ne marchent plus sur Android, et ce qui fonctionne encore](/blog/fr/call-recording-android/).
+
+Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).

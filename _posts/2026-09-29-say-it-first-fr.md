@@ -105,3 +105,5 @@ Cela compte là où l'accord de tous est exigé. En **France**, l'article 226-1 
 Pourquoi on appuie de toute façon trop tard est expliqué dans [Pourquoi on appuie toujours trop tard sur enregistrer](/blog/fr/recording-delay/), et les façons de démarrer sans les mains dans [Lancer un enregistrement sans toucher son téléphone](/blog/fr/hands-free-recording/).
 
 Ce qu'il faut faire du fichier ensuite, et pourquoi le diffuser obéit à ses propres règles, est expliqué dans [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
+
+Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).

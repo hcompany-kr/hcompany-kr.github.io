@@ -45,6 +45,19 @@ CARDS = {
        ('अदालत में पेश करना', 'हैश वैल्यू वाला प्रमाणपत्र — BSA 63(4)', True),
        ('दूसरों का संदेश इंटरसेप्ट करना', 'अपराध — दूरसंचार अधिनियम 42', False)]),
      "body{font-family:'Nirmala UI','Segoe UI',sans-serif}.title{font-size:52px;line-height:1.3}.sub{line-height:1.5}.eyebrow{letter-spacing:0}"),
+ ('gespraech-aufnehmen', 'de'): (dict(eyebrow='RECHT · GESPRÄCH AUFNEHMEN', title='Eigenes Gespräch aufnehmen: wo es strafbar ist', sub='§ 201 StGB, § 120 StGB, Art. 179ter StGB – nebeneinander.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'AT', 'CH'], rows=[
+       ('Eigenes Gespräch aufnehmen', 'ohne Einwilligung', (False, True, False)),
+       ('Heimliche Aufnahme weitergeben', 'an Dritte, ohne Zustimmung', (False, False, False)),
+       ('Fremdes Gespräch aufnehmen', 'nicht beteiligt', (False, False, False)),
+       ('Mit Einwilligung aller', 'das „Ja“ ist in der Datei', (True, True, True))]),
+     '.title{font-size:50px}.cmp td.m{width:62px}'),
+ ('enregistrer-conversation', 'fr'): (dict(eyebrow='DROIT · ENREGISTRER', title='Enregistrer sa conversation : <span style="white-space:nowrap">où est-ce</span> <span style="white-space:nowrap">permis ?</span>', sub='Art. 226-1, 314bis, 179ter, Code criminel — côte à côte.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH', 'QC'], rows=[
+       ('Enregistrer sa conversation', 'sans consentement', (False, True, False, True)),
+       ("Enregistrer celle d'autrui", 'sans y participer', (False, False, False, False)),
+       ("Avec l'accord de tous", 'le « oui » enregistré', (True, True, True, True))]),
+     '.title{font-size:50px}.cmp td.m{width:54px}'),
 }
 
 if __name__ == '__main__':

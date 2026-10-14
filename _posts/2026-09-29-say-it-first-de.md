@@ -105,3 +105,5 @@ Das ist dort wichtig, wo es die Einwilligung aller braucht: In **Deutschland** (
 Warum der Druck auf Aufnahme ohnehin zu spät kommt, steht in [Warum der Druck auf Aufnahme immer zu spät kommt](/blog/de/recording-delay/), die freihändigen Wege im Vergleich in [Aufnahme starten, ohne das Telefon zu berühren](/blog/de/hands-free-recording/).
 
 Was man nach der Aufnahme mit der Datei tun sollte – und warum das Weitergeben eigene Regeln hat –, steht in [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
+
+Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).

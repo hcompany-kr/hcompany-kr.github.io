@@ -115,4 +115,6 @@ Comment retirer le bruit de la rue d'un enregistrement sur le téléphone, et qu
 
 Comment réduire un enregistrement à ce qui compte sans perdre l'original, et en quoi les applications diffèrent : [Couper un enregistrement vocal sur Android sans perdre l'original](/blog/fr/trim-recording/).
 
+Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique — le droit d'enregistrer et de diffuser diffère d'un pays à l'autre.</p>

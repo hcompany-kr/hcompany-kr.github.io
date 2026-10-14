@@ -138,4 +138,6 @@ Ce qu'il faut faire du fichier ensuite, et pourquoi le diffuser obéit à ses pr
 
 Comment retirer le bruit de la rue d'un enregistrement sur le téléphone, et quels outils y parviennent, est expliqué dans [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/).
 
+Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les informations sur les appareils et les régions reposent sur des annonces des fabricants et des articles qui changent souvent ; vérifiez votre propre application Téléphone. Information générale, pas un conseil juridique — le droit de l'enregistrement diffère d'un pays à l'autre.</p>

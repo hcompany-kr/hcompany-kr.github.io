@@ -138,4 +138,6 @@ Was man nach der Aufnahme mit der Datei tun sollte – und warum das Weitergeben
 
 Wie man Straßenlärm auf dem Telefon aus einer Aufnahme entfernt und welche Werkzeuge damit umgehen, steht in [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/).
 
+Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Geräten und Regionen beruhen auf Herstellerangaben und Berichten, die sich häufig ändern; prüfen Sie Ihre eigene Telefon-App. Allgemeine Information, keine Rechtsberatung – das Aufnahmerecht unterscheidet sich von Land zu Land.</p>

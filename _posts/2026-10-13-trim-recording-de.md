@@ -104,4 +104,6 @@ Der Teilen-Knopf erledigt zwei verschiedene Dinge. Eine Datei an die eigene E-Ma
 
 Für verrauschte Abschnitte vergleicht [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/) die Werkzeuge, die Straßenlärm schaffen, und die, die es nicht tun.
 
+Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Funktionen anderer Apps sind nach deren offiziellen Anleitungen zum Zeitpunkt des Schreibens beschrieben und können sich ändern. Wir entwickeln selbst eine Aufnahme-App, wie oben angegeben. Allgemeine Information, keine Rechtsberatung.</p>

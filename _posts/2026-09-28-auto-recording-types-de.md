@@ -118,3 +118,5 @@ Warum der Druck auf Aufnahme fast immer zu spät kommt, steht in [Warum der Druc
 Wie sich Anstecker-Recorder, VOX-Geräte, KI-Notizgeräte und Telefon-Apps im Alltag unterscheiden, steht in [Was Aufnahmegeräte unterscheidet, ist, wann sie starten](/blog/de/choosing-a-recorder/).
 
 Warum Anrufaufnahme-Apps nicht mehr funktionieren und was bei Telefonaten noch geht, steht in [Warum Anrufaufnahme-Apps auf Android nicht mehr funktionieren – und was noch geht](/blog/de/call-recording-android/).
+
+Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).

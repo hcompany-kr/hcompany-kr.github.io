@@ -113,4 +113,6 @@ Wie man Straßenlärm auf dem Telefon aus einer Aufnahme entfernt und welche Wer
 
 Wie man eine Aufnahme auf das Wesentliche kürzt, ohne das Original zu verlieren, und wie sich die Apps unterscheiden, steht in [Sprachaufnahme auf Android kürzen, ohne das Original zu verlieren](/blog/de/trim-recording/).
 
+Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung – das Recht zum Aufnehmen und Weitergeben unterscheidet sich von Land zu Land.</p>
