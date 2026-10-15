@@ -119,4 +119,6 @@ Why the original file and the opening seconds matter once a recording is used as
 - The line is obstruction. Record from where you are and follow instructions to move.
 - Filming and publishing are treated differently, especially in Spain and Italy.
 
+From the other side of the table — how investigators, detectives and journalists can record an interview without breaking it — see [Put a recorder on the table and the interview changes](/blog/en/interview-recording/).
+
 This article is general information, not legal advice. Speak to a lawyer about your own situation.

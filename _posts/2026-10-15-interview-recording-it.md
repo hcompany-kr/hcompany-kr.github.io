@@ -97,4 +97,6 @@ Anche qui serve la parola chiave. Scegli **"registrare"** e chiedi **"Ti dispiac
 - **Una conversazione in cui non sei presente** è fuori limite per tutti (artt. 615-bis e 617 c.p.).
 - Se può diventare una prova, conserva intatto l'originale.
 
+Se puoi registrare quando sei tu a essere fermato o interrogato dalla polizia è confrontato in tredici paesi in [Si può registrare la polizia? Tredici paesi a confronto](/blog/it/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazione generale, non consulenza legale. Per un caso concreto, rivolgiti a un avvocato.</p>

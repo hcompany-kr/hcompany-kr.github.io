@@ -105,4 +105,6 @@ Perché contano l'originale e i primi secondi quando una registrazione viene usa
 - In Spagna dal 2020 filmare non è sanzionabile in sé; lo è usare immagini che mettano in pericolo gli agenti.
 - Il limite è non ostacolare. Registra da dove sei e spostati se te lo chiedono.
 
+Dall'altra parte del tavolo — come investigatori e giornalisti possono registrare un colloquio senza romperlo — è in [Tiri fuori il registratore e l'intervista cambia](/blog/it/interview-recording/).
+
 Questo articolo è informazione generale e non costituisce consulenza legale. Per il tuo caso rivolgiti a un avvocato.

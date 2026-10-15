@@ -113,4 +113,6 @@ Por qué importan el original y los primeros segundos cuando una grabación se u
 - En México, Chile y Argentina ninguna ley lo prohíbe; en Chile la policía también está obligada a grabar.
 - El límite es no obstaculizar. Graba desde donde estás y obedece si te piden que te apartes.
 
+Desde el otro lado de la mesa — cómo detectives y periodistas pueden grabar una entrevista sin romperla — está en [Saca la grabadora en una entrevista y la conversación cambia](/blog/es/interview-recording/).
+
 Este artículo es información general y no constituye asesoramiento jurídico. Consulta tu caso con un abogado.

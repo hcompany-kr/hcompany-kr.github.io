@@ -97,4 +97,6 @@ La palabra clave también sirve aquí. Elige **"grabar"** y pregunta **"¿Te imp
 - **Una conversación en la que no estás** queda fuera para todos (art. 197.1 CP en España).
 - Si puede acabar siendo prueba, guarda el original intacto.
 
+Si puedes grabar cuando eres tú quien está siendo identificado o interrogado por la policía se compara en trece países en [¿Se puede grabar a la policía? Trece países comparados](/blog/es/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado.</p>

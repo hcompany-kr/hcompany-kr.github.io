@@ -102,4 +102,6 @@ The keyword helps here too. Set **"record"** as the keyword and ask **"Do you mi
 - **A conversation you are not in** is off limits for everyone (§ 2511(1)).
 - If it may become evidence, keep the original untouched.
 
+Whether you can record when you are the one being stopped or questioned by police is compared across thirteen countries in [Can you record the police? Thirteen countries compared](/blog/en/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Recording law varies by state and country, and department and company policies can add requirements. Speak to a lawyer about your own situation.</p>
