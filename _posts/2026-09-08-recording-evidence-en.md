@@ -123,4 +123,6 @@ Where the evidence has to show a pattern over time, see [how to build evidence o
 
 How to prepare an excerpt without losing the original is in [How to trim a voice recording on Android without losing the original](/blog/en/trim-recording/).
 
+How investigators, detectives and journalists can record an interview without breaking it, and where federal law draws the line, is in [Put a recorder on the table and the interview changes](/blog/en/interview-recording/).
+
 This article is general information, not legal advice. Speak to a lawyer about your own situation.

@@ -104,4 +104,6 @@ And if you are in one of the thirty-odd one-party states, the rule is simply whe
 
 A notification stays visible for as long as a recording runs and **it cannot be turned off**. There is no hidden mode. In an all-party state that notification is not a substitute for consent — you still have to ask — but it does mean the app never puts you on the wrong side of the line between recording and intercepting, which is the line that carries prison time in every state on this page.
 
+How investigators, detectives and journalists can record an interview without breaking it, and where federal law draws the line, is in [Put a recorder on the table and the interview changes](/blog/en/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. State law changes and several of the classifications above are contested. For a specific situation, consult a lawyer in your state.</p>

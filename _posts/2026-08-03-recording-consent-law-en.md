@@ -82,4 +82,6 @@ Recording lawfully and being able to use the recording are two different questio
 
 The same rule applies when the other person is a police officer. Recording a stop or an interview is compared across thirteen countries in [can you record the police?](/blog/en/recording-police/)
 
+How investigators, detectives and journalists can record an interview without breaking it, and where federal law draws the line, is in [Put a recorder on the table and the interview changes](/blog/en/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">This is general information, not legal advice. For a specific situation, talk to a lawyer in your jurisdiction.</p>

@@ -107,7 +107,12 @@ def render(cards, extra_css=''):
     name = f'{ref}-{lang}'
     hp = os.path.join(OUT, name + '.html'); io.open(hp, 'w', encoding='utf-8').write(doc)
     png = os.path.join(REPO, name + '.png')
-    subprocess.run([EDGE, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--window-size=1200,630', f'--screenshot={png}', 'file:///' + hp.replace('\\', '/')], capture_output=True)
+    for attempt in range(3):  # 헤드리스 Edge가 가끔 스크린샷을 남기지 않아 재시도
+        if os.path.exists(png):
+            os.remove(png)
+        subprocess.run([EDGE, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--window-size=1200,630', f'--screenshot={png}', 'file:///' + hp.replace('\\', '/')], capture_output=True)
+        if os.path.exists(png) and os.path.getsize(png) > 10000:
+            break
     print(name, os.path.getsize(png))
 
 if __name__ == '__main__':
