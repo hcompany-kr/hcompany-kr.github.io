@@ -5,7 +5,7 @@
 결과: assets/img/og/<ref>-<lang>.png  → 글 앞머리에 image, image_alt를 넣습니다.
 헤드리스 Edge로 렌더링하므로 Windows의 시스템 글꼴(Segoe UI, Malgun Gothic, Yu Gothic, Nirmala UI)을 씁니다.
 """
-import io, os, random, subprocess, tempfile
+import io, os, random, subprocess, tempfile, time
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(tempfile.gettempdir(), 'og_cards')
 os.makedirs(OUT, exist_ok=True)
@@ -110,9 +110,16 @@ def render(cards, extra_css=''):
     for attempt in range(3):  # 헤드리스 Edge가 가끔 스크린샷을 남기지 않아 재시도
         if os.path.exists(png):
             os.remove(png)
-        subprocess.run([EDGE, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--window-size=1200,630', f'--screenshot={png}', 'file:///' + hp.replace('\\', '/')], capture_output=True)
+        r = subprocess.run([EDGE, '--headless=new', '--disable-gpu', '--hide-scrollbars', f'--user-data-dir={tempfile.mkdtemp(prefix="edge-", dir=OUT)}', '--no-first-run',
+                            '--window-size=1200,630', f'--screenshot={png}', 'file:///' + hp.replace('\\', '/')], capture_output=True)
+        for _ in range(20):  # Edge가 파일을 쓰기 전에 반환되는 경우가 있어 잠시 기다림
+            if os.path.exists(png) and os.path.getsize(png) > 10000:
+                break
+            time.sleep(0.5)
         if os.path.exists(png) and os.path.getsize(png) > 10000:
             break
+    if not os.path.exists(png):
+        raise SystemExit(f'{name}: 렌더링 실패 (exit {r.returncode}) {r.stderr.decode(errors="ignore")[-400:]}')
     print(name, os.path.getsize(png))
 
 if __name__ == '__main__':

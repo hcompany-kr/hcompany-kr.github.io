@@ -120,4 +120,6 @@ Im deutschsprachigen Raum ist der wichtigste Anwendungsfall daher die **Einwilli
 
 Was nach einer Aufnahme erlaubt ist und was nicht, steht in [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
 
+Wie Detektive und Journalisten Gespräche festhalten, ohne sie zu brechen – und warum in Deutschland die Frage die Aufnahme starten sollte –, steht in [Liegt das Aufnahmegerät auf dem Tisch, ändert sich das Gespräch](/blog/de/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die genannten Entscheidungen wurden zum Zeitpunkt der Veröffentlichung geprüft; die Rechtsprechung entwickelt sich weiter. Im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

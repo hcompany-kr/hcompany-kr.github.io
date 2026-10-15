@@ -106,4 +106,6 @@ Grabar de forma lícita y poder usar la grabación son dos cosas distintas. La s
 
 La regla es la misma cuando la otra persona es un agente. Grabar un control o una declaración se compara en trece países en [¿se puede grabar a la policía?](/blog/es/recording-police/)
 
+Cómo pueden grabar una entrevista detectives y periodistas sin romper la conversación está en [Saca la grabadora en una entrevista y la conversación cambia](/blog/es/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado.</p>

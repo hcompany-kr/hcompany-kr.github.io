@@ -99,4 +99,6 @@ Trzy rzeczy łączą się tu bezpośrednio z prawem.
 
 Jak to wygląda przy rozmowach telefonicznych, opisuje [Dlaczego aplikacje do nagrywania rozmów na Androidzie przestały działać i co nadal działa](/blog/pl/call-recording-android/).
 
+Jak detektywi i dziennikarze mogą nagrywać rozmowy, nie przerywając ich, opisuje [Połóż dyktafon na stole, a rozmowa się zmienia](/blog/pl/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

@@ -118,4 +118,6 @@ O app não tem modo oculto e não serve para gravar conversas das quais você n�
 
 Ligações telefônicas têm um problema técnico à parte no Android, explicado em [Por que os apps de gravar ligação pararam de funcionar no Android, e o que ainda funciona](/blog/pt-br/call-recording-android/).
 
+Como detetives e jornalistas podem gravar uma entrevista sem quebrar a conversa está em [Coloque um gravador na mesa e a entrevista muda](/blog/pt-br/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. As decisões citadas foram verificadas na data de publicação; a jurisprudência muda. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

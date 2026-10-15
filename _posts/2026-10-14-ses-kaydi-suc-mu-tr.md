@@ -108,4 +108,6 @@ Türkiye'de en önemli kullanım bu yüzden **rızanın kendisidir**:
 
 Telefon görüşmelerinin Android'deki teknik durumu [Android'de arama kaydı uygulamaları neden artık çalışmıyor, ve hâlâ ne çalışıyor](/blog/tr/call-recording-android/) yazısında.
 
+Dedektif ve gazetecilerin görüşmeyi bozmadan nasıl kayıt alabileceği ve Türkiye'de sorunun neden kaydı başlatması gerektiği [Masaya ses kayıt cihazı koyduğunuzda görüşme değişir](/blog/tr/interview-recording/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Yargıtay'ın istisnası somut olaya göre değerlendirilir; somut bir durum için bir avukata danışın.</p>

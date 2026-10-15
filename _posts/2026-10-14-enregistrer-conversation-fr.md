@@ -124,4 +124,6 @@ En France, en Suisse, au Luxembourg et à Monaco, l'usage qui compte le plus est
 
 Ce qu'on peut faire d'un enregistrement ensuite est dans [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
 
+Comment détectives et journalistes peuvent garder une trace d'un entretien sans le casser, et pourquoi en France la question doit lancer l'enregistrement : [Posez un enregistreur sur la table, et l'entretien change](/blog/fr/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Les décisions citées ont été vérifiées à la date de publication ; la jurisprudence évolue. Pour un cas précis, consultez un avocat.</p>

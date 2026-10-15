@@ -104,4 +104,6 @@ Drie dingen sluiten hier direct op aan.
 
 Hoe het zit met telefoongesprekken op Android, staat in [Waarom apps om gesprekken op te nemen op Android niet meer werken, en wat nog wel werkt](/blog/nl/call-recording-android/).
 
+Hoe rechercheurs en journalisten een gesprek kunnen vastleggen zonder het te breken, staat in [Leg een recorder op tafel en het gesprek verandert](/blog/nl/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

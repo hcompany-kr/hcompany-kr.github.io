@@ -156,4 +156,6 @@ España es el caso más asentado, con la STC 114/1984 fijando que no cabe invoca
 
 Mientras se graba se mantiene una notificación visible y **no se puede desactivar**. No hay modo oculto ni icono camuflado. La aplicación no puede saber en qué país estás ni qué exige su ley, pero sí puede evitar que el aparato te empuje al lado que en todos ellos es delito.
 
+Cómo pueden grabar una entrevista detectives y periodistas sin romper la conversación está en [Saca la grabadora en una entrevista y la conversación cambia](/blog/es/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Los criterios citados pueden cambiar y varían según la materia y el tribunal. Para un caso concreto, consulta con un abogado de tu país.</p>

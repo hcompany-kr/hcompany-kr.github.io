@@ -103,4 +103,6 @@ Se zákonem souvisí tři věci.
 
 Jak je to s telefonními hovory na Androidu, popisuje [Proč aplikace na nahrávání hovorů na Androidu přestaly fungovat a co funguje dál](/blog/cs/call-recording-android/).
 
+Jak mohou detektivové a novináři zaznamenat rozhovor, aniž by ho narušili, popisuje [Položte diktafon na stůl a rozhovor se změní](/blog/cs/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Uvedená rozhodnutí a předpisy byly ověřeny ke dni zveřejnění; judikatura se vyvíjí. V konkrétní věci se obraťte na advokáta.</p>
