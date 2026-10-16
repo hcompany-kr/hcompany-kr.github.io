@@ -122,4 +122,6 @@ Was nach einer Aufnahme erlaubt ist und was nicht, steht in [Was man mit einer A
 
 Wie Detektive und Journalisten Gespräche festhalten, ohne sie zu brechen – und warum in Deutschland die Frage die Aufnahme starten sollte –, steht in [Liegt das Aufnahmegerät auf dem Tisch, ändert sich das Gespräch](/blog/de/interview-recording/).
 
+Ob man Polizeikontrollen filmen oder aufnehmen darf – und warum deutsche Gerichte beim Ton uneinig sind –, steht in [Darf man die Polizei filmen oder aufnehmen? Deutschland, Österreich und die Schweiz](/blog/de/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die genannten Entscheidungen wurden zum Zeitpunkt der Veröffentlichung geprüft; die Rechtsprechung entwickelt sich weiter. Im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

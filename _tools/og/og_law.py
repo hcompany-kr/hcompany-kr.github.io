@@ -14,9 +14,12 @@ CSS = '''.cmp{width:100%;border-collapse:collapse;font-size:19px}
 .cmp td.m{width:78px;text-align:center}
 .cmp td.m span{display:inline-flex;width:34px;height:34px;border-radius:50%;align-items:center;justify-content:center;font-weight:900;font-size:19px;background:#ff4d5a}
 .cmp td.m span.ok{background:#2ecc8a}
+.cmp td.m span.na{background:rgba(255,255,255,.22)}
 .lab small{display:block;color:#bdb8ff;font-size:16px;font-weight:600;margin-top:2px}'''
 
 def mark(v):
+    if v is None:
+        return '<span class="na">–</span>'
     return '<span class="ok">✓</span>' if v else '<span>✕</span>'
 
 def panel_compare(t):
@@ -80,6 +83,27 @@ CARDS = {
        ('Vlastní rozhovor bez svolení', 'k ochraně svých práv', (True, False)),
        ('Cizí rozhovor', 'neúčastníte se ho', (False, False)),
        ('Se svolením všech', '„ano“ je v souboru', (True, True))]), ''),
+ ('recording-police', 'de'): (dict(eyebrow='RECHT · POLIZEI', title='Darf man die Polizei filmen oder aufnehmen?', sub='Bild meist ja, beim Ton entscheidet das Land.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'AT', 'CH'], rows=[
+       ('Einsatz filmen, ohne zu stören', 'Bild', (True, True, None)),
+       ('Gespräch mit Beamten aufnehmen', 'ohne Einwilligung', (None, True, False)),
+       ('Mit Einwilligung aufnehmen', 'das „Ja“ ist in der Datei', (True, True, True))]), '.title{font-size:52px}.cmp td.m{width:62px}'),
+ ('recording-police', 'fr'): (dict(eyebrow='DROIT · POLICE', title='Peut-on filmer ou enregistrer la police ?', sub='Filmer, largement ; le son dépend du pays.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH', 'QC'], rows=[
+       ('Filmer sans gêner', 'voie publique', (True, True, None, True)),
+       ("Enregistrer l'échange", 'sans consentement', (None, True, False, True)),
+       ("Avec l'accord de l'agent", 'le « oui » enregistré', (True, True, True, True))]), '.title{font-size:52px}.cmp td.m{width:54px}'),
+ ('recording-police', 'pt-br'): (dict(eyebrow='LEI · POLÍCIA', title='Posso gravar a polícia?', sub='Abordagem, delegacia e depoimento.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Gravar a conversa na abordagem', 'você é interlocutor', (True, None)),
+       ('Advogado grava o depoimento', 'STJ, HC 662.690 (2022)', (True, None)),
+       ('Gravar com consentimento', 'a resposta fica no arquivo', (True, True))]), ''),
+ ('recording-police', 'nl'): (dict(eyebrow='RECHT · POLITIE', title='Mag je de politie filmen of opnemen?', sub='Nederland en België, naast elkaar.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Filmen met zichtbare camera', 'zonder te hinderen', (True, True)),
+       ('Eigen gesprek met agent opnemen', 'als deelnemer', (True, True)),
+       ('Verborgen filmen op straat', 'art. 441b Sr', (False, None)),
+       ('Doxing van agenten', 'art. 285d Sr', (False, None))]), ''),
 }
 
 if __name__ == '__main__':

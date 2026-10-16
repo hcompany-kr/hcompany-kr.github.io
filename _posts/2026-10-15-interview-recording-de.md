@@ -91,4 +91,6 @@ In TalkSafe **bleibt beim Schneiden das Original erhalten**, der Abschnitt wird 
 - Gespräche anderer aufzunehmen ist überall strafbar.
 - Für Beweiszwecke das Original unverändert lassen.
 
+Ob man Polizeikontrollen filmen oder aufnehmen darf – und warum deutsche Gerichte beim Ton uneinig sind –, steht in [Darf man die Polizei filmen oder aufnehmen? Deutschland, Österreich und die Schweiz](/blog/de/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

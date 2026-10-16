@@ -106,4 +106,6 @@ Hoe het zit met telefoongesprekken op Android, staat in [Waarom apps om gesprekk
 
 Hoe rechercheurs en journalisten een gesprek kunnen vastleggen zonder het te breken, staat in [Leg een recorder op tafel en het gesprek verandert](/blog/nl/interview-recording/).
 
+Of je de politie mag filmen of je gesprek met een agent mag opnemen, staat in [Mag je de politie filmen of opnemen? Nederland en België](/blog/nl/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

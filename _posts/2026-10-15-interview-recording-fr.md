@@ -93,4 +93,6 @@ Dans TalkSafe, **la découpe conserve l'original** et enregistre le passage comm
 - Enregistrer la conversation des autres est puni partout.
 - Pour la preuve, gardez l'original intact.
 
+Filmer ou enregistrer la police lors d'un contrôle, pays par pays : [Peut-on filmer ou enregistrer la police ? France, Belgique, Suisse et Québec](/blog/fr/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Pour un cas précis, consultez un avocat.</p>

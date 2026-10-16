@@ -91,4 +91,6 @@ Ook hier helpt het trefwoord. Stel **„opnemen”** in en vraag **„Mag ik dit
 - **Het gesprek van anderen** opnemen is overal strafbaar.
 - Kan het bewijs worden, bewaar het origineel dan onaangeroerd.
 
+Of je de politie mag filmen of je gesprek met een agent mag opnemen, staat in [Mag je de politie filmen of opnemen? Nederland en België](/blog/nl/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. Raadpleeg voor een concreet geval een advocaat.</p>
