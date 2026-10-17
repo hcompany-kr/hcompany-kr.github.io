@@ -114,4 +114,6 @@ Quindi sul posto le cose utili sono tre.
 
 Non serve a incastrare nessuno. **Funziona nelle due direzioni:** protegge anche te dall'essere accusato di aver ammesso qualcosa che non hai detto.
 
+Dall'altro lato — come periti assicurativi, investigatori e giornalisti possono registrare un colloquio senza romperlo — è in [Tiri fuori il registratore e l'intervista cambia](/blog/it/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni di carattere generale, non consulenza legale. Per il caso concreto rivolgersi a un avvocato, al proprio assicuratore o a un perito.</p>

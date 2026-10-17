@@ -124,4 +124,6 @@ Si algo no cuadra, tienes un mes. Después, no.
 
 
 
+Desde el otro lado — cómo peritos de seguros, detectives y periodistas pueden grabar una entrevista sin romperla — está en [Saca la grabadora en una entrevista y la conversación cambia](/blog/es/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado o con el servicio de reclamaciones de la DGSFP.</p>

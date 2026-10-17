@@ -127,4 +127,6 @@ Three things are worth doing at the roadside.
 
 None of this is about catching anyone out. **It runs both ways** — the same record protects you from being told you admitted something you never said.
 
+From the other side — how insurance investigators, private investigators and journalists can record an interview without breaking it — see [Put a recorder on the table and the interview changes](/blog/en/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. For a specific situation, speak to a solicitor or your insurer in the UK, or to a personal injury attorney licensed in your state in the US.</p>

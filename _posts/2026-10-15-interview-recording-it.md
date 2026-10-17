@@ -99,4 +99,6 @@ Anche qui serve la parola chiave. Scegli **"registrare"** e chiedi **"Ti dispiac
 
 Se puoi registrare quando sei tu a essere fermato o interrogato dalla polizia è confrontato in tredici paesi in [Si può registrare la polizia? Tredici paesi a confronto](/blog/it/recording-police/).
 
+Dal lato dell'assicurato, cosa può cambiare una registrazione dopo un incidente è in [Se non lo dimostri, la legge divide la colpa a metà](/blog/it/incidente-stradale/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazione generale, non consulenza legale. Per un caso concreto, rivolgiti a un avvocato.</p>

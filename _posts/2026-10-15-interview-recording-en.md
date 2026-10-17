@@ -104,4 +104,6 @@ The keyword helps here too. Set **"record"** as the keyword and ask **"Do you mi
 
 Whether you can record when you are the one being stopped or questioned by police is compared across thirteen countries in [Can you record the police? Thirteen countries compared](/blog/en/recording-police/).
 
+From the policyholder's side of an insurance conversation, where a recording matters is covered at purchase in [What the agent said is not in the policy](/blog/en/insurance-explanation/) and after a crash in [No accident form has a box for what was said](/blog/en/accident-scene/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Recording law varies by state and country, and department and company policies can add requirements. Speak to a lawyer about your own situation.</p>

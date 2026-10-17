@@ -88,4 +88,6 @@ Because the 30 seconds before that point are saved as well, an explanation you o
 
 
 
+From the other side — how insurance investigators, private investigators and journalists can record an interview without breaking it — see [Put a recorder on the table and the interview changes](/blog/en/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Insurance rules are set state by state; for a specific situation, consult a lawyer or your state insurance department.</p>

@@ -120,4 +120,6 @@ Tres cosas sirven en el arcén.
 
 No sirve para pillar a nadie. **Funciona en las dos direcciones:** también te protege de que te atribuyan algo que no dijiste.
 
+Desde el otro lado — cómo peritos de seguros, detectives y periodistas pueden grabar una entrevista sin romperla — está en [Saca la grabadora en una entrevista y la conversación cambia](/blog/es/interview-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información de carácter general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado o con tu aseguradora.</p>

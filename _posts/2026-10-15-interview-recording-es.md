@@ -99,4 +99,6 @@ La palabra clave también sirve aquí. Elige **"grabar"** y pregunta **"¿Te imp
 
 Si puedes grabar cuando eres tú quien está siendo identificado o interrogado por la policía se compara en trece países en [¿Se puede grabar a la policía? Trece países comparados](/blog/es/recording-police/).
 
+Desde el lado del asegurado, dónde importa una grabación está al contratar en [Tienes un mes para decir que la póliza no es lo que te ofrecieron](/blog/es/seguro-clausulas/) y tras un accidente en [El parte amistoso no es reconocer la culpa](/blog/es/parte-amistoso/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado.</p>
