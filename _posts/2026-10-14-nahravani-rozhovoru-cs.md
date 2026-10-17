@@ -105,4 +105,6 @@ Jak je to s telefonními hovory na Androidu, popisuje [Proč aplikace na nahráv
 
 Jak mohou detektivové a novináři zaznamenat rozhovor, aniž by ho narušili, popisuje [Položte diktafon na stůl a rozhovor se změní](/blog/cs/interview-recording/).
 
+Zda smíte natáčet policejní zákrok nebo nahrát rozhovor s policistou, popisuje [Smí se nahrávat policie? Zákrok a kontrola v Česku a na Slovensku](/blog/cs/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Uvedená rozhodnutí a předpisy byly ověřeny ke dni zveřejnění; judikatura se vyvíjí. V konkrétní věci se obraťte na advokáta.</p>

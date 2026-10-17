@@ -15,7 +15,8 @@ CSS = '''.cmp{width:100%;border-collapse:collapse;font-size:19px}
 .cmp td.m span{display:inline-flex;width:34px;height:34px;border-radius:50%;align-items:center;justify-content:center;font-weight:900;font-size:19px;background:#ff4d5a}
 .cmp td.m span.ok{background:#2ecc8a}
 .cmp td.m span.na{background:rgba(255,255,255,.22)}
-.lab small{display:block;color:#bdb8ff;font-size:16px;font-weight:600;margin-top:2px}'''
+.lab small{display:block;color:#bdb8ff;font-size:16px;font-weight:600;margin-top:2px}
+.x.na{background:rgba(255,255,255,.22)}'''
 
 def mark(v):
     if v is None:
@@ -29,7 +30,7 @@ def panel_compare(t):
     return f'<div class="panel" style="padding:22px 26px"><table class="cmp">{head}{body}</table></div>'
 
 def panel_rules(t):
-    rows = ''.join(f'<div class="row"><div class="lab">{a}<small>{b}</small></div><div class="x{" ok" if v else ""}">{"✓" if v else "✕"}</div></div>'
+    rows = ''.join(f'<div class="row"><div class="lab">{a}<small>{b}</small></div><div class="x{" ok" if v else (" na" if v is None else "")}">{"✓" if v else ("–" if v is None else "✕")}</div></div>'
                    for a, b, v in t['rows'])
     return f'<div class="panel" style="padding:18px 26px"><div class="cap">{t["cap"]}</div>{rows}</div>'
 
@@ -104,6 +105,29 @@ CARDS = {
        ('Eigen gesprek met agent opnemen', 'als deelnemer', (True, True)),
        ('Verborgen filmen op straat', 'art. 441b Sr', (False, None)),
        ('Doxing van agenten', 'art. 285d Sr', (False, None))]), ''),
+ ('recording-police', 'tr'): (dict(eyebrow='HUKUK · POLİS', title='Polisi kaydetmek yasak mı?', sub='EGM genelgesi, Danıştay ve TCK 133/2.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('Müdahaleyi engellemeden görüntü', 'yasaklayan genelge iptal — Danıştay 2023', True),
+       ('Polisle konuşmanın rızasız ses kaydı', 'riskli — TCK 133/2', False),
+       ('Rızayla ses kaydı', '"evet" dosyada', True),
+       ('Müdahaleyi fiziken engellemek', 'çizgi burada', False)]), ''),
+ ('recording-police', 'pl'): (dict(eyebrow='PRAWO · POLICJA', title='Czy można nagrywać policję?', sub='Interwencja, kontrola i publikacja nagrania.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Filmowanie interwencji', 'bez utrudniania — RPO', True),
+       ('Własna rozmowa z policjantem', 'uczestnik — art. 267 § 3 k.k.', True),
+       ('Publikacja nagrania', 'ostrożnie — TSUE C-345/17', None),
+       ('Utrudnianie interwencji', 'granica', False)]), ''),
+ ('recording-police', 'cs'): (dict(eyebrow='PRÁVO · POLICIE', title='Smí se nahrávat policie?', sub='Zákrok a kontrola v Česku a na Slovensku.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Natáčet zákrok', 'aniž byste bránili', (True, True)),
+       ('Zakázat natáčení', 'smí to policie?', (False, False)),
+       ('Bránit zákroku', 'hranice', (False, False))]), ''),
+ ('recording-police', 'hi'): (dict(eyebrow='कानून · पुलिस', title='क्या पुलिस को रिकॉर्ड कर सकते हैं?', sub='थाने और जाँच के दौरान भारत में नियम।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('थाने में वीडियो रिकॉर्डिंग', 'प्रतिबंधित स्थान नहीं — बॉम्बे HC 2022', True),
+       ('थाने में ऑडियो रिकॉर्डिंग', 'वही तर्क — औरंगाबाद पीठ 2024', True),
+       ('पुलिस से अपनी बातचीत', 'इंटरसेप्शन नहीं — मलकानी 1973', True),
+       ('काम में बाधा डालना', 'सीमा यहीं है', False)]), "body{font-family:'Nirmala UI','Segoe UI',sans-serif}.title{font-size:52px;line-height:1.3}.sub{line-height:1.5}.eyebrow{letter-spacing:0}"),
 }
 
 if __name__ == '__main__':

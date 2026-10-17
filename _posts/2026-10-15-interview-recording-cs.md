@@ -93,4 +93,6 @@ I tady pomůže klíčové slovo. Nastavte **„nahrát“** a zeptejte se **„
 - **Cizí rozhovory** pod žádnou výjimku nespadají.
 - Může-li být nahrávka důkazem, nechte originál nedotčený.
 
+Zda smíte natáčet policejní zákrok nebo nahrát rozhovor s policistou, popisuje [Smí se nahrávat policie? Zákrok a kontrola v Česku a na Slovensku](/blog/cs/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. V konkrétní věci se obraťte na advokáta.</p>

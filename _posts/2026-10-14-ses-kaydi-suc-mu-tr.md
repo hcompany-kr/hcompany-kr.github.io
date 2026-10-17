@@ -110,4 +110,6 @@ Telefon görüşmelerinin Android'deki teknik durumu [Android'de arama kaydı uy
 
 Dedektif ve gazetecilerin görüşmeyi bozmadan nasıl kayıt alabileceği ve Türkiye'de sorunun neden kaydı başlatması gerektiği [Masaya ses kayıt cihazı koyduğunuzda görüşme değişir](/blog/tr/interview-recording/) yazısında.
 
+Polisi kaydetmeyi yasaklayan EGM genelgesinin Danıştay tarafından iptali ve polisle konuşmanın ses kaydı [Polisi kaydetmek yasak mı? Görüntü çekmek, ses kaydı ve Danıştay kararı](/blog/tr/recording-police/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Yargıtay'ın istisnası somut olaya göre değerlendirilir; somut bir durum için bir avukata danışın.</p>

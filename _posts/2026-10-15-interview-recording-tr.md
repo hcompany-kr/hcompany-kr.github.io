@@ -87,4 +87,6 @@ TalkSafe'te **kırpma orijinali korur** ve bölümü yeni dosya olarak kaydeder;
 - Başkalarının konuşmasını kaydetmek daha ağır bir suçtur (TCK 133/1).
 - Delil için orijinali olduğu gibi saklayın.
 
+Polisi kaydetmeyi yasaklayan EGM genelgesinin Danıştay tarafından iptali ve polisle konuşmanın ses kaydı [Polisi kaydetmek yasak mı? Görüntü çekmek, ses kaydı ve Danıştay kararı](/blog/tr/recording-police/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Somut bir durum için bir avukata danışın.</p>

@@ -101,4 +101,6 @@ Jak to wygląda przy rozmowach telefonicznych, opisuje [Dlaczego aplikacje do na
 
 Jak detektywi i dziennikarze mogą nagrywać rozmowy, nie przerywając ich, opisuje [Połóż dyktafon na stole, a rozmowa się zmienia](/blog/pl/interview-recording/).
 
+Czy można nagrywać policję podczas interwencji i co z publikacją nagrania, opisuje [Czy można nagrywać policję? Interwencja, kontrola i publikacja nagrania](/blog/pl/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

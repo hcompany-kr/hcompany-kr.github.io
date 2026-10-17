@@ -93,4 +93,6 @@ Tu też pomaga słowo kluczowe. Ustaw **„nagrać”** i zapytaj **„Mogę to 
 - **Cudza rozmowa** to podsłuch — przestępstwo.
 - Jeśli nagranie może być dowodem, zachowaj nietknięty oryginał.
 
+Czy można nagrywać policję podczas interwencji i co z publikacją nagrania, opisuje [Czy można nagrywać policję? Interwencja, kontrola i publikacja nagrania](/blog/pl/recording-police/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>
