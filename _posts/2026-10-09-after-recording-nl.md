@@ -115,4 +115,6 @@ Hoe je een opname terugbrengt tot wat ertoe doet zonder het origineel te verliez
 
 Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
 
+Hoe je pesten op het werk bewijst en waar je het meldt, staat in [Pesten op het werk bewijzen: opnemen, melden en wat de wet van je werkgever vraagt](/blog/nl/pesten-op-het-werk/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen en verspreiden verschillen per land.</p>

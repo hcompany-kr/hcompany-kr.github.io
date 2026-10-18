@@ -113,4 +113,6 @@ Jak zkrátit nahrávku na to podstatné a nepřijít o originál a čím se apli
 
 Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).
 
+Jak prokázat šikanu na pracovišti a kam se obrátit, popisuje [Jak prokázat šikanu na pracovišti? Mobbing, bossing, nahrávka a kam se obrátit](/blog/cs/sikana-na-pracovisti/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání a šíření se v jednotlivých zemích liší.</p>

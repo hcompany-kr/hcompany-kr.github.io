@@ -107,4 +107,6 @@ Jak mohou detektivové a novináři zaznamenat rozhovor, aniž by ho narušili, 
 
 Zda smíte natáčet policejní zákrok nebo nahrát rozhovor s policistou, popisuje [Smí se nahrávat policie? Zákrok a kontrola v Česku a na Slovensku](/blog/cs/recording-police/).
 
+Jak prokázat šikanu na pracovišti a kam se obrátit, popisuje [Jak prokázat šikanu na pracovišti? Mobbing, bossing, nahrávka a kam se obrátit](/blog/cs/sikana-na-pracovisti/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Uvedená rozhodnutí a předpisy byly ověřeny ke dni zveřejnění; judikatura se vyvíjí. V konkrétní věci se obraťte na advokáta.</p>

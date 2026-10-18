@@ -103,4 +103,6 @@ Jak detektywi i dziennikarze mogą nagrywać rozmowy, nie przerywając ich, opis
 
 Czy można nagrywać policję podczas interwencji i co z publikacją nagrania, opisuje [Czy można nagrywać policję? Interwencja, kontrola i publikacja nagrania](/blog/pl/recording-police/).
 
+Jak udowodnić mobbing w pracy i co zmienia nowa definicja od 5 listopada 2026 r., opisuje [Jak udowodnić mobbing w pracy? Nagrywanie, świadkowie i nowa definicja od 5 listopada 2026](/blog/pl/mobbing/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

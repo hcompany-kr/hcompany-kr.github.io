@@ -112,4 +112,6 @@ Dedektif ve gazetecilerin görüşmeyi bozmadan nasıl kayıt alabileceği ve T�
 
 Polisi kaydetmeyi yasaklayan EGM genelgesinin Danıştay tarafından iptali ve polisle konuşmanın ses kaydı [Polisi kaydetmek yasak mı? Görüntü çekmek, ses kaydı ve Danıştay kararı](/blog/tr/recording-police/) yazısında.
 
+İş yerinde mobbingin nasıl ispatlanacağı ve ses kaydının riskleri [İş yerinde mobbing nasıl ispatlanır? Ses kaydı, tanık ve haklı fesih](/blog/tr/mobbing/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Yargıtay'ın istisnası somut olaya göre değerlendirilir; somut bir durum için bir avukata danışın.</p>

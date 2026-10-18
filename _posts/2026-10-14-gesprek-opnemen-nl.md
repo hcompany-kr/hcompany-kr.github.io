@@ -108,4 +108,6 @@ Hoe rechercheurs en journalisten een gesprek kunnen vastleggen zonder het te bre
 
 Of je de politie mag filmen of je gesprek met een agent mag opnemen, staat in [Mag je de politie filmen of opnemen? Nederland en België](/blog/nl/recording-police/).
 
+Hoe je pesten op het werk bewijst en waar je het meldt, staat in [Pesten op het werk bewijzen: opnemen, melden en wat de wet van je werkgever vraagt](/blog/nl/pesten-op-het-werk/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

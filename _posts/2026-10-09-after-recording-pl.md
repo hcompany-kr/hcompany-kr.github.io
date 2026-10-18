@@ -112,4 +112,6 @@ Jak skrócić nagranie do tego, co ważne, nie tracąc oryginału, i czym różn
 
 Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).
 
+Jak udowodnić mobbing w pracy i co zmienia nowa definicja od 5 listopada 2026 r., opisuje [Jak udowodnić mobbing w pracy? Nagrywanie, świadkowie i nowa definicja od 5 listopada 2026](/blog/pl/mobbing/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna — zasady nagrywania i rozpowszechniania różnią się w zależności od kraju.</p>

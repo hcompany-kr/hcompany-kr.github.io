@@ -34,6 +34,8 @@ def panel_rules(t):
                    for a, b, v in t['rows'])
     return f'<div class="panel" style="padding:18px 26px"><div class="cap">{t["cap"]}</div>{rows}</div>'
 
+HI_CSS = "body{font-family:'Nirmala UI','Segoe UI',sans-serif}.title{font-size:48px;line-height:1.3}.sub{line-height:1.5}.eyebrow{letter-spacing:0}"
+
 CARDS = {
  ('gravar-conversa', 'pt-br'): (dict(eyebrow='LEI · GRAVAR CONVERSA', title='Gravar a própria conversa: Brasil sim, Portugal não', sub='STF, TST, Lei 9.296 e o artigo 199.º, lado a lado.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
      cols=['Brasil', 'Portugal'], rows=[
@@ -128,6 +130,54 @@ CARDS = {
        ('थाने में ऑडियो रिकॉर्डिंग', 'वही तर्क — औरंगाबाद पीठ 2024', True),
        ('पुलिस से अपनी बातचीत', 'इंटरसेप्शन नहीं — मलकानी 1973', True),
        ('काम में बाधा डालना', 'सीमा यहीं है', False)]), "body{font-family:'Nirmala UI','Segoe UI',sans-serif}.title{font-size:52px;line-height:1.3}.sub{line-height:1.5}.eyebrow{letter-spacing:0}"),
+ ('mobbing', 'tr'): (dict(eyebrow='İŞ HAYATI · MOBBING', title='İş yerinde mobbing nasıl ispatlanır?', sub='TBK 417, İş Kanunu 24/II ve Yargıtay.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye — ne işe yarar', rows=[
+       ('Yazılı şikâyet, e-posta, tanık', 'kuvvetli emare', True),
+       ('Sağlık raporu, olay günlüğü', 'tutarlı olgular', True),
+       ('Konuşmanın rızasız ses kaydı', 'riskli — TCK 133/2', False),
+       ('Kendi sesinizle olay notu', 'olaydan hemen sonra', True)]), ''),
+ ('mobbing', 'de'): (dict(eyebrow='ARBEIT · MOBBING', title='Mobbing am Arbeitsplatz beweisen', sub='Kein Mobbing-Gesetz – Beweislast beim Arbeitnehmer.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_rules,
+     cap='Deutschland — was trägt', rows=[
+       ('Mobbingtagebuch, E-Mails, Zeugen', 'zeitnah, mit Datum', True),
+       ('Schriftliche Beschwerde', 'ab wann der Arbeitgeber wusste', True),
+       ('Heimliche Tonaufnahme', 'strafbar — § 201 StGB', False),
+       ('Gedächtnisprotokoll, eigene Stimme', 'direkt nach dem Vorfall', True)]), '.title{font-size:52px}'),
+ ('harcelement-moral', 'fr'): (dict(eyebrow='TRAVAIL · HARCÈLEMENT MORAL', title='Prouver le harcèlement moral au travail', sub='L1152-1, L1154-1 et la Cour de cassation.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_rules,
+     cap='France — ce qui compte', rows=[
+       ('Écrits, alerte, témoins', 'éléments de fait (L1154-1)', True),
+       ('Certificats, journal daté', 'au fil de l\'eau', True),
+       ('Enregistrement clandestin', 'seulement si indispensable', None),
+       ('Récit enregistré avec sa voix', 'juste après les faits', True)]), '.title{font-size:52px}'),
+ ('assedio-moral', 'pt-br'): (dict(eyebrow='TRABALHO · ASSÉDIO MORAL', title='Como provar assédio moral no trabalho', sub='CLT art. 483, dano moral e a gravação lícita.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_rules,
+     cap='Brasil — o que pesa', rows=[
+       ('Gravar a conversa da qual participa', 'lícito — STF Tema 237, TST', True),
+       ('Testemunhas e mensagens', 'reforçam a gravação', True),
+       ('Denúncia na CIPA ou canal', 'Lei 14.457/2022', True),
+       ('Gravar conversa dos outros', 'crime — Lei 9.296, art. 10', False)]), '.title{font-size:52px}'),
+ ('mobbing', 'pl'): (dict(eyebrow='PRACA · MOBBING', title='Jak udowodnić mobbing w pracy?', sub='Art. 94³ k.p. — nowa definicja od 5 listopada 2026.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Nagranie własnej rozmowy', 'dozwolone — art. 267 § 3 k.k.', True),
+       ('Pisemne zgłoszenie, świadkowie', 'od kiedy pracodawca wiedział', True),
+       ('Od 5.11.2026: bez „długotrwałości”', 'Dz.U. 2026 poz. 1046', True),
+       ('Podsłuch cudzej rozmowy', 'przestępstwo', False)]), ''),
+ ('pesten-op-het-werk', 'nl'): (dict(eyebrow='WERK · PESTEN', title='Pesten op het werk bewijzen', sub='Arbowet, welzijnswet en je eigen opname.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Werkgever moet pesten aanpakken', 'Arbowet / welzijnswet', (True, True)),
+       ('Eigen gesprek opnemen', 'als deelnemer', (True, True)),
+       ('Opname als bewijs', 'niet automatisch uitgesloten', (True, True)),
+       ('Gesprek van anderen opnemen', 'geen deelnemer', (False, False))]), ''),
+ ('sikana-na-pracovisti', 'cs'): (dict(eyebrow='PRÁCE · ŠIKANA', title='Jak prokázat šikanu na pracovišti?', sub='Mobbing, bossing, nahrávka a kam se obrátit.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Zákonná definice šikany', 'mobbing, bossing', (False, False)),
+       ('Zaměstnavatel musí zakročit', 'ZP § 16, 17 / § 13', (True, True)),
+       ('Nahrát vlastní rozhovor', 'k ochraně svých práv', (True, False)),
+       ('Cizí rozhovor', 'neúčastníte se ho', (False, False))]), ''),
+ ('workplace-harassment', 'hi'): (dict(eyebrow='काम · उत्पीड़न', title='कार्यस्थल पर उत्पीड़न कैसे साबित करें', sub='भारत में कानून, रिकॉर्डिंग और शिकायत।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('बुलिंग के लिए अलग कानून', 'नहीं है', False),
+       ('यौन उत्पीड़न — आंतरिक समिति', 'POSH अधिनियम 2013', True),
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True),
+       ('सबूत में पेश करना', 'हैश वैल्यू वाला प्रमाणपत्र — BSA 63(4)', True)]), HI_CSS),
 }
 
 if __name__ == '__main__':

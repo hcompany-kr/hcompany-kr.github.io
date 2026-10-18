@@ -112,4 +112,6 @@ Bir kaydı orijinali kaybetmeden önemli kısmına nasıl indireceğiniz ve uygu
 
 Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.
 
+İş yerinde mobbingin nasıl ispatlanacağı ve ses kaydının riskleri [İş yerinde mobbing nasıl ispatlanır? Ses kaydı, tanık ve haklı fesih](/blog/tr/mobbing/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

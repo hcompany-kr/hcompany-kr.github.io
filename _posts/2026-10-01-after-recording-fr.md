@@ -117,4 +117,6 @@ Comment réduire un enregistrement à ce qui compte sans perdre l'original, et e
 
 Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
 
+Comment prouver le harcèlement moral au travail, et quand un enregistrement peut servir : [Comment prouver le harcèlement moral au travail ? Charge de la preuve, enregistrement et ce qui compte vraiment](/blog/fr/harcelement-moral/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique — le droit d'enregistrer et de diffuser diffère d'un pays à l'autre.</p>

@@ -122,4 +122,6 @@ Como detetives e jornalistas podem gravar uma entrevista sem quebrar a conversa 
 
 Se dá para gravar uma abordagem policial ou o depoimento na delegacia está em [Posso gravar a polícia? Abordagem, delegacia e depoimento no Brasil e em Portugal](/blog/pt-br/recording-police/).
 
+Como provar assédio moral no trabalho, e por que a gravação da conversa da qual você participa conta, está em [Como provar assédio moral no trabalho: gravação, testemunhas e rescisão indireta](/blog/pt-br/assedio-moral/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. As decisões citadas foram verificadas na data de publicação; a jurisprudência muda. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>
