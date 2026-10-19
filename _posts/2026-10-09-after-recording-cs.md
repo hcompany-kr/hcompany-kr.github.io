@@ -115,4 +115,6 @@ Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník
 
 Jak prokázat šikanu na pracovišti a kam se obrátit, popisuje [Jak prokázat šikanu na pracovišti? Mobbing, bossing, nahrávka a kam se obrátit](/blog/cs/sikana-na-pracovisti/).
 
+Co je sexuální obtěžování na pracovišti a co musíte prokázat, popisuje [Sexuální obtěžování na pracovišti: co říká zákon, co musíte prokázat a proč nahrávka pomáhá](/blog/cs/sexualni-obtezovani/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání a šíření se v jednotlivých zemích liší.</p>

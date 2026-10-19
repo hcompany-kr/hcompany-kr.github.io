@@ -92,4 +92,6 @@ Pro nahrávání platí na Slovensku přísnější pravidlo: podle **§ 12 obč
 
 Co s nahrávkou potom: [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/after-recording/).
 
+Co je sexuální obtěžování na pracovišti a co musíte prokázat, popisuje [Sexuální obtěžování na pracovišti: co říká zákon, co musíte prokázat a proč nahrávka pomáhá](/blog/cs/sexualni-obtezovani/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. V konkrétní věci se obraťte na advokáta.</p>

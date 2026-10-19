@@ -96,4 +96,6 @@ Herkesin rıza gösterdiği bir görüşmede — örneğin İK'nın açıkça ka
 
 Kayıtla sonra ne yapılır, ne yapılmaz: [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/).
 
+İş yerinde cinsel tacize uğrayınca ne yapılacağı, TCK 105 ve haklı fesih [İş yerinde cinsel tacize uğradım, ne yapmalıyım? TCK 105, haklı fesih ve ses kaydı](/blog/tr/cinsel-taciz/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Fesih süreleri hak düşürücüdür; somut bir durum için bir iş hukuku avukatına danışın.</p>

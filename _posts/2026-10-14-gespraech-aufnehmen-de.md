@@ -126,4 +126,6 @@ Ob man Polizeikontrollen filmen oder aufnehmen darf – und warum deutsche Geric
 
 Wie man Mobbing am Arbeitsplatz beweist – und warum die heimliche Aufnahme in Deutschland keine Lösung ist –, steht in [Mobbing am Arbeitsplatz beweisen: Was in Deutschland zählt – und warum die heimliche Aufnahme keine Lösung ist](/blog/de/mobbing/).
 
+Sexuelle Belästigung am Arbeitsplatz beweisen – mit der Zwei-Monats-Frist des AGG: [Sexuelle Belästigung am Arbeitsplatz beweisen: die Zwei-Monats-Frist, § 14 AGG – und was Sie aufnehmen dürfen](/blog/de/sexuelle-belaestigung/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die genannten Entscheidungen wurden zum Zeitpunkt der Veröffentlichung geprüft; die Rechtsprechung entwickelt sich weiter. Im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

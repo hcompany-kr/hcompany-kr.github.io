@@ -178,6 +178,51 @@ CARDS = {
        ('यौन उत्पीड़न — आंतरिक समिति', 'POSH अधिनियम 2013', True),
        ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True),
        ('सबूत में पेश करना', 'हैश वैल्यू वाला प्रमाणपत्र — BSA 63(4)', True)]), HI_CSS),
+ ('sexuelle-belaestigung', 'de'): (dict(eyebrow='ARBEIT · SEXUELLE BELÄSTIGUNG', title='Sexuelle Belästigung am Arbeitsplatz beweisen', sub='AGG, GlBG und Gleichstellungsgesetz im Vergleich.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'AT', 'CH'], rows=[
+       ('Gesetzlicher Schutz', 'AGG · GlBG · GlG', (True, True, True)),
+       ('Lange Frist für Ansprüche', 'DE 2 Monate · AT 3 Jahre', (False, True, None)),
+       ('Eigenes Gespräch heimlich aufnehmen', '§ 201 · Art. 179ter', (False, True, False)),
+       ('Gedächtnisprotokoll mit eigener Stimme', 'direkt danach', (True, True, True))]), '.title{font-size:50px}.cmp td.m{width:62px}'),
+ ('harcelement-sexuel', 'fr'): (dict(eyebrow='TRAVAIL · HARCÈLEMENT SEXUEL', title='Harcèlement sexuel au travail : que prouver ?', sub='L1153-1, L1154-1, 222-33 — et ailleurs.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH', 'QC'], rows=[
+       ('Un seul fait grave suffit', 'pression grave · conduite grave', (True, None, None, True)),
+       ('Enregistrer sa conversation', 'sans consentement', (False, True, False, True)),
+       ('Récit avec sa propre voix', 'juste après les faits', (True, True, True, True))]), '.title{font-size:50px}.cmp td.m{width:54px}'),
+ ('cinsel-taciz', 'tr'): (dict(eyebrow='İŞ HAYATI · CİNSEL TACİZ', title='İş yerinde cinsel tacize uğradım, ne yapmalıyım?', sub='TCK 105, İş Kanunu 24/II-d ve Yargıtay.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('Cinsel taciz suçu', 'işyeri ve hiyerarşide ceza yarı oranında artar', True),
+       ('Kıdem tazminatıyla haklı fesih', 'İş Kanunu 24/II-d — 6 iş günü', True),
+       ('Konuşmanın rızasız ses kaydı', 'riskli — TCK 133/2, dar istisna', False),
+       ('Kendi sesinizle olay notu', 'olaydan hemen sonra', True)]), '.title{font-size:50px}'),
+ ('assedio-sexual', 'pt-br'): (dict(eyebrow='TRABALHO · ASSÉDIO SEXUAL', title='Assédio sexual no trabalho: como provar', sub='Arts. 216-A e 215-A, CLT art. 483 e a gravação lícita.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Assédio sexual é crime ou infração', 'CP art. 216-A · CT art. 29.º', (True, True)),
+       ('Gravar a própria conversa', 'sem o outro saber', (True, False)),
+       ('Gravação como prova', 'STF, Tema 237', (True, False)),
+       ('Relato com a própria voz', 'logo depois', (True, True))]), ''),
+ ('molestowanie-w-pracy', 'pl'): (dict(eyebrow='PRACA · MOLESTOWANIE', title='Molestowanie seksualne w pracy: jak udowodnić?', sub='Art. 18³a § 6, 18³b i 18³d Kodeksu pracy.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Molestowanie to dyskryminacja', 'art. 18³a § 6 k.p.', True),
+       ('Pracodawca musi się wytłumaczyć', 'odwrócony ciężar dowodu — art. 18³b', True),
+       ('Odszkodowanie co najmniej płaca minimalna', 'art. 18³d k.p.', True),
+       ('Nagranie rozmowy, w której uczestniczysz', 'co do zasady dozwolone', True)]), '.title{font-size:50px}'),
+ ('seksuele-intimidatie', 'nl'): (dict(eyebrow='WERK · SEKSUELE INTIMIDATIE', title='Seksuele intimidatie op het werk', sub='Art. 7:646 BW, Arbowet en de Belgische welzijnswet.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Werkgever moet het voorkomen', 'Arbowet / welzijnswet', (True, True)),
+       ('Woorden en appjes tellen ook', 'aanraking niet vereist', (True, True)),
+       ('Eigen gesprek opnemen', 'zonder toestemming', (True, True))]), ''),
+ ('sexualni-obtezovani', 'cs'): (dict(eyebrow='PRÁCE · SEXUÁLNÍ OBTĚŽOVÁNÍ', title='Sexuální obtěžování na pracovišti', sub='Antidiskriminační zákon, § 133a o. s. ř. a nahrávka.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Forma diskriminace', 'antidiskriminační zákon', (True, True)),
+       ('Vlastní rozhovor bez svolení', 'k ochraně svých práv', (True, False)),
+       ('Vlastní výpověď hlasem', 'hned po události', (True, True))]), ''),
+ ('posh-act', 'hi'): (dict(eyebrow='काम · POSH', title='POSH अधिनियम: शिकायत और सबूत', sub='3 महीने की समय-सीमा, समिति और रिकॉर्डिंग।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('10+ कर्मचारी — आंतरिक समिति', 'उससे कम — स्थानीय समिति', True),
+       ('लिखित शिकायत, 3 महीने में', '3 महीने तक बढ़ सकती है — धारा 9', True),
+       ('यौन उत्पीड़न अपराध भी', 'भारतीय न्याय संहिता, धारा 75', True),
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
 }
 
 if __name__ == '__main__':

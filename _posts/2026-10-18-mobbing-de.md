@@ -100,4 +100,6 @@ Für Schadensersatz und Schmerzensgeld gilt grundsätzlich die **dreijährige Ve
 
 Was man mit einer Aufnahme tun sollte – und was nicht: [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
 
+Sexuelle Belästigung am Arbeitsplatz beweisen – mit der Zwei-Monats-Frist des AGG: [Sexuelle Belästigung am Arbeitsplatz beweisen: die Zwei-Monats-Frist, § 14 AGG – und was Sie aufnehmen dürfen](/blog/de/sexuelle-belaestigung/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Ausschlussfristen können kurz sein; im Einzelfall eine Fachanwältin oder einen Fachanwalt für Arbeitsrecht fragen.</p>

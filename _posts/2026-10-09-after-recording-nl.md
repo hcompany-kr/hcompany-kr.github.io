@@ -117,4 +117,6 @@ Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het o
 
 Hoe je pesten op het werk bewijst en waar je het meldt, staat in [Pesten op het werk bewijzen: opnemen, melden en wat de wet van je werkgever vraagt](/blog/nl/pesten-op-het-werk/).
 
+Hoe je seksuele intimidatie op het werk meldt en bewijst, staat in [Seksuele intimidatie op het werk: melden, bewijzen en waarom je eigen opname telt](/blog/nl/seksuele-intimidatie/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen en verspreiden verschillen per land.</p>

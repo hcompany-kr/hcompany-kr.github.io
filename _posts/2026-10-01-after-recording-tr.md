@@ -114,4 +114,6 @@ Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın ist
 
 İş yerinde mobbingin nasıl ispatlanacağı ve ses kaydının riskleri [İş yerinde mobbing nasıl ispatlanır? Ses kaydı, tanık ve haklı fesih](/blog/tr/mobbing/) yazısında.
 
+İş yerinde cinsel tacize uğrayınca ne yapılacağı, TCK 105 ve haklı fesih [İş yerinde cinsel tacize uğradım, ne yapmalıyım? TCK 105, haklı fesih ve ses kaydı](/blog/tr/cinsel-taciz/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

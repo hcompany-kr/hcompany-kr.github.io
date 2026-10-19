@@ -130,4 +130,6 @@ Filmer ou enregistrer la police lors d'un contrôle, pays par pays : [Peut-on fi
 
 Comment prouver le harcèlement moral au travail, et quand un enregistrement peut servir : [Comment prouver le harcèlement moral au travail ? Charge de la preuve, enregistrement et ce qui compte vraiment](/blog/fr/harcelement-moral/).
 
+Harcèlement sexuel au travail : ce que la loi demande de prouver, et ce que vous pouvez enregistrer : [Harcèlement sexuel au travail sans preuve ? Ce que la loi demande vraiment, et ce que vous pouvez enregistrer](/blog/fr/harcelement-sexuel/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Les décisions citées ont été vérifiées à la date de publication ; la jurisprudence évolue. Pour un cas précis, consultez un avocat.</p>

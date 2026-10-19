@@ -93,4 +93,6 @@ Là où tout le monde est d'accord — par exemple un entretien avec les RH que 
 
 Ce qu'il faut faire d'un enregistrement ensuite : [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
 
+Harcèlement sexuel au travail : ce que la loi demande de prouver, et ce que vous pouvez enregistrer : [Harcèlement sexuel au travail sans preuve ? Ce que la loi demande vraiment, et ce que vous pouvez enregistrer](/blog/fr/harcelement-sexuel/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Pour un cas précis, consultez un avocat en droit du travail.</p>

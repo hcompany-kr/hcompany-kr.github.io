@@ -114,4 +114,6 @@ Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy 
 
 Jak udowodnić mobbing w pracy i co zmienia nowa definicja od 5 listopada 2026 r., opisuje [Jak udowodnić mobbing w pracy? Nagrywanie, świadkowie i nowa definicja od 5 listopada 2026](/blog/pl/mobbing/).
 
+Jak udowodnić molestowanie seksualne w pracy i gdzie je zgłosić, opisuje [Molestowanie seksualne w pracy: jak udowodnić, gdzie zgłosić i dlaczego nagranie się liczy](/blog/pl/molestowanie-w-pracy/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna — zasady nagrywania i rozpowszechniania różnią się w zależności od kraju.</p>

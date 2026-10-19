@@ -107,4 +107,6 @@ Jeśli pracujesz w **Niemczech**, zasady są inne: nie ma tam ustawy o mobbingu,
 
 Co zrobić z nagraniem potem: [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
 
+Jak udowodnić molestowanie seksualne w pracy i gdzie je zgłosić, opisuje [Molestowanie seksualne w pracy: jak udowodnić, gdzie zgłosić i dlaczego nagranie się liczy](/blog/pl/molestowanie-w-pracy/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Opis nowelizacji opiera się na komentarzach do ustawy; w konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>
