@@ -119,4 +119,6 @@ Hoe je pesten op het werk bewijst en waar je het meldt, staat in [Pesten op het 
 
 Hoe je seksuele intimidatie op het werk meldt en bewijst, staat in [Seksuele intimidatie op het werk: melden, bewijzen en waarom je eigen opname telt](/blog/nl/seksuele-intimidatie/).
 
+Geld geleend zonder contract: hoe je het bewijst en waarom een mondelinge herinnering de verjaring niet stuit, staat in [Geld geleend aan een vriend en niet terugbetaald: bewijzen zonder contract, en waarom een mondelinge herinnering niet telt](/blog/nl/geld-geleend/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen en verspreiden verschillen per land.</p>

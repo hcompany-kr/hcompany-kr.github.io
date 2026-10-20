@@ -107,4 +107,6 @@ Jak udowodnić mobbing w pracy i co zmienia nowa definicja od 5 listopada 2026 r
 
 Jak udowodnić molestowanie seksualne w pracy i gdzie je zgłosić, opisuje [Molestowanie seksualne w pracy: jak udowodnić, gdzie zgłosić i dlaczego nagranie się liczy](/blog/pl/molestowanie-w-pracy/).
 
+Jak odzyskać pieniądze pożyczone bez umowy i kiedy roszczenie się przedawnia, opisuje [Pożyczyłem pieniądze bez umowy. Jak je odzyskać i jak udowodnić, że to była pożyczka?](/blog/pl/pozyczka-bez-umowy/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

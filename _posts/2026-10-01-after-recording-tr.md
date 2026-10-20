@@ -116,4 +116,6 @@ Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın ist
 
 İş yerinde cinsel tacize uğrayınca ne yapılacağı, TCK 105 ve haklı fesih [İş yerinde cinsel tacize uğradım, ne yapmalıyım? TCK 105, haklı fesih ve ses kaydı](/blog/tr/cinsel-taciz/) yazısında.
 
+Senetsiz verilen borcun nasıl ispat edileceği ve zamanaşımı [Borç verdim, senet yok, geri alamıyorum: nasıl ispat edilir, ne kadar sürem var?](/blog/tr/borc-verdim/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

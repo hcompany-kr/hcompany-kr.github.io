@@ -126,4 +126,6 @@ Como provar assédio moral no trabalho, e por que a gravação da conversa da qu
 
 Como provar assédio sexual no trabalho, e a diferença entre assédio e importunação sexual, está em [Assédio sexual no trabalho: como provar, o que é crime e por que a gravação conta](/blog/pt-br/assedio-sexual/).
 
+Como provar um empréstimo sem contrato e quanto tempo você tem para cobrar está em [Emprestei dinheiro e a pessoa não pagou: como provar sem contrato e quanto tempo você tem](/blog/pt-br/emprestei-dinheiro/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. As decisões citadas foram verificadas na data de publicação; a jurisprudência muda. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

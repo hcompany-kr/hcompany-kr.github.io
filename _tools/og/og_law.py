@@ -223,6 +223,53 @@ CARDS = {
        ('लिखित शिकायत, 3 महीने में', '3 महीने तक बढ़ सकती है — धारा 9', True),
        ('यौन उत्पीड़न अपराध भी', 'भारतीय न्याय संहिता, धारा 75', True),
        ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
+ ('geld-verliehen', 'de'): (dict(eyebrow='GELD · DARLEHEN', title='Geld verliehen ohne Vertrag', sub='Beweis, Verjährung und Anerkenntnis – DE und CH.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'CH'], rows=[
+       ('Darlehen mündlich wirksam', 'Beweis beim Gläubiger', (True, None)),
+       ('Lange Verjährung', 'DE 3 Jahre · CH 10 Jahre', (False, True)),
+       ('Anerkenntnis startet Frist neu', '§ 212 BGB · Art. 135 OR', (True, True)),
+       ('Gespräch heimlich aufnehmen', '§ 201 · Art. 179ter', (False, False)),
+       ('Aufnahme mit Einwilligung', 'das „Ja“ ist in der Datei', (True, True))]), '.title{font-size:56px}.cmp td.m{width:62px}'),
+ ('pret-entre-particuliers', 'fr'): (dict(eyebrow='ARGENT · PRÊT', title='Prêt entre particuliers sans écrit', sub='Preuve, prescription et reconnaissance de dette.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH'], rows=[
+       ('Écrit exigé au-delà de', 'FR 1 500 € · BE 3 500 €', (True, True, None)),
+       ('Relance interrompt la prescription', 'Cass. com. 18 mai 2022', (False, None, None)),
+       ('Reconnaissance du débiteur interrompt', 'art. 2240 · 135 CO', (True, True, True)),
+       ('Enregistrer sa conversation', 'sans consentement', (False, True, False))]), '.title{font-size:54px}.cmp td.m{width:58px}'),
+ ('borc-verdim', 'tr'): (dict(eyebrow='PARA · BORÇ', title='Borç verdim, senet yok', sub='HMK 200, delil başlangıcı ve zamanaşımı.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('Borçlunun WhatsApp mesajı', 'delil başlangıcı — Yargıtay 2024', True),
+       ('Yakın akrabalar arası borç', 'tanık dinlenebilir — HMK 203', True),
+       ('İhtarname zamanaşımını keser', 'kesmez; ikrar keser', False),
+       ('Konuşmayı rızasız kaydetmek', 'suç — TCK 133/2', False)]), '.title{font-size:58px}'),
+ ('emprestei-dinheiro', 'pt-br'): (dict(eyebrow='DINHEIRO · EMPRÉSTIMO', title='Emprestei dinheiro e não me pagaram', sub='Prova sem contrato, WhatsApp e prescrição.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Empréstimo verbal acima de 2 500 €', 'PT: exige documento assinado', (True, False)),
+       ('Reconhecimento interrompe prazo', 'CC art. 202, VI', (True, None)),
+       ('Gravar a própria conversa', 'sem o outro saber', (True, False)),
+       ('Gravar com consentimento', 'a resposta fica no arquivo', (True, True))]), '.title{font-size:54px}'),
+ ('pozyczka-bez-umowy', 'pl'): (dict(eyebrow='PIENIĄDZE · POŻYCZKA', title='Pożyczka bez umowy: jak odzyskać pieniądze?', sub='Art. 720, 74, 118 i 123 Kodeksu cywilnego.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Umowa bez formy dokumentowej ważna', 'ogranicza tylko dowody — art. 74', True),
+       ('Wiadomość od dłużnika', 'może uprawdopodobnić pożyczkę', True),
+       ('Uznanie długu przerywa przedawnienie', 'art. 123 § 1 pkt 2 k.c.', True),
+       ('Nagranie rozmowy, w której uczestniczysz', 'co do zasady dozwolone', True)]), '.title{font-size:52px}'),
+ ('geld-geleend', 'nl'): (dict(eyebrow='GELD · LENING', title='Geld geleend en niet terugbetaald', sub='Bewijs, verjaring en stuiting in NL en BE.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Mondelinge herinnering stuit', 'NL: alleen schriftelijk — 3:317', (False, None)),
+       ('Erkenning door schuldenaar stuit', 'ook mondeling — 3:318', (True, True)),
+       ('Eigen gesprek opnemen', 'zonder toestemming', (True, True))]), '.title{font-size:54px}'),
+ ('pujcka-bez-smlouvy', 'cs'): (dict(eyebrow='PENÍZE · PŮJČKA', title='Půjčka bez smlouvy', sub='Důkaz, promlčení a uznání dluhu.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Písemné uznání: nová lhůta 10 let', '§ 639 · § 558', (True, True)),
+       ('Ústní slib prodlouží promlčení', 'nestačí', (False, False)),
+       ('Vlastní rozhovor bez svolení', 'k ochraně svých práv', (True, False))]), '.title{font-size:58px}'),
+ ('lent-money', 'hi'): (dict(eyebrow='पैसा · उधार', title='उधार दिए पैसे वापस कैसे लें', sub='सबूत, 3 साल की समय-सीमा और चेक बाउंस।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('मुकदमे की समय-सीमा', 'उधार देने की तारीख़ से 3 साल', True),
+       ('ज़बानी "लौटा दूँगा" से अवधि बढ़ती है', 'नहीं — लिखित, हस्ताक्षरित स्वीकृति', False),
+       ('चेक बाउंस पर नोटिस', '30 दिन में — धारा 138', True),
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
 }
 
 if __name__ == '__main__':

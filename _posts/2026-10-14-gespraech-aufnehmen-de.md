@@ -128,4 +128,6 @@ Wie man Mobbing am Arbeitsplatz beweist – und warum die heimliche Aufnahme in 
 
 Sexuelle Belästigung am Arbeitsplatz beweisen – mit der Zwei-Monats-Frist des AGG: [Sexuelle Belästigung am Arbeitsplatz beweisen: die Zwei-Monats-Frist, § 14 AGG – und was Sie aufnehmen dürfen](/blog/de/sexuelle-belaestigung/).
 
+Geld verliehen ohne Vertrag – wie man beweist, dass es ein Darlehen war, und wann es verjährt: [Geld verliehen ohne Vertrag – und jetzt war es angeblich ein Geschenk](/blog/de/geld-verliehen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die genannten Entscheidungen wurden zum Zeitpunkt der Veröffentlichung geprüft; die Rechtsprechung entwickelt sich weiter. Im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

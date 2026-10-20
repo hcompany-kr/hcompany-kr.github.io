@@ -107,3 +107,5 @@ Por que apertar gravar já é tarde demais está em [Por que apertar gravar é s
 O que fazer com o arquivo depois, e por que divulgar tem regras próprias, está em [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/).
 
 O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).
+
+Como provar um empréstimo sem contrato e quanto tempo você tem para cobrar está em [Emprestei dinheiro e a pessoa não pagou: como provar sem contrato e quanto tempo você tem](/blog/pt-br/emprestei-dinheiro/).

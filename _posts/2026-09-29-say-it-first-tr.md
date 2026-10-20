@@ -109,3 +109,5 @@ Kayıt tuşuna neden zaten geç basıldığı [Kayıt tuşuna neden hep geç bas
 Kayıttan sonra dosyayla ne yapılacağı ve yaymanın neden ayrı kuralları olduğu [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/) yazısında.
 
 Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.
+
+Senetsiz verilen borcun nasıl ispat edileceği ve zamanaşımı [Borç verdim, senet yok, geri alamıyorum: nasıl ispat edilir, ne kadar sürem var?](/blog/tr/borc-verdim/) yazısında.

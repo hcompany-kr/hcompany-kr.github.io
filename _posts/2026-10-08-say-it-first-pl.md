@@ -107,3 +107,5 @@ Dlaczego przycisk nagrywania i tak wciskasz za późno, opisuje [Dlaczego przyci
 Co zrobić z plikiem po nagraniu — i dlaczego rozpowszechnianie to osobna sprawa — opisuje [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
 
 Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).
+
+Jak odzyskać pieniądze pożyczone bez umowy i kiedy roszczenie się przedawnia, opisuje [Pożyczyłem pieniądze bez umowy. Jak je odzyskać i jak udowodnić, że to była pożyczka?](/blog/pl/pozyczka-bez-umowy/).
