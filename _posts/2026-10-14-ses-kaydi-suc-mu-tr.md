@@ -118,4 +118,6 @@ Polisi kaydetmeyi yasaklayan EGM genelgesinin Danıştay tarafından iptali ve p
 
 Senetsiz verilen borcun nasıl ispat edileceği ve zamanaşımı [Borç verdim, senet yok, geri alamıyorum: nasıl ispat edilir, ne kadar sürem var?](/blog/tr/borc-verdim/) yazısında.
 
+Ev sahibi depozitoyu vermediğinde üç aylık sınır, banka hesabı ve teslimdeki bildirim şartı [Ev sahibi depozitoyu vermiyor: üç aylık sınır, banka hesabı ve teslimdeki bildirim şartı](/blog/tr/kira-depozitosu/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Yargıtay'ın istisnası somut olaya göre değerlendirilir; somut bir durum için bir avukata danışın.</p>

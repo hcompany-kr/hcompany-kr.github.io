@@ -270,6 +270,55 @@ CARDS = {
        ('ज़बानी "लौटा दूँगा" से अवधि बढ़ती है', 'नहीं — लिखित, हस्ताक्षरित स्वीकृति', False),
        ('चेक बाउंस पर नोटिस', '30 दिन में — धारा 138', True),
        ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
+ ('kaution-zurueck', 'de'): (dict(eyebrow='WOHNEN · KAUTION', title='Vermieter zahlt die Kaution nicht zurück', sub='Höchstbetrag, Frist, Abnutzung – DE und CH.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'CH'], rows=[
+       ('Höchstens drei Monatsmieten', '§ 551 BGB · Art. 257e OR', (True, True)),
+       ('Feste Rückzahlungsfrist', 'DE: meist bis 6 Monate · CH: 1 Jahr', (False, True)),
+       ('Normale Abnutzung zahlt der Mieter', '§ 538 BGB', (False, None)),
+       ('Übergabe heimlich aufnehmen', '§ 201 · Art. 179ter', (False, False)),
+       ('Aufnahme mit Einwilligung', 'das „Ja“ ist in der Datei', (True, True))]), '.title{font-size:52px}.cmp td.m{width:62px}'),
+ ('caution-non-rendue', 'fr'): (dict(eyebrow='LOGEMENT · CAUTION', title='Caution non rendue : que dit la loi ?', sub='Plafond, délais et majoration de 10 %.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'CH', 'QC'], rows=[
+       ('Dépôt de garantie permis', 'FR 1 mois · CH 3 mois · QC interdit', (True, True, False)),
+       ('Pénalité de retard', '+10 % du loyer par mois', (True, None, None)),
+       ('Enregistrer sa conversation', 'sans consentement', (False, False, True)),
+       ('Enregistrer avec son accord', 'la réponse est dans le fichier', (True, True, True))]), '.title{font-size:54px}.cmp td.m{width:58px}'),
+ ('kira-depozitosu', 'tr'): (dict(eyebrow='KONUT · DEPOZİTO', title='Ev sahibi depozitoyu vermiyor', sub='TBK 342, 334 ve 335 — bir bakışta.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('En fazla üç aylık kira', 'vadeli hesapta — TBK 342', True),
+       ('Olağan eskime kesilebilir', 'kesilemez — TBK 334', False),
+       ('Ev sahibi teslimde yazılı bildirmeli', 'derhal — TBK 335', True),
+       ('Konuşmayı rızasız kaydetmek', 'suç — TCK 133/2', False)]), '.title{font-size:56px}'),
+ ('caucao-aluguel', 'pt-br'): (dict(eyebrow='MORADIA · CAUÇÃO', title='Caução do aluguel não devolvida', sub='Lei do Inquilinato, vistoria e gravação lícita.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Limite da caução', 'BR 3 aluguéis · PT 2 rendas', (True, True)),
+       ('Desgaste normal descontado', 'BR: art. 23, III', (False, None)),
+       ('Gravar a própria conversa', 'sem o outro saber', (True, False)),
+       ('Gravar com consentimento', 'a resposta fica no arquivo', (True, True))]), '.title{font-size:56px}'),
+ ('zwrot-kaucji', 'pl'): (dict(eyebrow='MIESZKANIE · KAUCJA', title='Wynajmujący nie oddaje kaucji', sub='Art. 6 ustawy o ochronie praw lokatorów i art. 675 k.c.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Zwrot w ciągu miesiąca', 'od opróżnienia lokalu', True),
+       ('Kwota zwaloryzowana', 'według czynszu z dnia zwrotu', True),
+       ('Potrącenie za normalne zużycie', 'niedopuszczalne — art. 675 k.c.', False),
+       ('Nagranie rozmowy, w której uczestniczysz', 'co do zasady dozwolone', True)]), '.title{font-size:54px}'),
+ ('borg-terug', 'nl'): (dict(eyebrow='WONEN · BORG', title='Verhuurder betaalt de borg niet terug', sub='Wet goed verhuurderschap en art. 7:224 BW.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_rules,
+     cap='Nederland', rows=[
+       ('Maximaal twee maanden kale huur', 'contracten vanaf 1 juli 2023', True),
+       ('Terug binnen 14 dagen', '30 dagen bij verrekening', True),
+       ('Administratiekosten verrekenen', 'niet toegestaan', False),
+       ('Eigen gesprek opnemen', 'ook in België', True)]), '.title{font-size:52px}'),
+ ('vraceni-kauce', 'cs'): (dict(eyebrow='BYDLENÍ · KAUCE', title='Pronajímatel nevrátil kauci', sub='§ 2254 občanského zákoníku a předání bytu.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_rules,
+     cap='Česká republika', rows=[
+       ('Nejvýše trojnásobek nájemného', '§ 2254 obč. zák.', True),
+       ('Vrácení s úroky', 'alespoň zákonná sazba', True),
+       ('Strhnout obvyklé opotřebení', 'nelze', False),
+       ('Nahrát vlastní rozhovor při předání', 'k ochraně práv — § 88', True)]), '.title{font-size:56px}'),
+ ('security-deposit', 'hi'): (dict(eyebrow='किराया · डिपॉज़िट', title='सिक्योरिटी डिपॉज़िट वापस नहीं मिला', sub='मॉडल अधिनियम, धारा 108(m) और रिकॉर्डिंग।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('देशभर पर लागू डिपॉज़िट कानून', 'नहीं — मॉडल अधिनियम राज्यों के लिए', False),
+       ('मॉडल अधिनियम: आवासीय सीमा', 'दो महीने का किराया', True),
+       ('सामान्य टूट-फूट किरायेदार पर', 'नहीं — धारा 108(m)', False),
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
 }
 
 if __name__ == '__main__':

@@ -121,4 +121,6 @@ Sexuelle Belästigung am Arbeitsplatz beweisen – mit der Zwei-Monats-Frist des
 
 Geld verliehen ohne Vertrag – wie man beweist, dass es ein Darlehen war, und wann es verjährt: [Geld verliehen ohne Vertrag – und jetzt war es angeblich ein Geschenk](/blog/de/geld-verliehen/).
 
+Wenn der Vermieter die Kaution nicht zurückzahlt – Höchstbetrag, Frist und was die Übergabe entscheidet: [Vermieter zahlt die Kaution nicht zurück: Wie lange er warten darf und was die Wohnungsübergabe entscheidet](/blog/de/kaution-zurueck/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung – das Recht zum Aufnehmen und Weitergeben unterscheidet sich von Land zu Land.</p>

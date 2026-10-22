@@ -107,4 +107,6 @@ Die österreichische Rechtslage zu Verjährung und Anerkenntnis ist hier nicht a
 
 Was man mit einer Aufnahme danach tut: [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
 
+Wenn der Vermieter die Kaution nicht zurückzahlt – Höchstbetrag, Frist und was die Übergabe entscheidet: [Vermieter zahlt die Kaution nicht zurück: Wie lange er warten darf und was die Wohnungsübergabe entscheidet](/blog/de/kaution-zurueck/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Verjährungsfristen laufen auch, wenn man nicht an sie denkt; im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

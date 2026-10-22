@@ -128,4 +128,6 @@ Como provar assédio sexual no trabalho, e a diferença entre assédio e importu
 
 Como provar um empréstimo sem contrato e quanto tempo você tem para cobrar está em [Emprestei dinheiro e a pessoa não pagou: como provar sem contrato e quanto tempo você tem](/blog/pt-br/emprestei-dinheiro/).
 
+Caução do aluguel não devolvida: o limite de três aluguéis e o peso da vistoria de saída estão em [Caução do aluguel não devolvida: o limite de três meses, a vistoria de saída e o que o proprietário pode descontar](/blog/pt-br/caucao-aluguel/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. As decisões citadas foram verificadas na data de publicação; a jurisprudência muda. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

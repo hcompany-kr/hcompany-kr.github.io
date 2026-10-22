@@ -101,4 +101,6 @@ Avec son accord, c'est simple — et pour une histoire d'argent, la raison se do
 
 Ce qu'il faut faire d'un enregistrement ensuite : [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
 
+Caution non rendue : délais, pénalité de 10 % et état des lieux de sortie : [Caution non rendue : les délais, la pénalité de 10 % et ce que change l'état des lieux de sortie](/blog/fr/caution-non-rendue/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Les délais de prescription courent même si l'on n'y pense pas ; pour un cas précis, consultez un avocat.</p>

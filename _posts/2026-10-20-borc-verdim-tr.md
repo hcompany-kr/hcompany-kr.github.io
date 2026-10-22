@@ -98,4 +98,6 @@ Kendi kaydınızın delil değeri her durumda yazılı mesajın yerini tutmaz; k
 
 Kayıtla sonra ne yapılır, ne yapılmaz: [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/).
 
+Ev sahibi depozitoyu vermediğinde üç aylık sınır, banka hesabı ve teslimdeki bildirim şartı [Ev sahibi depozitoyu vermiyor: üç aylık sınır, banka hesabı ve teslimdeki bildirim şartı](/blog/tr/kira-depozitosu/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Parasal sınırlar her yıl değişir; somut bir durum için bir avukata danışın.</p>

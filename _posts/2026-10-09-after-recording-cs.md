@@ -119,4 +119,6 @@ Co je sexuální obtěžování na pracovišti a co musíte prokázat, popisuje 
 
 Jak prokázat půjčku bez smlouvy a kdy se promlčí, popisuje [Půjčil jsem peníze bez smlouvy. Jak to dokázat a kolik mám času?](/blog/cs/pujcka-bez-smlouvy/).
 
+Co dělat, když pronajímatel nevrátil kauci, popisuje [Pronajímatel nevrátil kauci: trojnásobek nájemného, úroky a co rozhoduje při předání bytu](/blog/cs/vraceni-kauce/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání a šíření se v jednotlivých zemích liší.</p>

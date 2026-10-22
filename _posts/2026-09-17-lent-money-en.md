@@ -54,7 +54,7 @@ A year later you brought it up, carefully.
 | Argentina | 5 years | Yes. Acknowledgment by the debtor | — |
 | Italy | 10 years | Yes. Tacit acknowledgment included | — |
 
-The US, Canada and Australia set these rules state by state or province by province, so we have used representative jurisdictions. Mexican states have their own civil codes; the row reflects the federal code. Blank cells are ones we did not verify. Ireland, Germany, France and Brazil are not included because we have not researched them.
+The US, Canada and Australia set these rules state by state or province by province, so we have used representative jurisdictions. Mexican states have their own civil codes; the row reflects the federal code. Blank cells are ones we did not verify. Ireland is not included because we have not researched it. Germany, France and Brazil are covered in their own languages: [Geld verliehen ohne Vertrag](/blog/de/geld-verliehen/) (Germany and Switzerland), [Prêt d'argent entre particuliers](/blog/fr/pret-entre-particuliers/) (France, Belgium and Switzerland) and [Emprestei dinheiro e a pessoa não pagou](/blog/pt-br/emprestei-dinheiro/) (Brazil and Portugal).
 
 The column that splits the table is the third one. **In the English-speaking jurisdictions we checked, a debtor who only says they will pay does not restart the limitation period. In the civil-law countries, they do.**
 
