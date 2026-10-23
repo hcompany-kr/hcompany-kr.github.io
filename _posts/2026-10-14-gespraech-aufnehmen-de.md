@@ -4,6 +4,7 @@ ref: recording-law-de
 categories: de
 permalink: /blog/de/gespraech-aufnehmen/
 date: 2026-10-14
+last_modified_at: 2026-10-23
 eyebrow: Recht
 title: "Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt"
 description: "Wer ein Gespräch ohne Einwilligung aufnimmt, macht sich in Deutschland und der Schweiz auch als Teilnehmer strafbar. In Österreich, Liechtenstein und Belgien nicht – dort ist die Weitergabe das Problem. Was § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte sagen."
@@ -133,5 +134,12 @@ Geld verliehen ohne Vertrag – wie man beweist, dass es ein Darlehen war, und w
 Wenn der Vermieter die Kaution nicht zurückzahlt – Höchstbetrag, Frist und was die Übergabe entscheidet: [Vermieter zahlt die Kaution nicht zurück: Wie lange er warten darf und was die Wohnungsübergabe entscheidet](/blog/de/kaution-zurueck/).
 
 Wie man Stalking beweist und ein Stalking-Tagebuch führt: [Stalking beweisen: Was § 238 StGB verlangt und wie man ein Stalking-Tagebuch führt](/blog/de/stalking-beweisen/).
+
+## Quellen
+
+- [§ 201 StGB – Verletzung der Vertraulichkeit des Wortes (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/stgb/__201.html)
+- [BVerfG, Beschluss vom 9. Oktober 2002, 1 BvR 1611/96 (Bundesverfassungsgericht)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2002/10/rs20021009_1bvr161196.html)
+- [Schweizerisches Strafgesetzbuch, Art. 179ter und 179quinquies (Fedlex)](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_179_ter)
+- [Schweizerische Zivilprozessordnung, Art. 152 (Fedlex)](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_152)
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die genannten Entscheidungen wurden zum Zeitpunkt der Veröffentlichung geprüft; die Rechtsprechung entwickelt sich weiter. Im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>
