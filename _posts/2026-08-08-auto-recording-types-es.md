@@ -4,6 +4,7 @@ ref: auto-recording-types
 categories: es
 permalink: /blog/es/auto-recording-types/
 date: 2026-08-08
+last_modified_at: 2026-08-13
 eyebrow: Grabación
 title: "\"Grabación automática\" no significa lo mismo en todas las aplicaciones"
 description: "En Android hay cinco cosas distintas que se llaman grabación automática. Qué dispara cada una y qué se le escapa a cada una."

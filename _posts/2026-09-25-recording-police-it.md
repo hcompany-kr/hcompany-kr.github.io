@@ -4,6 +4,7 @@ ref: recording-police
 categories: it
 permalink: /blog/it/recording-police/
 date: 2026-09-25
+last_modified_at: 2026-10-23
 eyebrow: Diritto
 title: "Si può registrare la polizia? Tredici paesi a confronto"
 description: "Una conversazione con un agente resta una conversazione a cui partecipi. Se tredici paesi permettono di registrare o filmare le forze dell'ordine, e dove passa il limite."

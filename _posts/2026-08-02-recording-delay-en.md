@@ -4,6 +4,7 @@ ref: recording-delay
 categories: en
 permalink: /blog/en/recording-delay/
 date: 2026-08-02
+last_modified_at: 2026-08-03
 eyebrow: Recording
 title: "Why hitting record is always too late"
 description: "By the time you realise a conversation needs recording, the words you needed are already gone. Two ways to close that gap."

@@ -3,6 +3,7 @@ lang: ko
 ref: recording-delay
 categories: ko
 date: 2026-08-02
+last_modified_at: 2026-08-03
 eyebrow: 녹음
 title: "녹음 버튼을 누르면 이미 늦는 이유"
 description: "녹음이 필요하다고 깨닫는 순간, 정작 남겨야 할 말은 방금 지나가 있습니다. 이 시간차를 없애는 두 가지 방법을 정리했습니다."

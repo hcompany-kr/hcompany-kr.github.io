@@ -4,6 +4,7 @@ ref: hands-free-recording
 categories: de
 permalink: /blog/de/hands-free-recording/
 date: 2026-09-26
+last_modified_at: 2026-10-01
 eyebrow: Anleitung
 title: "Aufnahme starten, ohne das Telefon zu berühren"
 description: "Vier Wege, auf Android freihändig eine Aufnahme zu starten, was jeder davon tatsächlich voraussetzt und welche auch bei gesperrtem Bildschirm und Telefon in der Tasche funktionieren."

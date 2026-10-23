@@ -4,6 +4,7 @@ ref: after-recording
 categories: es
 permalink: /blog/es/after-recording/
 date: 2026-08-26
+last_modified_at: 2026-10-08
 eyebrow: Cómo hacerlo
 title: "Qué hacer con una grabación, y qué no hacer con ella"
 description: "Cómo conservar el archivo, cómo dejar solo la parte que importa y dónde presentarlo. La mayoría de los problemas aparecen después de grabar, no mientras se graba."

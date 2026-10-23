@@ -4,6 +4,7 @@ ref: after-recording
 categories: de
 permalink: /blog/de/after-recording/
 date: 2026-10-01
+last_modified_at: 2026-10-08
 eyebrow: Anleitung
 title: "Was man mit einer Aufnahme tun sollte – und was nicht"
 description: "Wie man die Datei aufbewahrt, auf das Wesentliche kürzt und wo man sie einreicht. Und warum das Weitergeben in Deutschland, Österreich, der Schweiz, Liechtenstein, Luxemburg und Belgien eigene Regeln hat."

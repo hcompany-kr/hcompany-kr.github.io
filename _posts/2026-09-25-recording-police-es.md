@@ -4,6 +4,7 @@ ref: recording-police
 categories: es
 permalink: /blog/es/recording-police/
 date: 2026-09-25
+last_modified_at: 2026-10-23
 eyebrow: Derecho
 title: "¿Se puede grabar a la policía? Trece países comparados"
 description: "Una conversación con un agente sigue siendo una conversación en la que participas. Si trece países permiten grabar o filmar a la policía, y dónde está el límite."

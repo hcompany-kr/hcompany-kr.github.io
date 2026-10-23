@@ -14,7 +14,8 @@
 {% for p in siblings %}
 <link rel="alternate" hreflang="{{ p.lang }}" href="{{ p.url | absolute_url }}">
 {% endfor %}
-<link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
+{% assign xdef = siblings | where: "lang", "en" | first %}
+<link rel="alternate" hreflang="x-default" href="{% if xdef %}{{ xdef.url | absolute_url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
 
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ page.title }}">
@@ -42,11 +43,12 @@
   "description": {{ page.description | jsonify }},
   "inLanguage": {{ page.lang | jsonify }},
   "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
   "mainEntityOfPage": {{ page.url | absolute_url | jsonify }},
   {% if page.image %}"image": [{{ page.image | absolute_url | jsonify }}],{% endif %}
-  "author": { "@type": "Organization", "name": {{ site.title | jsonify }} },
-  "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }} }
+  {% if page.app %}"about": { "@id": "{{ site.url }}/talksafe/{% unless page.lang == 'ko' %}{{ page.lang | downcase }}/{% endunless %}#app" },{% endif %}
+  "author": { "@type": "Organization", "name": {{ site.title | jsonify }}, "url": "{{ site.url }}/" },
+  "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }}, "url": "{{ site.url }}/" }
 }
 </script>
 
@@ -73,11 +75,14 @@
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
-  "name": "TalkSafe",
+  "@id": "{{ site.url }}/talksafe/{% unless page.lang == 'ko' %}{{ page.lang | downcase }}/{% endunless %}#app",
+  "name": "TalkSafe Auto Voice Recorder",
+  "alternateName": "TalkSafe",
   "operatingSystem": "Android",
   "applicationCategory": "UtilitiesApplication",
   "description": {{ page.app_description | jsonify }},
-  "url": "https://play.google.com/store/apps/details?id=com.lab525.talksafe"
+  "url": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
+  "sameAs": ["https://play.google.com/store/apps/details?id=com.lab525.talksafe"]
 }
 </script>
 {% endif %}

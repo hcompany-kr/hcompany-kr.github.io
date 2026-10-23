@@ -4,6 +4,7 @@ ref: after-recording
 categories: ja
 permalink: /blog/ja/after-recording/
 date: 2026-08-26
+last_modified_at: 2026-10-08
 eyebrow: 使い方
 title: "録音したあとにすべきことと、してはいけないこと"
 description: "ファイルをどう保管し、必要な部分だけをどう残し、どこに出すか。そして問題が起きるのは録音そのものではなく、たいていそのあとです。"

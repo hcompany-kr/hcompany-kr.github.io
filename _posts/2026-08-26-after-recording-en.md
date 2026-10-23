@@ -4,6 +4,7 @@ ref: after-recording
 categories: en
 permalink: /blog/en/after-recording/
 date: 2026-08-26
+last_modified_at: 2026-10-08
 eyebrow: How to
 title: "What to do with a recording, and what not to do with it"
 description: "How to keep the file, how to cut it down to the part that matters, and where to submit it. Most of the trouble people run into comes after the recording, not during it."

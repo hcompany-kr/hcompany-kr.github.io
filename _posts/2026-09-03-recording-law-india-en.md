@@ -4,6 +4,7 @@ ref: recording-law-india
 categories: en
 permalink: /blog/en/recording-law-india/
 date: 2026-09-03
+last_modified_at: 2026-10-14
 eyebrow: Law
 title: "In India the recording is the easy part. The certificate is not."
 description: "Recording a call you are in is generally permitted. Getting it into court now needs a certificate signed by an expert and a hash value — and in July 2025 the Supreme Court let a husband's secret recordings into a divorce case."

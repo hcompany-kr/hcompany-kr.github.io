@@ -3,6 +3,7 @@ lang: ko
 ref: workplace-harassment
 categories: ko
 date: 2026-08-03
+last_modified_at: 2026-08-04
 eyebrow: 직장
 title: "직장 내 괴롭힘, 신고하면 무슨 일이 일어나나"
 description: "법이 정한 요건, 신고했을 때 회사가 반드시 해야 하는 일, 그리고 그 과정에서 왜 기록이 필요한지 정리했습니다."

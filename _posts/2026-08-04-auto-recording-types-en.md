@@ -4,6 +4,7 @@ ref: auto-recording-types
 categories: en
 permalink: /blog/en/auto-recording-types/
 date: 2026-08-04
+last_modified_at: 2026-08-13
 eyebrow: Recording
 title: "Not every \"automatic\" recorder means the same thing"
 description: "On Android, automatic recording refers to five quite different things. What each one starts on, and which situations each one misses."

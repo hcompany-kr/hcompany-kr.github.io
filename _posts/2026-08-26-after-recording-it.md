@@ -4,6 +4,7 @@ ref: after-recording
 categories: it
 permalink: /blog/it/after-recording/
 date: 2026-08-26
+last_modified_at: 2026-10-08
 eyebrow: Come si fa
 title: "Cosa fare con una registrazione, e cosa non farne"
 description: "Come conservare il file, come tenere solo la parte che conta e dove depositarlo. La maggior parte dei problemi nasce dopo la registrazione, non durante."

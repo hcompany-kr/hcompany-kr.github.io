@@ -4,6 +4,7 @@ ref: auto-recording-types
 categories: ja
 permalink: /blog/ja/auto-recording-types/
 date: 2026-08-04
+last_modified_at: 2026-08-13
 eyebrow: 録音
 title: "「自動録音」と書いてあっても、中身は同じではありません"
 description: "Androidで自動録音と呼ばれるものは五種類あります。それぞれ何をきっかけに始まり、何を取りこぼすのか。"

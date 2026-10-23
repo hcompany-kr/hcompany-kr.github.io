@@ -4,6 +4,7 @@ ref: after-recording
 categories: tr
 permalink: /blog/tr/after-recording/
 date: 2026-10-01
+last_modified_at: 2026-10-08
 eyebrow: Nasıl yapılır
 title: "Bir kayıtla ne yapmalı, ne yapmamalı"
 description: "Dosyayı nasıl saklamalı, önemli kısma nasıl indirmeli ve nereye sunmalı. Ve Türkiye'de kaydı yaymanın neden kaydetmekten ayrı bir suç olduğu."

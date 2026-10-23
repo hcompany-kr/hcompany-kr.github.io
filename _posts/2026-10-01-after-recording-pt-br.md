@@ -4,6 +4,7 @@ ref: after-recording
 categories: pt-br
 permalink: /blog/pt-br/after-recording/
 date: 2026-10-01
+last_modified_at: 2026-10-08
 eyebrow: Como fazer
 title: "O que fazer com uma gravação, e o que não fazer"
 description: "Como guardar o arquivo, como cortar só a parte que importa e onde apresentar. E por que divulgar uma gravação tem regras próprias no Brasil e em Portugal, mesmo quando gravar era permitido."

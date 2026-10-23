@@ -3,6 +3,7 @@ lang: ko
 ref: auto-recording-types
 categories: ko
 date: 2026-08-04
+last_modified_at: 2026-08-13
 eyebrow: 녹음
 title: "자동 녹음 앱이라고 해서 다 같은 게 아닙니다"
 description: "안드로이드에서 '자동 녹음'은 앱마다 다른 것을 가리킵니다. 다섯 가지 방식이 각각 무엇이고 어떤 상황에 맞는지 정리했습니다."

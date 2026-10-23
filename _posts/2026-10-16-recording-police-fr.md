@@ -4,6 +4,7 @@ ref: recording-police
 categories: fr
 permalink: /blog/fr/recording-police/
 date: 2026-10-16
+last_modified_at: 2026-10-23
 eyebrow: Droit
 title: "Peut-on filmer ou enregistrer la police ? France, Belgique, Suisse et Québec"
 description: "Filmer une intervention policière sur la voie publique est admis en France et en Belgique ; le Conseil constitutionnel a censuré en 2021 l'article qui visait l'identification des policiers. Le son est plus délicat : l'article 226-1 en France, et en Suisse le Tribunal fédéral a condamné l'enregistrement caché d'un policier."
