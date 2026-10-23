@@ -132,4 +132,6 @@ Geld verliehen ohne Vertrag – wie man beweist, dass es ein Darlehen war, und w
 
 Wenn der Vermieter die Kaution nicht zurückzahlt – Höchstbetrag, Frist und was die Übergabe entscheidet: [Vermieter zahlt die Kaution nicht zurück: Wie lange er warten darf und was die Wohnungsübergabe entscheidet](/blog/de/kaution-zurueck/).
 
+Wie man Stalking beweist und ein Stalking-Tagebuch führt: [Stalking beweisen: Was § 238 StGB verlangt und wie man ein Stalking-Tagebuch führt](/blog/de/stalking-beweisen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die genannten Entscheidungen wurden zum Zeitpunkt der Veröffentlichung geprüft; die Rechtsprechung entwickelt sich weiter. Im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

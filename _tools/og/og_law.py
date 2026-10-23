@@ -319,6 +319,49 @@ CARDS = {
        ('मॉडल अधिनियम: आवासीय सीमा', 'दो महीने का किराया', True),
        ('सामान्य टूट-फूट किरायेदार पर', 'नहीं — धारा 108(m)', False),
        ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
+ ('stalking-beweisen', 'de'): (dict(eyebrow='SICHERHEIT · STALKING', title='Stalking beweisen', sub='§ 238 StGB, § 107a StGB, Art. 181b StGB.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'AT', 'CH'], rows=[
+       ('Stalking strafbar', 'CH seit 1.1.2026', (True, True, True)),
+       ('Anrufe heimlich aufnehmen', '§ 201 · Art. 179ter', (False, True, False)),
+       ('Tagebuch mit eigener Stimme', 'direkt nach dem Vorfall', (True, True, True))]), '.title{font-size:60px}.cmp td.m{width:62px}'),
+ ('harcelement-preuves', 'fr'): (dict(eyebrow='SÉCURITÉ · HARCÈLEMENT', title='Harcèlement et stalking : réunir des preuves', sub='Art. 222-33-2-2, ordonnance de protection, 181b CP.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH', 'QC'], rows=[
+       ('Harcèlement puni', 'CH : stalking depuis 2026', (True, True, True, True)),
+       ('Enregistrer ses appels', 'sans consentement', (False, True, False, True)),
+       ('Journal avec sa propre voix', 'juste après les faits', (True, True, True, True))]), '.title{font-size:52px}.cmp td.m{width:54px}'),
+ ('israrli-takip', 'tr'): (dict(eyebrow='GÜVENLİK · ISRARLI TAKİP', title='Israrlı takip suçu nasıl ispatlanır?', sub='TCK 123/A, şikâyet süresi ve 6284 sayılı Kanun.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('Israrlı takip suçtur', '6 ay – 2 yıl; nitelikli 1 – 3 yıl', True),
+       ('Şikâyet gerekir', 'altı ay içinde', True),
+       ('Aramaları rızasız kaydetmek', 'riskli — TCK 133/2', False),
+       ('Kendi sesinizle olay notu', 'olaydan hemen sonra', True)]), '.title{font-size:54px}'),
+ ('crime-de-perseguicao', 'pt-br'): (dict(eyebrow='SEGURANÇA · PERSEGUIÇÃO', title='Crime de perseguição: como juntar provas', sub='Art. 147-A do CP, representação e gravação lícita.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Perseguição é crime', 'art. 147-A · art. 154.º-A', (True, True)),
+       ('Gravar a própria conversa', 'sem o outro saber', (True, False)),
+       ('Relato com a própria voz', 'logo depois', (True, True))]), '.title{font-size:52px}'),
+ ('uporczywe-nekanie', 'pl'): (dict(eyebrow='BEZPIECZEŃSTWO · STALKING', title='Uporczywe nękanie: jak zebrać dowody', sub='Art. 190a Kodeksu karnego — od 6 miesięcy do 8 lat.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Stalking jest przestępstwem', 'art. 190a § 1 k.k.', True),
+       ('Ściganie z urzędu', 'nie — na wniosek pokrzywdzonego', False),
+       ('Nagranie rozmowy, w której uczestniczysz', 'co do zasady dozwolone', True),
+       ('Datowany dziennik zdarzeń', 'zdarzenie po zdarzeniu', True)]), '.title{font-size:54px}'),
+ ('belaging', 'nl'): (dict(eyebrow='VEILIGHEID · BELAGING', title='Stalking (belaging) bewijzen', sub='Art. 285b Sr en art. 442bis Strafwetboek.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Belaging strafbaar', '285b Sr · 442bis Sw.', (True, True)),
+       ('Vervolging zonder klacht', 'NL: alleen op klacht', (False, None)),
+       ('Eigen gesprek opnemen', 'zonder toestemming', (True, True))]), '.title{font-size:58px}'),
+ ('nebezpecne-pronasledovani', 'cs'): (dict(eyebrow='BEZPEČÍ · STALKING', title='Nebezpečné pronásledování', sub='§ 354 trestního zákoníku a jak sbírat důkazy.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Stalking je trestný čin', '§ 354 · § 360a', (True, True)),
+       ('Vlastní rozhovor bez svolení', 'k ochraně svých práv', (True, False)),
+       ('Deník vlastním hlasem', 'hned po události', (True, True))]), '.title{font-size:58px}'),
+ ('stalking', 'hi'): (dict(eyebrow='सुरक्षा · स्टॉकिंग', title='स्टॉकिंग का सबूत कैसे जुटाएँ', sub='भारतीय न्याय संहिता, धारा 78 और हर घटना का रिकॉर्ड।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('स्टॉकिंग अपराध है', 'धारा 78 — पहले IPC 354D', True),
+       ('सज़ा', 'पहली बार 3 साल तक, दोबारा 5 साल तक', True),
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True),
+       ('तारीख़वार डायरी', 'हर घटना के तुरंत बाद', True)]), HI_CSS),
 }
 
 if __name__ == '__main__':

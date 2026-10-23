@@ -21,7 +21,7 @@ faq:
   - q: "¿Puedo publicar en redes el video de un agente?"
     a: "Depende del país. En España sigue siendo sancionable el uso de imágenes que pueda poner en peligro la seguridad de los agentes o de una operación. En Italia, la autoridad de protección de datos admite filmar a los agentes en servicio, pero aplica las normas de privacidad a la difusión de rostros identificables. Antes de publicar, conviene consultarlo con un abogado."
   - q: "¿Hay algún país donde grabar a la policía esté prohibido?"
-    a: "Entre los trece países revisados, ninguno prohíbe como tal grabar o filmar a la policía en servicio en un espacio público. El límite común es no obstaculizar la actuación policial. En Nueva Gales del Sur, Australia, la grabación de audio de una conversación privada está restringida por la ley de dispositivos de vigilancia."
+    a: "Entre los trece países revisados, ninguno prohíbe como tal grabar o filmar a la policía en servicio en un espacio público. El límite común es no obstaculizar la actuación policial. En Nueva Gales del Sur, Australia, la grabación de audio de una conversación privada está restringida por la ley de dispositivos de vigilancia. Fuera de esos trece, Marruecos es un caso aparte: el artículo 447-1 del Código Penal castiga grabar sin consentimiento palabras privadas o confidenciales, y desde 2018 la policía ha detenido y llevado a juicio a quien filmaba a agentes de servicio sin autorización, aunque un jurista marroquí sostiene que la norma no cubre la vía pública."
   - q: "¿Cómo ayuda TalkSafe durante un control policial?"
     a: "TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente dirá el agente, como «documentación» o «carné». Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio."
 ---
@@ -89,6 +89,16 @@ En **India**, el Tribunal Superior de Bombay resolvió en 2022 que una comisarí
 **Corea del Sur**: grabar una conversación en la que participas es legal, incluida la que mantienes con un agente. Una reforma procesal aprobada el **31 de julio de 2026** obligará a grabar las declaraciones del sospechoso si él o su abogado lo piden, cuando entre en vigor.
 
 **Japón**: ninguna ley prohíbe grabar un control policial, aunque hacerlo de forma que obstaculice puede ser obstrucción. La grabación de los interrogatorios es obligatoria desde junio de 2019, pero solo en los casos más graves.
+
+## Marruecos: la ley no es clara, la práctica es dura
+
+Es una pregunta frecuente entre quienes viajan o tienen familia allí: ¿se puede grabar a un policía en **Marruecos**?
+
+- **La norma.** El **artículo 447-1 del Código Penal**, introducido por la **ley 103-13** y en vigor desde el **1 de septiembre de 2018**, castiga con **prisión de seis meses a tres años** y **multa de 2.000 a 20.000 dírhams** a quien, por cualquier medio, intercepte, grabe, difunda o distribuya **sin consentimiento** palabras pronunciadas en un **ámbito privado o confidencial**, o capte la imagen de una persona **en un lugar privado**.
+- **La práctica.** En otoño de 2018 la **Dirección General de Seguridad Nacional (DGSN)** ordenó a los agentes **detener a quien filme al personal de servicio sin autorización** y retirarle el teléfono. En **Fez**, en noviembre de 2018, un funcionario que grabó a dos agentes de tráfico para documentar un trato desigual fue llevado a comisaría y **procesado**; los cargos exactos no constan en nuestras fuentes.
+- **El debate.** Un jurista marroquí sostiene que el artículo 447-1 solo protege los **lugares privados** y no la grabación en la calle, y que falta una base legal explícita para prohibirla. Se presentó una **proposición de ley** para excluir del castigo las grabaciones hechas solo para probar un hecho ante un juez; no consta que se haya aprobado.
+
+En la práctica: en Marruecos **sacar el móvil ante un agente puede costarte el móvil y un proceso**, aunque la ley no lo prohíba expresamente. Si quieres dejar constancia, **pregunta antes**: con TalkSafe la palabra clave puede estar en tu propia pregunta, por ejemplo **«grabar»**, para que la petición y la respuesta queden en el archivo. Y **no lo publiques**.
 
 ## El límite que no hay que cruzar
 

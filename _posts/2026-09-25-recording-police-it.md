@@ -21,7 +21,7 @@ faq:
   - q: "E negli Stati Uniti?"
     a: "Nove corti d'appello federali, dal Primo all'Undicesimo Circuito escluso il Sesto e l'Ottavo, hanno riconosciuto il diritto, fondato sul Primo Emendamento, di registrare la polizia nello svolgimento delle sue funzioni in luogo pubblico. La California stabilisce che il solo fatto di registrare un agente da un luogo pubblico non costituisce ostruzione né motivo di fermo o arresto."
   - q: "C'è un paese in cui registrare la polizia è vietato?"
-    a: "Tra i tredici paesi esaminati, nessuno vieta in quanto tale di registrare o filmare la polizia in servizio in un luogo pubblico. Il limite comune è non ostacolare l'attività degli agenti. Nel Nuovo Galles del Sud la registrazione audio di una conversazione privata è limitata dalla legge sui dispositivi di sorveglianza."
+    a: "Tra i tredici paesi esaminati, nessuno vieta in quanto tale di registrare o filmare la polizia in servizio in un luogo pubblico. Il limite comune è non ostacolare l'attività degli agenti. Nel Nuovo Galles del Sud la registrazione audio di una conversazione privata è limitata dalla legge sui dispositivi di sorveglianza. Fuori da questi tredici, il Marocco è un caso a parte: l'articolo 447-1 del codice penale punisce la registrazione senza consenso di parole private o confidenziali, e dal 2018 la polizia ha fermato e fatto processare chi filmava agenti in servizio senza autorizzazione, anche se un giurista marocchino sostiene che la norma non copra la strada."
   - q: "Come aiuta TalkSafe durante un controllo?"
     a: "TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere parole che dirà probabilmente l'agente, come «patente» o «documenti». Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio."
 ---
@@ -81,6 +81,16 @@ La legge organica 4/2015 sulla sicurezza cittadina considerava infrazione grave,
 **Messico** e **Argentina** non hanno leggi che vietino di filmare la polizia in servizio in luogo pubblico. **In Cile** la Contraloría ha affermato che registrare le procedure è un diritto se non si intralcia l'operazione e che i Carabineros non possono sequestrare il telefono né obbligare a cancellare un video; la legge 21.560 del 2023 obbliga inoltre la polizia stessa a registrare le proprie attività in luoghi pubblici.
 
 **In Corea del Sud** registrare una conversazione a cui si partecipa è lecito, anche con un agente, e una riforma approvata il **31 luglio 2026** imporrà di registrare le dichiarazioni dell'indagato se lui o il suo avvocato lo chiedono, una volta entrata in vigore. **In Giappone** nessuna legge vieta di registrare un controllo, e la registrazione degli interrogatori è obbligatoria dal giugno 2019, ma solo nei casi più gravi.
+
+## Marocco: la legge non è chiara, la prassi è severa
+
+È una domanda che arriva spesso: si può registrare un poliziotto in **Marocco**, per esempio durante un controllo in vacanza o in visita alla famiglia?
+
+- **La norma.** L'**articolo 447-1 del codice penale**, introdotto dalla **legge 103-13** ed entrato in vigore il **1° settembre 2018**, punisce con la **reclusione da sei mesi a tre anni** e una **multa da 2.000 a 20.000 dirham** chi, con qualsiasi mezzo, intercetta, registra, trasmette o diffonde **senza consenso** parole pronunciate in un **contesto privato o confidenziale**, e chi fissa l'immagine di una persona **in un luogo privato**.
+- **La prassi.** Nell'autunno 2018 la **Direzione generale della sicurezza nazionale (DGSN)** ha dato istruzione agli agenti di **fermare chi filma il personale in servizio senza autorizzazione** e di sequestrare il telefono. A **Fès**, nel novembre 2018, un impiegato pubblico che aveva filmato due vigili per documentare una disparità di trattamento è stato portato in commissariato e **rinviato a giudizio**; le accuse esatte non risultano dalle nostre fonti.
+- **Il dibattito.** Un giurista marocchino sostiene che l'articolo 447-1 riguardi solo i **luoghi privati** e non le riprese in strada, e che manchi una base giuridica esplicita per vietarle. In Parlamento è stata presentata una **proposta** per escludere dalla punibilità le registrazioni fatte solo per provare un fatto davanti a un giudice; non risulta approvata.
+
+In pratica: in Marocco **tirare fuori il telefono davanti a un agente può costarti il telefono e un procedimento**, anche se la legge non lo vieta in modo esplicito. Se vuoi una traccia, **chiedi prima**: con TalkSafe la parola chiave può stare nella tua domanda, per esempio **«registrare»**, così la richiesta e la risposta finiscono nel file. E **non pubblicare**.
 
 ## Il limite da non superare
 

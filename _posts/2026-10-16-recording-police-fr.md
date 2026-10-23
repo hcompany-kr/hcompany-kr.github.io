@@ -22,6 +22,8 @@ faq:
     a: "Pas en cachette. Le 7 février 2020 (6B_943/2019), le Tribunal fédéral a confirmé la condamnation d'une personne qui avait enregistré sans avertir des appels téléphoniques avec un policier, alors même qu'ils avaient lieu dans le cadre de ses fonctions. L'article 179ter du Code pénal punit, sur plainte, le participant qui enregistre sans consentement."
   - q: "Et au Québec ?"
     a: "Le Code criminel canadien permet au participant d'enregistrer sa propre conversation, et il est en principe permis d'enregistrer la police dans un lieu public tant qu'on ne l'entrave pas. Refuser une consigne de se déplacer donnée pour des raisons de sécurité peut constituer une entrave."
+  - q: "Peut-on filmer ou enregistrer un policier au Maroc ?"
+    a: "Ce n'est pas tranché. L'article 447-1 du Code pénal marocain, introduit par la loi 103-13 et en vigueur depuis septembre 2018, punit de six mois à trois ans d'emprisonnement et de 2 000 à 20 000 dirhams d'amende l'enregistrement sans consentement de paroles émises dans un cadre privé ou confidentiel. En 2018, la DGSN a demandé d'interpeller les personnes qui filment des agents en service sans autorisation, et à Fès un homme qui avait filmé deux agents de la circulation a été poursuivi ; un juriste marocain estime au contraire que le texte ne vise pas les lieux publics. Le plus sûr est de demander et de ne pas publier."
   - q: "Comment TalkSafe aide-t-il lors d'un contrôle ?"
     a: "TalkSafe est une application d'enregistrement pour Android qui démarre sur un mot choisi à l'avance et fonctionne écran verrouillé. En France et en Suisse, le plus sûr est de demander : avec un mot de votre propre question comme mot-clé, par exemple enregistrer, l'enregistrement commence au moment où vous demandez et la réponse figure dans le fichier, sans sortir le téléphone pendant le contrôle."
 ---
@@ -70,6 +72,16 @@ Si le simple fait de filmer sans le son un contrôle sur la voie publique est ad
 ## Québec
 
 Le **Code criminel canadien (article 184)** interdit d'intercepter une communication privée, sauf avec le consentement de l'une des parties : un participant peut donc enregistrer sa propre conversation. Enregistrer la police dans un lieu public est en principe permis tant qu'on ne l'entrave pas ; refuser une consigne de se déplacer donnée pour des raisons de sécurité peut constituer une entrave.
+
+## Maroc : un texte flou, une pratique sévère
+
+La question revient souvent chez ceux qui voyagent au Maroc ou y ont de la famille.
+
+- **Le texte.** L'**article 447-1 du Code pénal**, introduit par la **loi 103-13** et en vigueur depuis le **1er septembre 2018**, punit de **six mois à trois ans d'emprisonnement** et de **2 000 à 20 000 dirhams d'amende** quiconque intercepte, enregistre, diffuse ou distribue, par tout moyen, **sans le consentement** de leurs auteurs, des paroles émises dans un **cadre privé ou confidentiel**, ou fixe l'image d'une personne **dans un lieu privé**.
+- **La pratique.** À l'automne 2018, la **DGSN** a demandé aux agents d'**interpeller les personnes qui filment des fonctionnaires en service sans autorisation** et de saisir leur téléphone. À **Fès**, en novembre 2018, un fonctionnaire qui avait filmé deux agents de la circulation pour dénoncer une inégalité de traitement a été conduit au commissariat et **poursuivi** ; les chefs exacts ne figurent pas dans nos sources.
+- **Le débat.** Un juriste marocain soutient que l'article 447-1 ne vise que les **lieux privés**, pas la voie publique, et qu'il manque une base légale explicite pour interdire ces images. Une **proposition de loi** visant à exclure de la répression les enregistrements faits uniquement pour prouver un fait en justice a été déposée ; nous n'avons pas trouvé qu'elle ait été adoptée.
+
+En pratique, au Maroc, **sortir son téléphone face à un agent peut coûter le téléphone et une procédure**, même si la loi ne l'interdit pas expressément. Pour garder une trace, **demandez d'abord** : avec TalkSafe, le mot-clé peut être dans votre propre question — « enregistrer » —, et la demande comme la réponse sont dans le fichier. Et **ne publiez pas**.
 
 ## La ligne à ne pas franchir
 

@@ -111,4 +111,6 @@ Jak odzyskać pieniądze pożyczone bez umowy i kiedy roszczenie się przedawnia
 
 Kiedy wynajmujący nie oddaje kaucji — termin, waloryzacja i odbiór mieszkania — opisuje [Wynajmujący nie oddaje kaucji za mieszkanie: miesiąc na zwrot, waloryzacja i co decyduje przy oddaniu kluczy](/blog/pl/zwrot-kaucji/).
 
+Jak zebrać dowody uporczywego nękania (stalkingu), opisuje [Stalking, czyli uporczywe nękanie: jaka kara z art. 190a k.k. i jak zebrać dowody](/blog/pl/uporczywe-nekanie/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

@@ -96,4 +96,6 @@ Se não é sexual, mas humilhação repetida: [Como provar assédio moral no tra
 
 O que fazer com a gravação depois: [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/).
 
+Como juntar provas do crime de perseguição (stalking) está em [Crime de perseguição (stalking): como juntar provas e por que a gravação da sua conversa conta](/blog/pt-br/crime-de-perseguicao/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. Para um caso concreto, consulte um advogado trabalhista ou criminal no Brasil ou em Portugal.</p>

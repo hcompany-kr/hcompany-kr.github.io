@@ -101,4 +101,6 @@ En **Belgique** et au **Québec**, enregistrer une conversation à laquelle on p
 
 Ce qu'il faut faire d'un enregistrement ensuite : [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
 
+Harcèlement et stalking : comment réunir des preuves fait après fait : [Harcèlement et stalking : comment réunir des preuves quand chaque fait, pris seul, semble anodin](/blog/fr/harcelement-preuves/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Pour un cas précis, consultez un avocat en droit du travail.</p>

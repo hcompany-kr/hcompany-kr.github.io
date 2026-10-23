@@ -116,4 +116,6 @@ Aplikacja nagrywa to, co słyszy mikrofon w pomieszczeniu — rozmowę, w które
 
 Co zrobić z nagraniem potem: [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
 
+Jak zebrać dowody uporczywego nękania (stalkingu), opisuje [Stalking, czyli uporczywe nękanie: jaka kara z art. 190a k.k. i jak zebrać dowody](/blog/pl/uporczywe-nekanie/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

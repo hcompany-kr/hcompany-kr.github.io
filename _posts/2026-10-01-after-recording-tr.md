@@ -120,4 +120,6 @@ Senetsiz verilen borcun nasıl ispat edileceği ve zamanaşımı [Borç verdim, 
 
 Ev sahibi depozitoyu vermediğinde üç aylık sınır, banka hesabı ve teslimdeki bildirim şartı [Ev sahibi depozitoyu vermiyor: üç aylık sınır, banka hesabı ve teslimdeki bildirim şartı](/blog/tr/kira-depozitosu/) yazısında.
 
+Israrlı takip suçunun nasıl ispatlanacağı ve şikâyet süresi [Israrlı takip suçu nasıl ispatlanır? TCK 123/A, şikâyet süresi ve kendi sesinizle tutulan kayıt](/blog/tr/israrli-takip/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

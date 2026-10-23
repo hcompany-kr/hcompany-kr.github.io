@@ -110,4 +110,6 @@ Wenn es nicht sexuell, sondern systematisch schikanös ist: [Mobbing am Arbeitsp
 
 Was man mit einer Aufnahme tun sollte – und was nicht: [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
 
+Wie man Stalking beweist und ein Stalking-Tagebuch führt: [Stalking beweisen: Was § 238 StGB verlangt und wie man ein Stalking-Tagebuch führt](/blog/de/stalking-beweisen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die Zwei-Monats-Frist ist kurz; im Einzelfall eine Fachanwältin oder einen Fachanwalt für Arbeitsrecht fragen.</p>

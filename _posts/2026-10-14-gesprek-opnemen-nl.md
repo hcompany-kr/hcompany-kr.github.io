@@ -116,4 +116,6 @@ Geld geleend zonder contract: hoe je het bewijst en waarom een mondelinge herinn
 
 Wat je doet als de verhuurder de borg niet terugbetaalt, staat in [Verhuurder betaalt de borg niet terug: 14 dagen, 30 dagen en waarom het opleverrapport alles beslist](/blog/nl/borg-terug/).
 
+Hoe je belaging (stalking) bewijst, staat in [Stalking (belaging) bewijzen: wat artikel 285b Sr vraagt en hoe je een spoor opbouwt](/blog/nl/belaging/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

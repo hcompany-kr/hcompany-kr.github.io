@@ -106,4 +106,6 @@ Gaat het niet om seksueel gedrag maar om pesten: [Pesten op het werk](/blog/nl/p
 
 Wat je daarna met een opname doet: [Wat je met een opname doet, en wat je er niet mee doet](/blog/nl/after-recording/).
 
+Hoe je belaging (stalking) bewijst, staat in [Stalking (belaging) bewijzen: wat artikel 285b Sr vraagt en hoe je een spoor opbouwt](/blog/nl/belaging/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. Raadpleeg voor een concreet geval een advocaat arbeidsrecht.</p>

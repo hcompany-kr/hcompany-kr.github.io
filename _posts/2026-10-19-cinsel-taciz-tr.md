@@ -110,4 +110,6 @@ Taciz cinsel değil de sistematik bir yıldırmaysa: [İş yerinde mobbing nası
 
 Kayıtla sonra ne yapılır, ne yapılmaz: [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/).
 
+Israrlı takip suçunun nasıl ispatlanacağı ve şikâyet süresi [Israrlı takip suçu nasıl ispatlanır? TCK 123/A, şikâyet süresi ve kendi sesinizle tutulan kayıt](/blog/tr/israrli-takip/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Şikâyet ve fesih süreleri hak düşürücüdür; somut bir durum için bir avukata danışın.</p>

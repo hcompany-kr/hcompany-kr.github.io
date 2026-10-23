@@ -119,4 +119,6 @@ Como provar um empréstimo sem contrato e quanto tempo você tem para cobrar est
 
 Caução do aluguel não devolvida: o limite de três aluguéis e o peso da vistoria de saída estão em [Caução do aluguel não devolvida: o limite de três meses, a vistoria de saída e o que o proprietário pode descontar](/blog/pt-br/caucao-aluguel/).
 
+Como juntar provas do crime de perseguição (stalking) está em [Crime de perseguição (stalking): como juntar provas e por que a gravação da sua conversa conta](/blog/pt-br/crime-de-perseguicao/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não é aconselhamento jurídico — as regras sobre gravar e divulgar mudam de país para país.</p>
