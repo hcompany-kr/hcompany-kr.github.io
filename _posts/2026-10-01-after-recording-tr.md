@@ -123,4 +123,6 @@ Ev sahibi depozitoyu vermediğinde üç aylık sınır, banka hesabı ve teslimd
 
 Israrlı takip suçunun nasıl ispatlanacağı ve şikâyet süresi [Israrlı takip suçu nasıl ispatlanır? TCK 123/A, şikâyet süresi ve kendi sesinizle tutulan kayıt](/blog/tr/israrli-takip/) yazısında.
 
+Sözlü sözleşmenin geçerliliği ve yazılı teklifle çeliştiğinde ne olduğu: [Sözlü sözleşme geçerli mi? Geçerli, ama yazılı teklifle çelişince ne olur?](/blog/tr/sozlu-sozlesme/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

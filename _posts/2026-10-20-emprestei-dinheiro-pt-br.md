@@ -102,4 +102,6 @@ O que fazer com a gravação depois: [O que fazer com uma gravação, e o que n�
 
 Caução do aluguel não devolvida: o limite de três aluguéis e o peso da vistoria de saída estão em [Caução do aluguel não devolvida: o limite de três meses, a vistoria de saída e o que o proprietário pode descontar](/blog/pt-br/caucao-aluguel/).
 
+Se contrato verbal vale e o que acontece quando o orçamento diz outra coisa: [Contrato verbal tem validade? Tem, mas e quando o orçamento diz outra coisa?](/blog/pt-br/contrato-verbal/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

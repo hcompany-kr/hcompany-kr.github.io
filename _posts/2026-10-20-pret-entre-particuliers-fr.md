@@ -103,4 +103,6 @@ Ce qu'il faut faire d'un enregistrement ensuite : [Ce qu'il faut faire d'un enre
 
 Caution non rendue : délais, pénalité de 10 % et état des lieux de sortie : [Caution non rendue : les délais, la pénalité de 10 % et ce que change l'état des lieux de sortie](/blog/fr/caution-non-rendue/).
 
+Si un contrat verbal est valable et comment le prouver face à un devis écrit: [Contrat verbal : il est valable, mais comment le prouver quand le devis dit autre chose ?](/blog/fr/contrat-verbal/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Les délais de prescription courent même si l'on n'y pense pas ; pour un cas précis, consultez un avocat.</p>

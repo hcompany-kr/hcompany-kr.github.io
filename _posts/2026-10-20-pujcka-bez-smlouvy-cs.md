@@ -102,4 +102,6 @@ Co s nahrávkou potom: [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/af
 
 Co dělat, když pronajímatel nevrátil kauci, popisuje [Pronajímatel nevrátil kauci: trojnásobek nájemného, úroky a co rozhoduje při předání bytu](/blog/cs/vraceni-kauce/).
 
+Zda platí ústní smlouva a jak dokázat domluvu, když rozpočet říká něco jiného: [Ústní smlouva platí. Jak ale dokázat, co se domluvilo, když v rozpočtu stojí něco jiného?](/blog/cs/ustni-smlouva/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Promlčecí lhůty běží, i když na ně nemyslíte; v konkrétní věci se obraťte na advokáta.</p>

@@ -117,4 +117,6 @@ Co dělat, když pronajímatel nevrátil kauci, popisuje [Pronajímatel nevráti
 
 Jak sbírat důkazy nebezpečného pronásledování (stalkingu), popisuje [Stalking neboli nebezpečné pronásledování: co říká § 354 trestního zákoníku a jak sbírat důkazy](/blog/cs/nebezpecne-pronasledovani/).
 
+Zda platí ústní smlouva a jak dokázat domluvu, když rozpočet říká něco jiného: [Ústní smlouva platí. Jak ale dokázat, co se domluvilo, když v rozpočtu stojí něco jiného?](/blog/cs/ustni-smlouva/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Uvedená rozhodnutí a předpisy byly ověřeny ke dni zveřejnění; judikatura se vyvíjí. V konkrétní věci se obraťte na advokáta.</p>

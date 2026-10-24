@@ -128,4 +128,6 @@ Caution non rendue : délais, pénalité de 10 % et état des lieux de sortie : 
 
 Harcèlement et stalking : comment réunir des preuves fait après fait : [Harcèlement et stalking : comment réunir des preuves quand chaque fait, pris seul, semble anodin](/blog/fr/harcelement-preuves/).
 
+Si un contrat verbal est valable et comment le prouver face à un devis écrit: [Contrat verbal : il est valable, mais comment le prouver quand le devis dit autre chose ?](/blog/fr/contrat-verbal/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique — le droit d'enregistrer et de diffuser diffère d'un pays à l'autre.</p>

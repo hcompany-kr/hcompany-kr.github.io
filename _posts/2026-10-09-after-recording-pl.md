@@ -122,4 +122,6 @@ Kiedy wynajmujący nie oddaje kaucji — termin, waloryzacja i odbiór mieszkani
 
 Jak zebrać dowody uporczywego nękania (stalkingu), opisuje [Stalking, czyli uporczywe nękanie: jaka kara z art. 190a k.k. i jak zebrać dowody](/blog/pl/uporczywe-nekanie/).
 
+Czy umowa ustna jest ważna i jak udowodnić ustalenia, gdy kosztorys mówi co innego: [Umowa ustna jest ważna. Ale jak udowodnić, co ustalono, gdy w kosztorysie stoi co innego?](/blog/pl/umowa-ustna/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna — zasady nagrywania i rozpowszechniania różnią się w zależności od kraju.</p>

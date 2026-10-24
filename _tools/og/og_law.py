@@ -362,6 +362,50 @@ CARDS = {
        ('सज़ा', 'पहली बार 3 साल तक, दोबारा 5 साल तक', True),
        ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True),
        ('तारीख़वार डायरी', 'हर घटना के तुरंत बाद', True)]), HI_CSS),
+ ('muendlicher-vertrag', 'de'): (dict(eyebrow='VERTRÄGE · MÜNDLICH', title='Mündlicher Vertrag: gilt er?', sub='Formfreiheit, § 305b BGB und der Kostenvoranschlag.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'AT', 'CH'], rows=[
+       ('Mündlicher Vertrag gültig', 'außer gesetzliche Form', (True, True, True)),
+       ('Abrede gegen Schriftliches', 'muss bewiesen werden', (True, None, True)),
+       ('Eigenes Gespräch heimlich aufnehmen', 'ohne Einwilligung', (False, True, False))]), '.title{font-size:56px}.cmp td.m{width:62px}'),
+ ('contrat-verbal', 'fr'): (dict(eyebrow='CONTRATS · VERBAL', title='Contrat verbal : valable, mais à prouver', sub='Art. 1172 et 1359 C. civ., Livre 8, art. 11 CO.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH', 'QC'], rows=[
+       ('Contrat verbal valable', 'sauf forme imposée', (True, True, True, True)),
+       ('Témoins contre un écrit', 'sans autre écrit', (False, False, None, False)),
+       ('Enregistrer sa conversation', 'sans consentement', (False, True, False, True))]), '.title{font-size:52px}.cmp td.m{width:54px}'),
+ ('sozlu-sozlesme', 'tr'): (dict(eyebrow='SÖZLEŞME · SÖZLÜ', title='Sözlü sözleşme geçerli mi?', sub='TBK 12, HMK 200–202 ve yazılı teklif.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('Sözlü sözleşme', 'geçerli — TBK 12', True),
+       ('Senede karşı tanıkla ispat', 'yasak — HMK 201', False),
+       ('Karşı taraftan mesaj, e-posta', 'delil başlangıcı — HMK 202', True),
+       ('Konuşmayı rızasız kaydetmek', 'suç — TCK 133/2', False)]), ''),
+ ('contrato-verbal', 'pt-br'): (dict(eyebrow='CONTRATOS · VERBAL', title='Contrato verbal tem validade?', sub='Art. 107 CC, art. 40 CDC e o orçamento da reforma.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Contrato verbal é válido', 'salvo forma exigida', (True, True)),
+       ('Testemunha contra documento', 'convenção adicional', (None, False)),
+       ('Gravar a própria conversa', 'sem avisar', (True, False))]), ''),
+ ('umowa-ustna', 'pl'): (dict(eyebrow='UMOWY · USTNA', title='Czy umowa ustna jest ważna?', sub='Art. 60 i 74 k.c., art. 247 k.p.c.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Umowa ustna', 'ważna — art. 60 k.c.', True),
+       ('Świadkowie przy formie dowodowej', 'wyłączeni — art. 74 § 1', False),
+       ('Konsument przeciw firmie', 'może żądać świadków — art. 74 § 2', True),
+       ('Nagranie własnej rozmowy', 'co do zasady dozwolone', True)]), '.title{font-size:56px}'),
+ ('mondelinge-afspraak', 'nl'): (dict(eyebrow='CONTRACTEN · MONDELING', title='Is een mondelinge afspraak geldig?', sub='Art. 3:37 BW, art. 157 Rv en Boek 8 BW.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Mondelinge overeenkomst geldig', 'vormvrij', (True, True)),
+       ('Tegenbewijs tegen getekend stuk', 'NL: open — BE: alleen met geschrift', (True, False)),
+       ('Eigen gesprek opnemen', 'als deelnemer', (True, True))]), '.title{font-size:52px}'),
+ ('ustni-smlouva', 'cs'): (dict(eyebrow='SMLOUVY · ÚSTNÍ', title='Platí ústní smlouva?', sub='§ 559, 564 a 1758 občanského zákoníku.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_rules,
+     cap='Česko', rows=[
+       ('Ústní smlouva', 'platná — § 559', True),
+       ('Nemovitost', 'písemná forma — § 560', False),
+       ('Dohoda „sepíšeme to“', 'bez formy se má za to, že nevázáni — § 1758', False),
+       ('Vlastní rozhovor nahrát', 'k ochraně svých práv — § 88', True)]), '.title{font-size:58px}'),
+ ('verbal-contract', 'hi'): (dict(eyebrow='अनुबंध · मौखिक', title='क्या मौखिक समझौता मान्य है?', sub='संविदा अधिनियम धारा 10, साक्ष्य अधिनियम धारा 94–95।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('मौखिक अनुबंध', 'मान्य — धारा 10', True),
+       ('लिखित शर्तों के ख़िलाफ़ मौखिक सबूत', 'आम तौर पर बाहर — धारा 95', False),
+       ('बाद का मौखिक संशोधन', 'साबित किया जा सकता है — धारा 95', True),
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
 }
 
 if __name__ == '__main__':

@@ -126,4 +126,6 @@ Wenn der Vermieter die Kaution nicht zurückzahlt – Höchstbetrag, Frist und w
 
 Wie man Stalking beweist und ein Stalking-Tagebuch führt: [Stalking beweisen: Was § 238 StGB verlangt und wie man ein Stalking-Tagebuch führt](/blog/de/stalking-beweisen/).
 
+Ob ein mündlicher Vertrag gilt und was zählt, wenn er vom schriftlichen Angebot abweicht: [Mündlicher Vertrag: Er gilt – aber was zählt, wenn er vom schriftlichen Angebot abweicht?](/blog/de/muendlicher-vertrag/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung – das Recht zum Aufnehmen und Weitergeben unterscheidet sich von Land zu Land.</p>

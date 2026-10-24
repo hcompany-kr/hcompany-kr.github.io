@@ -57,7 +57,7 @@ Then, as the work wraps up, you hear it.
 | Argentina | Contracts usually put in writing cannot be proved by witnesses alone |
 | Italy | No witness proof of earlier or simultaneous side terms; later ones at the judge's discretion |
 
-These are the countries we checked. Ireland is left out because we could not confirm whether it follows the UK Supreme Court on this point, and Germany, France and Brazil are not here either.
+These are the countries we checked. Ireland is left out because we could not confirm whether it follows the UK Supreme Court on this point, and Germany, France and Brazil are covered in their own languages: [Mündlicher Vertrag](/blog/de/muendlicher-vertrag/) (Germany, Austria and Switzerland), [Contrat verbal](/blog/fr/contrat-verbal/) (France, Belgium, Switzerland and Quebec) and [Contrato verbal](/blog/pt-br/contrato-verbal/) (Brazil and Portugal).
 
 Every one of them starts in the same place. **A spoken agreement is a contract, but if there is a written contract, the writing comes first.** Where they split is what happens next.
 

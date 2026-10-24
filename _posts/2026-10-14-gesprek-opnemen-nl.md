@@ -118,4 +118,6 @@ Wat je doet als de verhuurder de borg niet terugbetaalt, staat in [Verhuurder be
 
 Hoe je belaging (stalking) bewijst, staat in [Stalking (belaging) bewijzen: wat artikel 285b Sr vraagt en hoe je een spoor opbouwt](/blog/nl/belaging/).
 
+Of een mondelinge afspraak geldig is en wat telt als de offerte iets anders zegt: [Is een mondelinge afspraak geldig? Ja, maar wat als de offerte iets anders zegt?](/blog/nl/mondelinge-afspraak/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

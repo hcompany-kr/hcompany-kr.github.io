@@ -108,4 +108,6 @@ Wat je daarna met een opname doet: [Wat je met een opname doet, en wat je er nie
 
 Wat je doet als de verhuurder de borg niet terugbetaalt, staat in [Verhuurder betaalt de borg niet terug: 14 dagen, 30 dagen en waarom het opleverrapport alles beslist](/blog/nl/borg-terug/).
 
+Of een mondelinge afspraak geldig is en wat telt als de offerte iets anders zegt: [Is een mondelinge afspraak geldig? Ja, maar wat als de offerte iets anders zegt?](/blog/nl/mondelinge-afspraak/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. Verjaringstermijnen lopen ook als je er niet aan denkt; raadpleeg voor een concreet geval een advocaat.</p>

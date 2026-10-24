@@ -109,4 +109,6 @@ Was man mit einer Aufnahme danach tut: [Was man mit einer Aufnahme tun sollte �
 
 Wenn der Vermieter die Kaution nicht zurückzahlt – Höchstbetrag, Frist und was die Übergabe entscheidet: [Vermieter zahlt die Kaution nicht zurück: Wie lange er warten darf und was die Wohnungsübergabe entscheidet](/blog/de/kaution-zurueck/).
 
+Ob ein mündlicher Vertrag gilt und was zählt, wenn er vom schriftlichen Angebot abweicht: [Mündlicher Vertrag: Er gilt – aber was zählt, wenn er vom schriftlichen Angebot abweicht?](/blog/de/muendlicher-vertrag/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Verjährungsfristen laufen auch, wenn man nicht an sie denkt; im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

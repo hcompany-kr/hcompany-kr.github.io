@@ -135,11 +135,14 @@ Wenn der Vermieter die Kaution nicht zurückzahlt – Höchstbetrag, Frist und w
 
 Wie man Stalking beweist und ein Stalking-Tagebuch führt: [Stalking beweisen: Was § 238 StGB verlangt und wie man ein Stalking-Tagebuch führt](/blog/de/stalking-beweisen/).
 
+Ob ein mündlicher Vertrag gilt und was zählt, wenn er vom schriftlichen Angebot abweicht: [Mündlicher Vertrag: Er gilt – aber was zählt, wenn er vom schriftlichen Angebot abweicht?](/blog/de/muendlicher-vertrag/).
+
 ## Quellen
 
 - [§ 201 StGB – Verletzung der Vertraulichkeit des Wortes (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/stgb/__201.html)
 - [BVerfG, Beschluss vom 9. Oktober 2002, 1 BvR 1611/96 (Bundesverfassungsgericht)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2002/10/rs20021009_1bvr161196.html)
 - [Schweizerisches Strafgesetzbuch, Art. 179ter und 179quinquies (Fedlex)](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_179_ter)
 - [Schweizerische Zivilprozessordnung, Art. 152 (Fedlex)](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_152)
+
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die genannten Entscheidungen wurden zum Zeitpunkt der Veröffentlichung geprüft; die Rechtsprechung entwickelt sich weiter. Im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

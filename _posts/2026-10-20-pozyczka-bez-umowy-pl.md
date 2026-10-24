@@ -104,4 +104,6 @@ Co zrobić z nagraniem potem: [Co zrobić z nagraniem, a czego z nim nie robić]
 
 Kiedy wynajmujący nie oddaje kaucji — termin, waloryzacja i odbiór mieszkania — opisuje [Wynajmujący nie oddaje kaucji za mieszkanie: miesiąc na zwrot, waloryzacja i co decyduje przy oddaniu kluczy](/blog/pl/zwrot-kaucji/).
 
+Czy umowa ustna jest ważna i jak udowodnić ustalenia, gdy kosztorys mówi co innego: [Umowa ustna jest ważna. Ale jak udowodnić, co ustalono, gdy w kosztorysie stoi co innego?](/blog/pl/umowa-ustna/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

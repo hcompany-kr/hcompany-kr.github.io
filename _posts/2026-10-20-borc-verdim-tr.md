@@ -100,4 +100,6 @@ Kayıtla sonra ne yapılır, ne yapılmaz: [Bir kayıtla ne yapmalı, ne yapmama
 
 Ev sahibi depozitoyu vermediğinde üç aylık sınır, banka hesabı ve teslimdeki bildirim şartı [Ev sahibi depozitoyu vermiyor: üç aylık sınır, banka hesabı ve teslimdeki bildirim şartı](/blog/tr/kira-depozitosu/) yazısında.
 
+Sözlü sözleşmenin geçerliliği ve yazılı teklifle çeliştiğinde ne olduğu: [Sözlü sözleşme geçerli mi? Geçerli, ama yazılı teklifle çelişince ne olur?](/blog/tr/sozlu-sozlesme/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Parasal sınırlar her yıl değişir; somut bir durum için bir avukata danışın.</p>
