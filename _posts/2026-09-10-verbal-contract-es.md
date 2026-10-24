@@ -4,14 +4,17 @@ ref: verbal-contract
 categories: es
 permalink: /blog/es/verbal-contract/
 date: 2026-09-10
+last_modified_at: 2026-10-24
 eyebrow: Derecho
 title: "No está en el contrato. Se acordó en la reunión"
 description: "Un acuerdo verbal es un contrato. El problema empieza cuando choca con el contrato escrito. Cómo tratan trece países lo pactado de palabra que no coincide con lo firmado."
+image: /assets/img/og/verbal-contract-es.png
+image_alt: "Cómo tratan trece países lo pactado de palabra frente a lo firmado: lo pactado de palabra obliga, pero si hay contrato escrito suele ganar lo escrito. En reformas del hogar en España, el derecho a un presupuesto previo por escrito depende de cada comunidad autónoma."
 app: true
 app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Un contrato verbal es válido?"
-    a: "Sí, como regla general. El artículo 1278 del Código Civil español establece que los contratos son obligatorios cualquiera que sea la forma en que se hayan celebrado, siempre que concurran las condiciones esenciales para su validez. México (artículo 1832 del Código Civil Federal) y Argentina (artículo 284 del Código Civil y Comercial) parten también de la libertad de forma."
+    a: "Sí, como regla general. El artículo 1278 del Código Civil español establece que los contratos son obligatorios cualquiera que sea la forma en que se hayan celebrado, siempre que concurran las condiciones esenciales para su validez. México (artículo 1832 del Código Civil Federal) y Argentina (artículo 284 del Código Civil y Comercial) parten también de la libertad de forma. En reformas del hogar en España no hay una norma estatal específica: el derecho a pedir un presupuesto previo por escrito lo regula cada comunidad autónoma."
   - q: "Si el contrato escrito dice una cosa y en la reunión se acordó otra, ¿qué prevalece?"
     a: "En principio, lo escrito. Quien sostiene que se pactó algo distinto de palabra tiene que probarlo. En Chile el artículo 1709 del Código Civil impide probar con testigos lo que se haya dicho antes, al tiempo o después de otorgar un contrato escrito cuando supera las dos UTM, y en Argentina los contratos que se suelen instrumentar por escrito no pueden probarse exclusivamente por testigos."
   - q: "¿Hay contratos que tienen que hacerse por escrito?"
@@ -113,6 +116,14 @@ Muchos contratos incluyen una frase así: **«Cualquier modificación del presen
 **Italia** presume que, si las partes acordaron por escrito una forma para un contrato futuro, la quisieron como requisito de validez (artículo 1352 del Código Civil).
 
 No hemos encontrado una sentencia del Tribunal Supremo español ni de los tribunales superiores de México, Chile o Argentina que resuelva de frente el efecto de esta cláusula.
+
+## Si es una reforma en casa
+
+Las reformas son donde más choca lo dicho con lo presupuestado. «El suelo viejo nos lo llevamos nosotros». El presupuesto no dice nada. En la factura final aparece una partida de retirada de escombros.
+
+En **España** no hay una norma estatal específica para las reformas del hogar. El derecho a un **presupuesto previo por escrito** lo regula cada **comunidad autónoma**, y su contenido obligatorio varía: en general, identidad de la empresa, trabajos, precio total con impuestos y, según la comunidad, materiales, fechas y validez. En la **Comunidad de Madrid**, por ejemplo, el consumidor puede pedir un presupuesto previo por escrito que hace las veces de orden de trabajo, y si renuncia a él debe firmarlo con una fórmula manuscrita. México, Chile y Argentina no los hemos revisado para este punto.
+
+En la práctica: pida que el presupuesto diga qué **incluye y qué no**, y deje por escrito el mismo día lo que se añada en la obra. «Como hablamos hoy, la retirada del suelo viejo y de los escombros está incluida en el presupuesto». Donde grabar una conversación en la que participa es legal, TalkSafe puede empezar con una palabra como **«incluido»**, y los 30 segundos anteriores a «eso va incluido, ¿no?» quedan en el archivo.
 
 ## Al final, todo depende de poder mostrar lo que se dijo
 

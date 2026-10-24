@@ -406,6 +406,36 @@ CARDS = {
        ('लिखित शर्तों के ख़िलाफ़ मौखिक सबूत', 'आम तौर पर बाहर — धारा 95', False),
        ('बाद का मौखिक संशोधन', 'साबित किया जा सकता है — धारा 95', True),
        ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
+ ('verbal-contract', 'ko'): (dict(eyebrow='계약 · 말로 한 약속', title='계약서에는 없는데, 미팅에서 말로 정한 것', sub='13개국 비교와 인테리어 공사 계약서.', tagline='키워드로 시작하는 녹음기', panel=panel_rules,
+     cap='한 눈에', rows=[
+       ('말로 한 약속', '계약입니다', True),
+       ('계약서와 다른 말', '계약서가 먼저 — 입증 책임', False),
+       ('인테리어 공사', '계약서 교부 — 건설산업기본법 22조', True),
+       ('내가 참여한 대화 녹음', '한국에서 처벌 대상 아님', True)]), '.title{font-size:52px}'),
+ ('verbal-contract', 'ja'): (dict(eyebrow='契約 · 口約束', title='契約書にはない、打ち合わせで決めたこと', sub='13か国の比較とリフォームの契約書面。', tagline='キーワードで始まる録音アプリ', panel=panel_rules,
+     cap='ひと目で', rows=[
+       ('口約束', '契約です', True),
+       ('契約書と違う口頭の合意', '契約書が優先 — 立証が必要', False),
+       ('リフォーム工事', '書面の相互交付 — 建設業法19条', True),
+       ('自分が参加した会話の録音', '日本では違法ではない', True)]), "body{font-family:'Yu Gothic','Segoe UI',sans-serif;word-break:normal;line-break:strict}.title{font-size:50px}"),
+ ('verbal-contract', 'en'): (dict(eyebrow='LAW · VERBAL AGREEMENTS', title='Not in the contract. Agreed in the meeting.', sub='Thirteen countries, and work on your home.', tagline='RECORDER THAT STARTS ON A WORD', panel=panel_rules,
+     cap='At a glance', rows=[
+       ('A verbal agreement', 'is a contract', True),
+       ('Spoken terms vs. the written contract', 'the writing usually wins', False),
+       ('UK: what the trader told you', 'a term if you relied on it — CRA s.50', True),
+       ('California home improvement', 'written contract over $500', True)]), '.title{font-size:52px}'),
+ ('verbal-contract', 'es'): (dict(eyebrow='LEY · LO PACTADO DE PALABRA', title='No está en el contrato. Se pactó en la reunión.', sub='Trece países y las reformas en casa.', tagline='GRABADORA QUE EMPIEZA CON UNA PALABRA', panel=panel_rules,
+     cap='De un vistazo', rows=[
+       ('Lo pactado de palabra', 'obliga', True),
+       ('Frente al contrato escrito', 'suele ganar lo escrito', False),
+       ('Reformas en España', 'presupuesto escrito: según la comunidad', None),
+       ('Grabar su propia conversación', 'lícito en España', True)]), '.title{font-size:50px}'),
+ ('verbal-contract', 'it'): (dict(eyebrow='LEGGE · PATTI A VOCE', title='Non è nel contratto. Si è deciso in riunione.', sub='Tredici paesi e i lavori di ristrutturazione.', tagline='REGISTRATORE CHE PARTE CON UNA PAROLA', panel=panel_rules,
+     cap='In breve', rows=[
+       ("L'accordo a voce", 'vincola', True),
+       ('Contro il contratto scritto', 'vince lo scritto', False),
+       ("Variazioni proposte dall'impresa", 'autorizzazione per iscritto — art. 1659', True),
+       ('Registrare la propria conversazione', 'lecito in Italia', True)]), '.title{font-size:50px}'),
 }
 
 if __name__ == '__main__':

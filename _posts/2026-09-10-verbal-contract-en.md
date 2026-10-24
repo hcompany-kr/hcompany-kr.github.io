@@ -4,14 +4,17 @@ ref: verbal-contract
 categories: en
 permalink: /blog/en/verbal-contract/
 date: 2026-09-10
+last_modified_at: 2026-10-24
 eyebrow: Law
 title: "It is not in the contract. It was agreed in the meeting"
 description: "A verbal agreement is a contract. The trouble starts when it runs into the written one. How thirteen countries treat an oral agreement that differs from the signed document."
+image: /assets/img/og/verbal-contract-en.png
+image_alt: "How thirteen countries treat a spoken agreement that differs from the written contract: a verbal agreement is a contract, but the writing usually comes first. For work on your home, the UK treats a trader's spoken statements you relied on as contract terms (Consumer Rights Act 2015, s.50), and California requires a written contract for home improvement over $500."
 app: true
 app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is a verbal agreement legally binding?"
-    a: "In most countries, yes. Contracts generally need no particular form, so an agreement reached by conversation is a contract. The exceptions are set by statute: in the United States the statute of frauds requires a signed writing for contracts such as sales of land, guarantees, agreements that cannot be performed within a year, and sales of goods for $500 or more, and in England and Wales a contract for the sale of land must be in writing and signed by both parties."
+    a: "In most countries, yes. Contracts generally need no particular form, so an agreement reached by conversation is a contract. The exceptions are set by statute: in the United States the statute of frauds requires a signed writing for contracts such as sales of land, guarantees, agreements that cannot be performed within a year, and sales of goods for $500 or more, and in England and Wales a contract for the sale of land must be in writing and signed by both parties. For work on a home, California requires a written contract for home improvement projects over $500, and in the UK a trader's statements that a consumer relied on are treated as terms of the contract under section 50 of the Consumer Rights Act 2015."
   - q: "If the written contract says one thing and we agreed something else in a meeting, which one wins?"
     a: "Usually the written contract. Under the parol evidence rule in the United States, Canada and Australia, and under section 95 of India's Bharatiya Sakshya Adhiniyam, evidence of a prior or contemporaneous oral agreement is generally not admitted to contradict a written contract that records the whole deal. The party claiming the oral agreement carries the burden of proving it."
   - q: "Can a written contract be changed by a verbal agreement later?"
@@ -114,6 +117,17 @@ Many contracts contain a line like this: **"This agreement may only be varied in
 
 **Italy** presumes that when parties agree in writing on a form for a future contract, they meant that form to be a condition of its validity (Civil Code article 1352).
 
+## If the work is on your home
+
+Renovation is where spoken promises collide with the written quote most often. "We'll take the old floor away for you." The quote says nothing about it. The final invoice has a disposal line.
+
+Two rules change the picture for a consumer:
+
+- **United Kingdom.** Under **section 50 of the Consumer Rights Act 2015**, anything said to you by or on behalf of the trader about the trader or the service is treated as a **term of the contract** if you took it into account when deciding to enter the contract, or when making a later decision about the service. Spoken statements count. The exception is where the trader qualified the statement at the same time, or you expressly agreed to change it.
+- **California.** The Contractors State License Board says that home improvement projects over **$500** in combined labor and materials must be in a **written contract** that includes specified consumer-rights information (Business and Professions Code section 7159). Other states have their own rules, which we have not checked here.
+
+In practice: ask for the quote to list what is **included and excluded**, and send a message the same day for anything added on site. "As discussed today, removing and disposing of the old floor is included in the quoted price." Where recording a conversation you are part of is lawful, TalkSafe can start on a word like **"included"**, so the 30 seconds before someone says "that's included, right?" are kept too.
+
 ## In the end, it comes down to showing what was said
 
 Across all thirteen countries, **a spoken agreement is valid, but if it departs from the written contract, the person relying on it has to prove it.** And that proof almost always comes back to what was said in the meeting.
@@ -138,5 +152,10 @@ Why the original file and the opening seconds matter once a recording is used as
 For a personal loan agreed only by word of mouth, how long you have to recover it, and whether "I will pay you back" restarts the clock, is in [you lent them money, now they say it was a gift](https://hcompany-kr.github.io/blog/en/lent-money/).
 
 When the spoken agreement is a job offer and the contract says something else, thirteen countries handle it in [what you were promised at interview is not what the contract says](https://hcompany-kr.github.io/blog/en/job-offer-terms/).
+
+## Sources
+
+- [Consumer Rights Act 2015, section 50 (legislation.gov.uk)](https://www.legislation.gov.uk/ukpga/2015/15/section/50)
+- [Home Improvement Contracts consumer guide (California Contractors State License Board)](https://www.cslb.ca.gov/resources/GuidesAndPublications/HomeImprovementContractsConsumerGuide.pdf)
 
 This article is general information, not legal advice. Speak to a lawyer about your own situation.

@@ -4,14 +4,17 @@ ref: verbal-contract
 categories: it
 permalink: /blog/it/verbal-contract/
 date: 2026-09-10
+last_modified_at: 2026-10-24
 eyebrow: Diritto
 title: "Nel contratto non c'è. Lo avete deciso in riunione"
 description: "Un accordo a voce è un contratto. Il problema nasce quando si scontra con quello scritto. Come tredici paesi trattano un patto verbale diverso dal contratto firmato."
+image: /assets/img/og/verbal-contract-it.png
+image_alt: "Come tredici paesi trattano il patto verbale diverso dal contratto: l'accordo a voce vincola, ma se c'è un contratto scritto vince lo scritto. Nei lavori di ristrutturazione, le variazioni proposte dall'impresa vanno autorizzate dal committente e l'autorizzazione si prova per iscritto (art. 1659 c.c.)."
 app: true
 app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Un contratto a voce è valido?"
-    a: "In generale sì. Il codice civile richiede la forma scritta solo per i contratti indicati dalla legge: l'art. 1350 la prevede a pena di nullità, tra gli altri, per i contratti che trasferiscono la proprietà di beni immobili, per quelli che costituiscono usufrutto o servitù e per le locazioni di immobili di durata superiore a nove anni. Fuori da questi casi l'accordo a voce vincola."
+    a: "In generale sì. Il codice civile richiede la forma scritta solo per i contratti indicati dalla legge: l'art. 1350 la prevede a pena di nullità, tra gli altri, per i contratti che trasferiscono la proprietà di beni immobili, per quelli che costituiscono usufrutto o servitù e per le locazioni di immobili di durata superiore a nove anni. Fuori da questi casi l'accordo a voce vincola. Nei lavori di ristrutturazione, l'appaltatore non può apportare variazioni non autorizzate dal committente, e l'autorizzazione si deve provare per iscritto (art. 1659 c.c.)."
   - q: "Se il contratto scritto dice una cosa e in riunione si è concordato altro, cosa prevale?"
     a: "Di regola lo scritto. L'art. 2722 c.c. non ammette la prova per testimoni di patti aggiunti o contrari al contenuto di un documento quando si sostiene che siano stati stipulati prima o contemporaneamente. Chi afferma l'accordo verbale diverso deve provarlo con altri mezzi."
   - q: "E se l'accordo a voce è stato fatto dopo la firma?"
@@ -111,6 +114,18 @@ In **Italia** vale l'art. 1352 c.c.: **se le parti hanno convenuto per iscritto 
 **L'Australia** va nella direzione opposta. Dal caso *Liebe v Molloy* (1906), i tribunali riconoscono che le parti hanno modificato il contratto a voce o con il loro comportamento nonostante il requisito dello scritto, quando le prove sono convincenti, e hanno mantenuto questa posizione anche dopo la sentenza britannica.
 
 **La Nuova Zelanda** tratta la clausola come una presunzione probatoria che cede davanti a prove forti e convincenti. **Il Canada** non ha una pronuncia della Corte Suprema: alcuni tribunali applicano la clausola, mentre la Corte d'appello dell'Ontario ha riconosciuto modifiche verbali o per comportamento nonostante la clausola. **Gli Stati Uniti** non la applicano in modo rigido nella common law, ma per la vendita di beni l'art. 2-209 dello Uniform Commercial Code la rende valida.
+
+## Se si tratta di lavori in casa
+
+Le ristrutturazioni sono il punto in cui le promesse a voce si scontrano più spesso con il preventivo. «Il pavimento vecchio lo portiamo via noi». Nel preventivo non c'è. Nella fattura finale compare lo smaltimento.
+
+Il **Codice civile** dà al committente una regola utile:
+
+- **Art. 1659**: l'appaltatore **non può apportare variazioni** alle modalità convenute dell'opera se il committente non le ha **autorizzate**, e **l'autorizzazione si deve provare per iscritto**. Se il prezzo è stato fissato **globalmente**, anche per le variazioni autorizzate l'appaltatore non ha diritto a un compenso in più, salvo diverso accordo.
+- La Cassazione (sez. II, n. 19346 del 14 luglio 2025) ha ritenuto **inammissibile la prova per testimoni** dell'autorizzazione a variazioni proposte dall'appaltatore.
+- Diverso è il caso dell'**art. 1661**: le variazioni **ordinate dal committente** possono essere provate con ogni mezzo.
+
+In pratica: chieda che il preventivo indichi cosa è **compreso e cosa no**, e metta per iscritto lo stesso giorno ciò che si aggiunge in cantiere. «Come detto oggi, la rimozione e lo smaltimento del pavimento vecchio sono compresi nel preventivo». Registrare una conversazione a cui si partecipa è lecito in Italia; TalkSafe può partire con una parola come **«compreso»**, e i 30 secondi prima di «è compreso, vero?» restano nel file.
 
 ## Alla fine conta poter mostrare cosa si è detto
 
