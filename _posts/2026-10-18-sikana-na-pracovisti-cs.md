@@ -94,4 +94,6 @@ Co s nahrávkou potom: [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/af
 
 Co je sexuální obtěžování na pracovišti a co musíte prokázat, popisuje [Sexuální obtěžování na pracovišti: co říká zákon, co musíte prokázat a proč nahrávka pomáhá](/blog/cs/sexualni-obtezovani/).
 
+Dohoda o rozvázání pracovního poměru podepsaná pod nátlakem: [Dohoda o rozvázání pracovního poměru pod nátlakem: dva měsíce na žalobu, odstupné a co se změnilo u podpory](/blog/cs/dohoda-pod-natlakem/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. V konkrétní věci se obraťte na advokáta.</p>

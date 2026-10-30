@@ -102,4 +102,6 @@ Was man mit einer Aufnahme tun sollte – und was nicht: [Was man mit einer Aufn
 
 Sexuelle Belästigung am Arbeitsplatz beweisen – mit der Zwei-Monats-Frist des AGG: [Sexuelle Belästigung am Arbeitsplatz beweisen: die Zwei-Monats-Frist, § 14 AGG – und was Sie aufnehmen dürfen](/blog/de/sexuelle-belaestigung/).
 
+Was ein Aufhebungsvertrag unter Druck bedeutet und wann er unwirksam ist: [Aufhebungsvertrag unter Druck: Widerrufen geht nicht – angreifen schon, wenn unfair verhandelt wurde](/blog/de/aufhebungsvertrag/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Ausschlussfristen können kurz sein; im Einzelfall eine Fachanwältin oder einen Fachanwalt für Arbeitsrecht fragen.</p>

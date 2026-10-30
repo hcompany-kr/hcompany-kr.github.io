@@ -436,6 +436,49 @@ CARDS = {
        ('Contro il contratto scritto', 'vince lo scritto', False),
        ("Variazioni proposte dall'impresa", 'autorizzazione per iscritto — art. 1659', True),
        ('Registrare la propria conversazione', 'lecito in Italia', True)]), '.title{font-size:50px}'),
+ ('aufhebungsvertrag', 'de'): (dict(eyebrow='ARBEIT · AUFHEBUNGSVERTRAG', title='Aufhebungsvertrag unter Druck', sub='§ 623 BGB, BAG 6 AZR 75/18 und die Sperrzeit.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'AT', 'CH'], rows=[
+       ('Schriftform Pflicht', 'für den Aufhebungsvertrag', (True, False, False)),
+       ('Arbeitslosengeld ohne Sperre', 'nach einvernehmlicher Lösung', (False, True, None)),
+       ('Eigenes Gespräch heimlich aufnehmen', 'ohne Einwilligung', (False, True, False))]), '.title{font-size:56px}.cmp td.m{width:62px}'),
+ ('demission-forcee', 'fr'): (dict(eyebrow='TRAVAIL · DÉMISSION FORCÉE', title='Démission forcée : ce qui la rend contestable', sub='Rupture conventionnelle, 15 jours, 12 mois.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH', 'QC'], rows=[
+       ('Délai de rétractation', 'rupture d’un commun accord', (True, None, None, None)),
+       ('Chômage sans pénalité', 'après une démission', (False, False, False, False)),
+       ('Enregistrer sa conversation', 'sans consentement', (False, True, False, True))]), '.title{font-size:50px}.cmp td.m{width:54px}'),
+ ('istifaya-zorlama', 'tr'): (dict(eyebrow='İŞ HAYATI · İSTİFA', title='İstifaya zorlama', sub='İkale, makul yarar, işsizlik ödeneği ve işe iade.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('İstifa veya ikale', 'işsizlik ödeneği yok — 4447/51', False),
+       ('İşverenin teklif ettiği ikale', 'makul yarar şartı — Yargıtay', True),
+       ('İşe iade için arabulucu', '1 ay içinde — İK 20', True),
+       ('Görüşmeyi rızasız kaydetmek', 'suç — TCK 133/2', False)]), '.title{font-size:60px}'),
+ ('forcado-a-pedir-demissao', 'pt-br'): (dict(eyebrow='TRABALHO · PEDIDO DE DEMISSÃO', title='Forçado a pedir demissão?', sub='Coação, acordo do art. 484-A e o art. 350.º CT.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Seguro ou subsídio de desemprego', 'pedido de demissão ou acordo', (False, None)),
+       ('Prazo para desfazer o acordo', '7 dias em Portugal', (False, True)),
+       ('Gravar a própria conversa', 'sem avisar', (True, False))]), ''),
+ ('porozumienie-stron-pod-presja', 'pl'): (dict(eyebrow='PRACA · POROZUMIENIE STRON', title='Porozumienie stron pod presją', sub='Art. 87 i 88 k.c., zasiłek po 90 dniach.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Groźba bezprawna', 'uchylenie się w ciągu roku — art. 88 k.c.', True),
+       ('Zapowiedź zwolnienia', 'sama nie jest groźbą bezprawną', False),
+       ('Porozumienie stron', 'zasiłek dopiero po 90 dniach', False),
+       ('Nagranie własnej rozmowy', 'co do zasady dozwolone', True)]), '.title{font-size:56px}'),
+ ('vaststellingsovereenkomst', 'nl'): (dict(eyebrow='WERK · ONTSLAG', title='Vaststellingsovereenkomst onder druk', sub='Art. 7:670b BW, WW en België.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Bedenktermijn', '14 dagen na tekenen', (True, None)),
+       ('Uitkering na eigen ontslag', 'zonder sanctie', (False, False)),
+       ('Eigen gesprek opnemen', 'als deelnemer', (True, True))]), '.title{font-size:50px}'),
+ ('dohoda-pod-natlakem', 'cs'): (dict(eyebrow='PRÁCE · DOHODA', title='Dohoda pod nátlakem', sub='§ 72 zákoníku práce a podpora od roku 2026.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Žaloba na neplatnost', 'do 2 měsíců', (True, True)),
+       ('Podpora bez ohledu na způsob skončení', 'v Česku od 2026', (True, True)),
+       ('Vlastní rozhovor nahrát', 'bez svolení', (True, False))]), '.title{font-size:58px}'),
+ ('forced-resignation', 'hi'): (dict(eyebrow='काम · इस्तीफ़ा', title='ज़बरदस्ती इस्तीफ़ा', sub='श्रीकांत 2005, औद्योगिक संबंध संहिता और सबूत।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('दबाव में इस्तीफ़ा', 'चुनौती संभव — सबूत कर्मचारी पर', True),
+       ('इस्तीफ़ा वापस लेना', 'प्रभावी होने से पहले — श्रीकांत 2005', True),
+       ('ख़राब रेटिंग अकेले', 'ज़बरदस्ती नहीं — 2024', False),
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
 }
 
 if __name__ == '__main__':

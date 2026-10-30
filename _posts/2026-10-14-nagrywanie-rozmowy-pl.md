@@ -115,4 +115,6 @@ Jak zebrać dowody uporczywego nękania (stalkingu), opisuje [Stalking, czyli up
 
 Czy umowa ustna jest ważna i jak udowodnić ustalenia, gdy kosztorys mówi co innego: [Umowa ustna jest ważna. Ale jak udowodnić, co ustalono, gdy w kosztorysie stoi co innego?](/blog/pl/umowa-ustna/).
 
+Porozumienie stron podpisane pod presją, zasiłek i jak udowodnić groźbę: [Porozumienie stron pod presją: kiedy można się od niego uchylić, co traci się przy zasiłku i jak udowodnić groźbę](/blog/pl/porozumienie-stron-pod-presja/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

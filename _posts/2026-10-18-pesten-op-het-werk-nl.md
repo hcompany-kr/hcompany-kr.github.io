@@ -89,4 +89,6 @@ Wat je daarna met een opname doet: [Wat je met een opname doet, en wat je er nie
 
 Hoe je seksuele intimidatie op het werk meldt en bewijst, staat in [Seksuele intimidatie op het werk: melden, bewijzen en waarom je eigen opname telt](/blog/nl/seksuele-intimidatie/).
 
+Een vaststellingsovereenkomst onder druk, de bedenktermijn en je WW: [Vaststellingsovereenkomst onder druk: 14 dagen bedenktijd, je WW, en waarom ontslag nemen in een opwelling niet altijd telt](/blog/nl/vaststellingsovereenkomst/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. Raadpleeg voor een concreet geval een advocaat arbeidsrecht.</p>

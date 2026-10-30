@@ -98,4 +98,6 @@ Kayıtla sonra ne yapılır, ne yapılmaz: [Bir kayıtla ne yapmalı, ne yapmama
 
 İş yerinde cinsel tacize uğrayınca ne yapılacağı, TCK 105 ve haklı fesih [İş yerinde cinsel tacize uğradım, ne yapmalıyım? TCK 105, haklı fesih ve ses kaydı](/blog/tr/cinsel-taciz/) yazısında.
 
+İstifaya zorlandığınızda ikale, kıdem tazminatı ve işsizlik maaşı: [İstifaya zorlama: Baskıyla imzalatılan istifa ve ikale sözleşmesi, kıdem tazminatı ve işsizlik maaşı](/blog/tr/istifaya-zorlama/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Fesih süreleri hak düşürücüdür; somut bir durum için bir iş hukuku avukatına danışın.</p>

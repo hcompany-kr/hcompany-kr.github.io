@@ -120,4 +120,6 @@ Hoe je belaging (stalking) bewijst, staat in [Stalking (belaging) bewijzen: wat 
 
 Of een mondelinge afspraak geldig is en wat telt als de offerte iets anders zegt: [Is een mondelinge afspraak geldig? Ja, maar wat als de offerte iets anders zegt?](/blog/nl/mondelinge-afspraak/).
 
+Een vaststellingsovereenkomst onder druk, de bedenktermijn en je WW: [Vaststellingsovereenkomst onder druk: 14 dagen bedenktijd, je WW, en waarom ontslag nemen in een opwelling niet altijd telt](/blog/nl/vaststellingsovereenkomst/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

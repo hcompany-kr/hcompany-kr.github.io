@@ -122,6 +122,8 @@ This covers **the United States and the United Kingdom**. We have not verified t
 
 Within the US, unemployment rules and the availability of state law claims differ by state, and this piece states only the general pattern.
 
+For Germany, Austria and Switzerland, France, Belgium, Switzerland and Quebec, and Brazil and Portugal, see the [German](/blog/de/aufhebungsvertrag/), [French](/blog/fr/demission-forcee/) and [Portuguese](/blog/pt-br/forcado-a-pedir-demissao/) editions. India is covered in [Hindi](/blog/hi/forced-resignation/).
+
 ## In short
 
 Being asked to resign is not itself unlawful. Sometimes it genuinely is the better exit for both sides.

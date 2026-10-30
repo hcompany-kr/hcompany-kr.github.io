@@ -93,4 +93,6 @@ O que fazer com a gravação depois: [O que fazer com uma gravação, e o que n�
 
 Como provar assédio sexual no trabalho, e a diferença entre assédio e importunação sexual, está em [Assédio sexual no trabalho: como provar, o que é crime e por que a gravação conta](/blog/pt-br/assedio-sexual/).
 
+Se forçarem você a pedir demissão, o que muda e como provar: [Forçado a pedir demissão: quando o pedido é nulo, o que o acordo do art. 484-A tira de você e como provar a pressão](/blog/pt-br/forcado-a-pedir-demissao/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. Para um caso concreto, consulte um advogado trabalhista no Brasil ou em Portugal.</p>

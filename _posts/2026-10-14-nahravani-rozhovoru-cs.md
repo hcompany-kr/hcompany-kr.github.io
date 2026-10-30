@@ -119,4 +119,6 @@ Jak sbírat důkazy nebezpečného pronásledování (stalkingu), popisuje [Stal
 
 Zda platí ústní smlouva a jak dokázat domluvu, když rozpočet říká něco jiného: [Ústní smlouva platí. Jak ale dokázat, co se domluvilo, když v rozpočtu stojí něco jiného?](/blog/cs/ustni-smlouva/).
 
+Dohoda o rozvázání pracovního poměru podepsaná pod nátlakem: [Dohoda o rozvázání pracovního poměru pod nátlakem: dva měsíce na žalobu, odstupné a co se změnilo u podpory](/blog/cs/dohoda-pod-natlakem/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Uvedená rozhodnutí a předpisy byly ověřeny ke dni zveřejnění; judikatura se vyvíjí. V konkrétní věci se obraťte na advokáta.</p>

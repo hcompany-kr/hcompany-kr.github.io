@@ -137,6 +137,8 @@ Wie man Stalking beweist und ein Stalking-Tagebuch führt: [Stalking beweisen: W
 
 Ob ein mündlicher Vertrag gilt und was zählt, wenn er vom schriftlichen Angebot abweicht: [Mündlicher Vertrag: Er gilt – aber was zählt, wenn er vom schriftlichen Angebot abweicht?](/blog/de/muendlicher-vertrag/).
 
+Was ein Aufhebungsvertrag unter Druck bedeutet und wann er unwirksam ist: [Aufhebungsvertrag unter Druck: Widerrufen geht nicht – angreifen schon, wenn unfair verhandelt wurde](/blog/de/aufhebungsvertrag/).
+
 ## Quellen
 
 - [§ 201 StGB – Verletzung der Vertraulichkeit des Wortes (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/stgb/__201.html)

@@ -109,4 +109,6 @@ Co zrobić z nagraniem potem: [Co zrobić z nagraniem, a czego z nim nie robić]
 
 Jak udowodnić molestowanie seksualne w pracy i gdzie je zgłosić, opisuje [Molestowanie seksualne w pracy: jak udowodnić, gdzie zgłosić i dlaczego nagranie się liczy](/blog/pl/molestowanie-w-pracy/).
 
+Porozumienie stron podpisane pod presją, zasiłek i jak udowodnić groźbę: [Porozumienie stron pod presją: kiedy można się od niego uchylić, co traci się przy zasiłku i jak udowodnić groźbę](/blog/pl/porozumienie-stron-pod-presja/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Opis nowelizacji opiera się na komentarzach do ustawy; w konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>
