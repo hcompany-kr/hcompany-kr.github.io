@@ -60,6 +60,8 @@ Se só existir um arquivo editado, a outra parte pode alegar que ele foi manipul
 
 A **função de corte do TalkSafe não mexe no original.** O trecho escolhido é salvo como um arquivo novo, e a gravação completa fica onde estava. Assim você prepara uma cópia para apresentar sem perder de onde ela veio.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
+
 O mesmo vale para a **remoção de ruído com IA**. Se você gravou na rua e o barulho cobre partes da conversa, ela cria um arquivo novo sem o ruído de fundo. Funciona também num trecho cortado: corte primeiro o que importa e depois limpe esse arquivo. O processamento acontece no aparelho e o original fica como estava. Apresente a versão limpa se ela for mais fácil de entender e guarde o original: é ele que mostra que nada mais foi mudado.
 
 A sequência que vale seguir:

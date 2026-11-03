@@ -115,6 +115,8 @@ faq:
 
 TalkSafe는 미리 정해둔 말이 들리면 녹음을 시작하는 안드로이드 녹음 앱입니다. 키워드는 누가 말하든 인식되므로 면접에서 나올 법한 말을 정해둘 수 있고, 화면이 잠긴 상태에서도 동작합니다. 녹음이 시작되기 전 30초까지 함께 저장되므로, 조건 이야기가 시작된 지점을 놓치지 않습니다.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-ko.jpg" alt="TalkSafe 키워드 설정 화면. 마이크 버튼을 눌러 키워드를 추가하고, 등록한 키워드가 목록으로 보입니다." width="540" height="960" loading="lazy"><figcaption>키워드 설정 화면. 여러 개를 등록할 수 있고, 어느 하나만 감지되어도 녹음이 시작됩니다.</figcaption></figure>
+
 녹음을 증거로 쓸 때 원본과 앞부분이 왜 중요한지는 [녹음은 했는데 증거로 못 쓰는 경우](https://hcompany-kr.github.io/blog/ko/recording-evidence/)에, 말로 한 약속이 계약서와 부딪히는 문제 전반은 [계약서엔 없는데 미팅에서 말로 정한 것](https://hcompany-kr.github.io/blog/ko/verbal-contract/)에 정리했습니다.
 
 ## 정리

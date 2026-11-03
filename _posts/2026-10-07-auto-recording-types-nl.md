@@ -90,6 +90,8 @@ Vier en vijf dekken elkaars gaten af.
 
 Een uitgesproken trigger maakt handen overbodig, en de buffer zorgt ervoor dat een late beslissing de wisseling toch vastlegt. [TalkSafe](/talksafe/nl/) gebruikt allebei: de opname begint bij een gekozen woord, en de 30 seconden daarvoor staan in het bestand.
 
+<figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
+
 Wil je toestemming vragen, dan kun je dat in de vraag zelf gebruiken: met „opnemen” als trefwoord begint de opname bij „Mag ik dit opnemen?”, en het antwoord staat in het bestand.
 
 ## Wat je bij elk type wilt controleren

@@ -67,6 +67,8 @@ Prima di usarne uno per una conversazione vera vale la pena sapere due cose. Pri
 
 [TalkSafe](/talksafe/it/) ha la **rimozione del rumore con IA**, da applicare a una registrazione già fatta.
 
+<figure class="shot"><img src="/assets/img/screens/settings-it.jpg" alt="Schermata delle impostazioni di TalkSafe: durata della registrazione automatica dopo il rilevamento (10 minuti, 30 minuti, 1 ora, arresto manuale), lingua di rilevamento e backup nel cloud." width="540" height="960" loading="lazy"><figcaption>Impostazioni. Scegli quanto registrare dopo un rilevamento e la lingua di rilevamento; ascolto e riconoscimento avvengono sul telefono, senza internet.</figcaption></figure>
+
 - **Viene elaborata sul dispositivo.** Non si carica niente per pulire il file.
 - **L'originale resta.** La versione pulita viene salvata come nuovo file accanto.
 - **Funziona su un ritaglio.** Ritaglia prima i due minuti che contano, poi pulisci solo quelli.

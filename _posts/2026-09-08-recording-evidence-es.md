@@ -105,6 +105,8 @@ Ese desfase es justo el tema de [cuando pulsas grabar, ya es tarde](https://hcom
 
 Por eso TalkSafe guarda los 30 segundos anteriores. No para grabar más, sino para cubrir el hueco entre darse cuenta y sacar el teléfono.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-es.jpg" alt="Pantalla de ajustes de palabras clave de TalkSafe. Las palabras se añaden con el botón del micrófono y aparecen en una lista." width="540" height="960" loading="lazy"><figcaption>Ajustes de palabras clave. Puedes registrar varias; basta con que se detecte una para que empiece la grabación.</figcaption></figure>
+
 ## En resumen
 
 - Conserva el original. Enviar un archivo y conservarlo no son lo mismo.

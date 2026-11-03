@@ -73,6 +73,8 @@ Deze categorie is precies voor dit probleem gemaakt. De app luistert naar woorde
 
 [TalkSafe](/talksafe/nl/) is een Android-app die zo werkt. De woordherkenning gebeurt op het toestel, de opname begint **met een vergrendeld scherm en de telefoon in je zak**, en op het moment van de start is er geen geluid en geen zichtbare verandering.
 
+<figure class="shot"><img src="/assets/img/screens/active-nl.jpg" alt="TalkSafe-scherm met actieve trefwoordherkenning en een Stop-knop." width="540" height="960" loading="lazy"><figcaption>Trefwoordherkenning actief. De app blijft op de achtergrond luisteren, ook met het scherm uit of de app gesloten.</figcaption></figure>
+
 Twee eigenschappen onderscheiden haar van de andere drie.
 
 **Het trefwoord is niet gebonden aan jouw stem.** Herkend wordt het woord zelf, ongeacht wie het zegt. Je kunt dus woorden instellen die iemand anders waarschijnlijk zegt — bijvoorbeeld „tentamen” in een college of „afspraak” in een gesprek met de huisarts. Zodra het onderwerp ter sprake komt, begint de opname zonder dat jij iets doet. Even goed kies je een eigen woord en start je handsfree een spraakmemo tijdens het autorijden of koken.

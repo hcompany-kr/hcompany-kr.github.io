@@ -91,6 +91,8 @@ Il difficile è farlo sul momento. Interrompere per chiedere di annotare qualcos
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) copre quel vuoto. Fissi delle parole in anticipo e la registrazione parte quando ne sente una. **Funziona a schermo bloccato**, dalla tasca, senza aprire niente.
 
+<figure class="shot"><img src="/assets/img/screens/settings-it.jpg" alt="Schermata delle impostazioni di TalkSafe: durata della registrazione automatica dopo il rilevamento (10 minuti, 30 minuti, 1 ora, arresto manuale), lingua di rilevamento e backup nel cloud." width="540" height="960" loading="lazy"><figcaption>Impostazioni. Scegli quanto registrare dopo un rilevamento e la lingua di rilevamento; ascolto e riconoscimento avvengono sul telefono, senza internet.</figcaption></figure>
+
 E le parole non devono dirle tu. Puoi impostare quelle che dice di solito chi vende — *sinistro*, *garanzia*, *motore*, *chilometri*, *tagliandi*, *nessun problema* — così il momento in cui escono le condizioni è il momento in cui parte la registrazione.
 
 Poiché vengono salvati anche i **30 secondi precedenti**, un'affermazione che hai registrato con un secondo di ritardo resta comunque nel file.

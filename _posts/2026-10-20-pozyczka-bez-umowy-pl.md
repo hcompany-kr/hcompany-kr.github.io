@@ -83,6 +83,8 @@ O pieniądzach rozmawia się przy stole albo przez telefon, nie na piśmie. **Ar
 
 [TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc możesz ustawić to, co dłużnik prawdopodobnie powie: **„oddam”**, **„zwrócę”**. Gdy powie „Oddam ci w przyszłym miesiącu”, nagrywanie się zaczyna — a to, co padło wcześniej, też jest w pliku.
 
+<figure class="shot"><img src="/assets/img/screens/start-pl.jpg" alt="Ekran startowy TalkSafe z przyciskami do uruchomienia wykrywania na żywo i ręcznego nagrywania." width="540" height="960" loading="lazy"><figcaption>Ekran startowy TalkSafe. Przy włączonym wykrywaniu na żywo nagrywanie zaczyna się, gdy zostanie wykryte ustawione słowo; przyciskiem można też nagrać od razu.</figcaption></figure>
+
 Przycięcie fragmentu zapisuje nowy plik, a **oryginał zostaje nietknięty**. Więcej w [Jak przyciąć nagranie głosowe na Androidzie i nie stracić oryginału](/blog/pl/trim-recording/).
 
 Po rozmowie **potwierdź ustalenia wiadomością**: „To jesteśmy umówieni — oddajesz 5000 zł do 30-go.” Odpowiedź „ok” to dokument.

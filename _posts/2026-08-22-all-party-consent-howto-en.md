@@ -54,6 +54,8 @@ Neither version puts the agreement inside the file, which is exactly where it is
 
 [TalkSafe](/talksafe/en/) starts recording when it hears a word you chose in advance. So the request can be the trigger.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 Set **record** as a keyword. Then say it:
 
 > "Do you mind if I **record** this?"

@@ -73,6 +73,8 @@ Bu, tam bu sorun için yapılmış kategoridir. Uygulama önceden seçtiğiniz k
 
 [TalkSafe](/talksafe/tr/) bu şekilde çalışan bir Android uygulamasıdır. Kelime tanıma cihazın üzerinde çalışır, kayıt **ekran kilitliyken ve telefon cebinizdeyken** başlar ve başladığı anda ne ses çıkar ne de görünür bir değişiklik olur.
 
+<figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
+
 Onu diğer üçünden ayıran iki özellik var.
 
 **Anahtar kelime sesinize bağlı değildir.** Algılanan, kimin söylediğinden bağımsız olarak kelimenin kendisidir. Bu yüzden başkasının söylemesi muhtemel kelimeleri seçebilirsiniz: derste "sınav", doktor görüşmesinde "randevu" gibi. Konu açıldığı anda, siz hiçbir şey yapmadan kayıt başlar. Araba kullanırken ya da yemek yaparken eller serbest sesli not başlatmak için kendi kelimenizi de seçebilirsiniz.

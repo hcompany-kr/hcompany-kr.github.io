@@ -93,6 +93,8 @@ La legge organica 4/2015 sulla sicurezza cittadina considerava infrazione grave,
 
 In pratica: in Marocco **tirare fuori il telefono davanti a un agente può costarti il telefono e un procedimento**, anche se la legge non lo vieta in modo esplicito. Se vuoi una traccia, **chiedi prima**: con TalkSafe la parola chiave può stare nella tua domanda, per esempio **«registrare»**, così la richiesta e la risposta finiscono nel file. E **non pubblicare**.
 
+<figure class="shot"><img src="/assets/img/screens/before30-it.jpg" alt="Schermata dello storico delle registrazioni di TalkSafe. Ogni volta che viene rilevata una parola chiave si salva una registrazione con data e ora." width="540" height="960" loading="lazy"><figcaption>Storico delle registrazioni. Ogni file contiene anche i 30 secondi precedenti al rilevamento della parola chiave.</figcaption></figure>
+
 ## Il limite da non superare
 
 - **Non ostacolare.** Registrare è lecito quasi ovunque; mettersi fisicamente in mezzo no.

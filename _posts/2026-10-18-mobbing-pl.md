@@ -88,6 +88,8 @@ Mobbing nie zapowiada się. Upokarzające zdanie pada w środku zebrania, na kor
 
 [TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić słowa, które zwykle padają, gdy sytuacja się zaczyna — nazwę projektu, zwrot, który przełożony powtarza, własne nazwisko. Działa przy **zablokowanym ekranie**, a **30 sekund sprzed startu** zostaje w pliku.
 
+<figure class="shot"><img src="/assets/img/screens/start-pl.jpg" alt="Ekran startowy TalkSafe z przyciskami do uruchomienia wykrywania na żywo i ręcznego nagrywania." width="540" height="960" loading="lazy"><figcaption>Ekran startowy TalkSafe. Przy włączonym wykrywaniu na żywo nagrywanie zaczyna się, gdy zostanie wykryte ustawione słowo; przyciskiem można też nagrać od razu.</figcaption></figure>
+
 Przy wycinaniu fragmentu **oryginał zostaje** — a to on pokazuje, że niczego nie zmontowano. Więcej w [Jak przyciąć nagranie głosu na Androidzie i nie stracić oryginału](/blog/pl/trim-recording/).
 
 ## Gdzie zgłosić

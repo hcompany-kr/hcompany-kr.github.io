@@ -66,6 +66,8 @@ O problema é o momento. Ninguém avisa quando vai aparecer, e tirar o celular n
 
 O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda os **30 segundos anteriores** no arquivo. As palavras são reconhecidas **seja quem for que as diga**. Uma escolha natural é o que você diria na hora: **"para"**. Quando você diz "Para de me seguir", a gravação começa — e o que veio antes também está no arquivo, com o celular no bolso.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
+
 Cortar um trecho salva um arquivo novo e deixa o **original intacto**. Mais em [Como cortar uma gravação de voz no Android sem perder o original](/blog/pt-br/trim-recording/).
 
 O app grava o que o microfone ouve no ambiente — a conversa da qual você participa. Instalar algo no celular de outra pessoa ou deixar o aparelho gravando onde você não está é outra coisa, e é crime.

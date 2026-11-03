@@ -110,6 +110,8 @@ Every one of these depends on the same thing: being able to show **what you were
 
 TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set the words that come up when terms are discussed. It works with the screen locked and saves the 30 seconds before it started, so the moment the numbers come up is not the part you miss.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
+
 Why the original file and the opening seconds matter once a recording is used as evidence is in [you have the recording, you still may not be able to use it](https://hcompany-kr.github.io/blog/en/recording-evidence/). The wider problem of a spoken agreement meeting a written one is in [it is not in the contract, it was agreed in the meeting](https://hcompany-kr.github.io/blog/en/verbal-contract/).
 
 ## What this comes down to

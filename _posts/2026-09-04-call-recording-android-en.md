@@ -86,6 +86,8 @@ The trade-offs are real and worth stating plainly. **Audio quality drops**, beca
 
 Of the three, background noise is the one you can deal with afterwards. TalkSafe's **AI noise removal** strips background noise from a finished recording and leaves the voices. It runs on the device, and the cleaned version is saved as a new file, with the original kept as it was.
 
+<figure class="shot"><img src="/assets/img/screens/active-en.jpg" alt="TalkSafe screen showing keyword detection active, with a Stop button." width="540" height="960" loading="lazy"><figcaption>Keyword detection active. It keeps listening in the background with the screen off or the app closed.</figcaption></figure>
+
 For a call you can take somewhere quiet, it works.
 
 ## Where this app sits, and where it does not

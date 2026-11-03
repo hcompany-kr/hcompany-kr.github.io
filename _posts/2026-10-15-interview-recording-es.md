@@ -59,6 +59,8 @@ Meter la mano en el bolsillo a mitad de conversación, desbloquear el móvil y b
 
 [TalkSafe](/talksafe/es/) es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra elegida de antemano. Para quien entrevista, importan tres cosas.
 
+<figure class="shot"><img src="/assets/img/screens/active-es.jpg" alt="Pantalla de TalkSafe con la detección de palabras clave activa y el botón Detener." width="540" height="960" loading="lazy"><figcaption>Detección de palabras clave activa. Sigue escuchando en segundo plano con la pantalla apagada o la aplicación cerrada.</figcaption></figure>
+
 **Las manos no tocan el móvil.** Funciona con la pantalla bloqueada, en el bolsillo o en el bolso. No haces nada durante la conversación, así que la conversación conserva su forma.
 
 **La palabra puede ser la suya.** El reconocimiento no está ligado a una voz. Si sabes de qué va la entrevista, elige las palabras que la otra persona usará cuando llegue a ello: "aquella noche", "el dinero", "el contrato", un nombre. En cuanto sale el tema, empieza la grabación.

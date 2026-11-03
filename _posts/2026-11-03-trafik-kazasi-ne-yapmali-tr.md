@@ -83,6 +83,8 @@ Güvenli olanlar:
 
 [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır ve **ekran kilitliyken**, telefonun kilidini açmadan ve uygulamayı açmadan çalışır. "Not al" gibi bir kelime belirleyin: karşı taraf ayrılır ayrılmaz, hâlâ yol kenarındayken söyleyin ve kendi anlatımınız başlasın. Konuşma açıkça kayda alınacaksa kelime sorunun içinde olabilir: "kayıt" kelimesini belirleyin, "Aynı şeyi konuştuğumuzdan emin olmak için kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap, **önceki 30 saniyeyle** birlikte dosyada olur.
 
+<figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
+
 ## Kısaca
 
 - **Durun, güvenliği sağlayın, yaralı varsa 112 ve polis ya da jandarma.**

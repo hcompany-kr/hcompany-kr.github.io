@@ -87,6 +87,8 @@ Obtěžování se neohlašuje. Než vytáhnete telefon, odemknete ho a zmáčkne
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**.
 
+<figure class="shot"><img src="/assets/img/screens/settings-cs.jpg" alt="Nastavení TalkSafe: doba automatického nahrávání po rozpoznání slova (10 minut, 30 minut, 1 hodina, ruční ukončení), jazyk rozpoznávání a zálohování do cloudu." width="540" height="960" loading="lazy"><figcaption>Nastavení. Zvolíte, jak dlouho nahrávat po rozpoznání, a jazyk rozpoznávání; poslech a rozpoznávání probíhá v telefonu, bez internetu.</figcaption></figure>
+
 Přirozená volba je slovo, které v tu chvíli řeknete: **„přestaň“**. Když řeknete „Přestaň s tím“, nahrávání začne — a 30 sekund předtím, s tím, co vás k tomu přimělo, je v souboru. I vaše odmítnutí je nahrané, a to ukazuje, že chování bylo **nežádoucí**.
 
 Střih uloží nový soubor a **originál zůstane nedotčený** — právě ten ukazuje, že se nic neupravovalo. Víc v [Jak na Androidu zkrátit hlasovou nahrávku a nepřijít o originál](/blog/cs/trim-recording/).

@@ -88,6 +88,8 @@ Il momento in cui capisci che quella frase andava conservata arriva sempre dopo 
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) serve a colmare quello scarto. Si sceglie una parola in anticipo e la registrazione parte quando quella parola viene pronunciata. **Funziona a schermo bloccato.** All'avvio salva anche i **30 secondi precedenti**, così resta nel file anche quello che è stato detto prima che tu te ne accorgessi.
 
+<figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
+
 Come conservare il file e tenere solo la parte utile è in [Cosa fare con una registrazione](/blog/it/after-recording/).
 
 ## In sintesi

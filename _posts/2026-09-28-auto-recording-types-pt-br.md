@@ -90,6 +90,8 @@ O quatro e o cinco cobrem as falhas um do outro.
 
 Um gatilho falado dispensa as mãos, e os segundos anteriores garantem que uma decisão tardia ainda capte a troca. O [TalkSafe](/talksafe/pt-br/) usa os dois: a gravação começa com uma palavra escolhida, e os 30 segundos anteriores ficam no arquivo.
 
+<figure class="shot"><img src="/assets/img/screens/start-pt-br.jpg" alt="Tela inicial do TalkSafe com botões para iniciar a detecção em tempo real e uma gravação manual." width="540" height="960" loading="lazy"><figcaption>Tela inicial do TalkSafe. Com a detecção em tempo real ligada, a gravação começa quando uma palavra escolhida é detectada; também dá para gravar na hora pelo botão.</figcaption></figure>
+
 Quando você quer pedir consentimento, dá para usar isso na própria pergunta: com "gravar" como palavra-chave, a gravação começa em "Posso gravar?", e a concordância fica no arquivo.
 
 ## Vale verificar em qualquer tipo

@@ -104,6 +104,8 @@ Acabas de recibir un golpe, el pulso va disparado, tienes que apartar el coche y
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) cubre ese hueco. Eliges una palabra de antemano y la grabación arranca cuando suena. **Funciona con la pantalla bloqueada.** Al iniciarse guarda también los **30 segundos anteriores**, así que queda en el archivo lo que se dijo antes de que te dieras cuenta.
 
+<figure class="shot"><img src="/assets/img/screens/active-es.jpg" alt="Pantalla de TalkSafe con la detección de palabras clave activa y el botón Detener." width="540" height="960" loading="lazy"><figcaption>Detección de palabras clave activa. Sigue escuchando en segundo plano con la pantalla apagada o la aplicación cerrada.</figcaption></figure>
+
 Las palabras clave no están atadas a quien habla: puedes dejar preparado lo que va a decir **el otro conductor**. En la carretera, *no te he visto*, *¿estás bien?* o *seguro* son las que se pronuncian de verdad.
 
 Cómo conservar el archivo, cómo quedarte solo con la parte útil y dónde presentarlo está en [Qué hacer con una grabación](/blog/es/after-recording/).

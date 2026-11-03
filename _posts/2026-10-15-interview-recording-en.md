@@ -62,6 +62,8 @@ Reaching into your pocket mid-conversation, unlocking the phone and finding the 
 
 [TalkSafe](/talksafe/en/) is an Android voice recorder that starts recording when it hears a word you set in advance. For someone who interviews people, three things matter.
 
+<figure class="shot"><img src="/assets/img/screens/active-en.jpg" alt="TalkSafe screen showing keyword detection active, with a Stop button." width="540" height="960" loading="lazy"><figcaption>Keyword detection active. It keeps listening in the background with the screen off or the app closed.</figcaption></figure>
+
 **Your hands stay off the phone.** It works with the screen locked, in a pocket or a bag. Nothing happens during the conversation, so the conversation keeps its shape.
 
 **The keyword can be their word.** Recognition is not tied to one voice. If you know what the interview is about, set the words the other person will use when they get to it: "that night", "the money", "the contract", a name. The moment the subject comes up, recording starts.

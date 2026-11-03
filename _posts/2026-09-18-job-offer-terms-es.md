@@ -108,6 +108,8 @@ Todos los caminos dependen de lo mismo: **poder mostrar qué te dijeron.**
 
 TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir las que aparecen cuando se habla de condiciones. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, de modo que el momento en que aparece la cifra no se pierde.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-es.jpg" alt="Pantalla de ajustes de palabras clave de TalkSafe. Las palabras se añaden con el botón del micrófono y aparecen en una lista." width="540" height="960" loading="lazy"><figcaption>Ajustes de palabras clave. Puedes registrar varias; basta con que se detecte una para que empiece la grabación.</figcaption></figure>
+
 Por qué importan el original y los primeros segundos cuando una grabación se usa como prueba está en [tienes la grabación y aun así no puedes usarla](https://hcompany-kr.github.io/blog/es/recording-evidence/). El problema general de lo pactado de palabra frente a lo escrito está en [no está en el contrato, se acordó en la reunión](https://hcompany-kr.github.io/blog/es/verbal-contract/).
 
 ## En resumen

@@ -66,6 +66,8 @@ S'il n'existe qu'un fichier modifié, l'autre partie peut soutenir qu'il a été
 
 La **fonction de découpe de TalkSafe ne touche pas à l'original.** La partie sélectionnée est enregistrée dans un nouveau fichier, et l'enregistrement complet reste où il était. Vous pouvez donc préparer une copie à remettre sans perdre ce dont elle provient.
 
+<figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
+
 Il en va de même pour la **suppression du bruit par IA**. Si l'enregistrement a été fait dans la rue et que le bruit couvre des passages, elle crée un nouveau fichier sans le bruit de fond. Elle fonctionne aussi sur un passage découpé : on découpe d'abord ce qui compte, puis on nettoie ce fichier. Le traitement se fait sur l'appareil et l'original reste intact. Remettez la version nettoyée si elle se comprend mieux, et gardez l'original : c'est lui qui montre que rien d'autre n'a été modifié.
 
 La marche à suivre :

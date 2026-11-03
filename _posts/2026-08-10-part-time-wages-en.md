@@ -105,6 +105,8 @@ What that cannot cover is the hiring conversation itself, in real time, where **
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) covers that differently. You set a few words in advance, and recording starts when one of them is heard. **It starts with the screen locked** — the phone stays in a pocket through the interview.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 The words do not have to be ones you say. Set what a manager is likely to say — *an hour*, *training rate*, *overtime*, *tips*, *paperwork*, *schedule* — and the moment the terms come up is the moment recording begins.
 
 Because the 30 seconds before that point are saved as well, a figure mentioned just before you registered its importance is still in the file.

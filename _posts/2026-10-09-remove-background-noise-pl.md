@@ -67,6 +67,8 @@ Przed użyciem jednego z nich do prawdziwej rozmowy warto wiedzieć dwie rzeczy.
 
 [TalkSafe](/talksafe/pl/) ma **usuwanie szumów z AI**, które stosujesz do gotowego nagrania.
 
+<figure class="shot"><img src="/assets/img/screens/settings-pl.jpg" alt="Ekran ustawień TalkSafe: czas automatycznego nagrywania po wykryciu słowa (10 minut, 30 minut, 1 godzina, ręczne zatrzymanie), język wykrywania i kopia w chmurze." width="540" height="960" loading="lazy"><figcaption>Ustawienia. Wybierasz, jak długo nagrywać po wykryciu, i język wykrywania; słuchanie i rozpoznawanie odbywa się w telefonie, bez internetu.</figcaption></figure>
+
 - **Działa na urządzeniu.** Żeby oczyścić plik, nic nie jest wysyłane.
 - **Oryginał zostaje.** Oczyszczona wersja jest zapisywana obok jako nowy plik.
 - **Działa na wyciętym fragmencie.** Najpierw wytnij dwie minuty, które się liczą, potem oczyść tylko je.

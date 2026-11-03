@@ -72,6 +72,8 @@ Acompañar siempre no es posible. Y pedirle que abra una aplicación y pulse gra
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) sirve para esto.
 
+<figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
+
 Se instala en su móvil y **eres tú quien fija las palabras de antemano**. Cuando una de ellas se escucha, la grabación arranca. Tu familiar no hace nada. **Funciona con la pantalla bloqueada**, así que el móvil puede quedarse en el bolsillo o en el bolso durante toda la cita.
 
 Y las palabras no tienen por qué decirlas ellos. Puedes fijar lo que probablemente dirá el médico — *análisis*, *resultados*, *operación*, *dosis*, *efectos secundarios*, *esperar* — y el momento en que empieza la explicación es el momento en que empieza la grabación.

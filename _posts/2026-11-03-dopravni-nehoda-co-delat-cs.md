@@ -71,6 +71,8 @@ Problémem je okamžik. Právě do vás někdo narazil, srdce buší, auto je po
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo** – při **zamčené obrazovce**, bez odemykání telefonu a bez otevírání aplikace. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit, co obvykle říká **druhý řidič**: „pojišťovna“, „neviděl“. Uložíte-li **dvě slova, která pravděpodobně zazní ve stejné větě** – „neviděl jsem vás, zaplatí to pojišťovna“ – rozpoznávání bude spolehlivější. **30 sekund předtím** zůstane v souboru.
 
+<figure class="shot"><img src="/assets/img/screens/active-cs.jpg" alt="Obrazovka TalkSafe se zapnutým rozpoznáváním klíčových slov a tlačítkem Zastavit." width="540" height="960" loading="lazy"><figcaption>Rozpoznávání klíčových slov zapnuto. Aplikace poslouchá dál na pozadí i se zhasnutou obrazovkou nebo zavřenou aplikací.</figcaption></figure>
+
 K tomu:
 
 - **Fotky** dřív, než se s auty pohne: poloha, poškození, SPZ, značky.

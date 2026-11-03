@@ -65,6 +65,8 @@ De prijs is de omweg: het bestand van de telefoon halen, bewerken en zo nodig te
 
 [TalkSafe](/talksafe/nl/) knipt op de telefoon en **biedt nooit aan om te overschrijven**. Het stuk dat je kiest wordt als nieuw bestand opgeslagen en het origineel blijft precies waar het was. Er is geen vraag waarop je het verkeerde antwoord kunt geven.
 
+<figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
+
 Daar volgen drie dingen uit.
 
 - **Het begin kies je zelf.** TalkSafe begint op een vooraf gekozen woord en bewaart ook **de 30 seconden daarvoor**, dus het bestand begint iets vóór het moment. Met knippen bepaal je precies waar het fragment begint; de hele aanloop blijft in het origineel.

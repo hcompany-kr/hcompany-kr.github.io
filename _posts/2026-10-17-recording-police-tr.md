@@ -74,6 +74,8 @@ Bir kontrol uyarı vermeden başlar. Ellerinizi görünür tutmanız istendiğin
 
 [TalkSafe](/talksafe/tr/), **önceden belirlenen bir kelimeyle** kayda başlayan ve **ekran kilitliyken** çalışan bir Android ses kayıt uygulamasıdır. Türkiye'de en güvenli yol rıza istemek olduğu için, kendi sorunuzdaki bir kelimeyi anahtar kelime yapın, örneğin **"kayıt"**. "Konuşmamızı kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap dosyadadır. Memur hayır derse, bunu da bilirsiniz.
 
+<figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
+
 **Önceki 30 saniye** de saklandığı için kontrolün başı da dosyadadır. Telefona dokunmadan kayıt başlatmak: [Telefona dokunmadan kayda nasıl başlanır](/blog/tr/hands-free-recording/).
 
 ## Kısaca

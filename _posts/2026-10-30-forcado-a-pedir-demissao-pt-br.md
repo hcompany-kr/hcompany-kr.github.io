@@ -86,6 +86,8 @@ O problema é o momento. A conversa é marcada em cima da hora, dura dez minutos
 
 O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que **o outro lado** costuma dizer nessa conversa: "acordo", "justa causa", "pedir demissão". Funciona com a **tela bloqueada**, e os **30 segundos anteriores** ficam no arquivo — a frase que fez você perceber o que estava acontecendo não se perde.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-pt-br.jpg" alt="Tela de palavras-chave do TalkSafe. As palavras são adicionadas pelo botão do microfone e aparecem em uma lista." width="540" height="960" loading="lazy"><figcaption>Configuração de palavras-chave. Dá para cadastrar várias; basta uma delas ser detectada para a gravação começar.</figcaption></figure>
+
 O app grava o que o microfone ouve no ambiente — a conversa da qual você participa. Gravar conversas das quais você não participa é outra coisa e é crime (Lei 9.296, art. 10).
 
 ## Portugal: 7 dias para voltar atrás

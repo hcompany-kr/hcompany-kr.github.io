@@ -67,6 +67,8 @@ Deux choses sont bonnes à savoir avant d'en utiliser un pour une vraie conversa
 
 [TalkSafe](/talksafe/fr/) dispose d'une **suppression du bruit par IA** qu'on applique à un enregistrement déjà fait.
 
+<figure class="shot"><img src="/assets/img/screens/settings-fr.jpg" alt="Écran des réglages de TalkSafe : durée d'enregistrement automatique après détection (10 minutes, 30 minutes, 1 heure, arrêt manuel), langue de détection et sauvegarde dans le cloud." width="540" height="960" loading="lazy"><figcaption>Réglages. On choisit la durée d'enregistrement après une détection et la langue de détection ; l'écoute et la reconnaissance se font sur le téléphone, sans internet.</figcaption></figure>
+
 - **Elle fonctionne sur l'appareil.** Rien n'est envoyé pour nettoyer le fichier.
 - **L'original reste.** La version nettoyée est enregistrée dans un nouveau fichier à côté.
 - **Elle fonctionne sur un passage découpé.** Découpez d'abord les deux minutes qui comptent, puis nettoyez seulement celles-là.

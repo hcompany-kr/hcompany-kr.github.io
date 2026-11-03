@@ -84,6 +84,8 @@ Rızayla kayıt sorun değildir ve teslim için gerekçesi açıktır: "İkimizd
 
 [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan ve **ekran kilitliyken** çalışan bir Android ses kayıt uygulamasıdır — elleriniz fotoğraf ve tutanak için serbest kalır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedeyim"**. "Teslimi kaydedeyim mi?" diye sorduğunuzda kayıt o anda başlar; cevap ve ardından her oda hakkında söylenenler dosyadadır. Ayrıntı: [Önce bir şey söylersiniz](/blog/tr/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
+
 Kırptığınızda **orijinal korunur**.
 
 ## Kısaca

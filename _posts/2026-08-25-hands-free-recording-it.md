@@ -71,6 +71,8 @@ Ci sono però tre problemi.
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) è un'app Android che funziona così. Il riconoscimento avviene sul dispositivo, la registrazione parte **a schermo bloccato e con il telefono in tasca**, e non c'è alcun suono né cambiamento visibile nel momento in cui inizia.
 
+<figure class="shot"><img src="/assets/img/screens/active-it.jpg" alt="Schermata di TalkSafe con il rilevamento delle parole chiave attivo e il pulsante Interrompi." width="540" height="960" loading="lazy"><figcaption>Rilevamento delle parole chiave attivo. Continua ad ascoltare in background con lo schermo spento o l'app chiusa.</figcaption></figure>
+
 Due cose la separano dalle altre tre.
 
 **La parola chiave non è legata alla tua voce.** Viene rilevata la parola in sé, chiunque la pronunci. Puoi quindi impostare quello che dirà **l'altra persona** — la *caparra* di un proprietario, la *garanzia* di un venditore, il *contratto* di un capo. Il momento in cui esce l'argomento è il momento in cui parte la registrazione, e tu non hai fatto niente.

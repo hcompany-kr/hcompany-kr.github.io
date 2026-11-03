@@ -75,6 +75,8 @@ Bij de oplevering heb je je handen vol — telefoon voor foto's, rapport, sleute
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**, dus je kunt kiezen wat de verhuurder waarschijnlijk zegt: **„borg”**, **„in orde”**. Zegt hij „Alles in orde, de borg krijg je terug”, dan begint de opname — en wat daarvoor gezegd werd, zit er ook in.
 
+<figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
+
 Inkorten bewaart een nieuw bestand en laat het **origineel ongemoeid**. Meer in [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/).
 
 Stuur daarna **een bericht**: „Volgens de oplevering van vandaag is alles in orde en krijg ik de borg binnen 14 dagen terug.”

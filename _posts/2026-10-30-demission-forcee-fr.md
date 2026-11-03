@@ -90,6 +90,8 @@ Ce qui tient :
 
 [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » : dans le couloir ou dans la voiture, vous le dites et votre récit commence, sans sortir le téléphone. Si l'entretien doit être enregistré ouvertement, le mot peut être dans la question : avec « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer l'entretien ? », et la réponse est dans le fichier, avec les **30 secondes précédentes**. Plus de détails dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/keywords-fr.jpg" alt="Écran des mots-clés de TalkSafe. Les mots-clés s'ajoutent avec le bouton du micro et s'affichent en liste." width="540" height="960" loading="lazy"><figcaption>Réglages des mots-clés. Vous pouvez en enregistrer plusieurs ; il suffit que l'un d'eux soit détecté pour que l'enregistrement démarre.</figcaption></figure>
+
 ## Belgique
 
 - **Démission** : le congé donné par le travailleur avec préavis se notifie **par écrit** (article 37 de la loi du 3 juillet 1978) : remise contre accusé de réception, lettre recommandée ou exploit d'huissier.

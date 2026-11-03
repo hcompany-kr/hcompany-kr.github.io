@@ -53,6 +53,8 @@ Se esiste solo il file modificato, la controparte può sostenere che sia stato m
 
 La **funzione di ritaglio di TalkSafe non tocca l'originale.** Il tratto selezionato viene salvato come nuovo file e la registrazione completa resta dov'era. Puoi preparare la copia da produrre senza perdere quella da cui è uscita.
 
+<figure class="shot"><img src="/assets/img/screens/before30-it.jpg" alt="Schermata dello storico delle registrazioni di TalkSafe. Ogni volta che viene rilevata una parola chiave si salva una registrazione con data e ora." width="540" height="960" loading="lazy"><figcaption>Storico delle registrazioni. Ogni file contiene anche i 30 secondi precedenti al rilevamento della parola chiave.</figcaption></figure>
+
 Lo stesso vale per la **rimozione del rumore con IA**. Se hai registrato per strada e il rumore copre parti della conversazione, puoi creare un nuovo file senza il rumore di fondo. Funziona anche su un tratto ritagliato, quindi puoi ritagliare prima ciò che ti serve e poi pulire quel file. L'elaborazione avviene sul dispositivo e l'originale resta com'era. Consegna la versione pulita se si capisce meglio e conserva l'originale: è ciò che dimostra che non è stato cambiato nient'altro.
 
 L'ordine da seguire:

@@ -88,6 +88,8 @@ Lo difícil es hacerlo en el momento. La explicación es larga, el vocabulario a
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) cubre ese hueco. Fijas unas palabras de antemano y la grabación arranca al escuchar una de ellas. **Funciona con la pantalla bloqueada**, desde el bolsillo, sin abrir nada.
 
+<figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
+
 Y las palabras no tienen por qué decirlas tú. Puedes fijar lo que suele decir quien vende el seguro — *cubierto*, *excluido*, *franquicia*, *carencia*, *preexistente*, *no te preocupes* — de modo que el momento en que salen las condiciones es el momento en que empieza la grabación.
 
 Como también se guardan los **30 segundos anteriores**, una explicación que ya había empezado queda recogida desde el principio.

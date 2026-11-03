@@ -112,6 +112,8 @@ The practical problem is that "do you mind if I record this?" is not something y
 
 TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words the other person is likely to use. It works with the screen locked and saves the 30 seconds before it started, so you do not have to interrupt the conversation.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 Why the original file and the opening seconds matter once a recording is used as evidence is covered in [you have the recording, you still may not be able to use it](https://hcompany-kr.github.io/blog/en/recording-evidence/). When a spoken agreement conflicts with a written contract, see [it is not in the contract, it was agreed in the meeting](https://hcompany-kr.github.io/blog/en/verbal-contract/).
 
 ## What this comes down to

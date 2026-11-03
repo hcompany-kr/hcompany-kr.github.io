@@ -76,6 +76,8 @@ Telefon się gubi, psuje albo zostaje zresetowany, a wszystko, co na nim było, 
 
 TalkSafe korzysta z **menu udostępniania Androida**, więc nagranie można wysłać do każdej aplikacji, która przyjmuje pliki — e-mailem do siebie, do chmury, na komputer.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pl.jpg" alt="Historia nagrań w TalkSafe. Za każdym razem, gdy zostanie wykryte słowo kluczowe, nagranie zapisuje się z datą i godziną." width="540" height="960" loading="lazy"><figcaption>Historia nagrań. Każdy plik zawiera też 30 sekund sprzed wykrycia słowa kluczowego.</figcaption></figure>
+
 I to wraca do pierwszego punktu. **Wysłanie pliku sobie to przechowywanie. Wysłanie go komuś innemu to rozpowszechnianie.** Ten sam przycisk, inna czynność.
 
 ## Większość nagrań nigdy nie zostaje użyta

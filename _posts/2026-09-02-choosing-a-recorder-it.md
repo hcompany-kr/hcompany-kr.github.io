@@ -92,6 +92,8 @@ Due versioni.
 
 Lavoriamo in questa categoria, quindi leggi il prossimo passaggio tenendolo presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) e un'app Android che parte da una parola scelta da te, funziona a schermo bloccato e salva **i 30 secondi precedenti all'avvio** insieme al file — che e esattamente la risposta al problema della sillaba persa del VOX. Ritagliando un pezzo, l'originale resta invece di essere sostituito. Una registrazione fatta in un posto rumoroso, come la strada, può essere pulita dopo con la rimozione del rumore con IA, elaborata sul dispositivo, che salva un nuovo file accanto all'originale.
 
+<figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
+
 ## Dove l'hardware vince senza discussioni
 
 Scriverlo onestamente e l'unica cosa che rende leggibile il resto della pagina.

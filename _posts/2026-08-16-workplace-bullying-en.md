@@ -88,6 +88,8 @@ And the person it is happening to usually cannot do anything in the moment. Reac
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) removes that step. You set a few words in advance and recording starts when one of them is heard. **It starts with the screen locked**, from a pocket, with nothing to open.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 And the words do not have to be ones you say. Set what **that person** tends to say. You can be standing there saying nothing and the recording still starts.
 
 Because the **30 seconds before that point are saved as well**, a remark you only registered a beat later is inside the file rather than just outside it.

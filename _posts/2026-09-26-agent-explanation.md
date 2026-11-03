@@ -120,6 +120,8 @@ faq:
 
 TalkSafe는 미리 정해둔 말이 들리면 녹음을 시작하는 안드로이드 녹음 앱입니다. 키워드는 누가 말하든 인식되므로 "누수", "관리비", "주차"처럼 설명에서 나올 말을 정해둘 수 있고, 화면이 잠긴 상태에서도 동작합니다. 녹음이 시작되기 전 30초까지 함께 저장되므로, 그 단어가 나오기 직전의 설명도 파일에 들어갑니다.
 
+<figure class="shot"><img src="/assets/img/screens/start-ko.jpg" alt="TalkSafe 시작 화면. ‘실시간 감지 시작’과 ‘수동 녹음 시작’ 버튼이 있습니다." width="540" height="960" loading="lazy"><figcaption>TalkSafe 시작 화면. 실시간 감지를 켜 두면 정해 둔 말이 감지될 때 녹음이 시작되고, 버튼으로 바로 녹음할 수도 있습니다.</figcaption></figure>
+
 임대차에서 계약 현장의 말이 보증금 정산 때 어떻게 문제가 되는지, 그리고 중개사가 임대인에게 들은 말을 그대로 옮긴 경우의 대법원 판단은 [계약할 때 들은 말은 2년 뒤에 문제가 됩니다](https://hcompany-kr.github.io/blog/ko/lease-deposit/)에, 말로 한 약속이 계약서와 부딪히는 문제는 [계약서엔 없는데 미팅에서 말로 정한 것](https://hcompany-kr.github.io/blog/ko/verbal-contract/)에 정리했습니다.
 
 ## 정리

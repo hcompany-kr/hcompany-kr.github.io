@@ -115,6 +115,8 @@ faq:
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/ja/)は、この区別に沿って作られています。
 
+<figure class="shot"><img src="/assets/img/screens/keywords-ja.jpg" alt="TalkSafeのキーワード設定画面。マイクボタンでキーワードを追加し、登録したキーワードが一覧で表示されます。" width="540" height="960" loading="lazy"><figcaption>キーワード設定画面。複数登録でき、どれか一つが検知されれば録音が始まります。</figcaption></figure>
+
 録音中は通知が表示され続け、**消すことはできません。** 隠す機能もアイコンの偽装もなく、気づかれないまま録り続ける使い方ができないようにしてあります。想定しているのは、自分が参加している会話を自分で記録する場面です。
 
 伝えないことはできても、隠すことはできない。日本の判断枠組みでいえば、「著しく反社会的」の側に寄らないための設計でもあります。

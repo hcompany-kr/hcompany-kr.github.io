@@ -94,6 +94,8 @@ Kimsenin sözünü kaydetmeden yapabileceğiniz en güçlü şey, **olaydan heme
 
 Sorun şu: olaydan hemen sonra eller titrer, belki de masanıza dönmüşsünüzdür. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar. Kırptığınızda **orijinal korunur**.
 
+<figure class="shot"><img src="/assets/img/screens/settings-tr.jpg" alt="TalkSafe ayarlar ekranı: anahtar kelime algılandıktan sonra otomatik kayıt süresi (10 dk, 30 dk, 1 saat, manuel durdur), algılama dili ve bulut yedekleme." width="540" height="960" loading="lazy"><figcaption>Ayarlar. Algılamadan sonra ne kadar kayıt alınacağını ve algılama dilini seçersiniz; dinleme ve tanıma internetsiz, telefonda gerçekleşir.</figcaption></figure>
+
 ## Nereye başvurulur
 
 - **İşverene yazılı şikâyet** — İş Kanunu 24/II-d için bildirimin kanıtı.

@@ -109,6 +109,8 @@ The gap itself is the subject of [by the time you press record, it is already la
 
 That is why TalkSafe keeps the 30 seconds before it starts. Not to record more, but to cover the gap between noticing and reaching for the phone.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
+
 ## What this comes down to
 
 - Keep the original. Sending a file and keeping a file are different things.

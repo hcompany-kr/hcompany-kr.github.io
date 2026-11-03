@@ -92,6 +92,8 @@ Duas versões.
 
 Essa é a categoria em que trabalhamos, então leia o próximo trecho sabendo disso. O [TalkSafe](/talksafe/pt-br/) é um app para Android que começa com uma palavra escolhida, funciona com a tela bloqueada e salva os 30 segundos antes do início junto com o arquivo, o que resolve o problema da primeira sílaba cortada. Cortar um trecho mantém o arquivo original intacto. Uma gravação feita num lugar barulhento, como a rua, pode ser limpa depois com a remoção de ruído com IA, processada no aparelho, que salva um arquivo novo ao lado do original.
 
+<figure class="shot"><img src="/assets/img/screens/start-pt-br.jpg" alt="Tela inicial do TalkSafe com botões para iniciar a detecção em tempo real e uma gravação manual." width="540" height="960" loading="lazy"><figcaption>Tela inicial do TalkSafe. Com a detecção em tempo real ligada, a gravação começa quando uma palavra escolhida é detectada; também dá para gravar na hora pelo botão.</figcaption></figure>
+
 ## Onde o equipamento realmente ganha
 
 Ser honesto sobre isso é o único jeito de o resto desta página valer alguma coisa.

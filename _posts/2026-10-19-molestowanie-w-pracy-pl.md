@@ -87,6 +87,8 @@ Molestowanie nie zapowiada się. Zanim wyjmiesz telefon, odblokujesz go i naciś
 
 [TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**.
 
+<figure class="shot"><img src="/assets/img/screens/settings-pl.jpg" alt="Ekran ustawień TalkSafe: czas automatycznego nagrywania po wykryciu słowa (10 minut, 30 minut, 1 godzina, ręczne zatrzymanie), język wykrywania i kopia w chmurze." width="540" height="960" loading="lazy"><figcaption>Ustawienia. Wybierasz, jak długo nagrywać po wykryciu, i język wykrywania; słuchanie i rozpoznawanie odbywa się w telefonie, bez internetu.</figcaption></figure>
+
 Naturalny wybór to słowo, które powiesz w tej chwili: **„przestań”**. Gdy powiesz „Przestań”, nagrywanie się zaczyna — a 30 sekund wcześniej, z tym, co cię do tego skłoniło, jest w pliku. Twoja odmowa też jest nagrana, a ona pokazuje, że zachowanie było **niepożądane**.
 
 Przycięcie fragmentu zapisuje nowy plik, a **oryginał zostaje nietknięty** — to on pokazuje, że niczego nie zmieniano. Więcej w [Jak przyciąć nagranie głosowe na Androidzie i nie stracić oryginału](/blog/pl/trim-recording/).

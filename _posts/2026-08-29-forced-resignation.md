@@ -105,6 +105,8 @@ faq:
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/)는 그 시간차를 메우려고 만들었습니다. 미리 말을 정해두면 그 말이 들릴 때 녹음이 시작되고, **화면이 잠긴 상태에서도 동작합니다.** 시작 직전 **30초까지 함께 저장**되므로 한 박자 늦게 알아차린 발언도 파일에 남습니다.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-ko.jpg" alt="TalkSafe 키워드 설정 화면. 마이크 버튼을 눌러 키워드를 추가하고, 등록한 키워드가 목록으로 보입니다." width="540" height="960" loading="lazy"><figcaption>키워드 설정 화면. 여러 개를 등록할 수 있고, 어느 하나만 감지되어도 녹음이 시작됩니다.</figcaption></figure>
+
 키워드는 화자에 묶여 있지 않습니다. 내가 할 말이 아니라 **상대가 할 말**을 걸어둘 수 있습니다.
 
 다만 분명히 해둘 것이 있습니다. **앱이 취업규칙 문제를 해결해주지는 않습니다.** 내가 낀 대화의 녹음은 형사 문제가 되지 않지만, 회사 규정에 따른 징계는 별개로 판단됩니다. 이 구분은 [형사 처벌은 없어도 징계는 가능합니다](/blog/ko/workplace-recording-policy/)에서 따로 정리했습니다.

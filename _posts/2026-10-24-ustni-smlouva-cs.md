@@ -77,6 +77,8 @@ Odpoví-li řemeslník „ano“ nebo nic nenamítne, máte datovaný doklad o t
 
 [TalkSafe](/talksafe/cs/) začne nahrávat po zaznění **předem zvoleného slova** a funguje při **zamčené obrazovce**. Zvolte slovo, kterým se domluva obvykle **uzavírá**, například **„domluveno“**. Když někdo řekne „takže domluveno?“, nahrávání začne – a **30 sekund předtím**, kdy padly podmínky, je už v souboru. Při stříhání **zůstane originál zachován**. Viz také [Nejdřív něco řeknete](/blog/cs/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
+
 ## Slovensko
 
 Pravidla o formě smlouvy jsme pro Slovensko v tomto článku neověřovali. Pro nahrávání platí přísnější výchozí pravidlo: podle **§ 12 slovenského občanského zákoníku** lze zvukový záznam fyzické osoby pořídit nebo použít **jen s jejím svolením**, s výjimkami pro úřední, vědecké, umělecké a zpravodajské účely. Klíčové slovo pak můžete vložit do vlastní otázky, například „nahrávať“ v „Môžem si to nahrávať?“ – nahrávání začne a souhlas je v souboru.

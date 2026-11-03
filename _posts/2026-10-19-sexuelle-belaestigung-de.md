@@ -92,6 +92,8 @@ Unproblematisch ist die **eigene Stimme**. Direkt nach dem Vorfall festzuhalten,
 
 Nur: Direkt danach zittern oft die Hände, und Sie sitzen vielleicht schon wieder am Schreibtisch. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz. Beim Schneiden **bleibt das Original erhalten**.
 
+<figure class="shot"><img src="/assets/img/screens/settings-de.jpg" alt="Einstellungen in TalkSafe: automatische Aufnahmedauer nach erkanntem Schlüsselwort (10 Minuten, 30 Minuten, 1 Stunde, manuell beenden), Erkennungssprache und Cloud-Sicherung." width="540" height="960" loading="lazy"><figcaption>Einstellungen. Wählbar sind die Aufnahmedauer nach einer Erkennung und die Erkennungssprache; Zuhören und Erkennen laufen auf dem Handy, ohne Internet.</figcaption></figure>
+
 In **Österreich** ist die Aufnahme eines Gesprächs, an dem Sie selbst teilnehmen, nicht strafbar. Dort kann das Schlüsselwort auch ein Wort sein, das Sie in der Situation sagen würden – etwa „Hör auf“. Die Aufnahme beginnt, wenn Sie es sagen, und die **30 Sekunden davor** sind in der Datei.
 
 ## Österreich und die Schweiz

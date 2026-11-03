@@ -92,6 +92,8 @@ The difficulty is knowing what to put in it. **During the call you do not yet kn
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) covers that gap. You set a few words in advance and recording starts when one of them is heard. **It starts with the screen locked**, from a pocket, with nothing to open.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 The words do not have to be ones you say. Set what a client tends to say — *scope*, *budget*, *revisions*, *deadline*, *also*, *while you're at it* — and the moment the terms come up is the moment recording begins.
 
 Because the **30 seconds before that point are saved too**, a number mentioned just before you registered it is still in the file.

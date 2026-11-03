@@ -90,6 +90,8 @@ Proto je spouštění jen po zvoleném slově **bezpečnější** volbou, a ne j
 
 Vyslovený spouštěč uvolní ruce a vyrovnávací paměť zajistí, že i pozdní rozhodnutí zachytí celou výměnu. [TalkSafe](/talksafe/cs/) používá obojí: nahrávání začne po zvoleném slově a 30 sekund před začátkem je v souboru.
 
+<figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
+
 Když chcete požádat o souhlas, dá se to využít přímo v otázce: s „nahrát“ jako klíčovým slovem začne nahrávání u „Můžu si to nahrát?“ a odpověď je v souboru.
 
 ## Co stojí za kontrolu u každého typu

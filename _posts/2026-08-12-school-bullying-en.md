@@ -95,6 +95,8 @@ The difficulty parents run into is consistent. **The child cannot say exactly wh
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) is one way to close part of that gap.
 
+<figure class="shot"><img src="/assets/img/screens/active-en.jpg" alt="TalkSafe screen showing keyword detection active, with a Stop button." width="540" height="960" loading="lazy"><figcaption>Keyword detection active. It keeps listening in the background with the screen off or the app closed.</figcaption></figure>
+
 You set a few words in advance and recording starts when one of them is heard. **It starts with the screen locked**, so nothing has to be operated — the phone can stay in a bag.
 
 And the words do not have to be ones your child says. They can be what is likely to be said *to* them. A child who is being targeted has no composure to signal or reach for a phone, which is exactly why that distinction matters here.

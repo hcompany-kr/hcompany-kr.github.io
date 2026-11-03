@@ -71,6 +71,8 @@ Ce qui ne pose aucune difficulté, c'est **votre propre voix**. Enregistrer, jus
 
 Le problème : juste après, les mains tremblent, et vous ne voulez pas sortir le téléphone sous ses yeux. [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » ; dès que vous le dites, le mémo vocal commence — le téléphone reste dans la poche. Lors d'une découpe, **l'original est conservé**.
 
+<figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
+
 En **Belgique** et au **Québec**, enregistrer une conversation à laquelle on participe est permis ; le mot-clé peut alors être celui que vous diriez sur le moment — « arrête » — et les **30 secondes précédentes** sont dans le fichier.
 
 ## Belgique, Suisse, Québec

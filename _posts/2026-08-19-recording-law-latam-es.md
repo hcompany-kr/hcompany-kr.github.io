@@ -154,6 +154,8 @@ España es el caso más asentado, con la STC 114/1984 fijando que no cabe invoca
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) está hecha para conversaciones en las que participas, que es justamente el supuesto que todos estos países tratan de forma distinta al de la escucha ajena.
 
+<figure class="shot"><img src="/assets/img/screens/settings-es.jpg" alt="Pantalla de ajustes de TalkSafe: tiempo de grabación automática tras detectar una palabra clave (10 minutos, 30 minutos, 1 hora, parada manual), idioma de detección y copia en la nube." width="540" height="960" loading="lazy"><figcaption>Ajustes. Eliges cuánto grabar tras una detección y el idioma de detección; escuchar y reconocer ocurre en el teléfono, sin internet.</figcaption></figure>
+
 Mientras se graba se mantiene una notificación visible y **no se puede desactivar**. No hay modo oculto ni icono camuflado. La aplicación no puede saber en qué país estás ni qué exige su ley, pero sí puede evitar que el aparato te empuje al lado que en todos ellos es delito.
 
 Cómo pueden grabar una entrevista detectives y periodistas sin romper la conversación está en [Saca la grabadora en una entrevista y la conversación cambia](/blog/es/interview-recording/).

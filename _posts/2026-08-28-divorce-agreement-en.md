@@ -100,6 +100,8 @@ The difficulty is doing that in the moment. These are emotionally loaded convers
 
 [TalkSafe](/talksafe/en/) exists for that gap. You set words in advance and recording starts when one is heard — **with the screen locked**, without reaching for the phone in front of the person you are negotiating with. Words like *settlement*, *support*, *pension*, *equity* or *title* will come up in any of these discussions.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
+
 Because the **30 seconds before** the trigger are saved too, a sentence you registered a beat late is still at the front of the file.
 
 Then you write the follow-up message knowing what to put in it. **The writing is what binds; the recording is how you get the writing right.**

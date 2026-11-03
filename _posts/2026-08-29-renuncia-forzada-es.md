@@ -99,6 +99,8 @@ Además tiene una forma poco favorable: se convoca de improviso, dura poco, y la
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) existe para cerrar ese hueco. Eliges una palabra de antemano y, cuando esa palabra suena, la grabación arranca. **Funciona con la pantalla bloqueada.** Al iniciarse guarda también los **30 segundos anteriores**, así que la frase que reconociste con un segundo de retraso queda igualmente en el archivo.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-es.jpg" alt="Pantalla de ajustes de palabras clave de TalkSafe. Las palabras se añaden con el botón del micrófono y aparecen en una lista." width="540" height="960" loading="lazy"><figcaption>Ajustes de palabras clave. Puedes registrar varias; basta con que se detecte una para que empiece la grabación.</figcaption></figure>
+
 Las palabras clave no están atadas a quien habla: puedes dejar preparado lo que va a decir **la otra persona**, no lo que vas a decir tú.
 
 Conviene precisar una cosa. Grabar una conversación en la que participas es lícito, pero eso no equivale a que la empresa no pueda considerarlo disciplinariamente. Son dos juicios distintos, y lo tratamos aparte en [Grabar a tu jefe es lícito. Grabarlo todo puede costarte el empleo](/blog/es/grabar-en-el-trabajo/).

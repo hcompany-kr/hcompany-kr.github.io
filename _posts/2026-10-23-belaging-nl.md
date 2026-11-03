@@ -67,6 +67,8 @@ Het probleem is het moment. Niemand kondigt aan wanneer hij opduikt, en je telef
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**. Een voor de hand liggende keuze is wat je op dat moment zegt: **„stop”**. Zeg je „Stop met me te volgen”, dan begint de opname — en wat daarvoor gebeurde, zit er ook in, met je telefoon in je zak.
 
+<figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
+
 Inkorten bewaart een nieuw bestand en laat het **origineel ongemoeid**. Meer in [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/).
 
 De app neemt op wat de microfoon in de ruimte hoort: het gesprek waaraan je deelneemt. Iets installeren op de telefoon van een ander of een apparaat laten opnemen waar je zelf niet bent, is iets anders, en strafbaar.

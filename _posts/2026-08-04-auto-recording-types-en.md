@@ -91,6 +91,8 @@ Four and five cover each other's gaps.
 
 A spoken trigger removes the need for hands, and a pre-roll means a late decision still captures the exchange. [TalkSafe](/talksafe/en/) uses both — recording starts on a word you chose, and the 30 seconds before it are included in the file.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 ## Worth checking whichever you pick
 
 Independent of type, a few things tend to decide whether a recorder is actually usable.

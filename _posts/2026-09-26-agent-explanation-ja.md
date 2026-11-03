@@ -101,6 +101,8 @@ faq:
 
 TalkSafeは、あらかじめ決めた言葉が聞こえると録音を始めるAndroidの録音アプリです。キーワードは話す人に関係なく認識されるため、「雨漏り」「管理費」「駐車場」のように説明で出てきそうな言葉を決めておくことができ、画面がロックされた状態でも動作します。録音が始まる前の30秒もあわせて保存されるので、その言葉が出る直前の説明もファイルに入ります。
 
+<figure class="shot"><img src="/assets/img/screens/start-ja.jpg" alt="TalkSafeの開始画面。リアルタイム検知の開始ボタンと手動録音の開始ボタンがあります。" width="540" height="960" loading="lazy"><figcaption>TalkSafeの開始画面。リアルタイム検知をオンにしておくと、決めた言葉が検知されたときに録音が始まり、ボタンですぐに録音することもできます。</figcaption></figure>
+
 賃貸の退去時に問題になりやすい場面は[退去の立会いで、その場でサインを求められたら](https://hcompany-kr.github.io/blog/ja/lease-deposit/)に、口頭の約束と契約書がぶつかる問題は[契約書にはない。打ち合わせで口頭で決めたこと](https://hcompany-kr.github.io/blog/ja/verbal-contract/)にまとめています。
 
 ## まとめ

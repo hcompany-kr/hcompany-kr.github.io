@@ -125,6 +125,8 @@ En **España** no hay una norma estatal específica para las reformas del hogar.
 
 En la práctica: pida que el presupuesto diga qué **incluye y qué no**, y deje por escrito el mismo día lo que se añada en la obra. «Como hablamos hoy, la retirada del suelo viejo y de los escombros está incluida en el presupuesto». Donde grabar una conversación en la que participa es legal, TalkSafe puede empezar con una palabra como **«incluido»**, y los 30 segundos anteriores a «eso va incluido, ¿no?» quedan en el archivo.
 
+<figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
+
 ## Al final, todo depende de poder mostrar lo que se dijo
 
 En los trece países, **lo pactado de palabra vale, pero si se aparta del contrato escrito, quien lo invoca tiene que probarlo.** Y esa prueba casi siempre vuelve a lo que se dijo en la reunión.

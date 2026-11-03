@@ -68,6 +68,8 @@ Audacity는 무료이고, **노이즈 감소(Noise Reduction)** 효과가 이 �
 
 [TalkSafe](/talksafe/)에는 녹음이 끝난 파일에 적용하는 **AI 노이즈 제거**가 있습니다.
 
+<figure class="shot"><img src="/assets/img/screens/settings-ko.jpg" alt="TalkSafe 설정 화면. 키워드 감지 후 자동 녹음 시간(10분, 30분, 1시간, 수동 종료), 키워드 감지 언어, 클라우드 백업 항목이 있습니다." width="540" height="960" loading="lazy"><figcaption>설정 화면. 감지 후 녹음할 시간과 감지 언어를 고를 수 있고, 듣고 알아듣는 일은 인터넷 없이 폰 안에서 이루어집니다.</figcaption></figure>
+
 - **기기 안에서 처리합니다.** 파일을 정리하려고 어디로 올리지 않습니다.
 - **원본이 남습니다.** 정리된 파일은 옆에 새 파일로 저장됩니다.
 - **잘라낸 파일에도 됩니다.** 중요한 2분을 먼저 잘라내고, 그 부분만 정리하면 됩니다.

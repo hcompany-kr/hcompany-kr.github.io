@@ -65,6 +65,8 @@ Le prix, c'est le trajet : sortir le fichier du téléphone, le modifier, le rem
 
 [TalkSafe](/talksafe/fr/) coupe sur le téléphone et **ne propose jamais d'écraser**. Le passage choisi est enregistré comme un nouveau fichier et l'original reste exactement où il était. Il n'y a aucune question à laquelle mal répondre.
 
+<figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
+
 Trois choses en découlent.
 
 - **Le début, c'est vous qui le choisissez.** TalkSafe démarre sur un mot choisi à l'avance et conserve **les 30 secondes précédentes**, le fichier commence donc un peu avant le moment. La découpe permet de fixer exactement le début de l'extrait, tandis que tout ce qui précède reste dans l'original.

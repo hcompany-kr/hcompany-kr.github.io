@@ -67,6 +67,8 @@ Twee dingen zijn goed om te weten voordat je er een gebruikt voor een echt gespr
 
 [TalkSafe](/talksafe/nl/) heeft **AI-ruisonderdrukking** die je toepast op een opname die al gemaakt is.
 
+<figure class="shot"><img src="/assets/img/screens/settings-nl.jpg" alt="Instellingenscherm van TalkSafe: automatische opnameduur na herkenning (10 minuten, 30 minuten, 1 uur, handmatig stoppen), herkenningstaal en cloudback-up." width="540" height="960" loading="lazy"><figcaption>Instellingen. Je kiest hoe lang er na een herkenning wordt opgenomen en de herkenningstaal; luisteren en herkennen gebeurt op de telefoon, zonder internet.</figcaption></figure>
+
 - **Het werkt op het toestel.** Er wordt niets geüpload om het bestand op te schonen.
 - **Het origineel blijft.** De opgeschoonde versie wordt ernaast als nieuw bestand bewaard.
 - **Het werkt op een geknipt fragment.** Knip eerst de twee minuten die ertoe doen, en schoon dan alleen die op.

@@ -65,6 +65,8 @@ O preço é o caminho: tirar o arquivo do celular, editar, devolver se precisar 
 
 O [TalkSafe](/talksafe/pt-br/) corta no celular e **nunca oferece sobrescrever**. O trecho que você escolhe é salvo como um arquivo novo e o original fica exatamente onde estava. Não há aviso em que errar.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
+
 Daí saem três coisas.
 
 - **O começo quem escolhe é você.** O TalkSafe começa a gravar com uma palavra escolhida antes e salva **os 30 segundos anteriores** ao momento em que ela foi ouvida, então o arquivo começa um pouco antes do momento. Com o corte você define exatamente onde o trecho começa, e tudo o que vem antes fica no original.

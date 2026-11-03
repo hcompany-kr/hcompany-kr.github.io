@@ -61,6 +61,8 @@ Yalnızca düzenlenmiş bir dosya varsa karşı taraf oynandığını iddia edeb
 
 TalkSafe'in **kırpma özelliği orijinale dokunmaz.** Seçilen bölüm yeni bir dosya olarak kaydedilir, tam kayıt olduğu yerde kalır. Böylece kaynağını kaybetmeden sunulacak bir kopya hazırlayabilirsiniz.
 
+<figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
+
 Aynısı **yapay zekâ ile gürültü giderme** için de geçerlidir. Kayıt sokakta yapıldıysa ve gürültü konuşmanın bazı kısımlarını bastırıyorsa, gürültü giderme arka planı temizlenmiş yeni bir dosya oluşturur. Kırpılmış bir bölüm üzerinde de çalışır; önce gereken kısmı kırpıp sonra o dosyayı temizleyebilirsiniz. İşlem cihazda yapılır ve orijinal olduğu gibi kalır. Daha anlaşılırsa temizlenmiş kopyayı sunun, orijinali saklayın: başka hiçbir şeyin değiştirilmediğini gösteren odur.
 
 İzlenmeye değer sıra:

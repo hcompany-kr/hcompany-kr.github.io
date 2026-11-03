@@ -90,6 +90,8 @@ Vier und fünf decken gegenseitig ihre Lücken ab.
 
 Ein gesprochener Auslöser macht die Hände überflüssig, und der Vorlauf sorgt dafür, dass eine späte Entscheidung den Wortwechsel trotzdem erfasst. [TalkSafe](/talksafe/de/) nutzt beides: Die Aufnahme beginnt bei einem gewählten Wort, und die 30 Sekunden davor sind in der Datei.
 
+<figure class="shot"><img src="/assets/img/screens/start-de.jpg" alt="Startbildschirm von TalkSafe mit Tasten für die Echtzeit-Erkennung und für eine manuelle Aufnahme." width="540" height="960" loading="lazy"><figcaption>Startbildschirm von TalkSafe. Ist die Echtzeit-Erkennung an, beginnt die Aufnahme, wenn ein festgelegtes Wort erkannt wird; per Taste lässt sich auch sofort aufnehmen.</figcaption></figure>
+
 Wo die Einwilligung aller nötig ist, lässt sich das auch für die Frage selbst nutzen: Mit ‚aufnehmen‘ als Schlüsselwort beginnt die Aufnahme bei „Darf ich das aufnehmen?“, und die Zustimmung ist in der Datei.
 
 ## Worauf man bei jeder Art achten sollte

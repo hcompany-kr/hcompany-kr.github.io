@@ -73,6 +73,8 @@ C'est la catégorie conçue pour ce problème. L'application écoute des mots ch
 
 [TalkSafe](/talksafe/fr/) est une application Android qui fonctionne ainsi. La reconnaissance du mot se fait sur l'appareil, l'enregistrement démarre **écran verrouillé, téléphone dans la poche**, et il n'y a ni son ni changement visible au moment où il commence.
 
+<figure class="shot"><img src="/assets/img/screens/active-fr.jpg" alt="Écran de TalkSafe avec la détection des mots-clés active et le bouton Arrêter." width="540" height="960" loading="lazy"><figcaption>Détection des mots-clés active. L'application continue d'écouter en arrière-plan, écran éteint ou application fermée.</figcaption></figure>
+
 Deux propriétés la distinguent des trois autres.
 
 **Le mot-clé n'est pas lié à votre voix.** C'est le mot lui-même qui est détecté, quelle que soit la personne qui le prononce. Vous pouvez donc choisir ce qu'une autre personne dira probablement : « examen » pendant un cours, « rendez-vous » chez le médecin. Dès que le sujet arrive, l'enregistrement commence, sans que vous fassiez quoi que ce soit. Vous pouvez aussi choisir un mot à vous pour lancer une note vocale mains libres en conduisant ou en cuisinant.

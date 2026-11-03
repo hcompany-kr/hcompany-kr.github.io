@@ -65,6 +65,8 @@ El precio es el viaje: sacar el archivo del móvil, editarlo y devolverlo si lo 
 
 [TalkSafe](/talksafe/es/) recorta en el móvil y **nunca ofrece sobrescribir**. El tramo que eliges se guarda como un archivo nuevo y el original se queda exactamente donde estaba. No hay ningún aviso en el que equivocarse.
 
+<figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
+
 De ahí salen tres cosas.
 
 - **El principio lo eliges tú.** TalkSafe empieza a grabar con una palabra que eliges de antemano y guarda **los 30 segundos anteriores** a que se oyera, así que el archivo empieza un poco antes del momento. Con el recorte decides exactamente dónde empieza el extracto, y todo lo anterior se queda en el original.

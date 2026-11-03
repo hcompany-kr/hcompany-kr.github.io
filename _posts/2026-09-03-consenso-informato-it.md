@@ -88,6 +88,8 @@ Il problema è il momento in cui capisci che serviva. Arriva quasi sempre dopo c
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) copre quello scarto. Si sceglie una parola in anticipo e la registrazione parte quando quella parola viene pronunciata. **Funziona a schermo bloccato**, quindi il telefono può restare in tasca o sulla scrivania. All'avvio salva anche i **30 secondi precedenti**, così resta anche quello che è stato detto un attimo prima che te ne accorgessi.
 
+<figure class="shot"><img src="/assets/img/screens/before30-it.jpg" alt="Schermata dello storico delle registrazioni di TalkSafe. Ogni volta che viene rilevata una parola chiave si salva una registrazione con data e ora." width="540" height="960" loading="lazy"><figcaption>Storico delle registrazioni. Ogni file contiene anche i 30 secondi precedenti al rilevamento della parola chiave.</figcaption></figure>
+
 Le parole chiave non sono legate a chi parla: in ambulatorio si possono impostare quelle che dirà il medico.
 
 Come conservare il file e tenerne solo la parte utile è in [Cosa fare con una registrazione](/blog/it/after-recording/).

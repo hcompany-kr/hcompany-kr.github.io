@@ -67,6 +67,8 @@ Než nějakou použijete na skutečný rozhovor, vyplatí se vědět dvě věci.
 
 [TalkSafe](/talksafe/cs/) má **odstranění šumu pomocí AI**, které použijete na už pořízenou nahrávku.
 
+<figure class="shot"><img src="/assets/img/screens/settings-cs.jpg" alt="Nastavení TalkSafe: doba automatického nahrávání po rozpoznání slova (10 minut, 30 minut, 1 hodina, ruční ukončení), jazyk rozpoznávání a zálohování do cloudu." width="540" height="960" loading="lazy"><figcaption>Nastavení. Zvolíte, jak dlouho nahrávat po rozpoznání, a jazyk rozpoznávání; poslech a rozpoznávání probíhá v telefonu, bez internetu.</figcaption></figure>
+
 - **Běží v zařízení.** K vyčištění souboru se nic nenahrává.
 - **Originál zůstane.** Vyčištěná verze se uloží vedle jako nový soubor.
 - **Funguje na vystřiženém úseku.** Nejdřív vystřihněte ty dvě minuty, na kterých záleží, a pak vyčistěte jen je.

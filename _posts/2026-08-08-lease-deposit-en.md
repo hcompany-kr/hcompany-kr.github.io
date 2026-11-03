@@ -88,6 +88,8 @@ What that route cannot cover is the conversation itself, in real time, where **y
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) covers that differently. You set a few words in advance, and recording starts when one of them is heard. **It starts with the screen locked** — the phone stays in a pocket through the entire walkthrough.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 The words do not have to be ones you say. Set what a landlord or agent tends to say — *deposit*, *wear and tear*, *repaint*, *we'll fix*, *before you move in* — and the moment the subject comes up is the moment recording begins. A voice assistant cannot work this way; it is built to recognise its owner's voice. This detects the word itself, whoever spoke it.
 
 Because the 30 seconds before that point are saved too, a promise you only registered as important a beat later is still in the file.

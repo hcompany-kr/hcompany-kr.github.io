@@ -76,6 +76,8 @@ Pesten kondigt zich niet aan. De kleinerende zin valt midden in een overleg, op 
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt woorden instellen die meestal vallen als het begint — de naam van een project, een uitdrukking die je leidinggevende herhaalt, je eigen naam. Hij werkt met een **vergrendeld scherm**, en de **30 seconden daarvoor** staan in het bestand.
 
+<figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
+
 Bij knippen **blijft het origineel bewaard** — en dat laat zien dat er niets is bewerkt. Meer in [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/).
 
 ## Kort gezegd

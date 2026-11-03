@@ -71,6 +71,8 @@ Demander ne veut pas dire interrompre. Il suffit que la question elle-même lanc
 
 [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot de votre propre question, par exemple **« enregistrer »**. Vous demandez « Je peux enregistrer ? » — et l'enregistrement commence à cet instant. Le « oui » est dans le fichier. Pas d'appareil à allumer d'abord à la vue de tous, pas de main qui plonge dans la poche.
 
+<figure class="shot"><img src="/assets/img/screens/active-fr.jpg" alt="Écran de TalkSafe avec la détection des mots-clés active et le bouton Arrêter." width="540" height="960" loading="lazy"><figcaption>Détection des mots-clés active. L'application continue d'écouter en arrière-plan, écran éteint ou application fermée.</figcaption></figure>
+
 Deux autres points aident quiconque mène des entretiens :
 
 **Les 30 secondes précédentes sont conservées.** Le fichier commence 30 secondes avant le mot-clé, le début de l'échange y figure donc aussi. Voir [Pourquoi on appuie toujours trop tard sur enregistrer](/blog/fr/recording-delay/).

@@ -109,6 +109,8 @@ A stop starts without warning. When you have been told to keep your hands where 
 
 TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words an officer is likely to say, like "licence" or "ID". It works with the screen locked, and because it saves the 30 seconds before it started, the conversation is there from the knock on the window.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 Why the original file and the opening seconds matter once a recording is used as evidence is in [you have the recording, you still may not be able to use it](https://hcompany-kr.github.io/blog/en/recording-evidence/). Starting a recording without touching your phone is in [how to start recording without touching your phone](https://hcompany-kr.github.io/blog/en/hands-free-recording/).
 
 ## What this comes down to

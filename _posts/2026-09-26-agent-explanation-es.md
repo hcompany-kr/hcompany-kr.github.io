@@ -99,6 +99,8 @@ Tres cosas ayudan.
 
 TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir las que saldrán en la explicación del agente, como «humedad», «comunidad» o «garaje». Funciona con la pantalla bloqueada y, como guarda los 30 segundos anteriores al inicio, lo que se dijo justo antes también queda en el archivo.
 
+<figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
+
 Qué pasa con la fianza al terminar el alquiler está en [el desgaste normal no se descuenta de la fianza](https://hcompany-kr.github.io/blog/es/fianza-alquiler/). Cuando lo pactado de palabra choca con un contrato firmado, está en [no está en el contrato, se acordó en la reunión](https://hcompany-kr.github.io/blog/es/verbal-contract/).
 
 ## En resumen

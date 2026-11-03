@@ -86,6 +86,8 @@ Gli svantaggi sono reali e vanno detti. **La qualità cala**, perché stai regis
 
 Dei tre, il rumore di fondo è quello su cui si può intervenire dopo. La **rimozione del rumore con IA** di TalkSafe toglie il rumore di fondo da una registrazione conclusa e lascia le voci. Viene elaborata sul dispositivo, e la versione pulita viene salvata come nuovo file, con l'originale com'era.
 
+<figure class="shot"><img src="/assets/img/screens/active-it.jpg" alt="Schermata di TalkSafe con il rilevamento delle parole chiave attivo e il pulsante Interrompi." width="540" height="960" loading="lazy"><figcaption>Rilevamento delle parole chiave attivo. Continua ad ascoltare in background con lo schermo spento o l'app chiusa.</figcaption></figure>
+
 Per una chiamata che puoi ricevere in un posto tranquillo, funziona.
 
 ## Cosa fa questa app e cosa non fa

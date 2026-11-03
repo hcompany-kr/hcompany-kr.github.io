@@ -101,6 +101,8 @@ Es una pregunta frecuente entre quienes viajan o tienen familia allí: ¿se pued
 
 En la práctica: en Marruecos **sacar el móvil ante un agente puede costarte el móvil y un proceso**, aunque la ley no lo prohíba expresamente. Si quieres dejar constancia, **pregunta antes**: con TalkSafe la palabra clave puede estar en tu propia pregunta, por ejemplo **«grabar»**, para que la petición y la respuesta queden en el archivo. Y **no lo publiques**.
 
+<figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
+
 ## El límite que no hay que cruzar
 
 - **No obstaculizar.** Grabar es legal casi en todas partes; ponerse físicamente en medio no lo es.

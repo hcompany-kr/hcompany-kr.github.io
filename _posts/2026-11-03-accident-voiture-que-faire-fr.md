@@ -82,6 +82,8 @@ Ce qui tient :
 
 [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**, sans déverrouiller le téléphone ni ouvrir l'application. Choisissez un mot comme « note » : dès que l'autre est reparti, vous le dites et votre récit commence, encore au bord de la route. Si l'échange doit être enregistré ouvertement, le mot peut être dans la question : avec « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer, pour qu'on ait la même version ? », et la réponse est dans le fichier, avec les **30 secondes précédentes**.
 
+<figure class="shot"><img src="/assets/img/screens/active-fr.jpg" alt="Écran de TalkSafe avec la détection des mots-clés active et le bouton Arrêter." width="540" height="960" loading="lazy"><figcaption>Détection des mots-clés active. L'application continue d'écouter en arrière-plan, écran éteint ou application fermée.</figcaption></figure>
+
 ## Belgique
 
 - On remplit le **constat européen d'accident**, formulaire identique dans tous les pays de l'Union ; rester sur place et échanger ses coordonnées est obligatoire, même pour un accrochage sur un parking.

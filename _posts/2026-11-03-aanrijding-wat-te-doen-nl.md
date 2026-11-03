@@ -74,6 +74,8 @@ Het probleem is het moment. Je bent net aangereden, je hart bonkt, de auto moet 
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort – met een **vergrendeld scherm**, zonder de telefoon te ontgrendelen of de app te openen. Woorden worden herkend **wie ze ook zegt**, dus je kunt instellen wat **de andere bestuurder** meestal zegt: "verzekering", "gezien". Stel je **twee woorden in die waarschijnlijk in dezelfde zin vallen** – "ik heb je niet gezien, mijn verzekering regelt het" – dan wordt de herkenning nauwkeuriger. De **30 seconden daarvoor** staan in het bestand, dus de zin die viel voordat je het doorhad, gaat niet verloren.
 
+<figure class="shot"><img src="/assets/img/screens/active-nl.jpg" alt="TalkSafe-scherm met actieve trefwoordherkenning en een Stop-knop." width="540" height="960" loading="lazy"><figcaption>Trefwoordherkenning actief. De app blijft op de achtergrond luisteren, ook met het scherm uit of de app gesloten.</figcaption></figure>
+
 Daarnaast:
 
 - **Foto's** voordat de auto's verplaatst worden: posities, schade, kentekens, borden.

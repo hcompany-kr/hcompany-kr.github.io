@@ -70,6 +70,8 @@ O problema é o momento. Você acabou de bater, o coração dispara, precisa tir
 
 O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, com a **tela bloqueada**, sem desbloquear o celular nem abrir o app. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que **o outro motorista** costuma dizer numa batida: "seguro", "não vi". Cadastrar **duas palavras que costumam aparecer na mesma frase** – "não te vi, meu seguro cobre" – deixa a detecção mais precisa. Os **30 segundos anteriores** ficam no arquivo, então a frase dita antes de você perceber não se perde.
 
+<figure class="shot"><img src="/assets/img/screens/active-pt-br.jpg" alt="Tela do TalkSafe com a detecção de palavras-chave ativa e o botão Parar." width="540" height="960" loading="lazy"><figcaption>Detecção de palavras-chave ativa. Continua ouvindo em segundo plano com a tela apagada ou o app fechado.</figcaption></figure>
+
 Além disso, o que segura uma versão:
 
 - **Fotos antes de mexer nos carros**: posições, danos, placas, sinalização.

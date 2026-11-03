@@ -92,6 +92,8 @@ Satın almadan önce sürekli maliyetin nerede olduğuna bakın. **Donanım bir 
 
 Bizim çalıştığımız kategori bu; bir sonraki kısmı bunu bilerek okuyun. [TalkSafe](/talksafe/tr/), seçtiğiniz bir kelimeyle başlayan, ekran kilitliyken çalışan ve başlamadan önceki 30 saniyeyi dosyayla birlikte saklayan bir Android uygulamasıdır; kesilen ilk hece sorununa cevap veren kısım budur. Bir bölümü kesip ayırmak orijinal dosyayı olduğu gibi bırakır. Sokak gibi gürültülü bir yerde yapılan bir kayıt, cihazda çalışan yapay zekâ ile gürültü giderme özelliğiyle sonradan temizlenebilir; bu, orijinalin yanına yeni bir dosya kaydeder.
 
+<figure class="shot"><img src="/assets/img/screens/start-tr.jpg" alt="TalkSafe başlangıç ekranı: gerçek zamanlı algılamayı ve manuel kaydı başlatma düğmeleri." width="540" height="960" loading="lazy"><figcaption>TalkSafe başlangıç ekranı. Gerçek zamanlı algılama açıkken belirlediğiniz kelime algılandığında kayıt başlar; düğmeyle hemen de kayıt alabilirsiniz.</figcaption></figure>
+
 ## Donanımın gerçekten kazandığı yerler
 
 Bu konuda dürüst olmak, bu sayfanın geri kalanının bir değer taşımasının tek yoludur.

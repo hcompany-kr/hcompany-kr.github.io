@@ -76,6 +76,8 @@ You could go along, but not every time. And asking a parent to open an app and p
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) works differently here.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 You install it on their phone and **set the words in advance yourself**. When one of those words is heard, recording starts. Your parent does nothing. **It starts with the screen locked**, so the phone stays in a pocket or a bag through the whole appointment.
 
 And the words do not have to be ones they say. Set what a clinician is likely to say — *test*, *results*, *surgery*, *dosage*, *side effects*, *let's wait* — and the moment the explanation begins is the moment recording begins.

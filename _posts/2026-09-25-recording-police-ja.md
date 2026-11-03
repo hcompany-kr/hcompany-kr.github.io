@@ -109,6 +109,8 @@ faq:
 
 TalkSafeは、あらかじめ決めた言葉が聞こえると録音を始めるAndroidの録音アプリです。キーワードは話す人に関係なく認識されるため、「免許証」「身分証」のような警察官が言いそうな言葉を決めておくことができ、画面がロックされた状態でも動作します。録音が始まる前の30秒もあわせて保存されるので、窓をノックされた直後の会話から残ります。
 
+<figure class="shot"><img src="/assets/img/screens/before30-ja.jpg" alt="TalkSafeの録音履歴画面。キーワードが検知されるたびに、録音ファイルが日時とともに保存されます。" width="540" height="960" loading="lazy"><figcaption>録音履歴画面。各ファイルには、キーワードが検知される直前の30秒も含まれています。</figcaption></figure>
+
 録音を証拠として使うとき原本と冒頭がなぜ大事かは[録音はあるのに、証拠として使えないとき](https://hcompany-kr.github.io/blog/ja/recording-evidence/)に、スマホに触れずに録音を始める方法は[スマホに触れずに録音を始める方法](https://hcompany-kr.github.io/blog/ja/hands-free-recording/)にまとめています。
 
 ## まとめ

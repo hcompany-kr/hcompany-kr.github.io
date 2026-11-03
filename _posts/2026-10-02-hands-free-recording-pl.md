@@ -73,6 +73,8 @@ Ta kategoria powstała dokładnie z myślą o tym problemie. Aplikacja nasłuchu
 
 [TalkSafe](/talksafe/pl/) to aplikacja na Androida, która działa w ten sposób. Rozpoznawanie słów odbywa się na urządzeniu, nagrywanie zaczyna się **przy zablokowanym ekranie i z telefonem w kieszeni**, a w chwili startu nie ma ani dźwięku, ani widocznej zmiany.
 
+<figure class="shot"><img src="/assets/img/screens/active-pl.jpg" alt="Ekran TalkSafe z aktywnym wykrywaniem słów kluczowych i przyciskiem Zatrzymaj." width="540" height="960" loading="lazy"><figcaption>Wykrywanie słów kluczowych aktywne. Aplikacja słucha dalej w tle przy wyłączonym ekranie albo zamkniętej aplikacji.</figcaption></figure>
+
 Dwie cechy odróżniają ją od pozostałych trzech sposobów.
 
 **Słowo kluczowe nie jest powiązane z twoim głosem.** Rozpoznawane jest samo słowo, niezależnie od tego, kto je wypowie. Możesz więc ustawić słowa, które prawdopodobnie powie ktoś inny — na przykład „egzamin” na wykładzie albo „termin” podczas rozmowy z lekarzem. Gdy temat się pojawi, nagrywanie zacznie się bez twojego udziału. Równie dobrze możesz wybrać własne słowo i bez rąk zacząć notatkę głosową podczas jazdy samochodem albo gotowania.

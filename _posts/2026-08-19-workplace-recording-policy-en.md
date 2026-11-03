@@ -100,6 +100,8 @@ And if you are documenting something that involves other employees and working c
 
 [TalkSafe](/talksafe/en/) records conversations you are part of, and keeps a notification visible the entire time. **It cannot be turned off.** There is no hidden mode and no disguised icon.
 
+<figure class="shot"><img src="/assets/img/screens/active-en.jpg" alt="TalkSafe screen showing keyword detection active, with a Stop button." width="540" height="960" loading="lazy"><figcaption>Keyword detection active. It keeps listening in the background with the screen off or the app closed.</figcaption></figure>
+
 That design decision does not resolve any policy question — a visible notification does not make a recording permitted under your employer's rules. What it does is keep the app out of the category that is criminal everywhere: capturing conversations you are not in.
 
 The meeting people are least prepared for is the one where they are asked to resign. What section 111A protects in the UK, what the OWBPA gives you in the US, and why a covert recording of that meeting is not automatically misconduct, is in [The exit conversation is off the record until it isn't](/blog/en/forced-resignation/).

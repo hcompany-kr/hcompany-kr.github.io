@@ -70,6 +70,8 @@ Kontrola začne bez varování. Když vás vyzvali, abyste měli ruce na očích
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit slova, která policista obvykle říká: **„řidičský průkaz“**, **„doklady“**. Funguje při **zamčené obrazovce**, a protože ukládá **30 sekund před začátkem**, je rozhovor v souboru od zaklepání na okénko.
 
+<figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
+
 Jak začít nahrávat bez dotyku telefonu: [Jak začít nahrávat, aniž byste se dotkli telefonu](/blog/cs/hands-free-recording/).
 
 ## Shrnutí

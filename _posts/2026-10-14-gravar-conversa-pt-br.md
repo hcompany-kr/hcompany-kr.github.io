@@ -99,6 +99,8 @@ Para quem mora em Portugal, a saída prática é pedir consentimento — e ter e
 
 [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e salva no arquivo os **30 segundos anteriores** ao início. Ele grava o que o microfone ouve no ambiente — ou seja, a conversa da qual você participa.
 
+<figure class="shot"><img src="/assets/img/screens/start-pt-br.jpg" alt="Tela inicial do TalkSafe com botões para iniciar a detecção em tempo real e uma gravação manual." width="540" height="960" loading="lazy"><figcaption>Tela inicial do TalkSafe. Com a detecção em tempo real ligada, a gravação começa quando uma palavra escolhida é detectada; também dá para gravar na hora pelo botão.</figcaption></figure>
+
 Três coisas desse funcionamento conversam diretamente com a lei.
 
 **O consentimento pode ficar gravado.** Defina como palavra-chave uma palavra da sua própria pergunta, como **"gravar"**. Quando você pergunta "posso gravar essa conversa?", a gravação começa nesse instante e a resposta da outra pessoa fica no arquivo. Em Portugal, é exatamente o que separa uma gravação lícita de um crime.

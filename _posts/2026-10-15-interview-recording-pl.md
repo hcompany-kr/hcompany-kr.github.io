@@ -59,6 +59,8 @@ Sięgnięcie do kieszeni w trakcie rozmowy, odblokowanie telefonu i szukanie apl
 
 [TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Dla kogoś, kto prowadzi rozmowy, liczą się trzy rzeczy.
 
+<figure class="shot"><img src="/assets/img/screens/active-pl.jpg" alt="Ekran TalkSafe z aktywnym wykrywaniem słów kluczowych i przyciskiem Zatrzymaj." width="540" height="960" loading="lazy"><figcaption>Wykrywanie słów kluczowych aktywne. Aplikacja słucha dalej w tle przy wyłączonym ekranie albo zamkniętej aplikacji.</figcaption></figure>
+
 **Ręce nie dotykają telefonu.** Działa przy zablokowanym ekranie, w kieszeni albo w torbie. W trakcie rozmowy nic nie robisz, więc rozmowa zachowuje swój kształt.
 
 **Słowo może być słowem rozmówcy.** Rozpoznawanie nie jest powiązane z jednym głosem. Jeśli wiesz, czego dotyczy rozmowa, ustaw słowa, których rozmówca użyje, gdy do tego dojdzie: „tamtego wieczoru”, „pieniądze”, „umowa”, nazwisko. Gdy temat pada, zaczyna się nagranie.

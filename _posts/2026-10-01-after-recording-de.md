@@ -64,6 +64,8 @@ Gibt es nur eine bearbeitete Datei, kann die Gegenseite behaupten, sie sei manip
 
 Die **Schneidefunktion von TalkSafe lässt das Original unangetastet.** Der ausgewählte Abschnitt wird als neue Datei gespeichert, die vollständige Aufnahme bleibt, wo sie war. So können Sie eine Fassung zum Einreichen vorbereiten, ohne zu verlieren, woraus sie stammt.
 
+<figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
+
 Dasselbe gilt für die **KI-Rauschentfernung**. Wurde auf der Straße aufgenommen und überdecken Geräusche Teile des Gesprächs, erzeugt die Rauschentfernung eine neue Datei ohne den Hintergrund. Das funktioniert auch bei einem ausgeschnittenen Abschnitt: erst den nötigen Teil ausschneiden, dann diese Datei bereinigen. Die Verarbeitung läuft auf dem Gerät, und das Original bleibt unverändert. Reichen Sie die bereinigte Fassung ein, wenn sie besser verständlich ist, und behalten Sie das Original: Es zeigt, dass sonst nichts verändert wurde.
 
 Die Reihenfolge, die sich bewährt:

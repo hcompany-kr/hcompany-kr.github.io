@@ -128,6 +128,8 @@ Two rules change the picture for a consumer:
 
 In practice: ask for the quote to list what is **included and excluded**, and send a message the same day for anything added on site. "As discussed today, removing and disposing of the old floor is included in the quoted price." Where recording a conversation you are part of is lawful, TalkSafe can start on a word like **"included"**, so the 30 seconds before someone says "that's included, right?" are kept too.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 ## In the end, it comes down to showing what was said
 
 Across all thirteen countries, **a spoken agreement is valid, but if it departs from the written contract, the person relying on it has to prove it.** And that proof almost always comes back to what was said in the meeting.

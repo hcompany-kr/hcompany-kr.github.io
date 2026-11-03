@@ -77,6 +77,8 @@ Telefon se ztratí, rozbije nebo resetuje a všechno, co na něm bylo, zmizí na
 
 TalkSafe používá **nabídku sdílení v Androidu**, takže nahrávku lze poslat do jakékoli aplikace, která přijímá soubory — e-mailem sobě, do cloudu, do počítače.
 
+<figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
+
 A to se vrací k prvnímu bodu. **Poslat soubor sobě je uchování. Poslat ho někomu jinému je šíření.** Stejné tlačítko, jiný úkon.
 
 ## Většina nahrávek se nikdy nepoužije

@@ -95,6 +95,8 @@ Sul perché il momento in cui si preme il tasto conti più dell'audio, c'è [qua
 
 Per questo TalkSafe conserva i 30 secondi precedenti. Non per registrare di più, ma per coprire lo spazio fra l'accorgersi e il prendere in mano il telefono.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-it.jpg" alt="Schermata delle parole chiave di TalkSafe. Le parole si aggiungono con il pulsante del microfono e compaiono in un elenco." width="540" height="960" loading="lazy"><figcaption>Impostazioni delle parole chiave. Puoi registrarne diverse; basta che ne venga rilevata una perché la registrazione parta.</figcaption></figure>
+
 ## I due paesi con la soglia più alta
 
 **L'India** chiede un documento, non una valutazione. L'articolo 63, comma 4, del Bharatiya Sakshya Adhiniyam 2023, in vigore dal 1 luglio 2024, impone che il documento elettronico sia accompagnato da un certificato di legge. Senza quel certificato il documento non viene ricevuto, salvo produrre il dispositivo originale. La norma riprende l'articolo 65B della vecchia legge indiana sulle prove.

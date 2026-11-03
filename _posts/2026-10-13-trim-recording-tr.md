@@ -65,6 +65,8 @@ Bedeli yolculuktur: dosyayı telefondan çıkarmak, düzenlemek, gerekirse geri 
 
 [TalkSafe](/talksafe/tr/) telefonda kırpar ve **üzerine yazmayı hiç önermez**. Seçtiğiniz bölüm yeni bir dosya olarak kaydedilir ve orijinal tam olarak bulunduğu yerde kalır. Yanlış cevaplanacak bir soru yoktur.
 
+<figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
+
 Buradan üç şey çıkar.
 
 - **Başlangıcı siz seçersiniz.** TalkSafe önceden belirlediğiniz bir kelimeyle kayda başlar ve o kelime duyulmadan **önceki 30 saniyeyi** de saklar; dosya o andan biraz önce başlar. Kırpma ile alıntının nerede başlayacağını tam olarak belirlersiniz, öncesinin tamamı orijinalde kalır.

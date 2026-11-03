@@ -96,6 +96,8 @@ Hai appena preso un colpo, il cuore va veloce, devi spostare l'auto, e intanto l
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) serve a colmare quello scarto. Si sceglie una parola in anticipo e la registrazione parte quando quella parola viene pronunciata. **Funziona a schermo bloccato.** All'avvio salva anche i **30 secondi precedenti**, quindi resta nel file anche ciò che è stato detto prima che tu te ne accorgessi.
 
+<figure class="shot"><img src="/assets/img/screens/active-it.jpg" alt="Schermata di TalkSafe con il rilevamento delle parole chiave attivo e il pulsante Interrompi." width="540" height="960" loading="lazy"><figcaption>Rilevamento delle parole chiave attivo. Continua ad ascoltare in background con lo schermo spento o l'app chiusa.</figcaption></figure>
+
 Le parole chiave non sono legate a chi parla: puoi impostare quello che dirà **l'altro conducente**. Sulla strada, frasi come *non ti ho visto*, *tutto bene*, *assicurazione* sono quelle che vengono pronunciate davvero.
 
 Come conservare il file, come tenere solo la parte utile e dove depositarlo è in [Cosa fare con una registrazione](/blog/it/after-recording/).

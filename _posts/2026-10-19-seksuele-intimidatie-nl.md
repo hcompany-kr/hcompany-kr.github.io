@@ -79,6 +79,8 @@ Intimidatie kondigt zich niet aan. Tegen de tijd dat je je telefoon pakt, ontgre
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**.
 
+<figure class="shot"><img src="/assets/img/screens/settings-nl.jpg" alt="Instellingenscherm van TalkSafe: automatische opnameduur na herkenning (10 minuten, 30 minuten, 1 uur, handmatig stoppen), herkenningstaal en cloudback-up." width="540" height="960" loading="lazy"><figcaption>Instellingen. Je kiest hoe lang er na een herkenning wordt opgenomen en de herkenningstaal; luisteren en herkennen gebeurt op de telefoon, zonder internet.</figcaption></figure>
+
 Een voor de hand liggende keuze is het woord dat je op dat moment zegt: **„stop”**. Zeg je „Stop daarmee”, dan begint de opname — en de 30 seconden daarvoor, met wat je ertoe bracht, zitten in het bestand. Ook je weigering staat erin, en die laat zien dat het gedrag **ongewenst** was.
 
 Inkorten bewaart een nieuw bestand en laat het **origineel ongemoeid** — dat laat zien dat er niets is bewerkt. Meer in [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/).

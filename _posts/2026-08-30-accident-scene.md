@@ -93,6 +93,8 @@ faq:
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/)는 그 시간차를 메우려고 만들었습니다. 미리 말을 정해두면 그 말이 들릴 때 녹음이 시작되고, **화면이 잠긴 상태에서도 동작합니다.** 시작 직전 **30초까지 함께 저장**되므로, 뒤늦게 알아차린 발언도 파일에 남습니다.
 
+<figure class="shot"><img src="/assets/img/screens/active-ko.jpg" alt="TalkSafe가 키워드를 감지하고 있는 화면과 중지 버튼." width="540" height="960" loading="lazy"><figcaption>키워드 감지 작동 중. 화면을 끄거나 앱을 닫아도 백그라운드에서 계속 듣습니다.</figcaption></figure>
+
 키워드는 화자에 묶여 있지 않습니다. 내가 할 말이 아니라 **상대가 할 말**을 걸어둘 수 있습니다. 사고 현장이라면 "괜찮으세요", "못 봤", "보험" 같은 말이 그 자리에서 실제로 나오는 표현입니다.
 
 남긴 파일을 어떻게 보관하고 필요한 구간만 어떻게 추려서 어디에 내는지는 [녹음한 다음에 해야 할 일](/blog/ko/after-recording/)에 정리했습니다.

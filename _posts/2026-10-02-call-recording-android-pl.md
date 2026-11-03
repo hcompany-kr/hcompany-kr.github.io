@@ -94,6 +94,8 @@ Ceną jest kilka realnych wad. **Jakość dźwięku spada**, bo nagrywany jest m
 
 Z tych trzech wad hałas w tle da się poprawić później. **Usuwanie szumów z AI** w TalkSafe usuwa hałas w tle z gotowego nagrania i zostawia głosy. Działa na urządzeniu, a oczyszczona wersja jest zapisywana jako nowy plik; oryginał zostaje bez zmian.
 
+<figure class="shot"><img src="/assets/img/screens/active-pl.jpg" alt="Ekran TalkSafe z aktywnym wykrywaniem słów kluczowych i przyciskiem Zatrzymaj." width="540" height="960" loading="lazy"><figcaption>Wykrywanie słów kluczowych aktywne. Aplikacja słucha dalej w tle przy wyłączonym ekranie albo zamkniętej aplikacji.</figcaption></figure>
+
 Przy rozmowie, którą możesz odbyć w cichym miejscu, działa.
 
 ## Gdzie jest miejsce tej aplikacji, a gdzie nie

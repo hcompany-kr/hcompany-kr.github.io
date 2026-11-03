@@ -87,6 +87,8 @@ Asking an elderly parent to open an app and press record before something happen
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) works differently.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 You install it on their phone and **set the words in advance yourself.** When one of those words is heard, recording begins. Your parent does nothing. **It starts with the screen locked**, so the phone can stay in a pocket or beside the bed.
 
 And the words do not have to be ones they say. Set what is likely to be said **to** them. Your parent can be sitting there unable to respond, and the recording still starts.

@@ -87,6 +87,8 @@ Avec son accord, c'est simple — et pour une histoire d'argent, la raison se do
 
 [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Mettez le mot-clé dans votre propre question, par exemple **« enregistrer »**. Quand vous demandez « Je peux enregistrer ? », l'enregistrement commence à ce moment-là, et le « oui » est dans le fichier — avec ce qui se dit ensuite sur le montant et la date. Voir [On dit d'abord quelque chose](/blog/fr/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/start-fr.jpg" alt="Écran d'accueil de TalkSafe avec des boutons pour lancer la détection en temps réel et un enregistrement manuel." width="540" height="960" loading="lazy"><figcaption>Écran d'accueil de TalkSafe. Avec la détection en temps réel activée, l'enregistrement démarre quand un mot choisi est détecté ; le bouton permet aussi d'enregistrer tout de suite.</figcaption></figure>
+
 ## Belgique et Suisse
 
 - **Belgique :** depuis le **1er novembre 2020**, le **livre 8 du Code civil** exige un **écrit** pour prouver un acte juridique de **plus de 3 500 euros** (le seuil était auparavant de 375 euros). Les actions personnelles se prescrivent par **dix ans** (**article 2262bis**), et la **reconnaissance** du débiteur interrompt la prescription. Un participant peut **enregistrer sa propre conversation**, et le mot-clé peut être ce que l'autre dira probablement : « rembourser ». Les **30 secondes précédentes** sont dans le fichier.

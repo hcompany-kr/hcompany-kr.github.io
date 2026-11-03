@@ -87,6 +87,8 @@ Over geld praat je aan tafel of aan de telefoon. In **Nederland** is het opnemen
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**, dus je kunt kiezen wat de ander waarschijnlijk zegt: **„terugbetalen”**, **„volgende maand”**. Zegt hij „Ik betaal je volgende maand terug”, dan begint de opname — en wat daarvoor gezegd werd, zit er ook in.
 
+<figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
+
 Inkorten bewaart een nieuw bestand en laat het **origineel ongemoeid**. Meer in [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/).
 
 En stuur daarna **een appje**: „Afgesproken: je betaalt de € 3.000 terug vóór de 30e.” Dan heb je ook de schriftelijke aanmaning.

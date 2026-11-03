@@ -72,6 +72,8 @@ Even in a one-party state, a workplace policy can prohibit recording, and being 
 
 [TalkSafe](/talksafe/en/) is built around conversations you are part of.
 
+<figure class="shot"><img src="/assets/img/screens/settings-en.jpg" alt="TalkSafe settings screen: auto-recording time after a keyword is detected (10 minutes, 30 minutes, 1 hour, manual stop), keyword detection language, and cloud backup." width="540" height="960" loading="lazy"><figcaption>Settings. Choose how long to record after a detection and the detection language; listening and recognition happen on the phone, without internet.</figcaption></figure>
+
 That is why a notification stays visible for the entire time a recording runs and cannot be switched off, and why there is no way to hide it. The distinction above is the one that separates lawful from criminal in every jurisdiction mentioned here. There was no good reason to make that line easy to cross.
 
 

@@ -83,6 +83,8 @@ Kimsenin konuşmasını kaydetmeden yapabileceğiniz en güçlü şey, **olaydan
 
 Sorun şu: olaydan hemen sonra eller titrer ve telefonu onun gözü önünde çıkarmak istemezsiniz. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar — telefon cebinizde kalır. Kırptığınızda **orijinal korunur**.
 
+<figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
+
 ## Kısaca
 
 - Israrlı takip **TCK 123/A**'da suçtur: **altı aydan iki yıla**, nitelikli hâlde **bir yıldan üç yıla**.

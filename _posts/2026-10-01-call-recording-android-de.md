@@ -100,6 +100,8 @@ Die Nachteile sind real. **Die Tonqualität sinkt**, weil ein kleiner Lautsprech
 
 Von den dreien lassen sich die Hintergrundgeräusche nachträglich angehen. Die **KI-Rauschentfernung** von TalkSafe entfernt Hintergrundgeräusche aus einer fertigen Aufnahme und lässt die Stimmen übrig. Sie läuft auf dem Gerät, und die bereinigte Fassung wird als neue Datei gespeichert; das Original bleibt unverändert.
 
+<figure class="shot"><img src="/assets/img/screens/active-de.jpg" alt="TalkSafe-Bildschirm mit aktiver Schlüsselwort-Erkennung und Stopp-Taste." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Erkennung aktiv. Die App hört im Hintergrund weiter, auch bei ausgeschaltetem Bildschirm oder geschlossener App.</figcaption></figure>
+
 Für ein Telefonat, das Sie an einem ruhigen Ort führen können, funktioniert es.
 
 ## Wo diese App steht – und wo nicht

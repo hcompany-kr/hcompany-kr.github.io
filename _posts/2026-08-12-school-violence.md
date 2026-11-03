@@ -99,6 +99,8 @@ faq:
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/)를 이런 상황에서 쓰는 방법이 있습니다.
 
+<figure class="shot"><img src="/assets/img/screens/active-ko.jpg" alt="TalkSafe가 키워드를 감지하고 있는 화면과 중지 버튼." width="540" height="960" loading="lazy"><figcaption>키워드 감지 작동 중. 화면을 끄거나 앱을 닫아도 백그라운드에서 계속 듣습니다.</figcaption></figure>
+
 미리 몇 개의 말을 정해두면 그 말이 들렸을 때 녹음이 시작됩니다. **화면이 잠겨 있어도 시작되므로** 아이가 무언가를 조작할 필요가 없습니다. 가방 안에 있어도 됩니다.
 
 그리고 정해두는 말이 **아이가 하는 말일 필요가 없습니다.** 그 상황에서 나올 법한 상대의 말을 걸어두면 됩니다. 위축된 아이가 무언가를 말하거나 휴대폰을 꺼내는 것은 사실상 불가능하기 때문에, 이 부분이 실질적으로 중요합니다.

@@ -97,6 +97,8 @@ Tre cose aiutano.
 
 TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere quelle che usciranno nella spiegazione dell'agente, come «infiltrazioni», «condominio» o «garage». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, anche quello che è stato detto subito prima finisce nel file.
 
+<figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
+
 Cosa succede al deposito cauzionale alla fine dell'affitto è in [i buchi dei chiodi non sono danni](https://hcompany-kr.github.io/blog/it/deposito-cauzionale/). Quando un accordo a voce si scontra con un contratto firmato, vedi [nel contratto non c'è, lo avete deciso in riunione](https://hcompany-kr.github.io/blog/it/verbal-contract/).
 
 ## In sintesi

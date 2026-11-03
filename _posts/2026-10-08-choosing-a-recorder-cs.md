@@ -92,6 +92,8 @@ Dvě varianty.
 
 V této kategorii pracujeme my, takže další odstavec čtěte s tímto vědomím. [TalkSafe](/talksafe/cs/) je aplikace pro Android, která se spustí po zvoleném slově, funguje při zamčené obrazovce a ukládá se souborem 30 sekund před začátkem — což řeší problém chybějící první slabiky. Při vystřižení úseku zůstane původní soubor zachován. Nahrávku pořízenou v hlučném prostředí, třeba na ulici, lze dodatečně vyčistit odstraněním šumu pomocí AI, které běží v zařízení a uloží nový soubor vedle originálu.
 
+<figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
+
 ## Kde hardware opravdu vyhrává
 
 Být v tom upřímní je jediný způsob, jak má zbytek téhle stránky nějakou cenu.

@@ -76,6 +76,8 @@ Unproblematisch ist die **eigene Stimme**. Direkt nach einem Vorfall festzuhalte
 
 Nur: Direkt danach zittern oft die Hände, und Sie wollen das Handy nicht vor den Augen des Stalkers herausholen. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz — das Handy bleibt in der Tasche. Beim Schneiden **bleibt das Original erhalten**.
 
+<figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
+
 In **Österreich** ist die Aufnahme eines Gesprächs, an dem Sie teilnehmen, nicht strafbar; das Weitergeben ist eine andere Frage.
 
 ## Österreich und die Schweiz

@@ -104,6 +104,8 @@ Niente di tutto questo lascia traccia. E quando si arriva a discuterne, tocca a 
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) serve a quel vuoto. Fissi delle parole in anticipo e la registrazione parte quando ne sente una — **a schermo bloccato**, senza dover prendere il telefono. Le parole non devono essere tue: puoi impostare quelle che ricorrono nelle conversazioni che ti riguardano.
 
+<figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
+
 Poiché vengono salvati anche i **30 secondi precedenti**, una frase che hai riconosciuto con un attimo di ritardo resta comunque nel file.
 
 **Una precisazione importante.** Sul lavoro la registrazione ha regole proprie, e la Cassazione le ha precisate nel 2025: è lecita quando serve a far valere o difendere un diritto, illecita quando ha finalità meramente esplorativa. Se stai documentando condotte che ti riguardano in vista di una contestazione, sei nel primo caso — ma vale la pena leggere [l'articolo dedicato](https://hcompany-kr.github.io/blog/it/registrare-sul-lavoro/) prima di iniziare.

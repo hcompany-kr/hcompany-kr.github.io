@@ -82,6 +82,8 @@ Irlandia i pozostałe kraje nie są tu omówione.
 
 [TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać po **wybranym wcześniej słowie**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Nagrywa to, co słyszy mikrofon w pomieszczeniu — czyli rozmowę, w której uczestniczysz. Nie ma trybu ukrytego.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-pl.jpg" alt="Ekran słów kluczowych w TalkSafe. Słowa dodaje się przyciskiem mikrofonu, a poniżej widać ich listę." width="540" height="960" loading="lazy"><figcaption>Ustawienia słów kluczowych. Można zapisać kilka słów; wystarczy, że zostanie wykryte jedno z nich.</figcaption></figure>
+
 Trzy rzeczy łączą się tu bezpośrednio z prawem.
 
 **Początek nie przepada.** Zdanie, przez które chcesz nagrywać, zwykle już padło. 30 sekund sprzed startu obejmuje tę lukę. Więcej w [Dlaczego przycisk nagrywania zawsze wciskasz za późno](/blog/pl/recording-delay/).

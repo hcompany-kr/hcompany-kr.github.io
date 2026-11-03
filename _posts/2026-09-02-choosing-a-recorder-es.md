@@ -92,6 +92,8 @@ Dos versiones.
 
 Trabajamos en esta categoría, así que lee lo siguiente con eso presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) es una aplicación de Android que arranca con una palabra que eliges, funciona con la pantalla bloqueada y guarda **los 30 segundos anteriores al inicio** junto con el archivo, que es precisamente la respuesta al problema de la sílaba perdida del VOX. Al recortar un fragmento, el original se conserva en lugar de sustituirse. Una grabación hecha en un sitio ruidoso, como la calle, puede limpiarse después con la eliminación de ruido con IA, que se procesa en el dispositivo y guarda un archivo nuevo junto al original.
 
+<figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
+
 ## Dónde gana el hardware sin discusión
 
 Decir esto con honestidad es lo único que hace que el resto de la página valga algo.

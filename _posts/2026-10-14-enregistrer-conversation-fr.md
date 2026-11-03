@@ -107,6 +107,8 @@ Ce qu'aucun de ces pays ne permet : enregistrer la conversation des autres. Lais
 
 [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance**, fonctionne **écran verrouillé** et conserve dans le fichier les **30 secondes précédant** le démarrage. Elle enregistre ce que le micro entend dans la pièce — la conversation à laquelle vous participez. Elle n'a pas de mode caché.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-fr.jpg" alt="Écran des mots-clés de TalkSafe. Les mots-clés s'ajoutent avec le bouton du micro et s'affichent en liste." width="540" height="960" loading="lazy"><figcaption>Réglages des mots-clés. Vous pouvez en enregistrer plusieurs ; il suffit que l'un d'eux soit détecté pour que l'enregistrement démarre.</figcaption></figure>
+
 En France, en Suisse, au Luxembourg et à Monaco, l'usage qui compte le plus est donc **le consentement lui-même** :
 
 **Le consentement est dans le fichier.** Choisissez comme mot-clé un mot de votre propre question, par exemple **« enregistrer »**. Quand vous demandez « je peux enregistrer ? », l'enregistrement commence à cet instant et le « oui » de votre interlocuteur est enregistré. C'est précisément ce qui sépare un enregistrement licite d'une infraction à l'article 226-1.

@@ -74,6 +74,8 @@ The difficulty is that this depends on knowing which parts mattered. During the 
 
 [TalkSafe](/talksafe/en/) covers that gap differently. You set a few words in advance, and recording starts when one of them is heard. **It starts with the screen locked** — the phone can sit on the table or stay in a pocket.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 The words do not have to be ones you say. Set what an agent is likely to say — *covered*, *excluded*, *guaranteed*, *rider*, *pre-existing* — and the moment the subject comes up is the moment recording begins. A voice assistant cannot be used this way, because it is built to recognise its owner's voice; this detects the word itself, regardless of who spoke it.
 
 Because the 30 seconds before that point are saved as well, an explanation you only recognised as important halfway through is still in the file.

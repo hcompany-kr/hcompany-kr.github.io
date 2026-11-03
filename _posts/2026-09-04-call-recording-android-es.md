@@ -86,6 +86,8 @@ Los inconvenientes son reales y conviene decirlos. **Baja la calidad**, porque e
 
 De los tres, el ruido de fondo es el que se puede arreglar después. La **eliminación de ruido con IA** de TalkSafe quita el ruido de fondo de una grabación terminada y deja las voces. Se procesa en el dispositivo, y la versión limpia se guarda como archivo nuevo, con el original intacto.
 
+<figure class="shot"><img src="/assets/img/screens/active-es.jpg" alt="Pantalla de TalkSafe con la detección de palabras clave activa y el botón Detener." width="540" height="960" loading="lazy"><figcaption>Detección de palabras clave activa. Sigue escuchando en segundo plano con la pantalla apagada o la aplicación cerrada.</figcaption></figure>
+
 Para una llamada que puedas atender en un sitio tranquilo, sirve.
 
 ## Qué hace esta aplicación y qué no

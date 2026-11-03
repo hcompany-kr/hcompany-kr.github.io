@@ -59,6 +59,8 @@ Midden in het gesprek in je zak grijpen, je telefoon ontgrendelen en de app zoek
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een vooraf gekozen woord hoort. Voor wie gesprekken voert, tellen drie dingen.
 
+<figure class="shot"><img src="/assets/img/screens/active-nl.jpg" alt="TalkSafe-scherm met actieve trefwoordherkenning en een Stop-knop." width="540" height="960" loading="lazy"><figcaption>Trefwoordherkenning actief. De app blijft op de achtergrond luisteren, ook met het scherm uit of de app gesloten.</figcaption></figure>
+
 **Je handen blijven van je telefoon.** Hij werkt met een vergrendeld scherm, in je zak of tas. Je doet niets tijdens het gesprek, dus het gesprek houdt zijn vorm.
 
 **Het woord kan het zijne zijn.** De herkenning is niet aan één stem gebonden. Weet je waar het gesprek over gaat, stel dan de woorden in die de ander gebruikt als hij er aankomt: „die avond”, „het geld”, „het contract”, een naam. Zodra het onderwerp valt, begint de opname.

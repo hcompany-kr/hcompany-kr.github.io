@@ -73,6 +73,8 @@ Problém je okamžik. Nikdo neohlásí, kdy se objeví, a vytáhnout telefon př
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**. Přirozená volba je slovo, které v tu chvíli řeknete: **„přestaň“**. Když řeknete „Přestaň mě sledovat“, nahrávání začne — a to, co bylo předtím, je v souboru také, s telefonem v kapse.
 
+<figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
+
 Střih uloží nový soubor a **originál zůstane nedotčený**. Víc v [Jak na Androidu zkrátit hlasovou nahrávku a nepřijít o originál](/blog/cs/trim-recording/).
 
 Aplikace nahrává to, co slyší mikrofon v místnosti — rozhovor, kterého se účastníte. Instalovat něco do cizího telefonu nebo nechat zařízení nahrávat tam, kde nejste, je něco jiného.

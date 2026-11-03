@@ -92,6 +92,8 @@ Two versions of this.
 
 This is the category we work in, so read the next part with that in mind. [TalkSafe](https://hcompany-kr.github.io/talksafe/) is an Android app that starts on a word you choose, works with the screen locked, and saves the 30 seconds before the start along with the file — which is the part that answers the clipped first syllable problem. Cutting a section keeps the original file intact rather than replacing it. A recording made somewhere noisy, like a street, can be cleaned afterwards with AI noise removal, which runs on the device and saves a new file alongside the original.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 ## Where hardware genuinely wins
 
 Being honest about this is the only way the rest of the page is worth reading.

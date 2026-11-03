@@ -88,6 +88,8 @@ Lo difícil es saber qué poner. **Durante la reunión todavía no sabes qué fr
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) cubre ese hueco. Fijas unas palabras de antemano y la grabación arranca al escuchar una de ellas. **Funciona con la pantalla bloqueada**, desde el bolsillo, sin abrir nada.
 
+<figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
+
 Y las palabras no tienen por qué decirlas tú. Puedes fijar lo que suele decir quien contrata — *alcance*, *presupuesto*, *revisiones*, *plazo*, *ya que estás*, *también* — de modo que el momento en que salen las condiciones es el momento en que empieza la grabación.
 
 Como también se guardan los **30 segundos anteriores**, una cifra dicha justo antes de que repararas en ella sigue en el archivo.

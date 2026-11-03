@@ -95,6 +95,8 @@ Il colloquio ha anche una forma sfavorevole: viene fissato all'improvviso, dura 
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) serve a colmare quello scarto. Si decide una parola in anticipo, e quando quella parola viene pronunciata la registrazione parte. **Funziona anche a schermo bloccato.** All'avvio salva anche i **30 secondi precedenti**, così resta nel file anche la frase che hai riconosciuto con un attimo di ritardo.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-it.jpg" alt="Schermata delle parole chiave di TalkSafe. Le parole si aggiungono con il pulsante del microfono e compaiono in un elenco." width="540" height="960" loading="lazy"><figcaption>Impostazioni delle parole chiave. Puoi registrarne diverse; basta che ne venga rilevata una perché la registrazione parta.</figcaption></figure>
+
 Le parole chiave non sono legate a chi parla: puoi impostare quello che dirà **l'altra persona**, non quello che dirai tu.
 
 Una precisazione necessaria. In ambito lavorativo la registrazione a cui si partecipa è lecita e vale come prova documentale, ma **conta la finalità**: una registrazione fatta per difendere un proprio diritto è cosa diversa da una registrazione esplorativa dei colleghi, che può costituire illecito disciplinare. La distinzione è spiegata in [Non è reato, ma può costarti il posto](/blog/it/registrare-sul-lavoro/).

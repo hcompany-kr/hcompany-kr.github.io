@@ -90,6 +90,8 @@ Dört ve beş birbirinin açığını kapatır.
 
 Sesle söylenen bir tetikleyici ellere olan ihtiyacı ortadan kaldırır, ön kayıt ise geç verilen bir kararın bile karşılıklı konuşmayı yakalamasını sağlar. [TalkSafe](/talksafe/tr/) ikisini birden kullanır: kayıt seçtiğiniz bir kelimeyle başlar ve öncesindeki 30 saniye dosyada yer alır.
 
+<figure class="shot"><img src="/assets/img/screens/start-tr.jpg" alt="TalkSafe başlangıç ekranı: gerçek zamanlı algılamayı ve manuel kaydı başlatma düğmeleri." width="540" height="960" loading="lazy"><figcaption>TalkSafe başlangıç ekranı. Gerçek zamanlı algılama açıkken belirlediğiniz kelime algılandığında kayıt başlar; düğmeyle hemen de kayıt alabilirsiniz.</figcaption></figure>
+
 Herkesin rızasının gerektiği yerde bu, sorunun kendisi için de kullanılabilir: "kayıt" anahtar kelimesiyle, "Kayıt alabilir miyim?" diye sorduğunuzda kayıt başlar ve onay dosyada olur.
 
 ## Hangisini seçerseniz seçin bakmaya değer

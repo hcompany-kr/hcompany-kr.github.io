@@ -72,6 +72,8 @@ O assédio raramente avisa. A frase humilhante sai no meio de uma reunião, num 
 
 O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher palavras que costumam aparecer quando a situação começa — o nome de um projeto, uma expressão que o chefe repete, seu próprio nome. Funciona com a **tela bloqueada**, e os **30 segundos anteriores** ficam no arquivo, então a frase que fez você querer gravar não se perde.
 
+<figure class="shot"><img src="/assets/img/screens/start-pt-br.jpg" alt="Tela inicial do TalkSafe com botões para iniciar a detecção em tempo real e uma gravação manual." width="540" height="960" loading="lazy"><figcaption>Tela inicial do TalkSafe. Com a detecção em tempo real ligada, a gravação começa quando uma palavra escolhida é detectada; também dá para gravar na hora pelo botão.</figcaption></figure>
+
 Cortar um trecho salva o trecho como arquivo novo e deixa o **original intacto** — que é o que mostra que nada foi editado. Mais em [Como cortar uma gravação de voz no Android sem perder o original](/blog/pt-br/trim-recording/).
 
 O app grava o que o microfone ouve no ambiente — a conversa da qual você participa. Gravar conversas das quais você não participa é outra coisa e é crime (Lei 9.296, art. 10).

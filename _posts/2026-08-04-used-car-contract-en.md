@@ -73,6 +73,8 @@ The difficulty is doing this in the moment. Interrupting a walkthrough to say "c
 
 [TalkSafe](/talksafe/en/) is one way to close that gap. You set a few words in advance, and recording begins when one of them is heard. **It starts with the screen locked** — the phone can stay in your pocket for the whole conversation.
 
+<figure class="shot"><img src="/assets/img/screens/settings-en.jpg" alt="TalkSafe settings screen: auto-recording time after a keyword is detected (10 minutes, 30 minutes, 1 hour, manual stop), keyword detection language, and cloud backup." width="540" height="960" loading="lazy"><figcaption>Settings. Choose how long to record after a detection and the detection language; listening and recognition happen on the phone, without internet.</figcaption></figure>
+
 The words do not have to be ones you say. Set what a salesperson tends to say — *guarantee*, *accident*, *cover it*, *no problem* — and the moment the subject comes up is the moment recording starts. Because the 30 seconds before that point are saved as well, the sentence that caught your attention is in the file rather than just outside it.
 
 ## A few notes

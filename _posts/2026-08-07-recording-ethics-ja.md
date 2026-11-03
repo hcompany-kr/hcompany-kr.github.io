@@ -86,6 +86,8 @@ faq:
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/ja/)は、この点について一つ決めて作られています。
 
+<figure class="shot"><img src="/assets/img/screens/start-ja.jpg" alt="TalkSafeの開始画面。リアルタイム検知の開始ボタンと手動録音の開始ボタンがあります。" width="540" height="960" loading="lazy"><figcaption>TalkSafeの開始画面。リアルタイム検知をオンにしておくと、決めた言葉が検知されたときに録音が始まり、ボタンですぐに録音することもできます。</figcaption></figure>
+
 録音が進んでいる間は通知が表示され続け、**この通知は消せません。** 隠す機能はなく、今後も追加しません。アイコンの偽装や、こっそり起動するような機能もありません。
 
 これは機能を削ったのではなく、線を引いたということです。伝えないことはできても、隠すことはできない道具。前の節で分けた二つのうち、どちらに立つかを道具のほうが先に決めている形です。

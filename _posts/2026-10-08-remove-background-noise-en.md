@@ -69,6 +69,8 @@ Two things are worth knowing before you use one for a real conversation. First, 
 
 [TalkSafe](/talksafe/en/) has **AI noise removal** that you apply to a recording after it is made.
 
+<figure class="shot"><img src="/assets/img/screens/settings-en.jpg" alt="TalkSafe settings screen: auto-recording time after a keyword is detected (10 minutes, 30 minutes, 1 hour, manual stop), keyword detection language, and cloud backup." width="540" height="960" loading="lazy"><figcaption>Settings. Choose how long to record after a detection and the detection language; listening and recognition happen on the phone, without internet.</figcaption></figure>
+
 - **It runs on the device.** Nothing is uploaded to clean the file.
 - **The original stays.** The cleaned version is saved as a new file next to it.
 - **It works on a trimmed clip.** Cut the two minutes that matter first, then clean just those.

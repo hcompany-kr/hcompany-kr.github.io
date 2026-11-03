@@ -75,6 +75,8 @@ Nahrávat rozhovory, kterých se neúčastníte — nechat telefon v místnosti 
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit slova, která obvykle padnou, když to začíná — název projektu, frázi, kterou nadřízený opakuje, vlastní jméno. Funguje při **zamčené obrazovce** a **30 sekund předtím** zůstane v souboru.
 
+<figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
+
 Při střihu **originál zůstane** — a ten ukazuje, že nic nebylo upraveno. Víc v [Jak na Androidu zkrátit hlasovou nahrávku a nepřijít o originál](/blog/cs/trim-recording/).
 
 ## Slovensko

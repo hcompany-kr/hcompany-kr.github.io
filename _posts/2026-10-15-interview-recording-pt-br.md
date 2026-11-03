@@ -59,6 +59,8 @@ Enfiar a mão no bolso no meio da conversa, desbloquear o celular e procurar o a
 
 O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma palavra escolhida antes. Para quem entrevista, importam três coisas.
 
+<figure class="shot"><img src="/assets/img/screens/active-pt-br.jpg" alt="Tela do TalkSafe com a detecção de palavras-chave ativa e o botão Parar." width="540" height="960" loading="lazy"><figcaption>Detecção de palavras-chave ativa. Continua ouvindo em segundo plano com a tela apagada ou o app fechado.</figcaption></figure>
+
 **As mãos não tocam o celular.** Funciona com a tela bloqueada, no bolso ou na bolsa. Você não faz nada durante a conversa, então a conversa mantém a forma.
 
 **A palavra pode ser a dele.** O reconhecimento não está ligado a uma voz. Se você sabe do que a entrevista trata, escolha as palavras que a outra pessoa vai usar quando chegar lá: "naquela noite", "o dinheiro", "o contrato", um nome. Quando o assunto aparece, a gravação começa.

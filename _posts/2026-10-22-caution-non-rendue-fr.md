@@ -77,6 +77,8 @@ Avec son accord, c'est simple — et pour un état des lieux, la raison va de so
 
 [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé** — vous gardez les mains libres pour les photos et le formulaire. Mettez le mot-clé dans votre propre question, par exemple **« enregistrer »**. Quand vous demandez « Je peux enregistrer l'état des lieux ? », l'enregistrement commence à ce moment-là, et la réponse est dans le fichier — avec tout ce qui se dit ensuite sur chaque pièce. Voir [On dit d'abord quelque chose](/blog/fr/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
+
 Lors d'une découpe, **l'original est conservé**.
 
 ## Belgique, Suisse, Québec

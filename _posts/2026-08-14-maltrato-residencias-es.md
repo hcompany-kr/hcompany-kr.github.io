@@ -76,6 +76,8 @@ Pedirle a una persona mayor que abra una aplicación y pulse grabar antes de que
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) funciona al revés.
 
+<figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
+
 Lo instalas en su móvil y **eres tú quien fija las palabras de antemano.** Cuando se escucha una de ellas, la grabación arranca. Tu madre o tu padre no hacen nada. **Funciona con la pantalla bloqueada**, así que el móvil puede quedarse en el bolsillo o junto a la cama.
 
 Y las palabras no tienen por qué decirlas ellos. Puedes fijar lo que probablemente le digan **a** ellos. Pueden estar ahí sin poder responder, y la grabación arranca igualmente.

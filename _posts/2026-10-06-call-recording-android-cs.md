@@ -88,6 +88,8 @@ Nevýhody jsou skutečné. **Kvalita zvuku klesne**, protože se nahrává malý
 
 Z těch tří nevýhod se dá hluk v pozadí řešit dodatečně. **Odstranění šumu pomocí AI** v TalkSafe odstraní z hotové nahrávky hluk v pozadí a ponechá hlasy. Běží v zařízení a vyčištěná verze se uloží jako nový soubor; originál zůstane beze změny.
 
+<figure class="shot"><img src="/assets/img/screens/active-cs.jpg" alt="Obrazovka TalkSafe se zapnutým rozpoznáváním klíčových slov a tlačítkem Zastavit." width="540" height="960" loading="lazy"><figcaption>Rozpoznávání klíčových slov zapnuto. Aplikace poslouchá dál na pozadí i se zhasnutou obrazovkou nebo zavřenou aplikací.</figcaption></figure>
+
 Pro hovor, který můžete vyřídit na klidném místě, funguje.
 
 ## Kde je místo této aplikace, a kde ne

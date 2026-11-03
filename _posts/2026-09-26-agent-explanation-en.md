@@ -103,6 +103,8 @@ Three things help.
 
 TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words likely to come up in the agent's explanation, like "leak", "damp" or "service charge". It works with the screen locked, and because it saves the 30 seconds before it started, what was said just before that word is in the file too.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 For rentals, what gets said at the showing and how it comes back when the deposit is returned is in [what you were told at the showing is not in the lease](https://hcompany-kr.github.io/blog/en/lease-deposit/). A spoken promise that conflicts with a signed contract is in [it is not in the contract, it was agreed in the meeting](https://hcompany-kr.github.io/blog/en/verbal-contract/).
 
 ## What this comes down to

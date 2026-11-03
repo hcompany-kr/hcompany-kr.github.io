@@ -96,6 +96,8 @@ And even if it did occur to you, you could not do it. **Taking out a phone and o
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) removes that step entirely.
 
+<figure class="shot"><img src="/assets/img/screens/settings-en.jpg" alt="TalkSafe settings screen: auto-recording time after a keyword is detected (10 minutes, 30 minutes, 1 hour, manual stop), keyword detection language, and cloud backup." width="540" height="960" loading="lazy"><figcaption>Settings. Choose how long to record after a detection and the detection language; listening and recognition happen on the phone, without internet.</figcaption></figure>
+
 You set a few words in advance, and recording begins when one of them is heard. **It starts with the screen locked**, from inside a pocket or a bag. Nothing to take out, nothing to unlock, no signal to give.
 
 And the words do not have to be ones you say. Set what **that person** tends to say. You can be standing there saying nothing at all, and the recording still starts the moment they say it.

@@ -84,6 +84,8 @@ Lo difícil es hacerlo en el momento. Son conversaciones con carga emocional, y 
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) cubre ese hueco. Fijas unas palabras de antemano y la grabación arranca al escuchar una de ellas — **con la pantalla bloqueada**, sin sacar el móvil delante de la persona con la que estás negociando. Palabras como *pensión*, *convenio*, *vivienda*, *custodia* o *compensación* aparecerán sí o sí en esa conversación.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-es.jpg" alt="Pantalla de ajustes de palabras clave de TalkSafe. Las palabras se añaden con el botón del micrófono y aparecen en una lista." width="540" height="960" loading="lazy"><figcaption>Ajustes de palabras clave. Puedes registrar varias; basta con que se detecte una para que empiece la grabación.</figcaption></figure>
+
 Como también se guardan los **30 segundos anteriores**, una frase que registraste un instante tarde sigue al principio del archivo.
 
 Después escribes el mensaje sabiendo qué poner. **Lo que vincula es lo escrito; la grabación sirve para escribirlo con precisión.**

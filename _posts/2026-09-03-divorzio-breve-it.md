@@ -90,6 +90,8 @@ Il problema è sempre lo stesso — capisci che quella frase andava tenuta solo 
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) parte da una parola scelta in anticipo, **funziona a schermo bloccato**, e salva anche i **30 secondi precedenti** all'avvio.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-it.jpg" alt="Schermata delle parole chiave di TalkSafe. Le parole si aggiungono con il pulsante del microfono e compaiono in un elenco." width="540" height="960" loading="lazy"><figcaption>Impostazioni delle parole chiave. Puoi registrarne diverse; basta che ne venga rilevata una perché la registrazione parta.</figcaption></figure>
+
 Una precisazione che qui è necessaria. Registrare una conversazione a cui **partecipi** è lecito. Lasciare un dispositivo a registrare l'altro coniuge quando tu non ci sei **non lo è**, e non diventa lecito per il fatto che si tratta del coniuge. Le due cose vengono confuse spesso proprio in questa materia, ed è una confusione che costa cara.
 
 ## In sintesi

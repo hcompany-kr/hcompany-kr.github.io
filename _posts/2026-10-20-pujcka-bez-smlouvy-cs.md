@@ -81,6 +81,8 @@ O penězích se mluví u stolu nebo po telefonu, ne písemně. Podle **§ 88 ob�
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**, takže můžete nastavit, co dlužník pravděpodobně řekne: **„vrátím“**, **„příští měsíc“**. Když řekne „Vrátím ti to příští měsíc“, nahrávání začne — a to, co padlo předtím, je v souboru také.
 
+<figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
+
 Střih uloží nový soubor a **originál zůstane nedotčený**. Víc v [Jak na Androidu zkrátit hlasovou nahrávku a nepřijít o originál](/blog/cs/trim-recording/).
 
 Po rozhovoru **potvrďte dohodu zprávou** a požádejte o **písemné uznání dluhu**. Nahrávka dokládá půjčku; promlčení prodlouží jen písemné uznání.

@@ -93,6 +93,8 @@ Was trägt:
 
 [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert – ohne das Handy zu entsperren oder die App zu öffnen. Legen Sie ein Wort wie „Notiz“ fest: Sobald der andere weggefahren ist, sagen Sie es und sprechen Ihr Gedächtnisprotokoll, während Sie noch am Straßenrand stehen. Soll das Gespräch offen aufgenommen werden, kann das Wort in der Frage stecken: Mit „aufnehmen“ beginnt die Aufnahme bei „Darf ich das kurz aufnehmen, damit wir beide dasselbe haben?“, und das Ja ist in der Datei, zusammen mit den **30 Sekunden davor**. Warum die Taste immer zu spät kommt, steht in [Warum der Druck auf Aufnahme immer zu spät kommt](/blog/de/recording-delay/).
 
+<figure class="shot"><img src="/assets/img/screens/active-de.jpg" alt="TalkSafe-Bildschirm mit aktiver Schlüsselwort-Erkennung und Stopp-Taste." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Erkennung aktiv. Die App hört im Hintergrund weiter, auch bei ausgeschaltetem Bildschirm oder geschlossener App.</figcaption></figure>
+
 ## Österreich
 
 - **Meldepflicht**: Bei einem Unfall mit Sachschaden müssen die Beteiligten die nächste **Polizeidienststelle ohne unnötigen Aufschub verständigen**, wenn **kein gegenseitiger Identitätsnachweis** erfolgt ist (**§ 4 Abs. 5 StVO**). Der Identitätsnachweis dient nicht dazu, den Hergang vor Ort zu klären, sondern dem Austausch der Daten für die spätere Schadensregelung.

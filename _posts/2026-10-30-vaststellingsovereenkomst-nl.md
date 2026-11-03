@@ -78,6 +78,8 @@ Het probleem is het moment. Zo'n gesprek wordt kort van tevoren gepland, duurt t
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt instellen wat **de andere kant** in zo'n gesprek meestal zegt: "vaststellingsovereenkomst", "vergoeding", "beëindigen". Hij werkt met een **vergrendeld scherm**, en de **30 seconden daarvoor** staan in het bestand – de zin waardoor je doorhad wat er gebeurde, gaat niet verloren.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-nl.jpg" alt="Trefwoordinstellingen in TalkSafe. Trefwoorden voeg je toe met de microfoonknop en ze staan eronder in een lijst." width="540" height="960" loading="lazy"><figcaption>Trefwoordinstellingen. Je kunt meerdere woorden instellen; het is genoeg dat er één herkend wordt.</figcaption></figure>
+
 Gesprekken van anderen opnemen – je telefoon laten liggen in een kamer waar je wegloopt – is in beide landen strafbaar.
 
 ## België

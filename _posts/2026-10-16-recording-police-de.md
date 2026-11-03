@@ -89,6 +89,8 @@ Eine Kontrolle beginnt ohne Vorwarnung. Wenn man aufgefordert wurde, die Hände 
 
 [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. In Deutschland und der Schweiz ist der sicherste Weg, zu fragen: Legen Sie ein Wort aus Ihrer eigenen Frage als Schlüsselwort fest, etwa **„aufnehmen“**. Sie fragen „Darf ich das Gespräch aufnehmen?“ – die Aufnahme beginnt genau in diesem Moment, und die Antwort ist in der Datei. Sagt der Beamte nein, wissen Sie, woran Sie sind.
 
+<figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
+
 Weil die **30 Sekunden davor** mitgespeichert werden, ist auch der Beginn der Kontrolle in der Datei. Mehr zum Start ohne Handgriff in [Aufnahme starten, ohne das Telefon zu berühren](/blog/de/hands-free-recording/), mehr zur Rechtslage allgemein in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
 
 ## Kurz gesagt

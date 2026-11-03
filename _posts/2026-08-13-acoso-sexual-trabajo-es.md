@@ -107,6 +107,8 @@ Y aunque se te ocurriera, no podrías. **Sacar el teléfono y manipularlo delant
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) elimina ese paso.
 
+<figure class="shot"><img src="/assets/img/screens/settings-es.jpg" alt="Pantalla de ajustes de TalkSafe: tiempo de grabación automática tras detectar una palabra clave (10 minutos, 30 minutos, 1 hora, parada manual), idioma de detección y copia en la nube." width="540" height="960" loading="lazy"><figcaption>Ajustes. Eliges cuánto grabar tras una detección y el idioma de detección; escuchar y reconocer ocurre en el teléfono, sin internet.</figcaption></figure>
+
 Fijas unas palabras de antemano y la grabación arranca al escuchar una de ellas. **Empieza con la pantalla bloqueada**, desde el bolsillo o el bolso. Nada que sacar, nada que desbloquear, ninguna señal que dar.
 
 Y las palabras no tienen por qué decirlas tú. Puedes fijar lo que **esa persona** suele decir. Puedes estar ahí sin poder articular una palabra, y la grabación arranca igualmente en el momento en que la dice.

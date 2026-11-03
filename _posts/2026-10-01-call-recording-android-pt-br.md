@@ -86,6 +86,8 @@ O preço é real. **A qualidade cai**, porque você está gravando um alto-falan
 
 Dos três, o barulho é o que dá para resolver depois. A **remoção de ruído com IA** do TalkSafe tira o ruído de fundo de uma gravação já feita e deixa as vozes. Ela é processada no aparelho, e a versão limpa é salva como arquivo novo, com o original como estava.
 
+<figure class="shot"><img src="/assets/img/screens/active-pt-br.jpg" alt="Tela do TalkSafe com a detecção de palavras-chave ativa e o botão Parar." width="540" height="960" loading="lazy"><figcaption>Detecção de palavras-chave ativa. Continua ouvindo em segundo plano com a tela apagada ou o app fechado.</figcaption></figure>
+
 Para uma ligação que você pode atender num lugar quieto, funciona.
 
 ## Onde este app se encaixa, e onde não

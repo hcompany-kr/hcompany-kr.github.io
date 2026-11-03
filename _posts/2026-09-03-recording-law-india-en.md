@@ -109,6 +109,8 @@ By the time you decide a conversation should be kept, the sentence that mattered
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) starts on a word you set in advance, works with the screen locked, and saves the **30 seconds before the start** with the file. Trimming a section keeps the original file rather than replacing it — which, given how Section 63(4) works, is the part that matters most here.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 ## In short
 
 Three things, in order.

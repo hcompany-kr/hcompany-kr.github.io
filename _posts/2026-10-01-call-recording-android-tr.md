@@ -100,6 +100,8 @@ Bedeli gerçektir. **Ses kalitesi düşer**, çünkü temiz bir sinyal yerine od
 
 Bunlardan arka plan gürültüsü sonradan ele alınabilir. TalkSafe'in **yapay zekâ ile gürültü giderme** özelliği tamamlanmış bir kayıttan arka plan gürültüsünü temizler ve sesleri bırakır. İşlem cihazda yapılır; temizlenmiş sürüm yeni bir dosya olarak kaydedilir, orijinal olduğu gibi kalır.
 
+<figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
+
 Sessiz bir yerde yapabileceğiniz bir görüşme için işe yarar.
 
 ## Bu uygulama nerede duruyor, nerede durmuyor

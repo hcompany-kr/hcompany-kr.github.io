@@ -53,6 +53,8 @@ If only an edited file exists, the other side can argue it was manipulated. If t
 
 TalkSafe's **trim function does not touch the original.** The selected section is saved as a new file and the full recording stays where it was. That means you can prepare a submission copy without losing what it came from.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 The same goes for **AI noise removal**. If a recording was made on the street and the background drowns out parts of it, noise removal creates a new file with the background stripped out. It works on a trimmed clip too, so you can cut the section you need first and then clean that. It runs on the device and the original stays as it was. Submit the cleaned copy if it is easier to follow, and keep the original: it is what shows nothing else was changed.
 
 The sequence worth following:

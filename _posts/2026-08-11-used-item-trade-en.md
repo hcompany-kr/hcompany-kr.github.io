@@ -95,6 +95,8 @@ What it cannot cover is the handoff itself, where the item gets examined and des
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) covers that gap. You set a few words in advance and recording starts when one of them is heard. **It starts with the screen locked** — the phone stays in a pocket through the meetup.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
+
 The words do not have to be ones you say. Set what the other person is likely to say while describing the item — *scratch*, *battery*, *works fine*, *condition*, *no box*, *tested* — and the moment the item gets discussed is the moment recording begins.
 
 **It cuts the same way for both parties.** For a buyer it supports *nobody mentioned that*. For a seller it supports *I told you about that up front*. Whoever was being straight, the record shows it.

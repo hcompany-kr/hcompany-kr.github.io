@@ -106,6 +106,8 @@ Was trägt:
 
 [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest: Auf dem Gang oder im Auto sagen Sie es, und das Gedächtnisprotokoll beginnt, ohne dass Sie das Handy herausholen. Soll das Gespräch offen aufgenommen werden, kann das Wort in der Frage stecken – mit „aufnehmen“ beginnt die Aufnahme bei „Darf ich das Gespräch aufnehmen?“, und das Ja ist in der Datei, zusammen mit den **30 Sekunden davor**. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/keywords-de.jpg" alt="Schlüsselwort-Einstellungen in TalkSafe. Schlüsselwörter werden über die Mikrofon-Taste hinzugefügt und darunter aufgelistet." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Einstellungen. Sie können mehrere Wörter hinterlegen; es reicht, wenn eines davon erkannt wird.</figcaption></figure>
+
 ## Österreich: zwei Arbeitstage und keine Sperrfrist
 
 - **Form**: Die einvernehmliche Auflösung ist **formfrei**; die Arbeiterkammer empfiehlt die Schriftform als Beweis.

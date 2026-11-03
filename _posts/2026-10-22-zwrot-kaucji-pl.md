@@ -75,6 +75,8 @@ Przy oddawaniu mieszkania masz zajęte ręce — telefon do zdjęć, protokół,
 
 [TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc możesz ustawić to, co wynajmujący prawdopodobnie powie: **„kaucja”**, **„w porządku”**. Gdy powie „Wszystko w porządku, kaucję oddam”, nagrywanie się zaczyna — a to, co padło wcześniej, też jest w pliku.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pl.jpg" alt="Historia nagrań w TalkSafe. Za każdym razem, gdy zostanie wykryte słowo kluczowe, nagranie zapisuje się z datą i godziną." width="540" height="960" loading="lazy"><figcaption>Historia nagrań. Każdy plik zawiera też 30 sekund sprzed wykrycia słowa kluczowego.</figcaption></figure>
+
 Przycięcie fragmentu zapisuje nowy plik, a **oryginał zostaje nietknięty**. Więcej w [Jak przyciąć nagranie głosowe na Androidzie i nie stracić oryginału](/blog/pl/trim-recording/).
 
 Potem **potwierdź wiadomością**: „Zgodnie z dzisiejszym odbiorem mieszkanie jest w porządku, kaucja do zwrotu w ciągu miesiąca.”

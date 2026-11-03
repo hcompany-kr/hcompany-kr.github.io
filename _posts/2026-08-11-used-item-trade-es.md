@@ -92,6 +92,8 @@ Cinco minutos, el dinero cambia de manos, cada uno se va. Días después esos ci
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) cubre ese hueco. Fijas unas palabras de antemano y la grabación arranca al escuchar una de ellas. **Funciona con la pantalla bloqueada**, con el móvil en el bolsillo durante toda la entrega.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-es.jpg" alt="Pantalla de ajustes de palabras clave de TalkSafe. Las palabras se añaden con el botón del micrófono y aparecen en una lista." width="540" height="960" loading="lazy"><figcaption>Ajustes de palabras clave. Puedes registrar varias; basta con que se detecte una para que empiece la grabación.</figcaption></figure>
+
 Y las palabras no tienen por qué decirlas tú. Puedes fijar lo que suele decir la otra parte al describir el producto — *marca*, *batería*, *funciona*, *estado*, *sin caja*, *probado* — de modo que el momento en que se habla del producto es el momento en que empieza la grabación.
 
 **Sirve igual para los dos lados.** A quien compra le respalda un *nadie me dijo eso*. A quien vende le respalda un *te lo avisé desde el principio*. Quien fuera honesto, queda reflejado.

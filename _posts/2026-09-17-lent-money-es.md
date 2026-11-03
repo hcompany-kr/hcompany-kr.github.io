@@ -112,6 +112,8 @@ El problema práctico es otro: a un amigo de toda la vida no le dices «¿te imp
 
 TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente usará la otra persona. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, así que no hace falta cortar la conversación.
 
+<figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
+
 Por qué importan el original y los primeros segundos cuando una grabación se usa como prueba está en [tienes la grabación y aun así no puedes usarla](https://hcompany-kr.github.io/blog/es/recording-evidence/). Cuando lo pactado de palabra choca con un contrato escrito, está en [no está en el contrato, se acordó en la reunión](https://hcompany-kr.github.io/blog/es/verbal-contract/).
 
 ## En resumen

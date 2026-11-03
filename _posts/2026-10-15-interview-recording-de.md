@@ -71,6 +71,8 @@ Fragen heißt nicht, das Gespräch zu unterbrechen. Es heißt nur, dass die Frag
 
 [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort aus Ihrer eigenen Frage fest, etwa **„aufnehmen“**. Sie fragen „Darf ich das aufnehmen?“ – und die Aufnahme beginnt genau in diesem Moment. Das „Ja“ ist in der Datei, ausdrücklich, so wie es das Hessische LAG verlangt. Kein Gerät, das vorher sichtbar eingeschaltet werden muss, kein Griff zum Handy.
 
+<figure class="shot"><img src="/assets/img/screens/active-de.jpg" alt="TalkSafe-Bildschirm mit aktiver Schlüsselwort-Erkennung und Stopp-Taste." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Erkennung aktiv. Die App hört im Hintergrund weiter, auch bei ausgeschaltetem Bildschirm oder geschlossener App.</figcaption></figure>
+
 Zwei weitere Punkte helfen jedem, der Gespräche führt:
 
 **Die 30 Sekunden davor bleiben.** Die Datei beginnt 30 Sekunden vor dem Schlüsselwort, die Einleitung des Gesprächs ist also mit drin. Mehr in [Warum der Druck auf Aufnahme immer zu spät kommt](/blog/de/recording-delay/).

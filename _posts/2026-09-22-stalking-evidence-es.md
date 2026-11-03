@@ -103,6 +103,8 @@ Los mensajes y las llamadas se guardan solos. Lo que no se guarda solo es **el e
 
 TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir frases que dirías tú, como «déjame en paz» o «vete, por favor». Funciona con la pantalla bloqueada y, como guarda los 30 segundos anteriores al inicio, lo que la otra persona dijo justo antes también queda en el archivo.
 
+<figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
+
 Por qué importan el original y los primeros segundos cuando una grabación se usa como prueba está en [tienes la grabación y aun así no puedes usarla](https://hcompany-kr.github.io/blog/es/recording-evidence/).
 
 ## En resumen

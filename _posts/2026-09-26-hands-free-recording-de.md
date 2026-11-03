@@ -74,6 +74,8 @@ Diese Kategorie ist für genau dieses Problem gebaut. Die App lauscht auf Wörte
 
 [TalkSafe](/talksafe/de/) ist eine Android-App, die so funktioniert. Die Worterkennung läuft auf dem Gerät, die Aufnahme beginnt **bei gesperrtem Bildschirm und mit dem Telefon in der Tasche**, und im Moment des Starts gibt es weder einen Ton noch eine sichtbare Veränderung.
 
+<figure class="shot"><img src="/assets/img/screens/active-de.jpg" alt="TalkSafe-Bildschirm mit aktiver Schlüsselwort-Erkennung und Stopp-Taste." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Erkennung aktiv. Die App hört im Hintergrund weiter, auch bei ausgeschaltetem Bildschirm oder geschlossener App.</figcaption></figure>
+
 Zwei Eigenschaften unterscheiden sie von den anderen drei.
 
 **Das Schlüsselwort ist nicht an Ihre Stimme gebunden.** Erkannt wird das Wort selbst, unabhängig davon, wer es sagt. Sie können also Wörter festlegen, die jemand anderes wahrscheinlich sagt – etwa ‚Prüfung‘ in einer Vorlesung oder ‚Termin‘ bei einem Arztgespräch. Sobald das Thema aufkommt, beginnt die Aufnahme, ohne dass Sie etwas tun. Genauso gut können Sie ein eigenes Wort wählen und beim Autofahren oder Kochen freihändig eine Sprachnotiz starten.

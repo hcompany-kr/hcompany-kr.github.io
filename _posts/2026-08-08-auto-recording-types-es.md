@@ -91,6 +91,8 @@ La cuarta y la quinta cubren los huecos de la otra.
 
 Empezar con la voz elimina la necesidad de usar las manos, y conservar lo anterior significa que decidir tarde no cuesta la conversación. [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) combina ambas: la grabación arranca con una palabra elegida y los 30 segundos previos quedan dentro del archivo.
 
+<figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
+
 ## Qué comprobar, elijas la que elijas
 
 Al margen del tipo, hay detalles que deciden si una grabadora sirve de algo.

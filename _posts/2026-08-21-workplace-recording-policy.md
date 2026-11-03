@@ -103,6 +103,8 @@ faq:
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/)는 그 자리를 메우려고 만들었습니다. 미리 말을 정해두면 그 말이 들릴 때 녹음이 시작되고, **화면이 잠긴 상태에서도 동작합니다.** 시작 직전 **30초까지 함께 저장**되므로 한 박자 늦게 알아차린 발언도 파일에 남습니다.
 
+<figure class="shot"><img src="/assets/img/screens/active-ko.jpg" alt="TalkSafe가 키워드를 감지하고 있는 화면과 중지 버튼." width="540" height="960" loading="lazy"><figcaption>키워드 감지 작동 중. 화면을 끄거나 앱을 닫아도 백그라운드에서 계속 듣습니다.</figcaption></figure>
+
 다만 여기까지 읽으셨다면 아실 겁니다. **앱이 취업규칙 문제를 해결해주지는 않습니다.** 녹음 중에는 알림이 계속 표시되고 이 알림은 끌 수 없습니다. 숨기는 기능은 없고 앞으로도 넣지 않습니다.
 
 ## 정리하면

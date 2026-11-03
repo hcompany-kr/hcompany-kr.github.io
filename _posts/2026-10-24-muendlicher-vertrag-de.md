@@ -95,6 +95,8 @@ Widerspricht der Handwerker nicht, haben Sie ein datiertes Dokument, das zeigt, 
 
 Mit [TalkSafe](/talksafe/de/) lässt sich die Frage selbst zum Start machen. Die App beginnt bei einem **vorher festgelegten Wort** und funktioniert bei **gesperrtem Bildschirm**. Legen Sie das Schlüsselwort in Ihre Frage, zum Beispiel **„aufnehmen“**: Bei „Darf ich das kurz aufnehmen, damit wir beide dasselbe haben?“ beginnt die Aufnahme, und das „Ja“ ist in der Datei – zusammen mit den **30 Sekunden davor**. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/start-de.jpg" alt="Startbildschirm von TalkSafe mit Tasten für die Echtzeit-Erkennung und für eine manuelle Aufnahme." width="540" height="960" loading="lazy"><figcaption>Startbildschirm von TalkSafe. Ist die Echtzeit-Erkennung an, beginnt die Aufnahme, wenn ein festgelegtes Wort erkannt wird; per Taste lässt sich auch sofort aufnehmen.</figcaption></figure>
+
 ## Österreich und die Schweiz
 
 - **Österreich**: Nach **§ 883 ABGB** kann ein Vertrag mündlich oder schriftlich geschlossen werden; die Form macht nur in den gesetzlich bestimmten Fällen einen Unterschied. Wo Gesetz oder Parteiwille Schriftlichkeit verlangen, braucht es nach **§ 886 ABGB** die Unterschrift. Die Aufnahme des **eigenen** Gesprächs ist nicht strafbar, die Weitergabe einer heimlichen Aufnahme an Dritte aber schon.

@@ -107,6 +107,8 @@ Messages and call logs keep themselves. What does not keep itself is **the encou
 
 TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words you would say yourself, like "leave me alone" or "please go". It works with the screen locked, and because it saves the 30 seconds before it started, what they said just before you said it is in the file too.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 Why the original file and the opening seconds matter once a recording is used as evidence is in [you have the recording, you still may not be able to use it](https://hcompany-kr.github.io/blog/en/recording-evidence/).
 
 ## What this comes down to

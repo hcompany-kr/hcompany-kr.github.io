@@ -51,6 +51,8 @@ Si solo existe el archivo editado, la otra parte puede alegar manipulación. Si 
 
 La **función de recorte de TalkSafe no toca el original.** El fragmento seleccionado se guarda como archivo nuevo y la grabación completa permanece. Puedes preparar la copia que vas a aportar sin perder aquello de lo que salió.
 
+<figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
+
 Lo mismo vale para la **eliminación de ruido con IA**. Si grabaste en la calle y el ruido tapa partes de la conversación, puedes crear un archivo nuevo sin el ruido de fondo. También funciona sobre un fragmento recortado, así que puedes recortar primero lo que necesitas y limpiar ese archivo. Se procesa en el dispositivo y el original queda intacto. Aporta la versión limpia si se entiende mejor y conserva el original: es lo que demuestra que no se cambió nada más.
 
 El orden que conviene seguir:

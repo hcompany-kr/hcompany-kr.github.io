@@ -99,6 +99,8 @@ Messaggi e chiamate si conservano da soli. Quello che non si conserva da solo è
 
 TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere frasi che diresti tu, come «lasciami in pace» o «vattene». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, anche quello che l'altra persona ha detto subito prima finisce nel file.
 
+<figure class="shot"><img src="/assets/img/screens/before30-it.jpg" alt="Schermata dello storico delle registrazioni di TalkSafe. Ogni volta che viene rilevata una parola chiave si salva una registrazione con data e ora." width="540" height="960" loading="lazy"><figcaption>Storico delle registrazioni. Ogni file contiene anche i 30 secondi precedenti al rilevamento della parola chiave.</figcaption></figure>
+
 Perché contano l'originale e i primi secondi quando una registrazione viene usata come prova è spiegato in [hai la registrazione e non riesci comunque a usarla](https://hcompany-kr.github.io/blog/it/recording-evidence/).
 
 ## In sintesi

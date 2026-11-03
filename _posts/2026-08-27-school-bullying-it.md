@@ -91,6 +91,8 @@ Sono frasi che cambiano completamente il quadro se dette e poi negate. E in quel
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) copre quel vuoto. Fissi delle parole in anticipo — *segnalazione*, *procedura*, *provvedimento*, *referente* — e la registrazione parte quando ne sente una, **a schermo bloccato**, senza dover prendere il telefono davanti a chi hai di fronte. Poiché vengono salvati anche i **30 secondi precedenti**, una frase riconosciuta con un attimo di ritardo resta nel file.
 
+<figure class="shot"><img src="/assets/img/screens/active-it.jpg" alt="Schermata di TalkSafe con il rilevamento delle parole chiave attivo e il pulsante Interrompi." width="540" height="960" loading="lazy"><figcaption>Rilevamento delle parole chiave attivo. Continua ad ascoltare in background con lo schermo spento o l'app chiusa.</figcaption></figure>
+
 Poi si scrive la mail di riepilogo sapendo cosa metterci. **Ciò che vale resta lo scritto; la registrazione serve a scriverlo con precisione.**
 
 Due precisazioni che qui contano più che altrove.

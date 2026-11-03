@@ -86,6 +86,8 @@ Una empresa que graba llamadas de atención al cliente debe informar antes. Una 
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) está construido alrededor de la distinción que hace la ley española.
 
+<figure class="shot"><img src="/assets/img/screens/settings-es.jpg" alt="Pantalla de ajustes de TalkSafe: tiempo de grabación automática tras detectar una palabra clave (10 minutos, 30 minutos, 1 hora, parada manual), idioma de detección y copia en la nube." width="540" height="960" loading="lazy"><figcaption>Ajustes. Eliges cuánto grabar tras una detección y el idioma de detección; escuchar y reconocer ocurre en el teléfono, sin internet.</figcaption></figure>
+
 Mientras se graba se mantiene una notificación visible y **no se puede desactivar**. No existe modo oculto, ni icono disfrazado, ni forma de dejarlo grabando sin que se note. La aplicación asume que quien graba participa en la conversación, que es exactamente el supuesto lícito.
 
 Grabar sin avisar es legal. Ocultar que se graba es otra cosa, y la herramienta no lo permite.

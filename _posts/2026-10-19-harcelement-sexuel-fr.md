@@ -84,6 +84,8 @@ Plus vous avez d'autres éléments, moins l'enregistrement clandestin sert.
 
 Juste après, pourtant, les mains tremblent souvent, et vous êtes peut-être déjà de retour à votre poste. [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » ; dès que vous le dites, le mémo vocal commence. Lors d'une découpe, **l'original est conservé**.
 
+<figure class="shot"><img src="/assets/img/screens/settings-fr.jpg" alt="Écran des réglages de TalkSafe : durée d'enregistrement automatique après détection (10 minutes, 30 minutes, 1 heure, arrêt manuel), langue de détection et sauvegarde dans le cloud." width="540" height="960" loading="lazy"><figcaption>Réglages. On choisit la durée d'enregistrement après une détection et la langue de détection ; l'écoute et la reconnaissance se font sur le téléphone, sans internet.</figcaption></figure>
+
 En **Belgique** et au **Québec**, enregistrer une conversation à laquelle on participe est permis. Là, le mot-clé peut être celui que vous diriez sur le moment — « arrête ». L'enregistrement commence quand vous le dites, et les **30 secondes précédentes** sont dans le fichier.
 
 ## Belgique, Suisse, Québec

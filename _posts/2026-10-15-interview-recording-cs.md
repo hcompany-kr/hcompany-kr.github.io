@@ -59,6 +59,8 @@ Sáhnout uprostřed rozhovoru do kapsy, odemknout telefon a hledat aplikaci vytv
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší předem zvolené slovo. Pro toho, kdo vede rozhovory, jsou důležité tři věci.
 
+<figure class="shot"><img src="/assets/img/screens/active-cs.jpg" alt="Obrazovka TalkSafe se zapnutým rozpoznáváním klíčových slov a tlačítkem Zastavit." width="540" height="960" loading="lazy"><figcaption>Rozpoznávání klíčových slov zapnuto. Aplikace poslouchá dál na pozadí i se zhasnutou obrazovkou nebo zavřenou aplikací.</figcaption></figure>
+
 **Ruce zůstanou mimo telefon.** Funguje při zamčené obrazovce, v kapse nebo v tašce. Během rozhovoru nic neděláte, takže rozhovor si drží svůj tvar.
 
 **Slovo může být jeho.** Rozpoznávání není vázané na jeden hlas. Víte-li, o čem rozhovor bude, nastavte slova, která druhá strana použije, až se k tomu dostane: „ten večer“, „peníze“, „smlouva“, jméno. Jakmile téma zazní, nahrávání začne.

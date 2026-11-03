@@ -85,6 +85,8 @@ Play 스토어에서 통화 녹음 앱을 받습니다. 리뷰에 "안 된다"�
 
 이 중 소음은 나중에 손볼 수 있습니다. TalkSafe의 **AI 노이즈 제거**는 녹음이 끝난 파일에서 주변 소음을 걷어내고 대화를 남깁니다. 처리는 기기 안에서 하고, 정리된 파일은 새로 저장되며 원본은 그대로 남습니다.
 
+<figure class="shot"><img src="/assets/img/screens/active-ko.jpg" alt="TalkSafe가 키워드를 감지하고 있는 화면과 중지 버튼." width="540" height="960" loading="lazy"><figcaption>키워드 감지 작동 중. 화면을 끄거나 앱을 닫아도 백그라운드에서 계속 듣습니다.</figcaption></figure>
+
 ## 이 앱이 하는 것과 하지 않는 것
 
 여기서는 설득보다 정확한 게 중요합니다.

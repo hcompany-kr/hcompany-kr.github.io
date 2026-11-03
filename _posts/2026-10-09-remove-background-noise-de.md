@@ -67,6 +67,8 @@ Zwei Dinge sollte man wissen, bevor man so einen Dienst für ein echtes Gespräc
 
 [TalkSafe](/talksafe/de/) hat eine **KI-Rauschentfernung**, die man auf eine fertige Aufnahme anwendet.
 
+<figure class="shot"><img src="/assets/img/screens/settings-de.jpg" alt="Einstellungen in TalkSafe: automatische Aufnahmedauer nach erkanntem Schlüsselwort (10 Minuten, 30 Minuten, 1 Stunde, manuell beenden), Erkennungssprache und Cloud-Sicherung." width="540" height="960" loading="lazy"><figcaption>Einstellungen. Wählbar sind die Aufnahmedauer nach einer Erkennung und die Erkennungssprache; Zuhören und Erkennen laufen auf dem Handy, ohne Internet.</figcaption></figure>
+
 - **Sie läuft auf dem Gerät.** Zum Bereinigen wird nichts hochgeladen.
 - **Das Original bleibt.** Die bereinigte Fassung wird als neue Datei daneben gespeichert.
 - **Sie funktioniert bei einem Ausschnitt.** Erst die zwei Minuten ausschneiden, auf die es ankommt, dann nur diese bereinigen.

@@ -90,6 +90,8 @@ La quarta e la quinta coprono i buchi l'una dell'altra.
 
 Partire con la voce elimina la necessità di usare le mani, e conservare ciò che precede significa che decidere tardi non costa la conversazione. [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) unisce le due: la registrazione parte con una parola scelta e i 30 secondi precedenti restano dentro il file.
 
+<figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
+
 ## Cosa verificare, qualunque tipo scegli
 
 A prescindere dal tipo, alcuni dettagli decidono se un registratore serve davvero.

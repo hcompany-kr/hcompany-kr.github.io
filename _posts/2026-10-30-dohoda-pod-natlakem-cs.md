@@ -76,6 +76,8 @@ Problémem je okamžik. Takový rozhovor se svolá narychlo, trvá deset minut a
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit, co v takovém rozhovoru obvykle říká **druhá strana**: „dohoda“, „výpověď“, „rozvázání“. Funguje při **zamčené obrazovce** a **30 sekund předtím** zůstane v souboru – věta, po které vám došlo, o co jde, se neztratí.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-cs.jpg" alt="Nastavení klíčových slov v TalkSafe. Slova se přidávají tlačítkem mikrofonu a pod ním se zobrazí jejich seznam." width="540" height="960" loading="lazy"><figcaption>Nastavení klíčových slov. Můžete uložit několik slov; stačí, aby bylo rozpoznáno jedno z nich.</figcaption></figure>
+
 Nahrávat rozhovory, kterých se neúčastníte – nechat telefon v místnosti a odejít – pod výjimku § 88 nespadá.
 
 ## Slovensko

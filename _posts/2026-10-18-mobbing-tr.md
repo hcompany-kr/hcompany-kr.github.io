@@ -78,6 +78,8 @@ Kimsenin konuşmasını kaydetmeden yapabileceğiniz en güçlü şey, **her ola
 
 Sorun şu: olaydan sonra genellikle hâlâ iş yerindesiniz, ellerinizde iş var ya da sinirden telefonla uğraşacak hâlde değilsiniz. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar. Kırptığınızda **orijinal korunur**.
 
+<figure class="shot"><img src="/assets/img/screens/start-tr.jpg" alt="TalkSafe başlangıç ekranı: gerçek zamanlı algılamayı ve manuel kaydı başlatma düğmeleri." width="540" height="960" loading="lazy"><figcaption>TalkSafe başlangıç ekranı. Gerçek zamanlı algılama açıkken belirlediğiniz kelime algılandığında kayıt başlar; düğmeyle hemen de kayıt alabilirsiniz.</figcaption></figure>
+
 Herkesin rıza gösterdiği bir görüşmede — örneğin İK'nın açıkça kayda aldığı bir toplantıda — anahtar kelime soru da olabilir: "kayıt" kelimesini belirleyin, "Bu görüşmeyi kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap dosyada olur.
 
 ## Nereye başvurulur

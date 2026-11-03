@@ -91,6 +91,8 @@ Diğer ülkeler burada ele alınmamıştır.
 
 [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan, **ekran kilitliyken** çalışan ve başlangıçtan **önceki 30 saniyeyi** dosyaya ekleyen bir Android ses kayıt uygulamasıdır. Odadaki mikrofonun duyduğunu, yani katıldığınız konuşmayı kaydeder. Gizli modu yoktur.
 
+<figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
+
 Türkiye'de en önemli kullanım bu yüzden **rızanın kendisidir**:
 
 **Rıza dosyada olur.** Sorunuzdaki bir kelimeyi anahtar kelime olarak belirleyin, örneğin **"kayıt"**. "Kayıt alabilir miyim?" diye sorduğunuz anda kayıt başlar ve karşı tarafın "evet"i dosyadadır. TCK 133/2'nin aradığı rıza tam olarak budur.

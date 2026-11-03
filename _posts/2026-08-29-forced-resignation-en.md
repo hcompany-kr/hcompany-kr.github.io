@@ -112,6 +112,8 @@ It also has an unhelpful shape. It gets scheduled at short notice, it runs ten m
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) was built for that gap. You set a word in advance, and when the word is spoken the recording starts. **It works with the screen locked.** The **30 seconds before the start** are saved with the file, so the line you recognised a beat too late is still in there.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
+
 Keywords are not tied to a speaker. You can set what **the other person** is likely to say, not what you plan to say.
 
 On whether recording the meeting is wise: a covert recording made by a participant **may be admissible** before a tribunal if relevant. Whether making it is misconduct is a separate question. In **Phoenix House v Stockman** the Employment Appeal Tribunal held that covert recording is **not automatically gross misconduct**, and that purpose matters — it distinguished the employee seeking to entrap an employer from the one keeping a record or guarding against misrepresentation. On those facts it mattered that covert recording was not listed in the employer's disciplinary policy. The wider question of what your employer can prohibit is in [Your employer's no-recording rule may itself be illegal](/blog/en/workplace-recording-policy/), and the country comparison is in [Four countries, four answers to the same workplace question](/blog/en/workplace-recording-by-country/).

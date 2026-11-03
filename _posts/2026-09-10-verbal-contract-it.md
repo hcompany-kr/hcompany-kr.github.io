@@ -127,6 +127,8 @@ Il **Codice civile** dà al committente una regola utile:
 
 In pratica: chieda che il preventivo indichi cosa è **compreso e cosa no**, e metta per iscritto lo stesso giorno ciò che si aggiunge in cantiere. «Come detto oggi, la rimozione e lo smaltimento del pavimento vecchio sono compresi nel preventivo». Registrare una conversazione a cui si partecipa è lecito in Italia; TalkSafe può partire con una parola come **«compreso»**, e i 30 secondi prima di «è compreso, vero?» restano nel file.
 
+<figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
+
 ## Alla fine conta poter mostrare cosa si è detto
 
 In tutti e tredici i paesi **l'accordo a voce vale, ma se si discosta dal contratto scritto chi lo invoca deve provarlo.** E in Italia, con gli artt. 2721–2723, i testimoni aiutano poco. La prova torna quasi sempre a cosa si è detto in riunione.

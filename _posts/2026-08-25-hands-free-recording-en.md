@@ -71,6 +71,8 @@ This is the category built for the problem. The app listens for words you chose 
 
 [TalkSafe](/talksafe/en/) is an Android app that works this way. Word recognition runs on the device, recording begins **with the screen locked and the phone in a pocket**, and there is no sound or visible change at the moment it starts.
 
+<figure class="shot"><img src="/assets/img/screens/active-en.jpg" alt="TalkSafe screen showing keyword detection active, with a Stop button." width="540" height="960" loading="lazy"><figcaption>Keyword detection active. It keeps listening in the background with the screen off or the app closed.</figcaption></figure>
+
 Two properties make this different from the other three.
 
 **The keyword is not tied to your voice.** Detection is of the word itself, regardless of who said it. So you can set what the *other* person is likely to say — a landlord's *deposit*, a dealer's *warranty*, a manager's *contract*. The moment the subject comes up is the moment recording starts, and you did nothing.

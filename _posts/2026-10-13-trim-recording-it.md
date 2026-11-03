@@ -65,6 +65,8 @@ Il prezzo è il viaggio: portare il file fuori dal telefono, modificarlo e ripor
 
 [TalkSafe](/talksafe/it/) taglia sul telefono e **non offre mai di sovrascrivere**. Il tratto che scegli viene salvato come nuovo file e l'originale resta esattamente dov'era. Non c'è nessun messaggio in cui sbagliare.
 
+<figure class="shot"><img src="/assets/img/screens/before30-it.jpg" alt="Schermata dello storico delle registrazioni di TalkSafe. Ogni volta che viene rilevata una parola chiave si salva una registrazione con data e ora." width="540" height="960" loading="lazy"><figcaption>Storico delle registrazioni. Ogni file contiene anche i 30 secondi precedenti al rilevamento della parola chiave.</figcaption></figure>
+
 Ne seguono tre cose.
 
 - **L'inizio lo scegli tu.** TalkSafe inizia a registrare con una parola scelta in anticipo e salva **i 30 secondi precedenti** al momento in cui è stata sentita, quindi il file comincia un po' prima del momento. Con il taglio decidi esattamente dove inizia l'estratto, e tutto ciò che viene prima resta nell'originale.

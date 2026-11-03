@@ -92,6 +92,8 @@ Il problema è il momento. In una contestazione o in un colloquio teso non inter
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) nasce per quel vuoto. Fissi delle parole in anticipo e la registrazione parte quando ne sente una, **anche a schermo bloccato**. Poiché vengono salvati anche i **30 secondi precedenti**, una frase notata con un attimo di ritardo resta comunque nel file.
 
+<figure class="shot"><img src="/assets/img/screens/before30-it.jpg" alt="Schermata dello storico delle registrazioni di TalkSafe. Ogni volta che viene rilevata una parola chiave si salva una registrazione con data e ora." width="540" height="960" loading="lazy"><figcaption>Storico delle registrazioni. Ogni file contiene anche i 30 secondi precedenti al rilevamento della parola chiave.</figcaption></figure>
+
 Detto questo, e vale la pena essere espliciti: **l'app non risolve la questione disciplinare.** Mentre registra resta visibile una notifica che non si può disattivare, e non esiste una modalità nascosta. Quello che decide il tuo caso è perché hai registrato, non con quale strumento.
 
 Sul quadro generale — quando la registrazione è lecita e quando diventa reato — c'è [un articolo a parte](https://hcompany-kr.github.io/blog/it/registrare-conversazione/).

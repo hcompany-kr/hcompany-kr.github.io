@@ -81,6 +81,8 @@ Si l'artisan répond « oui » ou ne conteste pas, vous avez un écrit daté. S'
 
 Avec [TalkSafe](/talksafe/fr/), la question peut elle-même lancer l'enregistrement. L'application démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Placez le mot-clé dans votre question, par exemple **« enregistrer »** : à « Je peux enregistrer, pour qu'on ait tous les deux la même chose ? », l'enregistrement commence et le « oui » est dans le fichier, avec les **30 secondes précédentes**. Voir aussi [On dit d'abord quelque chose](/blog/fr/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/start-fr.jpg" alt="Écran d'accueil de TalkSafe avec des boutons pour lancer la détection en temps réel et un enregistrement manuel." width="540" height="960" loading="lazy"><figcaption>Écran d'accueil de TalkSafe. Avec la détection en temps réel activée, l'enregistrement démarre quand un mot choisi est détecté ; le bouton permet aussi d'enregistrer tout de suite.</figcaption></figure>
+
 ## Belgique
 
 - Le contrat verbal est valable.

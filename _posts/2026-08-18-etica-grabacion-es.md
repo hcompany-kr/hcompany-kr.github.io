@@ -98,6 +98,8 @@ En los tres, lo que incomoda no es que la otra persona no lo sepa. Es lo que se 
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) se hizo con una decisión tomada de antemano sobre esto.
 
+<figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
+
 Mientras la grabación está en marcha se mantiene una notificación visible, y **esa notificación no se puede apagar.** No hay función para ocultarla y no va a haberla. Tampoco hay iconos camuflados ni arranque encubierto.
 
 No es una función que falte: es una línea trazada. Una herramienta con la que se puede no avisar, pero no se puede esconder. De las dos cosas que acaban de separarse, la herramienta ya eligió una.

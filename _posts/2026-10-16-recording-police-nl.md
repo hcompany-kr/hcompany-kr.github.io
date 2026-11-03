@@ -79,6 +79,8 @@ Een controle begint zonder waarschuwing. Als je is gevraagd je handen zichtbaar 
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt woorden instellen die een agent waarschijnlijk zegt: **„rijbewijs”**, **„legitimatie”**. Hij werkt met een **vergrendeld scherm**, en omdat hij de **30 seconden daarvoor** bewaart, staat het gesprek erin vanaf het kloppen op het raam.
 
+<figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
+
 Opnemen zonder je telefoon aan te raken: [Een opname starten zonder je telefoon aan te raken](/blog/nl/hands-free-recording/). De algemene regels: [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
 
 ## Kort gezegd

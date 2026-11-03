@@ -95,6 +95,8 @@ Legality and discipline are decided separately in all four, and clearing the fir
 
 [TalkSafe](/talksafe/en/) records conversations you are part of. A notification stays visible for the entire recording and **cannot be switched off**; there is no hidden mode and no disguised icon.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
+
 That does not answer any of the questions above — the app cannot know which country you are in or what your handbook says. What it does is keep you out of the one category that all four treat as the serious offence.
 
 For the specific meeting where you are asked to resign, the US and UK rules diverge again — one gives you statutory time to think, the other makes the conversation inadmissible with an exception that swallows it. That comparison is in [The exit conversation is off the record until it isn't](/blog/en/forced-resignation/).

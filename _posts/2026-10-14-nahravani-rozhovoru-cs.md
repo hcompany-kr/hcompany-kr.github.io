@@ -87,6 +87,8 @@ Co nespadá pod žádnou výjimku: nahrávání rozhovorů, kterých se neúčas
 
 [TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Nahrává to, co slyší mikrofon v místnosti — rozhovor, kterého se účastníte. Skrytý režim nemá.
 
+<figure class="shot"><img src="/assets/img/screens/settings-cs.jpg" alt="Nastavení TalkSafe: doba automatického nahrávání po rozpoznání slova (10 minut, 30 minut, 1 hodina, ruční ukončení), jazyk rozpoznávání a zálohování do cloudu." width="540" height="960" loading="lazy"><figcaption>Nastavení. Zvolíte, jak dlouho nahrávat po rozpoznání, a jazyk rozpoznávání; poslech a rozpoznávání probíhá v telefonu, bez internetu.</figcaption></figure>
+
 Se zákonem souvisí tři věci.
 
 **Začátek nechybí.** Věta, kvůli které chcete nahrávat, obvykle už zazněla. 30 sekund před začátkem pokrývá tuto mezeru. Víc v [Proč tlačítko nahrávání mačkáte vždycky pozdě](/blog/cs/recording-delay/).

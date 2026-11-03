@@ -60,6 +60,8 @@ Ninguna de las dos versiones deja el consentimiento donde hace falta.
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) empieza a grabar cuando escucha una palabra fijada de antemano. Así que **la propia pregunta puede ser el disparador**.
 
+<figure class="shot"><img src="/assets/img/screens/settings-es.jpg" alt="Pantalla de ajustes de TalkSafe: tiempo de grabación automática tras detectar una palabra clave (10 minutos, 30 minutos, 1 hora, parada manual), idioma de detección y copia en la nube." width="540" height="960" loading="lazy"><figcaption>Ajustes. Eliges cuánto grabar tras una detección y el idioma de detección; escuchar y reconocer ocurre en el teléfono, sin internet.</figcaption></figure>
+
 Fija *grabar* como palabra clave. Luego dilo:
 
 > "¿Te importa si **grabo** esto?"

@@ -65,6 +65,8 @@ Der Preis ist der Umweg: Datei vom Handy holen, bearbeiten, bei Bedarf zurücksp
 
 [TalkSafe](/talksafe/de/) schneidet auf dem Handy und **bietet nie an, zu überschreiben**. Der gewählte Abschnitt wird als neue Datei gespeichert, das Original bleibt genau dort, wo es war. Es gibt keine Abfrage, bei der man danebengreifen kann.
 
+<figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
+
 Daraus folgen drei Dinge.
 
 - **Den Anfang bestimmen Sie.** TalkSafe startet bei einem vorher festgelegten Wort und speichert **die 30 Sekunden davor** mit, die Datei beginnt also etwas vor dem Moment. Mit dem Schnitt legen Sie genau fest, wo der Ausschnitt beginnt; der gesamte Vorlauf bleibt im Original.

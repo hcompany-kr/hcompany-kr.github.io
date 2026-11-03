@@ -67,6 +67,8 @@ Gerçek bir konuşma için kullanmadan önce bilinmesi gereken iki şey var. Bir
 
 [TalkSafe](/talksafe/tr/), yapılmış bir kayda uyguladığınız **yapay zekâ ile gürültü giderme** özelliğine sahiptir.
 
+<figure class="shot"><img src="/assets/img/screens/settings-tr.jpg" alt="TalkSafe ayarlar ekranı: anahtar kelime algılandıktan sonra otomatik kayıt süresi (10 dk, 30 dk, 1 saat, manuel durdur), algılama dili ve bulut yedekleme." width="540" height="960" loading="lazy"><figcaption>Ayarlar. Algılamadan sonra ne kadar kayıt alınacağını ve algılama dilini seçersiniz; dinleme ve tanıma internetsiz, telefonda gerçekleşir.</figcaption></figure>
+
 - **Cihazda çalışır.** Dosyayı temizlemek için hiçbir şey yüklenmez.
 - **Orijinal kalır.** Temizlenmiş sürüm yanına yeni bir dosya olarak kaydedilir.
 - **Kırpılmış bir bölümde de çalışır.** Önce önemli iki dakikayı kırpın, sonra yalnızca onu temizleyin.

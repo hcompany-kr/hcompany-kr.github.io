@@ -108,6 +108,8 @@ Tutte queste strade dipendono dalla stessa cosa: **poter mostrare che cosa ti è
 
 TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere quelle che ricorrono quando si parla di condizioni. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così il momento in cui esce la cifra non è la parte che manca.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-it.jpg" alt="Schermata delle parole chiave di TalkSafe. Le parole si aggiungono con il pulsante del microfono e compaiono in un elenco." width="540" height="960" loading="lazy"><figcaption>Impostazioni delle parole chiave. Puoi registrarne diverse; basta che ne venga rilevata una perché la registrazione parta.</figcaption></figure>
+
 Perché contano l'originale e i primi secondi quando una registrazione viene usata come prova è spiegato in [hai la registrazione e non riesci comunque a usarla](https://hcompany-kr.github.io/blog/it/recording-evidence/). Il problema generale dell'accordo a voce contro quello scritto è in [nel contratto non c'è, lo avete deciso in riunione](https://hcompany-kr.github.io/blog/it/verbal-contract/).
 
 ## In sintesi

@@ -82,6 +82,8 @@ No Brasil, **gravar a conversa da qual você participa** é permitido: o **STF**
 
 O [TalkSafe](/talksafe/pt-br/) começa a gravar quando ouve uma **palavra escolhida por você** e funciona com a **tela bloqueada**. Escolha uma palavra que costuma **fechar o acordo**, como **"combinado"**. Quando alguém diz "então fica combinado?", a gravação começa – e os **30 segundos anteriores**, em que os termos foram ditos, ficam no arquivo. Ao cortar o trecho, **o original continua salvo**. Veja também [Primeiro você diz alguma coisa](/blog/pt-br/say-it-first/).
 
+<figure class="shot"><img src="/assets/img/screens/start-pt-br.jpg" alt="Tela inicial do TalkSafe com botões para iniciar a detecção em tempo real e uma gravação manual." width="540" height="960" loading="lazy"><figcaption>Tela inicial do TalkSafe. Com a detecção em tempo real ligada, a gravação começa quando uma palavra escolhida é detectada; também dá para gravar na hora pelo botão.</figcaption></figure>
+
 ## Portugal
 
 - A forma é livre, salvo quando a lei a exige (**art. 219.º do Código Civil**). A compra e venda de imóveis precisa de **escritura pública ou documento particular autenticado** (**art. 875.º**).

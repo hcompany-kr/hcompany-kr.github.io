@@ -102,6 +102,8 @@ And if you are in one of the thirty-odd one-party states, the rule is simply whe
 
 [TalkSafe](/talksafe/en/) is built for conversations you are part of, which is the situation the federal baseline and the one-party states permit.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
+
 A notification stays visible for as long as a recording runs and **it cannot be turned off**. There is no hidden mode. In an all-party state that notification is not a substitute for consent — you still have to ask — but it does mean the app never puts you on the wrong side of the line between recording and intercepting, which is the line that carries prison time in every state on this page.
 
 How investigators, detectives and journalists can record an interview without breaking it, and where federal law draws the line, is in [Put a recorder on the table and the interview changes](/blog/en/interview-recording/).

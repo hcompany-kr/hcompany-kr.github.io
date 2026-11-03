@@ -85,6 +85,8 @@ faq:
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/)는 이 문제에 대해 한 가지를 정해두고 만들었습니다.
 
+<figure class="shot"><img src="/assets/img/screens/start-ko.jpg" alt="TalkSafe 시작 화면. ‘실시간 감지 시작’과 ‘수동 녹음 시작’ 버튼이 있습니다." width="540" height="960" loading="lazy"><figcaption>TalkSafe 시작 화면. 실시간 감지를 켜 두면 정해 둔 말이 감지될 때 녹음이 시작되고, 버튼으로 바로 녹음할 수도 있습니다.</figcaption></figure>
+
 녹음이 진행되는 동안 알림이 계속 표시되고, **이 알림은 끌 수 없습니다.** 숨기는 기능은 없고 앞으로도 넣지 않습니다. 위장 아이콘이나 몰래 실행 같은 기능도 없습니다.
 
 이건 기능을 덜 넣은 게 아니라 선을 그은 것입니다. 알리지 않을 수는 있지만 숨길 수는 없는 도구. 앞에서 나눈 두 가지 중 어느 쪽에 설지를 도구가 먼저 정해둔 셈입니다.

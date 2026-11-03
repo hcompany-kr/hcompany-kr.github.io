@@ -65,6 +65,8 @@ The cost is the trip — moving the file off the phone, editing, moving it back 
 
 [TalkSafe](/talksafe/) trims on the phone and **never offers to overwrite**. The section you select is saved as a new file and the original stays exactly where it was. There is no prompt to get wrong.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 Three things follow from that.
 
 - **The beginning is yours to choose.** TalkSafe starts on a word you set in advance and saves the **30 seconds before** that word was heard, so the file starts a little before the moment. Trimming lets you decide exactly where the excerpt begins, while the full lead-in stays in the original.

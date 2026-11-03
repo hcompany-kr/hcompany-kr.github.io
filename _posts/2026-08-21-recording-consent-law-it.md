@@ -90,6 +90,8 @@ La lettura è quella che vale un po' ovunque: documentare un problema specifico 
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) è costruita intorno alle conversazioni a cui si partecipa — esattamente il caso che l'ordinamento italiano distingue dalla captazione altrui.
 
+<figure class="shot"><img src="/assets/img/screens/settings-it.jpg" alt="Schermata delle impostazioni di TalkSafe: durata della registrazione automatica dopo il rilevamento (10 minuti, 30 minuti, 1 ora, arresto manuale), lingua di rilevamento e backup nel cloud." width="540" height="960" loading="lazy"><figcaption>Impostazioni. Scegli quanto registrare dopo un rilevamento e la lingua di rilevamento; ascolto e riconoscimento avvengono sul telefono, senza internet.</figcaption></figure>
+
 Per questo, mentre la registrazione è in corso resta visibile una notifica che **non può essere disattivata**. Non esiste una modalità nascosta né un'icona camuffata. La distinzione tra registrare e intercettare è quella che separa il lecito dal penalmente rilevante, e non c'era motivo di rendere facile attraversarla.
 
 ## Qualche nota finale

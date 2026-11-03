@@ -71,6 +71,8 @@ Es la categoría pensada para este problema. La aplicación escucha palabras ele
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) es una aplicación de Android que funciona así. El reconocimiento ocurre en el dispositivo, la grabación arranca **con la pantalla bloqueada y el móvil en el bolsillo**, y no hay sonido ni cambio visible en el momento en que empieza.
 
+<figure class="shot"><img src="/assets/img/screens/active-es.jpg" alt="Pantalla de TalkSafe con la detección de palabras clave activa y el botón Detener." width="540" height="960" loading="lazy"><figcaption>Detección de palabras clave activa. Sigue escuchando en segundo plano con la pantalla apagada o la aplicación cerrada.</figcaption></figure>
+
 Dos cosas la separan de las otras tres.
 
 **La palabra clave no está atada a tu voz.** Se detecta la palabra en sí, la diga quien la diga. Así que puedes fijar lo que dirá **la otra persona** — la *fianza* de un casero, la *garantía* de un vendedor, el *contrato* de un jefe. El momento en que sale el tema es el momento en que arranca la grabación, y tú no hiciste nada.

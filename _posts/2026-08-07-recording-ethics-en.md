@@ -86,6 +86,8 @@ Some rooms make that impossible. Saying it would change what the other person sa
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/en/) settles one part of this by design.
 
+<figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
+
 A notification stays visible for as long as recording runs, and **it cannot be switched off.** There is no hidden mode, no disguised icon, no stealth launch, and none is planned.
 
 That is a line rather than a missing feature. Not telling is possible; hiding is not. The tool has already picked a side of the distinction above.

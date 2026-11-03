@@ -79,6 +79,8 @@ Problemem jest moment. Rozmowa jest ustalana w ostatniej chwili, trwa dziesięć
 
 [TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić to, co zwykle mówi **druga strona** w takiej rozmowie: „porozumienie”, „dyscyplinarka”, „inną drogą”. Działa przy **zablokowanym ekranie**, a **30 sekund sprzed startu** zostaje w pliku – zdanie, po którym zorientowałeś się, o co chodzi, się nie gubi.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-pl.jpg" alt="Ekran słów kluczowych w TalkSafe. Słowa dodaje się przyciskiem mikrofonu, a poniżej widać ich listę." width="540" height="960" loading="lazy"><figcaption>Ustawienia słów kluczowych. Można zapisać kilka słów; wystarczy, że zostanie wykryte jedno z nich.</figcaption></figure>
+
 Nagrywanie rozmów, w których nie uczestniczysz – telefon zostawiony w pokoju, z którego wyszedłeś – to podsłuch i przestępstwo.
 
 ## Jeśli pracujesz w Niemczech, Holandii albo Wielkiej Brytanii

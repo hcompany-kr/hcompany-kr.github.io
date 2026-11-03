@@ -90,6 +90,8 @@ faq:
 
 말로 시작하면 손을 쓸 필요가 없고, 시작 이전 구간까지 저장되면 판단이 늦어도 대화가 남습니다. [TalkSafe](/talksafe/)는 이 둘을 함께 씁니다 — 정해둔 말이 들리면 녹음이 시작되고, 그 직전 30초까지 파일에 포함됩니다.
 
+<figure class="shot"><img src="/assets/img/screens/start-ko.jpg" alt="TalkSafe 시작 화면. ‘실시간 감지 시작’과 ‘수동 녹음 시작’ 버튼이 있습니다." width="540" height="960" loading="lazy"><figcaption>TalkSafe 시작 화면. 실시간 감지를 켜 두면 정해 둔 말이 감지될 때 녹음이 시작되고, 버튼으로 바로 녹음할 수도 있습니다.</figcaption></figure>
+
 ## 무엇을 쓰든 확인해볼 것
 
 방식과 별개로, 녹음 앱을 고를 때 실제로 문제가 되는 지점들이 있습니다.

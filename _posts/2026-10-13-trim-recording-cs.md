@@ -65,6 +65,8 @@ Cenou je cesta: dostat soubor z telefonu, upravit ho a případně vrátit zpět
 
 [TalkSafe](/talksafe/cs/) stříhá v telefonu a **nikdy nenabízí přepsání**. Vybraný úsek se uloží jako nový soubor a originál zůstane přesně tam, kde byl. Není tu žádná otázka, na kterou by šlo odpovědět špatně.
 
+<figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
+
 Z toho plynou tři věci.
 
 - **Začátek si určíte sami.** TalkSafe začne nahrávat na předem zvolené slovo a uloží i **30 sekund předtím**, než zaznělo, takže soubor začíná o kousek dřív než daný okamžik. Střihem přesně určíte, kde výřez začíná, a celý úvod zůstane v originálu.

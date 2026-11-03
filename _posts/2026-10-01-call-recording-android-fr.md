@@ -100,6 +100,8 @@ Les inconvénients sont réels. **La qualité baisse**, puisqu'on enregistre un 
 
 Des trois, le bruit ambiant est celui qu'on peut traiter après coup. La **suppression du bruit par IA** de TalkSafe retire le bruit de fond d'un enregistrement terminé et garde les voix. Le traitement se fait sur l'appareil, et la version nettoyée est enregistrée dans un nouveau fichier, l'original restant intact.
 
+<figure class="shot"><img src="/assets/img/screens/active-fr.jpg" alt="Écran de TalkSafe avec la détection des mots-clés active et le bouton Arrêter." width="540" height="960" loading="lazy"><figcaption>Détection des mots-clés active. L'application continue d'écouter en arrière-plan, écran éteint ou application fermée.</figcaption></figure>
+
 Pour un appel que vous pouvez prendre dans un endroit calme, cela marche.
 
 ## Où se situe cette application, et où elle ne se situe pas

@@ -65,6 +65,8 @@ Ceną jest droga: przenieść plik z telefonu, edytować, w razie potrzeby przen
 
 [TalkSafe](/talksafe/pl/) przycina na telefonie i **nigdy nie proponuje nadpisania**. Wybrany fragment zapisuje się jako nowy plik, a oryginał zostaje dokładnie tam, gdzie był. Nie ma pytania, na które można źle odpowiedzieć.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pl.jpg" alt="Historia nagrań w TalkSafe. Za każdym razem, gdy zostanie wykryte słowo kluczowe, nagranie zapisuje się z datą i godziną." width="540" height="960" loading="lazy"><figcaption>Historia nagrań. Każdy plik zawiera też 30 sekund sprzed wykrycia słowa kluczowego.</figcaption></figure>
+
 Wynikają z tego trzy rzeczy.
 
 - **Początek wybierasz ty.** TalkSafe zaczyna nagrywać po wybranym wcześniej słowie i zapisuje **30 sekund sprzed** jego usłyszenia, więc plik zaczyna się trochę przed tą chwilą. Wycinaniem ustalasz dokładnie, gdzie zaczyna się fragment, a cały wstęp zostaje w oryginale.

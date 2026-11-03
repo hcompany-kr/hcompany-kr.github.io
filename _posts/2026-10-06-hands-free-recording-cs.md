@@ -73,6 +73,8 @@ Tahle kategorie vznikla přesně pro tenhle problém. Aplikace naslouchá slovů
 
 [TalkSafe](/talksafe/cs/) je aplikace pro Android, která funguje takto. Rozpoznávání slov probíhá v zařízení, nahrávání začne **při zamčené obrazovce a s telefonem v kapse** a v okamžiku spuštění se neozve žádný zvuk ani se nic viditelně nezmění.
 
+<figure class="shot"><img src="/assets/img/screens/active-cs.jpg" alt="Obrazovka TalkSafe se zapnutým rozpoznáváním klíčových slov a tlačítkem Zastavit." width="540" height="960" loading="lazy"><figcaption>Rozpoznávání klíčových slov zapnuto. Aplikace poslouchá dál na pozadí i se zhasnutou obrazovkou nebo zavřenou aplikací.</figcaption></figure>
+
 Od ostatních tří způsobů ji odlišují dvě vlastnosti.
 
 **Klíčové slovo není vázané na váš hlas.** Rozpoznává se samotné slovo bez ohledu na to, kdo ho vysloví. Můžete tedy nastavit slova, která pravděpodobně řekne někdo jiný — třeba „zkouška“ na přednášce nebo „termín“ při rozhovoru s lékařem. Jakmile téma padne, nahrávání začne, aniž byste cokoli udělali. Stejně dobře si můžete zvolit vlastní slovo a bez rukou spustit hlasovou poznámku při řízení nebo vaření.

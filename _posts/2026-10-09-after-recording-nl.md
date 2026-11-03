@@ -63,6 +63,8 @@ Bestaat er alleen een bewerkt bestand, dan kan de andere partij beweren dat erme
 
 De **knipfunctie van TalkSafe laat het origineel ongemoeid.** Het gekozen stuk wordt als nieuw bestand bewaard, de volledige opname blijft waar ze was. Zo kun je een versie voorbereiden om in te dienen zonder te verliezen waar ze vandaan komt.
 
+<figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
+
 Hetzelfde geldt voor de **AI-ruisonderdrukking**. Is de opname op straat gemaakt en overstemt het lawaai delen van het gesprek, dan maakt de ruisonderdrukking een nieuw bestand zonder het achtergrondgeluid. Dat werkt ook op een geknipt fragment: eerst het nodige stuk knippen, dan dat bestand opschonen. De verwerking gebeurt op het toestel en het origineel blijft ongewijzigd. Dien de opgeschoonde versie in als die beter te volgen is, en bewaar het origineel: dat laat zien dat er verder niets is veranderd.
 
 De volgorde die werkt:

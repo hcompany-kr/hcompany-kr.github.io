@@ -84,6 +84,8 @@ Uma abordagem começa sem aviso. Quando mandam manter as mãos à vista, tirar o
 
 O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher palavras que um policial costuma dizer — **"documento"**, **"habilitação"**. Funciona com a **tela bloqueada** e, como salva os **30 segundos anteriores**, a conversa está lá desde a batida no vidro.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
+
 Em Portugal, use a palavra da sua própria pergunta: com **"gravar"** como palavra-chave, a gravação começa quando você pergunta "posso gravar?", e a resposta fica no arquivo.
 
 Como começar a gravar sem tocar no celular está em [Como começar a gravar sem tocar no celular](/blog/pt-br/hands-free-recording/). A lei geral sobre gravar conversas está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).

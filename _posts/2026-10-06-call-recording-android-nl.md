@@ -87,6 +87,8 @@ De nadelen zijn reëel. **De geluidskwaliteit gaat omlaag**, omdat je een klein 
 
 Van de drie is het achtergrondgeluid iets wat je achteraf kunt aanpakken. De **AI-ruisonderdrukking** van TalkSafe haalt achtergrondgeluid uit een voltooide opname en laat de stemmen over. Ze werkt op het toestel, en de opgeschoonde versie wordt als nieuw bestand bewaard; het origineel blijft ongewijzigd.
 
+<figure class="shot"><img src="/assets/img/screens/active-nl.jpg" alt="TalkSafe-scherm met actieve trefwoordherkenning en een Stop-knop." width="540" height="960" loading="lazy"><figcaption>Trefwoordherkenning actief. De app blijft op de achtergrond luisteren, ook met het scherm uit of de app gesloten.</figcaption></figure>
+
 Voor een gesprek dat je op een rustige plek kunt voeren, werkt het.
 
 ## Waar deze app staat, en waar niet

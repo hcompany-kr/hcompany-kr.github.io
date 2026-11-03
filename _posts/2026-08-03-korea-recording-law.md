@@ -76,6 +76,8 @@ faq:
 
 [TalkSafe](/talksafe/)가 상정하는 건 내가 참여한 대화입니다.
 
+<figure class="shot"><img src="/assets/img/screens/before30-ko.jpg" alt="TalkSafe 녹음 기록 화면. 키워드가 감지될 때마다 녹음 파일이 날짜와 시간과 함께 저장됩니다." width="540" height="960" loading="lazy"><figcaption>녹음 기록 화면. 각 파일에는 키워드가 감지되기 직전 30초가 함께 들어 있습니다.</figcaption></figure>
+
 그래서 녹음이 진행되는 동안 알림이 계속 표시되고, 이 알림은 끌 수 없습니다. 숨기는 기능도 넣지 않았습니다. 위에서 본 구분에서 넘어가면 안 되는 쪽이 명확한데, 그 선을 넘기 쉽게 만들 이유가 없었습니다.
 
 

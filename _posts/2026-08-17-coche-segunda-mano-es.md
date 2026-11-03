@@ -97,6 +97,8 @@ Lo difícil es hacerlo en el momento. Interrumpir para pedir que anoten algo res
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) cubre ese hueco. Fijas unas palabras de antemano y la grabación arranca al escuchar una de ellas. **Funciona con la pantalla bloqueada**, desde el bolsillo, sin abrir nada.
 
+<figure class="shot"><img src="/assets/img/screens/settings-es.jpg" alt="Pantalla de ajustes de TalkSafe: tiempo de grabación automática tras detectar una palabra clave (10 minutos, 30 minutos, 1 hora, parada manual), idioma de detección y copia en la nube." width="540" height="960" loading="lazy"><figcaption>Ajustes. Eliges cuánto grabar tras una detección y el idioma de detección; escuchar y reconocer ocurre en el teléfono, sin internet.</figcaption></figure>
+
 Y las palabras no tienen por qué decirlas tú. Puedes fijar lo que suele decir quien vende — *siniestro*, *garantía*, *motor*, *kilómetros*, *revisado*, *sin problema* — de modo que el momento en que salen las condiciones es el momento en que empieza la grabación.
 
 Como también se guardan los **30 segundos anteriores**, una afirmación que solo registraste un segundo después sigue en el archivo.

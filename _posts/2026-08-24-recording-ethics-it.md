@@ -98,6 +98,8 @@ In tutti e tre, quello che dà fastidio non è che l'altro non lo sappia. È cos
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) è stato fatto con una decisione già presa su questo.
 
+<figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
+
 Mentre la registrazione è in corso resta visibile una notifica, e **quella notifica non si può spegnere.** Non c'è una funzione per nasconderla e non ci sarà. Non ci sono icone camuffate né avvii occulti.
 
 Non è una funzione che manca: è una linea tracciata. Uno strumento con cui si può non avvisare, ma non si può nascondere. Delle due cose appena separate, lo strumento ha già scelto.

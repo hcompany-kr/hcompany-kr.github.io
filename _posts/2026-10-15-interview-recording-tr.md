@@ -67,6 +67,8 @@ Sormak görüşmeyi bölmek demek değildir. Yeter ki soru kaydı kendisi başla
 
 [TalkSafe](/talksafe/tr/), **önceden belirlenen bir kelimeyle** kayda başlayan ve **ekran kilitliyken** çalışan bir Android ses kayıt uygulamasıdır. Kendi sorunuzdaki bir kelimeyi belirleyin, örneğin **"kayıt"**. "Kayıt alabilir miyim?" diye sorarsınız ve kayıt tam o anda başlar. "Evet" dosyadadır — TCK 133/2'nin aradığı rıza tam olarak budur. Önceden göz önünde açılan bir cihaz yok, cebe giden bir el yok.
 
+<figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
+
 Görüşme yapan herkese yarayan iki nokta daha:
 
 **Önceki 30 saniye kalır.** Dosya anahtar kelimeden 30 saniye önce başlar, görüşmenin girişi de içindedir. Ayrıntı: [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/).

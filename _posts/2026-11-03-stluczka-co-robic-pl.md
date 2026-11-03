@@ -79,6 +79,8 @@ Problemem jest moment. Właśnie w ciebie uderzono, serce wali, trzeba zjechać 
 
 [TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo** – przy **zablokowanym ekranie**, bez odblokowywania telefonu i otwierania aplikacji. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić to, co zwykle mówi **drugi kierowca**: „ubezpieczenie”, „nie widziałem”. Zapisanie **dwóch słów, które zwykle padają w tym samym zdaniu**, sprawia, że wykrywanie jest dokładniejsze. **30 sekund sprzed startu** zostaje w pliku – zdanie, które padło, zanim się zorientowałeś, nie ginie.
 
+<figure class="shot"><img src="/assets/img/screens/active-pl.jpg" alt="Ekran TalkSafe z aktywnym wykrywaniem słów kluczowych i przyciskiem Zatrzymaj." width="540" height="960" loading="lazy"><figcaption>Wykrywanie słów kluczowych aktywne. Aplikacja słucha dalej w tle przy wyłączonym ekranie albo zamkniętej aplikacji.</figcaption></figure>
+
 Nagrywanie rozmów, w których nie uczestniczysz, to podsłuch i przestępstwo.
 
 ## Jeśli stłuczka zdarzyła się w Niemczech, Holandii albo Wielkiej Brytanii

@@ -84,6 +84,8 @@ La question revient souvent chez ceux qui voyagent au Maroc ou y ont de la famil
 
 En pratique, au Maroc, **sortir son téléphone face à un agent peut coûter le téléphone et une procédure**, même si la loi ne l'interdit pas expressément. Pour garder une trace, **demandez d'abord** : avec TalkSafe, le mot-clé peut être dans votre propre question — « enregistrer » —, et la demande comme la réponse sont dans le fichier. Et **ne publiez pas**.
 
+<figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
+
 ## La ligne à ne pas franchir
 
 - **Ne pas gêner.** Filmer est largement admis ; s'interposer physiquement ne l'est pas.

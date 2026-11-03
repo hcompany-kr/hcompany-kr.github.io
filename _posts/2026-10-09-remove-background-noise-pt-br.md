@@ -67,6 +67,8 @@ Vale saber duas coisas antes de usar uma para uma conversa de verdade. Primeiro,
 
 O [TalkSafe](/talksafe/pt-br/) tem **remoção de ruído com IA**, que você aplica a uma gravação já feita.
 
+<figure class="shot"><img src="/assets/img/screens/settings-pt-br.jpg" alt="Tela de configurações do TalkSafe: tempo de gravação automática após a detecção (10 minutos, 30 minutos, 1 hora, parada manual), idioma de detecção e backup na nuvem." width="540" height="960" loading="lazy"><figcaption>Configurações. Você escolhe quanto gravar depois de uma detecção e o idioma de detecção; ouvir e reconhecer acontece no celular, sem internet.</figcaption></figure>
+
 - **Roda no aparelho.** Nada é enviado para limpar o arquivo.
 - **O original fica.** A versão limpa é salva como arquivo novo ao lado.
 - **Funciona num trecho cortado.** Corte primeiro os dois minutos que importam e limpe só eles.

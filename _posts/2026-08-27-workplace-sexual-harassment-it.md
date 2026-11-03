@@ -92,6 +92,8 @@ Nulla di tutto questo lascia un documento. E anche con l'onere attenuato, servon
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) serve a quel vuoto. Fissi delle parole in anticipo e la registrazione parte quando ne sente una — **a schermo bloccato**, senza dover prendere il telefono davanti a chi hai di fronte. Le parole non devono essere tue: puoi impostare quelle che ricorrono nelle conversazioni che ti riguardano.
 
+<figure class="shot"><img src="/assets/img/screens/settings-it.jpg" alt="Schermata delle impostazioni di TalkSafe: durata della registrazione automatica dopo il rilevamento (10 minuti, 30 minuti, 1 ora, arresto manuale), lingua di rilevamento e backup nel cloud." width="540" height="960" loading="lazy"><figcaption>Impostazioni. Scegli quanto registrare dopo un rilevamento e la lingua di rilevamento; ascolto e riconoscimento avvengono sul telefono, senza internet.</figcaption></figure>
+
 Poiché vengono salvati anche i **30 secondi precedenti**, una frase riconosciuta con un attimo di ritardo resta comunque nel file.
 
 **Sul lavoro la registrazione ha regole proprie.** La Cassazione le ha precisate: è lecita quando serve a far valere o difendere un diritto, illecita quando ha finalità meramente esplorativa. Documentare molestie che stai subendo rientra chiaramente nel primo caso — ma vale la pena leggere [l'articolo dedicato](https://hcompany-kr.github.io/blog/it/registrare-sul-lavoro/) prima di iniziare, e ricordare che [una registrazione si deposita, non si diffonde](https://hcompany-kr.github.io/blog/it/after-recording/).

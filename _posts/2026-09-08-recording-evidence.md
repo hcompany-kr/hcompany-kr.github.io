@@ -104,6 +104,8 @@ faq:
 
 TalkSafe가 시작 직전 30초를 함께 저장하는 이유가 여기 있습니다. 상황을 인지하고 손이 움직이는 사이에 지나간 구간을 파일에 남기기 위한 것입니다.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-ko.jpg" alt="TalkSafe 키워드 설정 화면. 마이크 버튼을 눌러 키워드를 추가하고, 등록한 키워드가 목록으로 보입니다." width="540" height="960" loading="lazy"><figcaption>키워드 설정 화면. 여러 개를 등록할 수 있고, 어느 하나만 감지되어도 녹음이 시작됩니다.</figcaption></figure>
+
 ## 문턱이 특히 높은 두 나라
 
 **인도**는 전자기록을 증거로 내려면 법정 증명서를 함께 제출해야 합니다. 2024년 7월 1일 시행된 Bharatiya Sakshya Adhiniyam 제63조 제4항이 정하고 있고, 종전 인도증거법 제65B조를 이어받은 조항입니다. 증명서가 없으면 원본을 직접 내지 않는 한 원칙적으로 받아주지 않습니다. 자세한 내용은 [인도의 녹음 관련 법](https://hcompany-kr.github.io/blog/en/recording-law-india/)에 정리해 두었습니다.

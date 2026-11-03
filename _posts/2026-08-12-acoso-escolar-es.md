@@ -100,6 +100,8 @@ La dificultad con la que se topan las familias es siempre la misma. **El menor n
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) sirve para cubrir parte de ese hueco.
 
+<figure class="shot"><img src="/assets/img/screens/active-es.jpg" alt="Pantalla de TalkSafe con la detección de palabras clave activa y el botón Detener." width="540" height="960" loading="lazy"><figcaption>Detección de palabras clave activa. Sigue escuchando en segundo plano con la pantalla apagada o la aplicación cerrada.</figcaption></figure>
+
 Se fijan unas palabras de antemano y la grabación arranca al escuchar una de ellas. **Funciona con la pantalla bloqueada**, así que no hay nada que manejar: el móvil puede quedarse en la mochila.
 
 Y las palabras no tienen por qué decirlas el menor. Pueden ser las que probablemente le digan **a él**. Un niño que está siendo acosado no tiene la calma para dar una señal ni para sacar el teléfono, y por eso esa distinción es la que cuenta aquí.

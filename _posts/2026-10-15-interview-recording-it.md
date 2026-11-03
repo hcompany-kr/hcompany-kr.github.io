@@ -59,6 +59,8 @@ Mettere la mano in tasca a metà conversazione, sbloccare il telefono e cercare 
 
 [TalkSafe](/talksafe/it/) è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. Per chi intervista contano tre cose.
 
+<figure class="shot"><img src="/assets/img/screens/active-it.jpg" alt="Schermata di TalkSafe con il rilevamento delle parole chiave attivo e il pulsante Interrompi." width="540" height="960" loading="lazy"><figcaption>Rilevamento delle parole chiave attivo. Continua ad ascoltare in background con lo schermo spento o l'app chiusa.</figcaption></figure>
+
 **Le mani non toccano il telefono.** Funziona con lo schermo bloccato, in tasca o in borsa. Durante la conversazione non fai nulla, quindi la conversazione mantiene la sua forma.
 
 **La parola può essere la sua.** Il riconoscimento non è legato a una voce. Se sai di cosa parlerà l'intervista, scegli le parole che l'altra persona userà quando ci arriva: "quella sera", "i soldi", "il contratto", un nome. Appena l'argomento esce, la registrazione parte.

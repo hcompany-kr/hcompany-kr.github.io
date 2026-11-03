@@ -105,6 +105,8 @@ You have just been hit, your pulse is up, you need to move the car off the carri
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) was built for that gap. You set a word in advance and the recording starts when the word is spoken. **It works with the screen locked.** The **30 seconds before the start** are saved with the file, so what was said before you registered it is still there.
 
+<figure class="shot"><img src="/assets/img/screens/active-en.jpg" alt="TalkSafe screen showing keyword detection active, with a Stop button." width="540" height="960" loading="lazy"><figcaption>Keyword detection active. It keeps listening in the background with the screen off or the app closed.</figcaption></figure>
+
 Keywords are not tied to a speaker. You can set what **the other driver** is likely to say — at a roadside, *are you okay*, *didn't see*, and *insurance* are the phrases that actually get spoken.
 
 How to keep the file, trim it to the part that matters and submit it is in [What to do with a recording](/blog/en/after-recording/).

@@ -73,6 +73,8 @@ O assédio não avisa. Até você tirar o celular, desbloquear e apertar gravar,
 
 O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda no arquivo os **30 segundos anteriores**. As palavras são reconhecidas **seja quem for que as diga**.
 
+<figure class="shot"><img src="/assets/img/screens/settings-pt-br.jpg" alt="Tela de configurações do TalkSafe: tempo de gravação automática após a detecção (10 minutos, 30 minutos, 1 hora, parada manual), idioma de detecção e backup na nuvem." width="540" height="960" loading="lazy"><figcaption>Configurações. Você escolhe quanto gravar depois de uma detecção e o idioma de detecção; ouvir e reconhecer acontece no celular, sem internet.</figcaption></figure>
+
 Uma escolha natural é a palavra que você diria na hora: **"para"**. Quando você diz "Para com isso", a gravação começa — e os 30 segundos antes, com o que levou você a dizer isso, ficam no arquivo. A sua recusa também fica registrada, e ela mostra que a conduta era indesejada.
 
 Cortar um trecho salva um arquivo novo e deixa o **original intacto** — é o original que mostra que nada foi editado. Mais em [Como cortar uma gravação de voz no Android sem perder o original](/blog/pt-br/trim-recording/).

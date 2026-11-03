@@ -87,6 +87,8 @@ Wat nergens in dit taalgebied mag: het gesprek van anderen opnemen. Je telefoon 
 
 [TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met een **vergrendeld scherm** en de **30 seconden vóór de start** in het bestand bewaart. Hij neemt op wat de microfoon in de ruimte hoort — het gesprek waaraan je deelneemt. Een verborgen modus heeft hij niet.
 
+<figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
+
 Drie dingen sluiten hier direct op aan.
 
 **Het begin ontbreekt niet.** De zin waardoor je wilt opnemen, is meestal al gezegd. De 30 seconden ervoor dekken dat gat. Meer in [Waarom je altijd te laat op opnemen drukt](/blog/nl/recording-delay/).

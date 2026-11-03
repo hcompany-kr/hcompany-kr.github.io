@@ -159,6 +159,8 @@ faq:
 
 TalkSafe는 미리 정해둔 말이 들리면 녹음을 시작하는 안드로이드 녹음 앱입니다. 화면이 잠긴 상태에서도 동작하고, 녹음이 시작되기 전 30초까지 함께 저장합니다. 휴대폰을 꺼내 조작하느라 대화 흐름을 끊지 않아도 됩니다.
 
+<figure class="shot"><img src="/assets/img/screens/start-ko.jpg" alt="TalkSafe 시작 화면. ‘실시간 감지 시작’과 ‘수동 녹음 시작’ 버튼이 있습니다." width="540" height="960" loading="lazy"><figcaption>TalkSafe 시작 화면. 실시간 감지를 켜 두면 정해 둔 말이 감지될 때 녹음이 시작되고, 버튼으로 바로 녹음할 수도 있습니다.</figcaption></figure>
+
 녹음을 증거로 쓸 때 원본과 앞부분이 왜 중요한지는 [녹음은 했는데 증거로 못 쓰는 경우](https://hcompany-kr.github.io/blog/ko/recording-evidence/)에 있습니다.
 
 ## 정리

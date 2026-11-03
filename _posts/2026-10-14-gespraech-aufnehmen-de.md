@@ -104,6 +104,8 @@ Was in keinem dieser Länder erlaubt ist: das Gespräch anderer aufnehmen. Das H
 
 [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet, bei **gesperrtem Bildschirm** funktioniert und die **30 Sekunden vor dem Start** mit in der Datei speichert. Sie nimmt auf, was das Mikrofon im Raum hört – also das Gespräch, an dem Sie teilnehmen. Einen versteckten Modus gibt es nicht.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-de.jpg" alt="Schlüsselwort-Einstellungen in TalkSafe. Schlüsselwörter werden über die Mikrofon-Taste hinzugefügt und darunter aufgelistet." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Einstellungen. Sie können mehrere Wörter hinterlegen; es reicht, wenn eines davon erkannt wird.</figcaption></figure>
+
 Im deutschsprachigen Raum ist der wichtigste Anwendungsfall daher die **Einwilligung selbst**:
 
 **Die Einwilligung ist in der Datei.** Legen Sie ein Wort aus Ihrer eigenen Frage als Schlüsselwort fest, etwa **„aufnehmen“**. Fragen Sie „Darf ich das aufnehmen?“, beginnt die Aufnahme genau in diesem Moment, und das „Ja“ des Gegenübers ist aufgezeichnet. Nach der Entscheidung des Hessischen LAG ist genau dieser ausdrückliche Hinweis der Unterschied – nicht ein Handy, das irgendwo liegt.

@@ -79,6 +79,8 @@ Unproblematisch ist die **eigene Stimme**. Direkt nach einem Vorfall festzuhalte
 
 Das Problem: Direkt danach sitzen Sie oft noch am Arbeitsplatz, haben die Hände voll oder sind zu aufgewühlt, um mit dem Handy zu hantieren. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz. Beim Schneiden **bleibt das Original erhalten**.
 
+<figure class="shot"><img src="/assets/img/screens/start-de.jpg" alt="Startbildschirm von TalkSafe mit Tasten für die Echtzeit-Erkennung und für eine manuelle Aufnahme." width="540" height="960" loading="lazy"><figcaption>Startbildschirm von TalkSafe. Ist die Echtzeit-Erkennung an, beginnt die Aufnahme, wenn ein festgelegtes Wort erkannt wird; per Taste lässt sich auch sofort aufnehmen.</figcaption></figure>
+
 Wo alle zustimmen – etwa wenn ein Klärungsgespräch mit der Personalabteilung offen aufgezeichnet werden soll –, kann das Schlüsselwort auch in der Frage stecken: Mit „aufnehmen“ beginnt die Aufnahme bei „Darf ich das Gespräch aufnehmen?“, und das Ja ist in der Datei.
 
 ## Wohin Sie sich wenden

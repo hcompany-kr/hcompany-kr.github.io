@@ -73,6 +73,8 @@ Essa é a categoria feita para esse problema. O app escuta palavras que você es
 
 O [TalkSafe](/talksafe/pt-br/) é um app para Android que funciona assim. O reconhecimento da palavra acontece no aparelho, a gravação começa **com a tela bloqueada e o celular no bolso**, e não há som nem mudança visível no momento em que começa.
 
+<figure class="shot"><img src="/assets/img/screens/active-pt-br.jpg" alt="Tela do TalkSafe com a detecção de palavras-chave ativa e o botão Parar." width="540" height="960" loading="lazy"><figcaption>Detecção de palavras-chave ativa. Continua ouvindo em segundo plano com a tela apagada ou o app fechado.</figcaption></figure>
+
 Duas características o diferenciam das outras três.
 
 **A palavra-chave não está ligada à sua voz.** O que é detectado é a própria palavra, não importa quem a diga. Então você pode escolher o que outra pessoa provavelmente vai dizer: "prova" numa aula, "consulta" com o médico. Quando o assunto aparece, a gravação começa sem você fazer nada. Você também pode escolher uma palavra sua para começar uma nota de voz sem as mãos enquanto dirige ou cozinha.

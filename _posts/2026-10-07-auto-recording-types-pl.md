@@ -90,6 +90,8 @@ Czwórka i piątka nawzajem zakrywają swoje luki.
 
 Wypowiedziany wyzwalacz uwalnia ręce, a bufor sprawia, że nawet spóźniona decyzja wciąż obejmie całą wymianę zdań. [TalkSafe](/talksafe/pl/) łączy jedno z drugim: nagrywanie zaczyna się po wybranym słowie, a 30 sekund sprzed startu jest w pliku.
 
+<figure class="shot"><img src="/assets/img/screens/start-pl.jpg" alt="Ekran startowy TalkSafe z przyciskami do uruchomienia wykrywania na żywo i ręcznego nagrywania." width="540" height="960" loading="lazy"><figcaption>Ekran startowy TalkSafe. Przy włączonym wykrywaniu na żywo nagrywanie zaczyna się, gdy zostanie wykryte ustawione słowo; przyciskiem można też nagrać od razu.</figcaption></figure>
+
 Kiedy chcesz zapytać o zgodę, możesz użyć tego w samym pytaniu: z „nagrać” jako słowem kluczowym nagrywanie zaczyna się przy „Mogę to nagrać?”, a odpowiedź jest w pliku.
 
 ## Warto sprawdzić przy każdym rodzaju

@@ -99,6 +99,8 @@ Y quien lo está sufriendo no puede hacer nada en ese momento. Sacar el móvil y
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) elimina ese paso. Fijas unas palabras de antemano y la grabación arranca al escuchar una de ellas. **Empieza con la pantalla bloqueada**, desde el bolsillo, sin abrir nada.
 
+<figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
+
 Y las palabras no tienen por qué decirlas tú. Puedes fijar lo que **esa persona** suele decir. Puedes estar ahí sin poder responder, y la grabación arranca igualmente.
 
 Como también se guardan los **30 segundos anteriores**, una frase que solo registraste un segundo después queda dentro del archivo.

@@ -72,6 +72,8 @@ Na vistoria você está com as mãos ocupadas — celular para fotos, laudo, cha
 
 O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda os **30 segundos anteriores** no arquivo. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que o proprietário ou o vistoriador provavelmente vai dizer: **"caução"**, **"pintura"**, **"tudo certo"**. Quando ele disser "Tá tudo certo, a caução eu devolvo", a gravação começa — e o que veio antes também está no arquivo.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
+
 Cortar um trecho salva um arquivo novo e deixa o **original intacto**. Mais em [Como cortar uma gravação de voz no Android sem perder o original](/blog/pt-br/trim-recording/).
 
 Depois, **confirme por mensagem**: "Conforme a vistoria de hoje, ficou tudo certo e a caução será devolvida." Se ele responder, você tem as duas coisas.

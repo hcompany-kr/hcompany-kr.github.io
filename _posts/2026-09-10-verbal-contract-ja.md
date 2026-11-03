@@ -155,6 +155,8 @@ faq:
 
 TalkSafeは、あらかじめ決めた言葉が聞こえると録音を始めるAndroidの録音アプリです。画面がロックされた状態でも動作し、録音が始まる前の30秒もあわせて保存します。端末を取り出して操作し、打ち合わせの流れを止める必要がありません。
 
+<figure class="shot"><img src="/assets/img/screens/start-ja.jpg" alt="TalkSafeの開始画面。リアルタイム検知の開始ボタンと手動録音の開始ボタンがあります。" width="540" height="960" loading="lazy"><figcaption>TalkSafeの開始画面。リアルタイム検知をオンにしておくと、決めた言葉が検知されたときに録音が始まり、ボタンですぐに録音することもできます。</figcaption></figure>
+
 録音を証拠として使うとき、原本と冒頭がなぜ大事かは[録音はあるのに、証拠として使えないとき](https://hcompany-kr.github.io/blog/ja/recording-evidence/)にあります。
 
 ## まとめ
