@@ -98,4 +98,6 @@ Como começar a gravar sem tocar no celular está em [Como começar a gravar sem
 
 Do outro lado da mesa — como detetives e jornalistas gravam uma entrevista sem quebrar a conversa — veja [Coloque um gravador na mesa e a entrevista muda](/blog/pt-br/interview-recording/).
 
+O que fazer depois de um acidente de trânsito e o que acontece com o que foi dito: [Acidente de trânsito: o que fazer, o que não dizer e por que a frase dita no local não entra no boletim](/blog/pt-br/acidente-de-transito-o-que-fazer/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

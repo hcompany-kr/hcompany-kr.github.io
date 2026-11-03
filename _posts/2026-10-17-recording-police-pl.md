@@ -87,4 +87,6 @@ Jak zacząć nagrywać bez dotykania telefonu, opisuje [Jak zacząć nagrywać, 
 
 Z drugiej strony stołu — jak detektywi i dziennikarze nagrywają rozmowy, nie przerywając ich — zobacz [Połóż dyktafon na stole, a rozmowa się zmienia](/blog/pl/interview-recording/).
 
+Co robić po stłuczce i dlaczego oświadczenie sprawcy nie zamyka sprawy: [Stłuczka – co robić? Oświadczenie sprawcy, policja i zdanie, które padło na miejscu](/blog/pl/stluczka-co-robic/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

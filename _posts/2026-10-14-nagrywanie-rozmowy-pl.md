@@ -117,4 +117,6 @@ Czy umowa ustna jest ważna i jak udowodnić ustalenia, gdy kosztorys mówi co i
 
 Porozumienie stron podpisane pod presją, zasiłek i jak udowodnić groźbę: [Porozumienie stron pod presją: kiedy można się od niego uchylić, co traci się przy zasiłku i jak udowodnić groźbę](/blog/pl/porozumienie-stron-pod-presja/).
 
+Co robić po stłuczce i dlaczego oświadczenie sprawcy nie zamyka sprawy: [Stłuczka – co robić? Oświadczenie sprawcy, policja i zdanie, które padło na miejscu](/blog/pl/stluczka-co-robic/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

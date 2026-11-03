@@ -86,4 +86,6 @@ Bir kontrol uyarı vermeden başlar. Ellerinizi görünür tutmanız istendiğin
 
 Masanın öbür tarafından — dedektif ve gazetecilerin görüşmeyi bozmadan nasıl kayıt alabileceği — [Masaya ses kayıt cihazı koyduğunuzda görüşme değişir](/blog/tr/interview-recording/).
 
+Trafik kazasından sonra tutanak, kusur ve olay yerinde söylenenler: [Trafik kazası yaptım, ne yapmalıyım? Kaza tespit tutanağı, kusur ve olay yerinde söylenenler](/blog/tr/trafik-kazasi-ne-yapmali/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Somut bir durum için bir avukata danışın.</p>

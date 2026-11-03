@@ -142,4 +142,6 @@ Si un contrat verbal est valable et comment le prouver face à un devis écrit: 
 
 Démission forcée ou rupture conventionnelle sous pression : [Démission forcée ou rupture conventionnelle sous pression : ce qui la rend contestable, et ce qui compte vraiment](/blog/fr/demission-forcee/).
 
+Après un accident de voiture, ce qu'il faut faire et dire : [Accident de voiture : que faire, que dire, et ce que le constat amiable ne garde pas](/blog/fr/accident-voiture-que-faire/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Les décisions citées ont été vérifiées à la date de publication ; la jurisprudence évolue. Pour un cas précis, consultez un avocat.</p>

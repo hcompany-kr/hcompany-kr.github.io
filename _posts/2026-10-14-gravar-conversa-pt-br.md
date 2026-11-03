@@ -136,4 +136,6 @@ Se contrato verbal vale e o que acontece quando o orçamento diz outra coisa: [C
 
 Se forçarem você a pedir demissão, o que muda e como provar: [Forçado a pedir demissão: quando o pedido é nulo, o que o acordo do art. 484-A tira de você e como provar a pressão](/blog/pt-br/forcado-a-pedir-demissao/).
 
+O que fazer depois de um acidente de trânsito e o que acontece com o que foi dito: [Acidente de trânsito: o que fazer, o que não dizer e por que a frase dita no local não entra no boletim](/blog/pt-br/acidente-de-transito-o-que-fazer/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. As decisões citadas foram verificadas na data de publicação; a jurisprudência muda. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

@@ -109,4 +109,6 @@ Comme les **30 secondes précédentes** sont conservées, le début du contrôle
 
 De l'autre côté de la table — comment détectives et journalistes gardent une trace d'un entretien sans le casser — voir [Posez un enregistreur sur la table, et l'entretien change](/blog/fr/interview-recording/).
 
+Après un accident de voiture, ce qu'il faut faire et dire : [Accident de voiture : que faire, que dire, et ce que le constat amiable ne garde pas](/blog/fr/accident-voiture-que-faire/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Pour un cas précis, consultez un avocat.</p>

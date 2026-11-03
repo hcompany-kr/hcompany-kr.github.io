@@ -101,4 +101,6 @@ Weil die **30 Sekunden davor** mitgespeichert werden, ist auch der Beginn der Ko
 
 Von der anderen Seite des Tisches – wie Detektive und Journalisten Gespräche festhalten, ohne sie zu brechen – siehe [Liegt das Aufnahmegerät auf dem Tisch, ändert sich das Gespräch](/blog/de/interview-recording/).
 
+Was nach einem Verkehrsunfall zu tun ist und was mit dem gesprochenen Wort passiert: [Unfall – was tun? Pflichten an der Unfallstelle, das „Meine Schuld“ und was der Unfallbericht nicht festhält](/blog/de/unfall-was-tun/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Die Rechtsprechung zu § 201 StGB bei Polizeieinsätzen ist uneinheitlich; im Einzelfall eine Anwältin oder einen Anwalt fragen.</p>

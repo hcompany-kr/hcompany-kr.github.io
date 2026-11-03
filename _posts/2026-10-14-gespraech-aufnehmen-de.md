@@ -139,6 +139,8 @@ Ob ein mündlicher Vertrag gilt und was zählt, wenn er vom schriftlichen Angebo
 
 Was ein Aufhebungsvertrag unter Druck bedeutet und wann er unwirksam ist: [Aufhebungsvertrag unter Druck: Widerrufen geht nicht – angreifen schon, wenn unfair verhandelt wurde](/blog/de/aufhebungsvertrag/).
 
+Was nach einem Verkehrsunfall zu tun ist und was mit dem gesprochenen Wort passiert: [Unfall – was tun? Pflichten an der Unfallstelle, das „Meine Schuld“ und was der Unfallbericht nicht festhält](/blog/de/unfall-was-tun/).
+
 ## Quellen
 
 - [§ 201 StGB – Verletzung der Vertraulichkeit des Wortes (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/stgb/__201.html)

@@ -479,6 +479,49 @@ CARDS = {
        ('इस्तीफ़ा वापस लेना', 'प्रभावी होने से पहले — श्रीकांत 2005', True),
        ('ख़राब रेटिंग अकेले', 'ज़बरदस्ती नहीं — 2024', False),
        ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
+ ('unfall-was-tun', 'de'): (dict(eyebrow='UNFALL · AN DER UNFALLSTELLE', title='Unfall – was tun?', sub='§ 34 StVO, das „meine Schuld“ und der Unfallbericht.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'AT', 'CH'], rows=[
+       ('Halten und Angaben machen', 'Pflicht am Unfallort', (True, True, True)),
+       ('„Meine Schuld“ bindend', 'als Schuldanerkenntnis', (False, None, None)),
+       ('Eigenes Gespräch heimlich aufnehmen', 'ohne Einwilligung', (False, True, False))]), '.title{font-size:60px}.cmp td.m{width:62px}'),
+ ('accident-voiture-que-faire', 'fr'): (dict(eyebrow='ACCIDENT · SUR PLACE', title='Accident de voiture : que faire, que dire', sub='Constat amiable, 5 jours ouvrés, art. L124-2.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH', 'QC'], rows=[
+       ('Le constat avoue une faute', 'reconnaissance de responsabilité', (False, False, None, False)),
+       ('Partir sans s’arrêter', 'est puni', (True, True, True, None)),
+       ('Enregistrer sa conversation', 'sans consentement', (False, True, False, True))]), '.title{font-size:52px}.cmp td.m{width:54px}'),
+ ('trafik-kazasi-ne-yapmali', 'tr'): (dict(eyebrow='KAZA · OLAY YERİ', title='Trafik kazası: ne yapmalı?', sub='Kaza tespit tutanağı, kusur ve söylenenler.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('Yalnız maddi hasar', 'anlaşmalı tutanak', True),
+       ('Tutanak kusuru belirler', 'hayır — sigorta değerlendirir', False),
+       ('İzinsiz olay yerini terk', 'cezalı — KTK 81', False),
+       ('Konuşmayı rızasız kaydetmek', 'suç — TCK 133/2', False)]), '.title{font-size:60px}'),
+ ('acidente-de-transito-o-que-fazer', 'pt-br'): (dict(eyebrow='ACIDENTE · NO LOCAL', title='Acidente de trânsito: o que fazer?', sub='Art. 176 e 305 do CTB, Tema 907 e a declaração amigável.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Sair do local para fugir', 'é crime no Brasil — art. 305', (False, None)),
+       ('Documento comum dos condutores', 'declaração amigável', (None, True)),
+       ('Gravar a própria conversa', 'sem avisar', (True, False))]), ''),
+ ('stluczka-co-robic', 'pl'): (dict(eyebrow='KOLIZJA · NA MIEJSCU', title='Stłuczka – co robić?', sub='Art. 44 PoRD, oświadczenie sprawcy i policja.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Bez rannych, zgoda co do winy', 'oświadczenie sprawcy', True),
+       ('Brak zgody albo ranni', 'policja', True),
+       ('Oświadczenie zamyka sprawę', 'nie zawsze — bywa kwestionowane', False),
+       ('Nagranie własnej rozmowy', 'co do zasady dozwolone', True)]), '.title{font-size:60px}'),
+ ('aanrijding-wat-te-doen', 'nl'): (dict(eyebrow='ONGEVAL · TER PLAATSE', title='Aanrijding – wat te doen?', sub='Art. 7 WVW en het Europees schadeformulier.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Stoppen en gegevens geven', 'verplicht', (True, True)),
+       ('Schadeformulier is schuldbekentenis', 'nee — feiten', (False, None)),
+       ('Eigen gesprek opnemen', 'als deelnemer', (True, True))]), '.title{font-size:58px}'),
+ ('dopravni-nehoda-co-delat', 'cs'): (dict(eyebrow='NEHODA · NA MÍSTĚ', title='Dopravní nehoda – co dělat?', sub='200 000 Kč, společný záznam a Slovensko.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Hranice škody pro policii', 'CZ 200 000 Kč od 7/2025', (True, False)),
+       ('Policie při neshodě o vině', 'SK od 7/2022', (None, True)),
+       ('Vlastní rozhovor nahrát', 'bez svolení', (True, False))]), '.title{font-size:58px}'),
+ ('accident-hone-par-kya-kare', 'hi'): (dict(eyebrow='दुर्घटना · मौके पर', title='एक्सीडेंट होने पर क्या करें', sub='मोटर वाहन अधिनियम धारा 132, 134 और BNS 106।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('रुकना और घायल की मदद', 'धारा 132, 134(a)', True),
+       ('पुलिस को सूचना', '24 घंटे के भीतर — धारा 134(b)', True),
+       ('BNS 106(2) हिट-एंड-रन', 'अभी लागू नहीं', False),
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
 }
 
 if __name__ == '__main__':

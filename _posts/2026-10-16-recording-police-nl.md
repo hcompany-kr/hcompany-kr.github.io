@@ -91,4 +91,6 @@ Opnemen zonder je telefoon aan te raken: [Een opname starten zonder je telefoon 
 
 Van de andere kant van de tafel — hoe rechercheurs en journalisten een gesprek vastleggen zonder het te breken — zie [Leg een recorder op tafel en het gesprek verandert](/blog/nl/interview-recording/).
 
+Wat je doet na een aanrijding en wat er met het gesprokene gebeurt: [Aanrijding – wat te doen? Stoppen, het schadeformulier en de zin die nergens op papier komt](/blog/nl/aanrijding-wat-te-doen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. Raadpleeg voor een concreet geval een advocaat.</p>

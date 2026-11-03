@@ -115,6 +115,8 @@ This covers **the United States and the United Kingdom**. We have not verified t
 
 Within the US, negligence rules and recording-consent rules both vary state by state, and the states named above are examples rather than a complete list.
 
+For Germany, Austria and Switzerland, France, Belgium, Switzerland and Quebec, and Brazil and Portugal, see the [German](/blog/de/unfall-was-tun/), [French](/blog/fr/accident-voiture-que-faire/) and [Portuguese](/blog/pt-br/acidente-de-transito-o-que-fazer/) editions. India is covered in [Hindi](/blog/hi/accident-hone-par-kya-kare/).
+
 ## In short
 
 Three things are worth doing at the roadside.

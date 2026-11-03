@@ -126,4 +126,6 @@ Sözlü sözleşmenin geçerliliği ve yazılı teklifle çeliştiğinde ne oldu
 
 İstifaya zorlandığınızda ikale, kıdem tazminatı ve işsizlik maaşı: [İstifaya zorlama: Baskıyla imzalatılan istifa ve ikale sözleşmesi, kıdem tazminatı ve işsizlik maaşı](/blog/tr/istifaya-zorlama/).
 
+Trafik kazasından sonra tutanak, kusur ve olay yerinde söylenenler: [Trafik kazası yaptım, ne yapmalıyım? Kaza tespit tutanağı, kusur ve olay yerinde söylenenler](/blog/tr/trafik-kazasi-ne-yapmali/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Yargıtay'ın istisnası somut olaya göre değerlendirilir; somut bir durum için bir avukata danışın.</p>

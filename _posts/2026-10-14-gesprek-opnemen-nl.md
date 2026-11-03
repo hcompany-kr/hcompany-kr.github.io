@@ -122,4 +122,6 @@ Of een mondelinge afspraak geldig is en wat telt als de offerte iets anders zegt
 
 Een vaststellingsovereenkomst onder druk, de bedenktermijn en je WW: [Vaststellingsovereenkomst onder druk: 14 dagen bedenktijd, je WW, en waarom ontslag nemen in een opwelling niet altijd telt](/blog/nl/vaststellingsovereenkomst/).
 
+Wat je doet na een aanrijding en wat er met het gesprokene gebeurt: [Aanrijding – wat te doen? Stoppen, het schadeformulier en de zin die nergens op papier komt](/blog/nl/aanrijding-wat-te-doen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

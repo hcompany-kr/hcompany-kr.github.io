@@ -82,4 +82,6 @@ Jak začít nahrávat bez dotyku telefonu: [Jak začít nahrávat, aniž byste s
 
 Z druhé strany stolu — jak detektivové a novináři zaznamenají rozhovor, aniž by ho narušili — viz [Položte diktafon na stůl a rozhovor se změní](/blog/cs/interview-recording/).
 
+Co dělat po dopravní nehodě a kdy volat policii: [Dopravní nehoda – co dělat? Hranice 200 000 Kč, společný záznam a věta, která se nikam nezapíše](/blog/cs/dopravni-nehoda-co-delat/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. V konkrétní věci se obraťte na advokáta.</p>
