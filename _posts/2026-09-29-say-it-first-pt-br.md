@@ -22,6 +22,8 @@ faq:
     a: "O reconhecimento da palavra acontece no aparelho. Fazer ou não backup de uma gravação na nuvem é escolha sua."
   - q: "Como isso ajuda quando é preciso o consentimento de todos?"
     a: "No TalkSafe, defina como palavra-chave uma palavra da sua pergunta, como gravar. Quando você pergunta se pode gravar, a gravação começa naquele momento e a concordância fica no arquivo. Em Portugal, o artigo 199.º do Código Penal pune quem grava sem consentimento palavras não destinadas ao público, mesmo que lhe sejam dirigidas; no Brasil, o STF considera lícita a gravação feita por um dos interlocutores."
+  - q: "Como escolher as palavras-chave para que sejam detectadas com mais precisão?"
+    a: "Cadastre duas palavras-chave que costumam aparecer na mesma frase: assim o TalkSafe as detecta com muito mais precisão. Por exemplo, pense na frase ‘Isso é importante, preciso gravar’ e cadastre ‘importante’ e ‘gravar’. Basta que uma das duas seja detectada para a gravação começar. Funciona sem desbloquear o celular nem abrir o app."
 ---
 
 Lembre de um momento em que você queria ter gravado. A maioria das pessoas não fica calada nessas horas.
@@ -95,6 +97,8 @@ A primeira palavra escolhida pode não servir. Troque.
 Depois de alguns dias você percebe o que realmente diz nesses momentos. Isso não dá para descobrir antes; é preciso esbarrar nisso.
 
 No [TalkSafe](/talksafe/pt-br/) você também pode cadastrar várias palavras. Qualquer uma começa uma gravação, então costuma ser mais fácil começar amplo e ir afunilando do que tentar acertar de primeira.
+
+Uma dica: cadastre **duas palavras que costumam aparecer na mesma frase**, e a detecção fica bem mais precisa. Para a frase ‘Isso é importante, preciso gravar’, seriam `importante` e `gravar`. Basta que uma delas seja detectada para começar, sem desbloquear o celular nem abrir o app.
 
 ## Quando você quer pedir consentimento
 

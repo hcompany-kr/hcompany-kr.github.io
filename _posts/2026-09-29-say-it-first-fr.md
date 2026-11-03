@@ -22,6 +22,8 @@ faq:
     a: "La reconnaissance du mot se fait sur l'appareil. La sauvegarde d'un enregistrement dans le cloud relève de votre choix."
   - q: "En quoi cela aide-t-il quand l'accord de tous est nécessaire ?"
     a: "Dans TalkSafe, choisissez comme mot-clé un mot de votre question, par exemple « enregistrer ». En demandant « Je peux enregistrer ? », l'enregistrement démarre à ce moment-là et l'accord est dans le fichier. En France, l'article 226-1 du Code pénal punit l'enregistrement sans consentement de paroles prononcées à titre privé, même par un participant."
+  - q: "Comment choisir les mots-clés pour qu'ils soient mieux détectés ?"
+    a: "Enregistrez deux mots-clés susceptibles d'apparaître dans la même phrase : TalkSafe les détecte alors bien plus fiablement. Par exemple, pensez à la phrase « C'est important, il faut enregistrer » et enregistrez « important » et « enregistrer ». Il suffit que l'un des deux soit détecté pour que l'enregistrement démarre. Cela fonctionne sans déverrouiller le téléphone ni ouvrir l'application."
 ---
 
 Repensez à un moment où vous auriez voulu enregistrer. La plupart des gens ne restent pas silencieux dans ces moments-là.
@@ -95,6 +97,8 @@ Le premier mot choisi ne conviendra peut-être pas. Changez-le.
 Au bout de quelques jours, vous remarquez ce que vous dites vraiment dans ces moments-là. Cela ne se devine pas à l'avance : il faut tomber dessus.
 
 Dans [TalkSafe](/talksafe/fr/), vous pouvez aussi enregistrer plusieurs mots. N'importe lequel lance un enregistrement, si bien qu'il est souvent plus simple de ratisser large puis de resserrer que de deviner juste du premier coup.
+
+Une astuce : enregistrez **deux mots susceptibles d'apparaître dans la même phrase**, et la détection devient nettement plus fiable. Pour « C'est important, il faut enregistrer », ce serait `important` et `enregistrer`. Il suffit que l'un des deux soit détecté pour que cela démarre, sans déverrouiller le téléphone ni ouvrir l'application.
 
 ## Quand l'accord de tous est nécessaire
 

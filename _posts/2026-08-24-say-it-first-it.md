@@ -20,6 +20,8 @@ faq:
     a: "No, e diffidare di chi la propone. Le parole che contano dipendono da cosa stai documentando: chi si prepara a una riunione di lavoro e chi va a vedere un appartamento non hanno niente in comune."
   - q: "E se la parola arriva un attimo dopo?"
     a: "All'avvio della registrazione vengono salvati anche i 30 secondi precedenti. La frase che ti ha fatto capire che valeva la pena registrare resta nel file anche se la parola chiave è arrivata dopo."
+  - q: "Come scegliere le parole chiave perché vengano rilevate meglio?"
+    a: "Registra due parole chiave che tendono a comparire nella stessa frase: così TalkSafe le rileva con molta più precisione. Per esempio, pensa alla frase «Questo è importante, devo registrare» e registra «importante» e «registrare». Basta che venga rilevata una delle due perché la registrazione parta. Funziona senza sbloccare il telefono né aprire l'app."
 ---
 
 Pensa all'ultima volta che una conversazione è girata male all'improvviso.
@@ -61,6 +63,8 @@ Due criteri però reggono ovunque.
 **Poche, non tante.** Venti parole generiche fanno partire la registrazione a pranzo con gli amici. Due o tre parole che appartengono a una situazione precisa no.
 
 **Specifiche, non comuni.** *Problema* compare in qualsiasi conversazione. *Caparra* no.
+
+Un accorgimento in più: registra **due parole che tendono a comparire nella stessa frase** e il rilevamento migliora molto. Per «Questo è importante, devo registrare», sarebbero `importante` e `registrare`. Basta che ne venga rilevata una perché la registrazione parta, senza sbloccare il telefono né aprire l'app.
 
 ## I 30 secondi prima
 

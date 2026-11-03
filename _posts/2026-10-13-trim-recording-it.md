@@ -97,4 +97,6 @@ Il tasto di condivisione fa due lavori diversi. Inviare un file alla tua email o
 
 Per i tratti rumorosi, [Come togliere il rumore di fondo da una registrazione vocale su Android](/blog/it/remove-background-noise/) confronta gli strumenti che reggono il rumore della strada e quelli che no.
 
+Se hai appena iniziato con TalkSafe, come scegliere le parole chiave perché vengano rilevate meglio è in [Prima della mano si muove la voce](/blog/it/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le funzioni delle altre app sono descritte in base alle loro guide ufficiali al momento della scrittura e possono cambiare. Realizziamo un'app di registrazione, come indicato sopra. Informazione generale, non consulenza legale.</p>

@@ -100,4 +100,6 @@ Come si confrontano i registratori dedicati con il telefono per qualità audio �
 
 Come ridurre una registrazione alla parte che conta senza perdere l'originale, e come cambiano le app, è in [Come tagliare una registrazione vocale su Android senza perdere l'originale](/blog/it/trim-recording/).
 
+Se hai appena iniziato con TalkSafe, come scegliere le parole chiave perché vengano rilevate meglio è in [Prima della mano si muove la voce](/blog/it/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le funzioni degli strumenti di terzi riflettono la loro documentazione e quanto riportato al momento della scrittura, e possono cambiare. Realizziamo un'app di registrazione, come indicato sopra.</p>

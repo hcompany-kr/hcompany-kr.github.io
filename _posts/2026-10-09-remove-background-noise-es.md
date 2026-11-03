@@ -100,4 +100,6 @@ Cómo se comparan las grabadoras dedicadas con el móvil en calidad de sonido es
 
 Cómo recortar una grabación hasta lo que importa sin perder el original, y en qué se diferencian las apps, está en [Cómo recortar una grabación de voz en Android sin perder el original](/blog/es/trim-recording/).
 
+Si acabas de empezar con TalkSafe, cómo elegir las palabras clave para que se detecten mejor está en [Lo primero que se mueve no es la mano](/blog/es/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las funciones de herramientas de terceros reflejan su documentación y lo publicado al momento de escribir, y pueden cambiar. Hacemos una app de grabación, como se indica arriba.</p>

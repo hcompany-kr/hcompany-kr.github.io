@@ -22,6 +22,8 @@ faq:
     a: "Kelimenin tanınması cihazda yapılır. Kaydedilen bir dosyanın buluta yedeklenip yedeklenmeyeceğine siz karar verirsiniz."
   - q: "Herkesin rızasının gerektiği durumlarda bu nasıl yardımcı olur?"
     a: "TalkSafe'te sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini, anahtar kelime olarak belirleyin. Kayıt alabilir miyim diye sorduğunuzda kayıt tam o anda başlar ve onay dosyada olur. Türkiye'de katıldığınız aleni olmayan bir söyleşiyi diğerlerinin rızası olmadan kaydetmek Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre suçtur."
+  - q: "Anahtar kelimeleri nasıl seçersem daha iyi algılanır?"
+    a: "Aynı cümlede birlikte geçmesi muhtemel iki anahtar kelime kaydedin; TalkSafe onları bu şekilde çok daha güvenilir algılar. Örneğin 'Bu önemli, kayıt almalıyım' cümlesini düşünüp 'önemli' ve 'kayıt' kelimelerini birlikte kaydederseniz, ikisinden birinin algılanması kaydın başlaması için yeterlidir. Telefonun kilidini açmanıza veya uygulamayı açmanıza gerek yoktur."
 ---
 
 Keşke kayıt alsaydım dediğiniz bir anı düşünün. Çoğu insan o anlarda sessiz oturmaz.
@@ -95,6 +97,8 @@ Bu yüzden bu uygulama **azından çok fazlasını yakalamaktan** yanadır.
 Birkaç gün sonra o anlarda gerçekte ne söylediğinizi fark edersiniz. Bu önceden hesaplanabilecek bir şey değildir; karşınıza çıkması gerekir.
 
 [TalkSafe](/talksafe/tr/) içinde birden fazla kelime de kaydedebilirsiniz. Herhangi biri kaydı başlatır; bu yüzden ilk seferde doğru tahmin etmeye çalışmaktansa geniş başlayıp sonra daraltmak genellikle daha kolaydır.
+
+Bir ipucu: **aynı cümlede birlikte geçmesi muhtemel iki kelime** kaydederseniz algılama belirgin şekilde iyileşir. 'Bu önemli, kayıt almalıyım' cümlesi için bu, `önemli` ve `kayıt` demektir. İkisinden birinin algılanması yeterlidir; telefonun kilidini açmanıza veya uygulamayı açmanıza gerek yoktur.
 
 ## Herkesin rızasının gerektiği yerde
 

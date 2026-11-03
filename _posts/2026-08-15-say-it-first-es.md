@@ -20,6 +20,8 @@ faq:
     a: "Sí. Registrando varias, basta con que se escuche una de ellas para que la grabación empiece."
   - q: "¿Lo que escucha se envía a algún sitio?"
     a: "El reconocimiento de la palabra ocurre en el propio dispositivo. Que una grabación guardada se respalde en la nube es decisión del usuario."
+  - q: "¿Cómo elegir las palabras clave para que se detecten mejor?"
+    a: "Registra dos palabras clave que suelan aparecer en la misma frase: así TalkSafe las detecta con mucha más precisión. Por ejemplo, piensa en la frase «Esto es importante, hay que grabar» y registra «importante» y «grabar». Basta con que se detecte cualquiera de las dos para que la grabación empiece. Funciona sin desbloquear el móvil ni abrir la aplicación."
 ---
 
 Piensa en un momento en el que hubieras querido estar grabando. Casi nadie se queda callado.
@@ -91,6 +93,8 @@ La primera que elijas puede no encajar. Se cambia y ya está.
 Después de unos días notas qué dices realmente en esos momentos. No es algo que se pueda resolver pensándolo antes: hay que tropezárselo.
 
 También puedes registrar varias. Basta con que se escuche una, así que abrir mucho y luego afinar suele salir mejor que acertar a la primera.
+
+Un truco: registra **dos palabras que suelan aparecer en la misma frase** y la detección mejora mucho. Para «Esto es importante, hay que grabar», serían `importante` y `grabar`. Basta con que se detecte una de las dos para que empiece, sin desbloquear el móvil ni abrir la aplicación.
 
 ## No es una herramienta para esconder nada
 

@@ -97,4 +97,6 @@ The share button does two different jobs. Sending a file to your own email or dr
 
 For noisy clips, [How to remove background noise from a voice recording on Android](/blog/en/remove-background-noise/) compares the tools that can and cannot handle street noise.
 
+If you are new to TalkSafe, how to choose keywords so they are detected reliably is in [You say something first](/blog/en/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Other apps' features are described from their official guides at the time of writing and may change. We make a recording app, as noted above. General information, not legal advice.</p>

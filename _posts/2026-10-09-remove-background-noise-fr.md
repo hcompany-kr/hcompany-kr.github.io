@@ -102,4 +102,6 @@ Comment réduire un enregistrement à ce qui compte sans perdre l'original, et e
 
 Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
 
+Si vous débutez avec TalkSafe, la façon de choisir les mots-clés pour qu'ils soient mieux détectés est expliquée dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les fonctions des outils tiers reflètent leur documentation et les articles publiés au moment de la rédaction, et peuvent changer. Nous développons nous-mêmes une application d'enregistrement, comme indiqué plus haut.</p>

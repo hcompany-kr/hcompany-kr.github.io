@@ -100,4 +100,6 @@ No tool adds back what the microphone never caught. A few habits make the cleanu
 
 How dedicated recorders compare with phones on sound quality is in [The thing that separates recorders is when they start](/blog/en/choosing-a-recorder/). How to cut out the section you need first is in [How to trim a voice recording on Android without losing the original](/blog/en/trim-recording/).
 
+If you are new to TalkSafe, how to choose keywords so they are detected reliably is in [You say something first](/blog/en/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Feature availability for third-party tools reflects their documentation and reporting at the time of writing and can change. We make a recording app, as disclosed above.</p>

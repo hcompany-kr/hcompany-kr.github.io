@@ -21,6 +21,8 @@ faq:
     a: "Yes. Register several and any one of them will start a recording."
   - q: "Is what it hears sent anywhere?"
     a: "Recognising the word happens on the device. Whether a saved recording is backed up to the cloud is your choice."
+  - q: "How should I choose keywords so they are detected reliably?"
+    a: "Register two keywords that are likely to come up in the same sentence: TalkSafe detects them much more reliably that way. For example, think of the sentence ‘This is important, I should record this’ and register both ‘important’ and ‘record’. Either word on its own is enough to start recording. It works without unlocking the phone or opening the app."
 ---
 
 Think back to a moment when you wished you had been recording. Most people do not sit there silently.
@@ -94,6 +96,8 @@ The first word you pick may not fit. Change it.
 After a few days you notice what you actually say in those moments. That is not something you can work out in advance — you have to run into it.
 
 In [TalkSafe](/talksafe/) you can also register several words. Any one of them starts a recording, so casting wide and narrowing later tends to be easier than guessing right the first time.
+
+One tip: register **two words that are likely to come up in the same sentence**, and detection becomes noticeably more reliable. For the sentence ‘This is important, I should record this’, that means registering both `important` and `record`. Either one being detected is enough to start, and you do not need to unlock the phone or open the app.
 
 ## One more thing
 

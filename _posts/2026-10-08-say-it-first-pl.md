@@ -22,6 +22,8 @@ faq:
     a: "Rozpoznawanie słowa odbywa się na urządzeniu. O tym, czy zapisane nagranie trafi do kopii zapasowej w chmurze, decydujesz ty."
   - q: "Jak to pomaga, gdy chcę zapytać o zgodę?"
     a: "Ustaw w TalkSafe jako słowo kluczowe słowo ze swojego pytania, na przykład „nagrać”. Gdy zapytasz „Mogę to nagrać?”, nagrywanie zacznie się dokładnie w tej chwili, a zgoda będzie w pliku. W Polsce nagrywanie rozmowy, w której się uczestniczy, co do zasady nie jest przestępstwem, ale w Niemczech (§ 201 StGB) nagranie bez zgody jest przestępstwem także dla uczestnika."
+  - q: "Jak wybrać słowa kluczowe, żeby były lepiej wykrywane?"
+    a: "Zapisz dwa słowa kluczowe, które zwykle padają w tym samym zdaniu: wtedy TalkSafe wykrywa je znacznie dokładniej. Na przykład pomyśl o zdaniu „To ważne, muszę nagrać” i zapisz „ważne” oraz „nagrać”. Wystarczy, że zostanie wykryte którekolwiek z nich, a nagrywanie się zacznie. Działa to bez odblokowywania telefonu i bez otwierania aplikacji."
 ---
 
 Przypomnij sobie chwilę, w której żałowałeś, że nie nagrywałeś. Mało kto siedzi wtedy w milczeniu.
@@ -95,6 +97,8 @@ Pierwsze słowo, które wybierzesz, może nie pasować. Zmień je.
 Po kilku dniach zauważysz, co naprawdę mówisz w takich chwilach. Tego nie da się wymyślić z góry — trzeba na to trafić.
 
 W [TalkSafe](/talksafe/pl/) możesz też zapisać kilka słów. Każde z nich uruchamia nagrywanie, więc zwykle łatwiej jest zacząć szeroko i później zawężać, niż od razu zgadnąć.
+
+Jedna wskazówka: zapisz **dwa słowa, które zwykle padają w tym samym zdaniu**, a wykrywanie stanie się wyraźnie dokładniejsze. Dla zdania „To ważne, muszę nagrać” będą to `ważne` i `nagrać`. Wystarczy, że zostanie wykryte jedno z nich, bez odblokowywania telefonu i otwierania aplikacji.
 
 ## Gdy chcesz zapytać o zgodę
 

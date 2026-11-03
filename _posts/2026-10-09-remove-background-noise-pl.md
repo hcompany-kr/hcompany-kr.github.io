@@ -102,4 +102,6 @@ Jak skrócić nagranie do tego, co ważne, nie tracąc oryginału, i czym różn
 
 Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).
 
+Jeśli dopiero zaczynasz z TalkSafe, jak wybrać słowa kluczowe, żeby były lepiej wykrywane, opisuje [Najpierw coś mówisz](/blog/pl/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkcje narzędzi innych firm opisano na podstawie ich dokumentacji i doniesień z chwili pisania i mogą się zmienić. Sami tworzymy aplikację do nagrywania, jak zaznaczono wyżej.</p>

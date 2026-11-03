@@ -22,6 +22,8 @@ faq:
     a: "Die Erkennung des Wortes erfolgt auf dem Gerät. Ob eine gespeicherte Aufnahme in der Cloud gesichert wird, entscheiden Sie."
   - q: "Wie hilft das, wenn die Einwilligung aller nötig ist?"
     a: "Legen Sie in TalkSafe ein Wort aus Ihrer Frage als Schlüsselwort fest, etwa ‚aufnehmen‘. Fragen Sie dann ‚Darf ich das aufnehmen?‘, beginnt die Aufnahme genau in diesem Moment, und die Zustimmung ist in der Datei. In Deutschland (§ 201 StGB) und der Schweiz (Art. 179ter StGB) ist die Aufnahme eines nichtöffentlichen Gesprächs ohne Einwilligung auch als Teilnehmer strafbar."
+  - q: "Wie wähle ich Schlüsselwörter, damit sie zuverlässig erkannt werden?"
+    a: "Hinterlegen Sie zwei Schlüsselwörter, die wahrscheinlich im selben Satz vorkommen: So erkennt TalkSafe sie deutlich zuverlässiger. Denken Sie etwa an den Satz „Das ist wichtig, das sollte ich aufnehmen“ und hinterlegen Sie „wichtig“ und „aufnehmen“. Es reicht, wenn eines der beiden Wörter erkannt wird, damit die Aufnahme startet. Dafür müssen Sie weder das Handy entsperren noch die App öffnen."
 ---
 
 Denken Sie an einen Moment zurück, in dem Sie sich gewünscht haben, Sie hätten aufgenommen. Die wenigsten sitzen in so einem Moment stumm da.
@@ -95,6 +97,8 @@ Das erste Wort, das Sie wählen, passt vielleicht nicht. Ändern Sie es.
 Nach ein paar Tagen merken Sie, was Sie in solchen Momenten tatsächlich sagen. Das lässt sich nicht vorab ausdenken – man muss darauf stoßen.
 
 In [TalkSafe](/talksafe/de/) können Sie auch mehrere Wörter hinterlegen. Jedes davon startet eine Aufnahme, daher ist es meist einfacher, erst breit zu wählen und später einzugrenzen, als gleich beim ersten Mal richtig zu raten.
+
+Ein Tipp: Hinterlegen Sie **zwei Wörter, die wahrscheinlich im selben Satz vorkommen**, dann wird die Erkennung deutlich zuverlässiger. Beim Satz „Das ist wichtig, das sollte ich aufnehmen“ wären das `wichtig` und `aufnehmen`. Es reicht, wenn eines davon erkannt wird – ohne das Handy zu entsperren oder die App zu öffnen.
 
 ## Wenn die Einwilligung aller nötig ist
 

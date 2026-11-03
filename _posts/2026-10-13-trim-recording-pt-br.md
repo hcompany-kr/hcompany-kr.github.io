@@ -99,4 +99,6 @@ Para trechos com ruído, [Como tirar o ruído de fundo de uma gravação de voz 
 
 O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).
 
+Se você está começando com o TalkSafe, como escolher as palavras-chave para que sejam detectadas com mais precisão está em [Primeiro você diz alguma coisa](/blog/pt-br/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">As funções de outros apps são descritas conforme seus guias oficiais no momento em que escrevemos e podem mudar. Fazemos um app de gravação, como dito acima. Informação geral, não aconselhamento jurídico.</p>

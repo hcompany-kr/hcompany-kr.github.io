@@ -22,6 +22,8 @@ faq:
     a: "De herkenning van het woord gebeurt op het toestel. Of een opgeslagen opname in de cloud wordt geback-upt, beslis jij."
   - q: "Hoe helpt dit als ik toestemming wil vragen?"
     a: "Stel in TalkSafe een woord uit je vraag in als trefwoord, bijvoorbeeld „opnemen”. Vraag je dan „Mag ik dit opnemen?”, dan begint de opname precies op dat moment en staat de instemming in het bestand. In Nederland en België mag je een gesprek waaraan je deelneemt ook zonder toestemming opnemen; vragen is dan een kwestie van fatsoen."
+  - q: "Hoe kies ik trefwoorden zodat ze beter herkend worden?"
+    a: "Stel twee trefwoorden in die waarschijnlijk in dezelfde zin vallen: dan herkent TalkSafe ze veel nauwkeuriger. Denk bijvoorbeeld aan de zin ‘Dit is belangrijk, dat moet ik opnemen’ en stel ‘belangrijk’ en ‘opnemen’ in. Het is genoeg dat een van de twee herkend wordt om de opname te laten beginnen. Dat werkt zonder de telefoon te ontgrendelen of de app te openen."
 ---
 
 Denk terug aan een moment waarop je wilde dat je had opgenomen. Weinig mensen zitten op zo'n moment zwijgend te wachten.
@@ -95,6 +97,8 @@ Het eerste woord dat je kiest, past misschien niet. Verander het.
 Na een paar dagen merk je wat je op zulke momenten echt zegt. Dat kun je niet vooraf bedenken — je moet erop stuiten.
 
 In [TalkSafe](/talksafe/nl/) kun je ook meerdere woorden instellen. Elk ervan start een opname, dus het is meestal makkelijker om eerst breed te kiezen en later in te perken dan meteen goed te gokken.
+
+Een tip: stel **twee woorden in die waarschijnlijk in dezelfde zin vallen**, en de herkenning wordt een stuk nauwkeuriger. Bij de zin ‘Dit is belangrijk, dat moet ik opnemen’ zijn dat `belangrijk` en `opnemen`. Het is genoeg dat een van de twee herkend wordt, zonder de telefoon te ontgrendelen of de app te openen.
 
 ## Als je toestemming wilt vragen
 

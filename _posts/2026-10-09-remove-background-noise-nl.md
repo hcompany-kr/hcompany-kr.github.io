@@ -102,4 +102,6 @@ Hoe je een opname terugbrengt tot wat ertoe doet zonder het origineel te verliez
 
 Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
 
+Begin je net met TalkSafe, dan staat in [Eerst zeg je iets](/blog/nl/say-it-first/) hoe je trefwoorden kiest die beter herkend worden.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De functies van hulpmiddelen van derden zijn beschreven op basis van hun documentatie en berichtgeving op het moment van schrijven en kunnen veranderen. Wij maken zelf een opname-app, zoals hierboven vermeld.</p>

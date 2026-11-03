@@ -101,4 +101,6 @@ U hlučných úseků porovnává [Jak odstranit hluk v pozadí z hlasové nahrá
 
 Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).
 
+Pokud s TalkSafe teprve začínáte, jak zvolit klíčová slova, aby se lépe rozpoznávala, popisuje [Nejdřív něco řeknete](/blog/cs/say-it-first/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkce jiných aplikací jsou popsány podle jejich oficiálních návodů v době psaní a mohou se změnit. Sami vyvíjíme aplikaci pro nahrávání, jak je uvedeno výše. Obecné informace, nikoli právní rada.</p>

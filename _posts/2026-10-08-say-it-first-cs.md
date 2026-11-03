@@ -22,6 +22,8 @@ faq:
     a: "Rozpoznávání slova probíhá v zařízení. O tom, zda se uložená nahrávka zálohuje do cloudu, rozhodujete vy."
   - q: "Jak to pomůže, když chci požádat o souhlas?"
     a: "Nastavte v TalkSafe jako klíčové slovo slovo ze své otázky, například „nahrát“. Když se zeptáte „Můžu si to nahrát?“, nahrávání začne přesně v tu chvíli a souhlas bude v souboru. Na Slovensku vyžaduje § 12 občanského zákoníku k pořízení zvukového záznamu svolení dotčené osoby, s výjimkami pro úřední, vědecké, umělecké a zpravodajské účely."
+  - q: "Jak zvolit klíčová slova, aby se lépe rozpoznávala?"
+    a: "Uložte dvě klíčová slova, která pravděpodobně zazní ve stejné větě: TalkSafe je pak rozpozná mnohem spolehlivěji. Představte si třeba větu „To je důležité, musím nahrát“ a uložte „důležité“ i „nahrát“. Stačí, aby bylo rozpoznáno kterékoli z nich, a nahrávání začne. Funguje to bez odemykání telefonu i bez otevírání aplikace."
 ---
 
 Vzpomeňte si na chvíli, kdy jste litovali, že jste nenahrávali. Málokdo v takové chvíli sedí mlčky.
@@ -95,6 +97,8 @@ První slovo, které zvolíte, možná nesedne. Změňte ho.
 Po pár dnech si všimnete, co v takových chvílích opravdu říkáte. To se nedá vymyslet předem — musíte na to narazit.
 
 V [TalkSafe](/talksafe/cs/) můžete uložit i několik slov. Každé z nich spustí nahrávání, takže je obvykle snazší začít zeširoka a později zužovat, než se hned napoprvé trefit.
+
+Jeden tip: uložte **dvě slova, která pravděpodobně zazní ve stejné větě**, a rozpoznávání bude výrazně spolehlivější. U věty „To je důležité, musím nahrát“ to jsou `důležité` a `nahrát`. Stačí, aby bylo rozpoznáno jedno z nich, bez odemykání telefonu i otevírání aplikace.
 
 ## Když chcete požádat o souhlas
 
