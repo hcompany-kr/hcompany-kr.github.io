@@ -62,6 +62,8 @@ Algunas aplicaciones mantienen una ventana corta de audio reciente mientras est�
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/es/) fija esa ventana en treinta segundos. Suena a poco, pero en una conversación no son una frase o dos: es una escena entera. Lo que se dijo y el contexto que explica por qué importaba suelen caber ahí dentro.
 
+<figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
+
 Y el contexto pesa más de lo que parece. Una frase suelta, sin nada delante, es más difícil de explicar después, no más fácil.
 
 ## Segunda vía — empezar con la voz, no con la mano

@@ -100,6 +100,8 @@ No [TalkSafe](/talksafe/pt-br/) você também pode cadastrar várias palavras. Q
 
 Uma dica: cadastre **duas palavras que costumam aparecer na mesma frase**, e a detecção fica bem mais precisa. Para a frase ‘Isso é importante, preciso gravar’, seriam `importante` e `gravar`. Basta que uma delas seja detectada para começar, sem desbloquear o celular nem abrir o app.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-pt-br.jpg" alt="Tela de palavras-chave do TalkSafe. As palavras são adicionadas pelo botão do microfone e aparecem em uma lista." width="540" height="960" loading="lazy"><figcaption>Configuração de palavras-chave. Dá para cadastrar várias; basta uma delas ser detectada para a gravação começar.</figcaption></figure>
+
 ## Quando você quer pedir consentimento
 
 Uma das frases lá em cima é "Posso gravar?". Essa pergunta pode ser justamente o gatilho. Com "gravar" como palavra-chave, a gravação começa no momento em que você pergunta, e o "pode" da outra pessoa fica no arquivo.

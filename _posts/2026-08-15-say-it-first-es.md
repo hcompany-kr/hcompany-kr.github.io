@@ -96,6 +96,8 @@ También puedes registrar varias. Basta con que se escuche una, así que abrir m
 
 Un truco: registra **dos palabras que suelan aparecer en la misma frase** y la detección mejora mucho. Para «Esto es importante, hay que grabar», serían `importante` y `grabar`. Basta con que se detecte una de las dos para que empiece, sin desbloquear el móvil ni abrir la aplicación.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-es.jpg" alt="Pantalla de ajustes de palabras clave de TalkSafe. Las palabras se añaden con el botón del micrófono y aparecen en una lista." width="540" height="960" loading="lazy"><figcaption>Ajustes de palabras clave. Puedes registrar varias; basta con que se detecte una para que empiece la grabación.</figcaption></figure>
+
 ## No es una herramienta para esconder nada
 
 Mientras la grabación está en marcha se mantiene una notificación visible y no se puede desactivar. Está pensada para dejar constancia de una conversación en la que participas, no para ocultarla.

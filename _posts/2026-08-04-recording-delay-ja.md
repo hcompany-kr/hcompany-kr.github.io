@@ -62,6 +62,8 @@ faq:
 
 [TalkSafe](/talksafe/ja/)はこの区間を30秒にしています。30秒は短く思えますが、会話では一言二言ではなく一場面がまるごと入る長さです。問題になった発言と、その前後の文脈がだいたい収まります。
 
+<figure class="shot"><img src="/assets/img/screens/before30-ja.jpg" alt="TalkSafeの録音履歴画面。キーワードが検知されるたびに、録音ファイルが日時とともに保存されます。" width="540" height="960" loading="lazy"><figcaption>録音履歴画面。各ファイルには、キーワードが検知される直前の30秒も含まれています。</figcaption></figure>
+
 文脈のない一文だけが残っていると、後から説明する手間がむしろ増えます。
 
 ## 方法2 — 手ではなく言葉で始める

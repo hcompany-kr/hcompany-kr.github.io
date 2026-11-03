@@ -61,6 +61,8 @@ Some apps hold a short rolling window of recent audio while sitting idle, then a
 
 [TalkSafe](/talksafe/) sets that window to thirty seconds. Thirty seconds sounds short. In conversation it is not a sentence or two, it is a whole exchange. The remark that mattered and the context around it usually both fit inside it, and context turns out to matter more than people expect. A single line with nothing before it is harder to explain later, not easier.
 
+<figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
+
 ## Approach 2 — start it with your voice, not your hands
 
 The second fix changes how recording begins.

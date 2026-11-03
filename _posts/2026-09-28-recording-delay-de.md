@@ -62,6 +62,8 @@ Manche Apps halten im Leerlauf ein kurzes, laufendes Fenster mit dem Ton der let
 
 [TalkSafe](/talksafe/de/) setzt dieses Fenster auf dreißig Sekunden. Das klingt kurz. In einem Gespräch ist es aber nicht ein Satz oder zwei, sondern ein ganzer Wortwechsel. Die entscheidende Bemerkung und der Zusammenhang drumherum passen meist beide hinein – und der Zusammenhang ist wichtiger, als man denkt.
 
+<figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
+
 Das gilt nicht nur für heikle Gespräche. Der Einfall, den Sie beim Spazierengehen laut ausgesprochen haben, die Frage in der Vorlesung, auf die der Dozent eine Antwort gab, die Sie mitschreiben wollten – immer ist das Wichtige schon vorbei, wenn die Hand beim Telefon ist.
 
 ## Ansatz 2 – mit der Stimme starten, nicht mit den Händen

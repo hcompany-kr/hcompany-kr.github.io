@@ -100,6 +100,8 @@ V [TalkSafe](/talksafe/cs/) můžete uložit i několik slov. Každé z nich spu
 
 Jeden tip: uložte **dvě slova, která pravděpodobně zazní ve stejné větě**, a rozpoznávání bude výrazně spolehlivější. U věty „To je důležité, musím nahrát“ to jsou `důležité` a `nahrát`. Stačí, aby bylo rozpoznáno jedno z nich, bez odemykání telefonu i otevírání aplikace.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-cs.jpg" alt="Nastavení klíčových slov v TalkSafe. Slova se přidávají tlačítkem mikrofonu a pod ním se zobrazí jejich seznam." width="540" height="960" loading="lazy"><figcaption>Nastavení klíčových slov. Můžete uložit několik slov; stačí, aby bylo rozpoznáno jedno z nich.</figcaption></figure>
+
 ## Když chcete požádat o souhlas
 
 Jedna z vět výše je „Můžu si to nahrát?“. Právě ta otázka může být spouštěčem. S „nahrát“ jako klíčovým slovem začne nahrávání ve chvíli, kdy se ptáte, a „ano“ druhé strany je v souboru.

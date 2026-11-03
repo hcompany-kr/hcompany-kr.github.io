@@ -100,6 +100,8 @@ Birkaç gün sonra o anlarda gerçekte ne söylediğinizi fark edersiniz. Bu ön
 
 Bir ipucu: **aynı cümlede birlikte geçmesi muhtemel iki kelime** kaydederseniz algılama belirgin şekilde iyileşir. 'Bu önemli, kayıt almalıyım' cümlesi için bu, `önemli` ve `kayıt` demektir. İkisinden birinin algılanması yeterlidir; telefonun kilidini açmanıza veya uygulamayı açmanıza gerek yoktur.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-tr.jpg" alt="TalkSafe anahtar kelime ayarları ekranı. Kelimeler mikrofon düğmesiyle eklenir ve altında liste halinde görünür." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime ayarları. Birden fazla kelime kaydedebilirsiniz; herhangi birinin algılanması kaydı başlatır.</figcaption></figure>
+
 ## Herkesin rızasının gerektiği yerde
 
 Yukarıdaki cümlelerden biri "Kayıt alabilir miyim?". Tam da bu soru tetikleyici olabilir. "Kayıt" anahtar kelimesiyle, soruyu sorduğunuz anda kayıt başlar ve karşınızdakinin "evet"i dosyada olur.

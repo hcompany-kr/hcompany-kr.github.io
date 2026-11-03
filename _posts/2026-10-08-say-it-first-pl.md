@@ -100,6 +100,8 @@ W [TalkSafe](/talksafe/pl/) możesz też zapisać kilka słów. Każde z nich ur
 
 Jedna wskazówka: zapisz **dwa słowa, które zwykle padają w tym samym zdaniu**, a wykrywanie stanie się wyraźnie dokładniejsze. Dla zdania „To ważne, muszę nagrać” będą to `ważne` i `nagrać`. Wystarczy, że zostanie wykryte jedno z nich, bez odblokowywania telefonu i otwierania aplikacji.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-pl.jpg" alt="Ekran słów kluczowych w TalkSafe. Słowa dodaje się przyciskiem mikrofonu, a poniżej widać ich listę." width="540" height="960" loading="lazy"><figcaption>Ustawienia słów kluczowych. Można zapisać kilka słów; wystarczy, że zostanie wykryte jedno z nich.</figcaption></figure>
+
 ## Gdy chcesz zapytać o zgodę
 
 Jedno ze zdań powyżej to „Mogę to nagrać?”. Właśnie to pytanie może być wyzwalaczem. Z „nagrać” jako słowem kluczowym nagrywanie zaczyna się w chwili, w której pytasz, a „tak” twojego rozmówcy jest w pliku.

@@ -62,6 +62,8 @@ Sommige apps houden in rust een kort, doorlopend venster met het geluid van de l
 
 [TalkSafe](/talksafe/nl/) zet dat venster op dertig seconden. Dat klinkt kort. In een gesprek is het echter niet één of twee zinnen, maar een hele wisseling. De beslissende opmerking en de context eromheen passen er meestal allebei in — en die context is belangrijker dan je denkt.
 
+<figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
+
 Dat geldt niet alleen voor lastige gesprekken. Het idee dat je tijdens een wandeling hardop uitsprak, de vraag in een college waarop de docent een antwoord gaf dat je wilde noteren — altijd is het belangrijke al voorbij als je hand bij de telefoon is.
 
 ## Aanpak 2 — starten met je stem, niet met je handen

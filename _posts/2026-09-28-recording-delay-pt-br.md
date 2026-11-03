@@ -62,6 +62,8 @@ Alguns apps mantêm uma janela curta e contínua do áudio recente enquanto est�
 
 O [TalkSafe](/talksafe/pt-br/) define essa janela em trinta segundos. Parece pouco. Numa conversa, porém, não é uma frase ou duas, é uma troca inteira. O comentário que importava e o contexto em volta normalmente cabem ali, e o contexto importa mais do que a gente imagina.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
+
 E não vale só para conversas delicadas. A ideia que você falou em voz alta enquanto caminhava, a resposta do professor que você queria anotar: toda vez, a parte importante já passou quando a mão chega ao celular.
 
 ## Segundo jeito: começar com a voz, não com as mãos

@@ -62,6 +62,8 @@ Bazı uygulamalar boştayken son saniyelerin sesini tutan kısa, sürekli bir pe
 
 [TalkSafe](/talksafe/tr/) bu pencereyi otuz saniye olarak ayarlar. Kısa gibi gelir. Ama bir konuşmada bu bir iki cümle değil, koca bir karşılıklı konuşmadır. Önemli söz ve çevresindeki bağlam genellikle ikisi birden içine sığar; bağlam da sanıldığından daha önemlidir.
 
+<figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
+
 Bu yalnızca hassas konuşmalar için geçerli değildir. Yürürken yüksek sesle söylediğiniz fikir, derste hocanın not almak istediğiniz cevabı: her seferinde, eliniz telefona ulaştığında önemli kısım geçmiş olur.
 
 ## İkinci yaklaşım: ellerle değil sesle başlatmak

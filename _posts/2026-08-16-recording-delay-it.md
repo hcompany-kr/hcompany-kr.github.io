@@ -62,6 +62,8 @@ Alcune app mantengono una breve finestra di audio recente mentre sono in attesa,
 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/it/) fissa quella finestra a trenta secondi. Sembrano pochi, ma in una conversazione non sono una frase o due: sono una scena intera. Quello che è stato detto e il contesto che spiega perché contava di solito ci stanno dentro entrambi.
 
+<figure class="shot"><img src="/assets/img/screens/before30-it.jpg" alt="Schermata dello storico delle registrazioni di TalkSafe. Ogni volta che viene rilevata una parola chiave si salva una registrazione con data e ora." width="540" height="960" loading="lazy"><figcaption>Storico delle registrazioni. Ogni file contiene anche i 30 secondi precedenti al rilevamento della parola chiave.</figcaption></figure>
+
 E il contesto pesa più di quanto sembri. Una frase isolata, senza niente prima, è più difficile da spiegare dopo, non più facile.
 
 ## Seconda via — partire con la voce, non con la mano

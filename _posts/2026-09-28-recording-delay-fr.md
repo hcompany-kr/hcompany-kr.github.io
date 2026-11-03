@@ -62,6 +62,8 @@ Certaines applications gardent en permanence une courte fenêtre du son récent,
 
 [TalkSafe](/talksafe/fr/) fixe cette fenêtre à trente secondes. Cela paraît court. Dans une conversation, ce n'est pas une phrase ou deux, c'est tout un échange. La remarque qui comptait et le contexte autour tiennent en général dedans, et le contexte compte plus qu'on ne le croit.
 
+<figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
+
 Cela ne vaut pas que pour les conversations délicates. L'idée que vous avez formulée à voix haute en marchant, la réponse du professeur que vous vouliez noter : chaque fois, l'essentiel est déjà passé quand la main atteint le téléphone.
 
 ## Deuxième approche : démarrer avec la voix, pas avec les mains

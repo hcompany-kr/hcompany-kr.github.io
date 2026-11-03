@@ -66,6 +66,8 @@ Due criteri però reggono ovunque.
 
 Un accorgimento in più: registra **due parole che tendono a comparire nella stessa frase** e il rilevamento migliora molto. Per «Questo è importante, devo registrare», sarebbero `importante` e `registrare`. Basta che ne venga rilevata una perché la registrazione parta, senza sbloccare il telefono né aprire l'app.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-it.jpg" alt="Schermata delle parole chiave di TalkSafe. Le parole si aggiungono con il pulsante del microfono e compaiono in un elenco." width="540" height="960" loading="lazy"><figcaption>Impostazioni delle parole chiave. Puoi registrarne diverse; basta che ne venga rilevata una perché la registrazione parta.</figcaption></figure>
+
 ## I 30 secondi prima
 
 C'è un caso che rovina qualsiasi registratore a pulsante: capisci che serviva registrare **dopo** che la frase è stata detta.

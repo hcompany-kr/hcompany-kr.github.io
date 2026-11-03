@@ -100,6 +100,8 @@ In [TalkSafe](/talksafe/de/) können Sie auch mehrere Wörter hinterlegen. Jedes
 
 Ein Tipp: Hinterlegen Sie **zwei Wörter, die wahrscheinlich im selben Satz vorkommen**, dann wird die Erkennung deutlich zuverlässiger. Beim Satz „Das ist wichtig, das sollte ich aufnehmen“ wären das `wichtig` und `aufnehmen`. Es reicht, wenn eines davon erkannt wird – ohne das Handy zu entsperren oder die App zu öffnen.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-de.jpg" alt="Schlüsselwort-Einstellungen in TalkSafe. Schlüsselwörter werden über die Mikrofon-Taste hinzugefügt und darunter aufgelistet." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Einstellungen. Sie können mehrere Wörter hinterlegen; es reicht, wenn eines davon erkannt wird.</figcaption></figure>
+
 ## Wenn die Einwilligung aller nötig ist
 
 Einer der Sätze oben ist „Darf ich das aufnehmen?“. Genau diese Frage kann der Auslöser sein. Mit ‚aufnehmen‘ als Schlüsselwort beginnt die Aufnahme in dem Moment, in dem Sie fragen, und das „Ja“ Ihres Gegenübers ist in der Datei.

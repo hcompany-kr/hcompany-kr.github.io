@@ -62,6 +62,8 @@ Některé aplikace v klidovém režimu drží krátké, průběžné okno se zvu
 
 [TalkSafe](/talksafe/cs/) nastavuje toto okno na třicet sekund. Zní to krátce. V rozhovoru to ale není jedna dvě věty, nýbrž celá výměna. Klíčová poznámka i souvislosti kolem ní se do něj obvykle vejdou — a souvislosti jsou důležitější, než se zdá.
 
+<figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
+
 Netýká se to jen choulostivých rozhovorů. Nápad, který jste nahlas vyslovili na procházce, otázka na přednášce, na kterou vyučující odpověděl a vy jste si to chtěli zapsat — vždycky je to důležité pryč, než se ruka dostane k telefonu.
 
 ## Způsob 2 — začít hlasem, ne rukama

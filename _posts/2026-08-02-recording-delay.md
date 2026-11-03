@@ -58,6 +58,8 @@ faq:
 
 [TalkSafe](/talksafe/)는 이 구간을 30초로 잡았습니다. 30초는 짧아 보이지만 대화에서는 한두 문장이 아니라 하나의 장면입니다. 문제가 되는 말과 그 앞뒤 맥락이 대체로 그 안에 들어갑니다. 맥락 없이 한 문장만 남은 녹음은 나중에 설명하기가 오히려 더 어렵습니다.
 
+<figure class="shot"><img src="/assets/img/screens/before30-ko.jpg" alt="TalkSafe 녹음 기록 화면. 키워드가 감지될 때마다 녹음 파일이 날짜와 시간과 함께 저장됩니다." width="540" height="960" loading="lazy"><figcaption>녹음 기록 화면. 각 파일에는 키워드가 감지되기 직전 30초가 함께 들어 있습니다.</figcaption></figure>
+
 ## 방법 2 — 손 대신 말로 시작하기
 
 두 번째는 시작 방법 자체를 바꾸는 것입니다.

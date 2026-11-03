@@ -100,6 +100,8 @@ In [TalkSafe](/talksafe/nl/) kun je ook meerdere woorden instellen. Elk ervan st
 
 Een tip: stel **twee woorden in die waarschijnlijk in dezelfde zin vallen**, en de herkenning wordt een stuk nauwkeuriger. Bij de zin ‘Dit is belangrijk, dat moet ik opnemen’ zijn dat `belangrijk` en `opnemen`. Het is genoeg dat een van de twee herkend wordt, zonder de telefoon te ontgrendelen of de app te openen.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-nl.jpg" alt="Trefwoordinstellingen in TalkSafe. Trefwoorden voeg je toe met de microfoonknop en ze staan eronder in een lijst." width="540" height="960" loading="lazy"><figcaption>Trefwoordinstellingen. Je kunt meerdere woorden instellen; het is genoeg dat er één herkend wordt.</figcaption></figure>
+
 ## Als je toestemming wilt vragen
 
 Een van de zinnen hierboven is „Mag ik dit opnemen?”. Precies die vraag kan de trigger zijn. Met „opnemen” als trefwoord begint de opname op het moment dat je het vraagt, en het „ja” van de ander staat in het bestand.

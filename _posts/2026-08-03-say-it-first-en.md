@@ -99,6 +99,8 @@ In [TalkSafe](/talksafe/) you can also register several words. Any one of them s
 
 One tip: register **two words that are likely to come up in the same sentence**, and detection becomes noticeably more reliable. For the sentence ‘This is important, I should record this’, that means registering both `important` and `record`. Either one being detected is enough to start, and you do not need to unlock the phone or open the app.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
+
 ## One more thing
 
 While a recording runs, a notification stays visible and cannot be switched off. This is for keeping a record of a conversation you are in, not for hiding one.

@@ -62,6 +62,8 @@ Niektóre aplikacje w trybie czuwania trzymają krótkie, bieżące okno z dźwi
 
 [TalkSafe](/talksafe/pl/) ustawia to okno na trzydzieści sekund. Brzmi krótko. W rozmowie to jednak nie jedno czy dwa zdania, tylko cała wymiana zdań. Kluczowa uwaga i kontekst wokół niej zwykle mieszczą się w nim razem — a kontekst jest ważniejszy, niż się wydaje.
 
+<figure class="shot"><img src="/assets/img/screens/before30-pl.jpg" alt="Historia nagrań w TalkSafe. Za każdym razem, gdy zostanie wykryte słowo kluczowe, nagranie zapisuje się z datą i godziną." width="540" height="960" loading="lazy"><figcaption>Historia nagrań. Każdy plik zawiera też 30 sekund sprzed wykrycia słowa kluczowego.</figcaption></figure>
+
 Dotyczy to nie tylko trudnych rozmów. Pomysł, który wypowiedziałeś na głos na spacerze, pytanie na wykładzie, na które wykładowca odpowiedział, a ty chciałeś to zanotować — zawsze to, co ważne, mija, zanim ręka dotrze do telefonu.
 
 ## Sposób 2 — zaczynać głosem, nie rękami

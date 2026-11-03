@@ -100,6 +100,8 @@ Dans [TalkSafe](/talksafe/fr/), vous pouvez aussi enregistrer plusieurs mots. N'
 
 Une astuce : enregistrez **deux mots susceptibles d'apparaître dans la même phrase**, et la détection devient nettement plus fiable. Pour « C'est important, il faut enregistrer », ce serait `important` et `enregistrer`. Il suffit que l'un des deux soit détecté pour que cela démarre, sans déverrouiller le téléphone ni ouvrir l'application.
 
+<figure class="shot"><img src="/assets/img/screens/keywords-fr.jpg" alt="Écran des mots-clés de TalkSafe. Les mots-clés s'ajoutent avec le bouton du micro et s'affichent en liste." width="540" height="960" loading="lazy"><figcaption>Réglages des mots-clés. Vous pouvez en enregistrer plusieurs ; il suffit que l'un d'eux soit détecté pour que l'enregistrement démarre.</figcaption></figure>
+
 ## Quand l'accord de tous est nécessaire
 
 L'une des phrases plus haut est « Je peux enregistrer ? ». Cette question peut justement servir de déclencheur. Avec « enregistrer » comme mot-clé, l'enregistrement démarre au moment où vous la posez, et le « oui » de votre interlocuteur est dans le fichier.
