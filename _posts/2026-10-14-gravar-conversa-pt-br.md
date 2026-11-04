@@ -140,4 +140,6 @@ Se forçarem você a pedir demissão, o que muda e como provar: [Forçado a pedi
 
 O que fazer depois de um acidente de trânsito e o que acontece com o que foi dito: [Acidente de trânsito: o que fazer, o que não dizer e por que a frase dita no local não entra no boletim](/blog/pt-br/acidente-de-transito-o-que-fazer/).
 
+Se gravar consulta médica é crime e o que pedir por escrito: [Gravar consulta médica é crime? O que a lei diz, o que os conselhos dizem e o que você pode pedir por escrito](/blog/pt-br/gravar-consulta-medica/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. As decisões citadas foram verificadas na data de publicação; a jurisprudência muda. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

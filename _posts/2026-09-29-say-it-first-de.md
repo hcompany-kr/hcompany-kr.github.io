@@ -115,3 +115,5 @@ Was man nach der Aufnahme mit der Datei tun sollte – und warum das Weitergeben
 Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
 
 Geld verliehen ohne Vertrag – wie man beweist, dass es ein Darlehen war, und wann es verjährt: [Geld verliehen ohne Vertrag – und jetzt war es angeblich ein Geschenk](/blog/de/geld-verliehen/).
+
+Ob man das Arztgespräch aufnehmen darf und was man schriftlich bekommt: [Arztgespräch aufnehmen: Darf man das – und was man sonst schriftlich bekommt](/blog/de/arztgespraech-aufnehmen/).

@@ -522,6 +522,49 @@ CARDS = {
        ('पुलिस को सूचना', '24 घंटे के भीतर — धारा 134(b)', True),
        ('BNS 106(2) हिट-एंड-रन', 'अभी लागू नहीं', False),
        ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True)]), HI_CSS),
+ ('arztgespraech-aufnehmen', 'de'): (dict(eyebrow='GESUNDHEIT · ARZTGESPRÄCH', title='Arztgespräch aufnehmen: darf man das?', sub='§ 201 StGB, § 630e und § 630g BGB.', tagline='AUFNAHME-APP MIT STARTWORT', panel=panel_compare,
+     cols=['DE', 'AT', 'CH'], rows=[
+       ('Ohne Einwilligung aufnehmen', 'eigenes Gespräch', (False, True, False)),
+       ('Mit Einwilligung aufnehmen', 'erlaubt', (True, True, True)),
+       ('Erste Kopie der Patientenakte', 'kostenlos — § 630g BGB', (True, None, None))]), '.title{font-size:52px}.cmp td.m{width:62px}'),
+ ('enregistrer-consultation-medecin', 'fr'): (dict(eyebrow='SANTÉ · CONSULTATION', title='Enregistrer sa consultation chez le médecin', sub='Art. 226-1 CP, dossier médical sous 8 jours.', tagline='ENREGISTREUR QUI DÉMARRE SUR UN MOT', panel=panel_compare,
+     cols=['FR', 'BE', 'CH', 'QC'], rows=[
+       ('Enregistrer sans accord', 'du médecin', (False, True, False, True)),
+       ('Enregistrer ouvertement', 'sans opposition', (True, True, None, True)),
+       ('Dossier médical sous 8 jours', 'L1111-7', (True, None, None, None))]), '.title{font-size:50px}.cmp td.m{width:54px}'),
+ ('doktor-gorusmesi-ses-kaydi', 'tr'): (dict(eyebrow='SAĞLIK · MUAYENE', title='Doktor muayenesini kaydetmek', sub='TCK 133/2 ve doktordan izin istemek.', tagline='KELİMEYLE BAŞLAYAN KAYIT UYGULAMASI', panel=panel_rules,
+     cap='Türkiye', rows=[
+       ('Rızasız kayıt', 'suç — TCK 133/2', False),
+       ('Doktorun izniyle kayıt', 'mümkün', True),
+       ('İzin yoksa', 'yazılı özet ve belgelerin kopyası', True),
+       ('Unutulan bilgi', '%40–80, hemen — Kessels 2003', None)]), '.title{font-size:56px}'),
+ ('gravar-consulta-medica', 'pt-br'): (dict(eyebrow='SAÚDE · CONSULTA', title='Gravar consulta médica é crime?', sub='Tema 237, pareceres dos CRMs e o prontuário.', tagline='GRAVADOR QUE COMEÇA COM UMA PALAVRA', panel=panel_compare,
+     cols=['Brasil', 'Portugal'], rows=[
+       ('Paciente gravar sem avisar', 'prova lícita no Brasil', (True, False)),
+       ('Concordância do médico', 'recomendada pelos conselhos', (True, None)),
+       ('Cópia do prontuário', 'art. 88 do CEM', (True, None))]), ''),
+ ('nagrywanie-wizyty-u-lekarza', 'pl'): (dict(eyebrow='ZDROWIE · WIZYTA', title='Nagrywanie wizyty u lekarza', sub='Art. 267 § 3 k.k. i art. 28 ustawy o prawach pacjenta.', tagline='DYKTAFON URUCHAMIANY SŁOWEM', panel=panel_rules,
+     cap='Polska', rows=[
+       ('Nagranie własnej wizyty', 'co do zasady dozwolone', True),
+       ('Rozpowszechnianie nagrania', 'osobna sprawa — zgoda', False),
+       ('Pierwsza kopia dokumentacji', 'bezpłatna — art. 28', True),
+       ('Zapytać na początku', 'ułatwia rozmowę', True)]), '.title{font-size:56px}'),
+ ('gesprek-met-arts-opnemen', 'nl'): (dict(eyebrow='GEZONDHEID · CONSULT', title='Gesprek met je arts opnemen', sub='KNMG, art. 7:448 BW en de bedrijfsarts.', tagline='OPNAME-APP DIE START OP EEN WOORD', panel=panel_compare,
+     cols=['NL', 'BE'], rows=[
+       ('Opnemen zonder toestemming', 'voor privégebruik', (True, True)),
+       ('Opname verspreiden', 'zonder toestemming', (False, None)),
+       ('Informatie schriftelijk vragen', 'art. 7:448 BW', (True, None))]), '.title{font-size:56px}'),
+ ('nahravani-lekare', 'cs'): (dict(eyebrow='ZDRAVÍ · ORDINACE', title='Nahrávání lékaře pacientem', sub='§ 88 OZ a návrh metodiky MZ 2026.', tagline='DIKTAFON, KTERÝ SPUSTÍ SLOVO', panel=panel_compare,
+     cols=['CZ', 'SK'], rows=[
+       ('Nahrát bez souhlasu', 'k ochraně svých práv', (True, False)),
+       ('Plošný zákaz v ordinaci', 'podle návrhu MZ nelze', (False, None)),
+       ('Nahrávku zveřejnit', 'nedoporučuje se', (False, False))]), '.title{font-size:58px}'),
+ ('doctor-se-baat-record', 'hi'): (dict(eyebrow='सेहत · डॉक्टर', title='डॉक्टर से बातचीत रिकॉर्ड करना', sub='मलकानी 1973 और 72 घंटे में मेडिकल रिकॉर्ड।', tagline='कीवर्ड से शुरू होने वाला रिकॉर्डर', panel=panel_rules,
+     cap='भारत', rows=[
+       ('अपनी बातचीत की रिकॉर्डिंग', 'इंटरसेप्शन नहीं — मलकानी 1973', True),
+       ('शुरुआत में पूछ लेना', 'भरोसा बना रहता है', True),
+       ('मेडिकल रिकॉर्ड', '72 घंटे में — 2002 विनियम 1.3.2', True),
+       ('भूली गई जानकारी', '40–80% तुरंत — केसल्स 2003', None)]), HI_CSS),
 }
 
 if __name__ == '__main__':

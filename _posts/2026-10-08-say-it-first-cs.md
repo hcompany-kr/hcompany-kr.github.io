@@ -115,3 +115,5 @@ Co se souborem po nahrání dělat — a proč má šíření vlastní pravidla 
 Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).
 
 Jak prokázat půjčku bez smlouvy a kdy se promlčí, popisuje [Půjčil jsem peníze bez smlouvy. Jak to dokázat a kolik mám času?](/blog/cs/pujcka-bez-smlouvy/).
+
+Kdy lze nahrávat lékaře a co říká návrh metodiky ministerstva: [Nahrávání lékaře pacientem: kdy to jde bez souhlasu a co říká návrh metodiky ministerstva](/blog/cs/nahravani-lekare/).

@@ -115,3 +115,5 @@ Co zrobić z plikiem po nagraniu — i dlaczego rozpowszechnianie to osobna spra
 Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).
 
 Jak odzyskać pieniądze pożyczone bez umowy i kiedy roszczenie się przedawnia, opisuje [Pożyczyłem pieniądze bez umowy. Jak je odzyskać i jak udowodnić, że to była pożyczka?](/blog/pl/pozyczka-bez-umowy/).
+
+Czy można nagrać wizytę u lekarza i co dostać na piśmie: [Nagrywanie wizyty u lekarza: czy wolno, czy trzeba pytać i co dostaniesz na piśmie](/blog/pl/nagrywanie-wizyty-u-lekarza/).

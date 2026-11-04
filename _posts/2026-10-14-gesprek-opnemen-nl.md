@@ -126,4 +126,6 @@ Een vaststellingsovereenkomst onder druk, de bedenktermijn en je WW: [Vaststelli
 
 Wat je doet na een aanrijding en wat er met het gesprokene gebeurt: [Aanrijding – wat te doen? Stoppen, het schadeformulier en de zin die nergens op papier komt](/blog/nl/aanrijding-wat-te-doen/).
 
+Of je een gesprek met je arts of bedrijfsarts mag opnemen: [Gesprek met je arts opnemen: mag dat zonder toestemming, ook bij de bedrijfsarts?](/blog/nl/gesprek-met-arts-opnemen/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

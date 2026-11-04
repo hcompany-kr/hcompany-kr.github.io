@@ -117,3 +117,5 @@ Kayıttan sonra dosyayla ne yapılacağı ve yaymanın neden ayrı kuralları ol
 Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.
 
 Senetsiz verilen borcun nasıl ispat edileceği ve zamanaşımı [Borç verdim, senet yok, geri alamıyorum: nasıl ispat edilir, ne kadar sürem var?](/blog/tr/borc-verdim/) yazısında.
+
+Doktor muayenesini kaydetmek ve izin yoksa ne yapılacağı: [Doktor muayenesini ses kaydına almak: İzin şart mı, ve unuttuklarınızı nasıl geri alırsınız?](/blog/tr/doktor-gorusmesi-ses-kaydi/).

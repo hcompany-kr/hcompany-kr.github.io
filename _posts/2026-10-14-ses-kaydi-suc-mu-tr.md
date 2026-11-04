@@ -130,4 +130,6 @@ Sözlü sözleşmenin geçerliliği ve yazılı teklifle çeliştiğinde ne oldu
 
 Trafik kazasından sonra tutanak, kusur ve olay yerinde söylenenler: [Trafik kazası yaptım, ne yapmalıyım? Kaza tespit tutanağı, kusur ve olay yerinde söylenenler](/blog/tr/trafik-kazasi-ne-yapmali/).
 
+Doktor muayenesini kaydetmek ve izin yoksa ne yapılacağı: [Doktor muayenesini ses kaydına almak: İzin şart mı, ve unuttuklarınızı nasıl geri alırsınız?](/blog/tr/doktor-gorusmesi-ses-kaydi/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Yargıtay'ın istisnası somut olaya göre değerlendirilir; somut bir durum için bir avukata danışın.</p>

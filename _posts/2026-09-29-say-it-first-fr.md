@@ -115,3 +115,5 @@ Ce qu'il faut faire du fichier ensuite, et pourquoi le diffuser obéit à ses pr
 Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
 
 Prêt d'argent entre particuliers sans reconnaissance de dette : comment le prouver et dans quel délai agir : [Prêt d'argent entre particuliers sans reconnaissance de dette : comment le prouver, et combien de temps vous avez](/blog/fr/pret-entre-particuliers/).
+
+Enregistrer une consultation chez le médecin, et ce qu'on peut obtenir par écrit : [Enregistrer une consultation chez le médecin : a-t-on le droit, et que peut-on obtenir par écrit ?](/blog/fr/enregistrer-consultation-medecin/).

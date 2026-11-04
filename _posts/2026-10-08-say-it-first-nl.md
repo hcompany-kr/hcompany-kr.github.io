@@ -115,3 +115,5 @@ Wat je na de opname met het bestand doet — en waarom verspreiden eigen regels 
 Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
 
 Geld geleend zonder contract: hoe je het bewijst en waarom een mondelinge herinnering de verjaring niet stuit, staat in [Geld geleend aan een vriend en niet terugbetaald: bewijzen zonder contract, en waarom een mondelinge herinnering niet telt](/blog/nl/geld-geleend/).
+
+Of je een gesprek met je arts of bedrijfsarts mag opnemen: [Gesprek met je arts opnemen: mag dat zonder toestemming, ook bij de bedrijfsarts?](/blog/nl/gesprek-met-arts-opnemen/).

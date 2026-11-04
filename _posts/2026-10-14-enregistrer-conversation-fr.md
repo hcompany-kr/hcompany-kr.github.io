@@ -146,4 +146,6 @@ Démission forcée ou rupture conventionnelle sous pression : [Démission forcé
 
 Après un accident de voiture, ce qu'il faut faire et dire : [Accident de voiture : que faire, que dire, et ce que le constat amiable ne garde pas](/blog/fr/accident-voiture-que-faire/).
 
+Enregistrer une consultation chez le médecin, et ce qu'on peut obtenir par écrit : [Enregistrer une consultation chez le médecin : a-t-on le droit, et que peut-on obtenir par écrit ?](/blog/fr/enregistrer-consultation-medecin/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Les décisions citées ont été vérifiées à la date de publication ; la jurisprudence évolue. Pour un cas précis, consultez un avocat.</p>

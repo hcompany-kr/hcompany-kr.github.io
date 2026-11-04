@@ -125,4 +125,6 @@ Dohoda o rozvázání pracovního poměru podepsaná pod nátlakem: [Dohoda o ro
 
 Co dělat po dopravní nehodě a kdy volat policii: [Dopravní nehoda – co dělat? Hranice 200 000 Kč, společný záznam a věta, která se nikam nezapíše](/blog/cs/dopravni-nehoda-co-delat/).
 
+Kdy lze nahrávat lékaře a co říká návrh metodiky ministerstva: [Nahrávání lékaře pacientem: kdy to jde bez souhlasu a co říká návrh metodiky ministerstva](/blog/cs/nahravani-lekare/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Uvedená rozhodnutí a předpisy byly ověřeny ke dni zveřejnění; judikatura se vyvíjí. V konkrétní věci se obraťte na advokáta.</p>

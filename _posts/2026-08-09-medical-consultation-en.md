@@ -94,6 +94,8 @@ Afterwards you can listen and find out what *they said it's fine* actually meant
 
 **If something goes wrong**, records and written communications matter more than audio. Request them early — the 30-day clock only starts when you ask.
 
+For Germany, Austria and Switzerland, France, Belgium, Switzerland and Quebec, Brazil and Portugal, and the Netherlands, see the [German](/blog/de/arztgespraech-aufnehmen/), [French](/blog/fr/enregistrer-consultation-medecin/), [Portuguese](/blog/pt-br/gravar-consulta-medica/) and [Dutch](/blog/nl/gesprek-met-arts-opnemen/) editions. India is covered in [Hindi](/blog/hi/doctor-se-baat-record/).
+
 
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not medical or legal advice. For health decisions consult your clinician; for a specific legal situation consult a lawyer in your state.</p>
