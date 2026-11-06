@@ -8,7 +8,7 @@ eyebrow: Nasıl yapılır
 title: "Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir"
 description: "Trafik, rüzgâr, arkada bir kafe. Kaydedilmiş bir konuşmayı temizlemenin dört yolu — kayıt sırasında telefonda, sonradan telefonda, bilgisayarda ya da yükleyerek — ve hangilerinin sokak gürültüsüyle başa çıktığı."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Android'de bir ses kaydındaki arka plan gürültüsünü nasıl gideririm?"
     a: "Dört yol var: Pixel 9 serisindeki Google Kaydedici uygulamasının Clear voice özelliği gibi kayıt sırasında gürültüyü azaltan bir kayıt uygulaması; TalkSafe'in yapay zekâ ile gürültü giderme özelliği gibi dosyayı sonradan telefonda temizleyen bir uygulama; Audacity'nin Gürültü Azaltma efekti gibi bir bilgisayar programı; ya da Adobe Podcast Enhance Speech gibi dosyayı yüklediğiniz bir web hizmeti."

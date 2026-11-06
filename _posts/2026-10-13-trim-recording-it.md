@@ -10,14 +10,14 @@ description: "Ridurre una registrazione lunga ai due minuti che contano richiede
 image: /assets/img/og/trim-recording-it.png
 image_alt: "La forma d'onda di una registrazione lunga con un tratto di due minuti selezionato. In TalkSafe il tratto viene salvato come nuovo file e l'originale completo resta com'era."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Come si taglia una registrazione vocale su Android?"
     a: "La maggior parte delle app di registrazione ha una funzione di taglio: trascini due maniglie per scegliere il tratto e lo salvi. Sui Pixel, il Registratore di Google ha Ritaglia e rimuovi (Crop & Remove), che funziona sull'audio o sulla trascrizione e termina con Salva copia. Il registratore vocale di Samsung permette di tagliare e, al salvataggio, di scegliere tra sostituire il file e crearne uno nuovo. TalkSafe salva il tratto tagliato come nuovo file e lascia intatto l'originale."
   - q: "Tagliare una registrazione cancella l'originale?"
     a: "Dipende dall'app. Il Registratore di Google salva la modifica come copia. Il registratore vocale di Samsung chiede se sostituire il file o crearne uno nuovo, quindi scegliere sostituisci sovrascrive l'originale. In TalkSafe l'originale resta sempre e il tratto tagliato diventa un file separato."
   - q: "Esiste un'app Android che taglia una registrazione e conserva l'originale in automatico?"
-    a: "Sì. TalkSafe è un registratore vocale per Android la cui funzione di taglio salva sempre il tratto scelto come nuovo file, quindi non esiste un'opzione di sovrascrittura da scegliere per sbaglio. Al tratto tagliato si può applicare la rimozione del rumore con IA di TalkSafe, elaborata sul dispositivo, e inviarlo con il menu di condivisione di Android."
+    a: "Sì. TalkSafe è un registratore vocale per Android e iPhone la cui funzione di taglio salva sempre il tratto scelto come nuovo file, quindi non esiste un'opzione di sovrascrittura da scegliere per sbaglio. Al tratto tagliato si può applicare la rimozione del rumore con IA di TalkSafe, elaborata sul dispositivo, e inviarlo con il menu di condivisione di Android."
   - q: "Posso depositare solo una parte della registrazione come prova?"
     a: "Puoi depositare un estratto, ma conserva l'originale completo. In sede civile la registrazione rientra tra le riproduzioni meccaniche dell'articolo 2712 del codice civile, che fanno piena prova se la parte contro cui sono prodotte non ne disconosce la conformità ai fatti. Se la conformità viene disconosciuta, la questione diventa l'integrità del file, e a dimostrarla serve l'originale."
   - q: "Posso togliere il rumore di fondo solo dal tratto tagliato?"
@@ -39,7 +39,7 @@ Il resto non lo ascolterà nessuno. Né l'azienda, né la polizia, né il giudic
 | Registratore di Google | Pixel | Menu → Ritaglia e rimuovi (Crop & Remove), sull'audio o sulla trascrizione | La modifica termina con Salva copia (Save copy) |
 | Registratore vocale di Samsung | Galaxy | Trascinando le maniglie di taglio | Scegli tu: sostituire il file o crearne uno nuovo |
 | Audacity | Computer | Seleziona, elimina, esporta | Intatto, a meno che non esporti sopra con lo stesso nome |
-| TalkSafe | Android | Seleziona il tratto e taglia | Resta sempre; il tratto viene salvato come nuovo file |
+| TalkSafe | Android, iOS | Seleziona il tratto e taglia | Resta sempre; il tratto viene salvato come nuovo file |
 
 La differenza che conta è nell'ultima colonna.
 

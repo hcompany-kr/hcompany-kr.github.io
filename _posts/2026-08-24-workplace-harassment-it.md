@@ -8,7 +8,7 @@ eyebrow: Lavoro
 title: "In Italia il mobbing non è definito da nessuna legge"
 description: "Non esiste una norma che lo definisca: la tutela nasce dall'art. 2087 c.c. e dalla giurisprudenza. E dal 2023 il risarcimento non richiede più né la reiterazione né l'intento persecutorio."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Esiste una legge italiana che definisce il mobbing?"
     a: "No. Nessuna norma dello Stato lo definisce. La tutela nasce dall'articolo 2087 del codice civile, che obbliga il datore di lavoro ad adottare le misure necessarie a tutelare l'integrità fisica e la personalità morale dei lavoratori, e dalla giurisprudenza della Cassazione che ha costruito la fattispecie."

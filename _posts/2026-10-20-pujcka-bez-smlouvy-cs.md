@@ -10,7 +10,7 @@ description: "Zápůjčka platí i ústně, ale kdo chce peníze zpět, musí pr
 image: /assets/img/og/pujcka-bez-smlouvy-cs.png
 image_alt: "Půjčka bez smlouvy, Česko a Slovensko: písemné uznání dluhu spustí novou desetiletou lhůtu (§ 639, § 558); ústní slib promlčení neprodlouží; vlastní rozhovor lze bez svolení nahrát k ochraně práv v Česku, na Slovensku ne."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Je platná půjčka bez písemné smlouvy?"
     a: "Ano. Smlouva o zápůjčce nemusí být písemná. Problém je důkaz: když druhá strana tvrdí, že peníze byly dar, musí ten, kdo je chce zpět, prokázat, že šlo o zápůjčku. Bankovní převod ukazuje, že peníze odešly, ale ne proč."
@@ -79,7 +79,7 @@ O penězích se mluví u stolu nebo po telefonu, ne písemně. Podle **§ 88 ob�
 
 „Můžu si to nahrát?“ se ale starému kamarádovi neříká snadno.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**, takže můžete nastavit, co dlužník pravděpodobně řekne: **„vrátím“**, **„příští měsíc“**. Když řekne „Vrátím ti to příští měsíc“, nahrávání začne — a to, co padlo předtím, je v souboru také.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**, takže můžete nastavit, co dlužník pravděpodobně řekne: **„vrátím“**, **„příští měsíc“**. Když řekne „Vrátím ti to příští měsíc“, nahrávání začne — a to, co padlo předtím, je v souboru také.
 
 <figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
 

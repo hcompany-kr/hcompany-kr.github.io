@@ -8,7 +8,7 @@ eyebrow: Návod
 title: "Co s nahrávkou dělat, a co s ní nedělat"
 description: "Jak soubor uchovat, zkrátit na to podstatné, vyčistit od hluku a kam ho předložit. A proč šíření nahrávky má v Česku i na Slovensku vlastní pravidla."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Dá se z nahrávky ponechat jen důležitá část?"
     a: "TalkSafe má funkci vystřižení. Originál zůstane beze změny a vybraný úsek se uloží jako nový soubor. Můžete tak připravit krátkou verzi k předložení a celou nahrávku si ponechat."

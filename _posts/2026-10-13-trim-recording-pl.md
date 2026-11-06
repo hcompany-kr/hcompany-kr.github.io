@@ -10,14 +10,14 @@ description: "Skrócenie długiego nagrania do dwóch minut, które się liczą,
 image: /assets/img/og/trim-recording-pl.png
 image_alt: "Przebieg długiego nagrania z zaznaczonym dwuminutowym fragmentem. W TalkSafe fragment zapisuje się jako nowy plik, a pełny oryginał zostaje bez zmian."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Jak przyciąć nagranie głosu na Androidzie?"
     a: "Większość aplikacji do nagrywania ma funkcję przycinania: przeciągasz dwa uchwyty, wybierasz fragment i zapisujesz. Na telefonach Pixel aplikacja Dyktafon Google ma Przytnij i usuń (Crop & Remove), które działa na dźwięku albo na transkrypcji i kończy się zapisem kopii. Dyktafon Samsunga pozwala przyciąć nagranie i przy zapisie wybrać, czy zastąpić plik, czy utworzyć nowy. TalkSafe zapisuje wycięty fragment jako nowy plik i nie rusza oryginału."
   - q: "Czy przycięcie nagrania usuwa oryginał?"
     a: "To zależy od aplikacji. Dyktafon Google zapisuje edycję jako kopię. Dyktafon Samsunga pyta, czy zastąpić plik, czy utworzyć nowy; wybór zastąpienia nadpisuje oryginał. W TalkSafe oryginał zawsze zostaje, a wycięty fragment staje się osobnym plikiem."
   - q: "Czy jest aplikacja na Androida, która przycina nagranie i automatycznie zachowuje oryginał?"
-    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida, której funkcja wycinania zawsze zapisuje wybrany fragment jako nowy plik, więc nie ma opcji nadpisania, którą można wybrać przez pomyłkę. Do wyciętego fragmentu można zastosować usuwanie szumów z AI w TalkSafe, przetwarzane na urządzeniu, i wysłać go przez menu udostępniania Androida."
+    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, której funkcja wycinania zawsze zapisuje wybrany fragment jako nowy plik, więc nie ma opcji nadpisania, którą można wybrać przez pomyłkę. Do wyciętego fragmentu można zastosować usuwanie szumów z AI w TalkSafe, przetwarzane na urządzeniu, i wysłać go przez menu udostępniania Androida."
   - q: "Czy mogę złożyć jako dowód tylko część nagrania?"
     a: "Możesz złożyć fragment, ale zachowaj pełny oryginał. Sąd Najwyższy uznawał nagrania dokonane bez wiedzy rozmówcy za dowód w sprawach cywilnych, jeśli nie podważono skutecznie ich autentyczności. Gdy druga strona ją podważa, to właśnie nietknięty oryginał pozwala wykazać, że fragment jest zwykłym wycinkiem."
   - q: "Czy mogę usunąć hałas w tle tylko z wyciętego fragmentu?"
@@ -39,7 +39,7 @@ Reszty nikt nie wysłucha. Ani pracodawca, ani policja, ani sąd. Jeśli oddasz 
 | Dyktafon Google | Pixel | Menu → Przytnij i usuń (Crop & Remove), na dźwięku albo transkrypcji | Edycja kończy się zapisem kopii (Save copy) |
 | Dyktafon Samsunga | Galaxy | Przeciągając uchwyty przycinania | Wybierasz: zastąpić plik albo utworzyć nowy |
 | Audacity | Komputer | Zaznacz, usuń, wyeksportuj | Nietknięty, chyba że wyeksportujesz na niego pod tą samą nazwą |
-| TalkSafe | Android | Wybierz fragment i wytnij | Zawsze zostaje; fragment zapisuje się jako nowy plik |
+| TalkSafe | Android, iOS | Wybierz fragment i wytnij | Zawsze zostaje; fragment zapisuje się jako nowy plik |
 
 Różnica, która się liczy, jest w ostatniej kolumnie.
 

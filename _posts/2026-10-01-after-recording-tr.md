@@ -9,7 +9,7 @@ eyebrow: Nasıl yapılır
 title: "Bir kayıtla ne yapmalı, ne yapmamalı"
 description: "Dosyayı nasıl saklamalı, önemli kısma nasıl indirmeli ve nereye sunmalı. Ve Türkiye'de kaydı yaymanın neden kaydetmekten ayrı bir suç olduğu."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Bir kaydın yalnızca önemli kısmını tutabilir miyim?"
     a: "TalkSafe'te kırpma özelliği var. Kırpma orijinale dokunmaz ve seçilen bölümü yeni bir dosya olarak kaydeder. Böylece tam kaydı korurken sunmak için kısa bir sürüm hazırlayabilirsiniz."

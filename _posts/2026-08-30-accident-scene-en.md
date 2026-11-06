@@ -8,7 +8,7 @@ eyebrow: Accidents
 title: "No accident form has a box for what was said"
 description: "In the US an admission at the scene is a hearsay exception, and in a modified comparative negligence state it can push you across the line that pays nothing. In the UK the duty is to stop, give particulars, and report within 24 hours."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is admitting fault at the scene legally significant in the US?"
     a: "Yes. Statements admitting fault are treated as an exception to the hearsay rule because they are contrary to your interest and presumed true, and they can be raised later at trial. Even where other evidence overcomes the statement, it can still call your credibility into question and reduce the value of the claim."

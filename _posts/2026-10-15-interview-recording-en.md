@@ -10,7 +10,7 @@ description: "Private investigators, detectives, journalists, insurance investig
 image: /assets/img/og/interview-recording-en.png
 image_alt: "Two ways to record an interview: taking out a recorder makes the other person choose their words; a keyword-triggered recording starts without touching the phone, so the conversation carries on. Your own conversations only, original kept."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can a private investigator record an interview they are part of?"
     a: "Under US federal law, yes. 18 U.S.C. § 2511(2)(d) allows a person who is a party to a conversation to record it, unless the recording is made for a criminal or tortious purpose. Nine states require the consent of everyone in the conversation instead: California, Florida, Illinois, Maryland, Massachusetts, Montana, New Hampshire, Pennsylvania and Washington. A private investigator's licence does not change any of this."
@@ -21,7 +21,7 @@ faq:
   - q: "Why does taking out a recorder change an interview?"
     a: "Once a recorder is visible, people start choosing words for the record. Answers get shorter and more careful, and the detail you came for becomes something they will only say off the record. Reaching for a phone mid-conversation to start recording creates the same moment."
   - q: "Is there an app that starts recording without taking out the phone?"
-    a: "TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. It works with the screen locked and the phone in a pocket, the keyword is not tied to your voice so it can be a word the other person is likely to say, and the 30 seconds before the start are saved with the file."
+    a: "TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. It works with the screen locked and the phone in a pocket, the keyword is not tied to your voice so it can be a word the other person is likely to say, and the 30 seconds before the start are saved with the file."
   - q: "What matters if the interview recording becomes evidence?"
     a: "The original. Federal Rule of Evidence 1003 admits a duplicate unless a genuine question is raised about authenticity, and Rule 106 lets the other side require that the rest of a statement be considered alongside an excerpt. TalkSafe's trim and AI noise removal each save a new file and leave the original untouched."
   - q: "What if the interview has to be recorded with consent?"
@@ -60,7 +60,7 @@ Reaching into your pocket mid-conversation, unlocking the phone and finding the 
 
 ## A keyword presses the button for you
 
-[TalkSafe](/talksafe/en/) is an Android voice recorder that starts recording when it hears a word you set in advance. For someone who interviews people, three things matter.
+[TalkSafe](/talksafe/en/) is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. For someone who interviews people, three things matter.
 
 <figure class="shot"><img src="/assets/img/screens/active-en.jpg" alt="TalkSafe screen showing keyword detection active, with a Stop button." width="540" height="960" loading="lazy"><figcaption>Keyword detection active. It keeps listening in the background with the screen off or the app closed.</figcaption></figure>
 

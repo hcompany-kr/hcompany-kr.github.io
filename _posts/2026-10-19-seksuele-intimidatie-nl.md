@@ -10,7 +10,7 @@ description: "In Nederland definieert artikel 7:646 lid 8 BW seksuele intimidati
 image: /assets/img/og/seksuele-intimidatie-nl.png
 image_alt: "Seksuele intimidatie op het werk: in Nederland gedefinieerd in artikel 7:646 lid 8 BW en door de Arbowet onder psychosociale arbeidsbelasting gebracht; in België ongewenst seksueel gedrag onder de welzijnswet, met preventieadviseur en ontslagbescherming; je eigen gesprek opnemen mag in beide landen."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Wat is seksuele intimidatie op het werk volgens de wet?"
     a: "Artikel 7:646 lid 8 van het Burgerlijk Wetboek omschrijft seksuele intimidatie als enige vorm van verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast, in het bijzonder wanneer een bedreigende, vijandige, beledigende, vernederende of kwetsende situatie wordt gecreëerd. De definitie gaat terug op de Europese richtlijn 2002/73/EG."
@@ -77,7 +77,7 @@ In **Nederland** is het opnemen van een gesprek **waaraan je zelf deelneemt** ni
 
 Intimidatie kondigt zich niet aan. Tegen de tijd dat je je telefoon pakt, ontgrendelt en op opnemen drukt, is de zin al gevallen — en het gebaar zelf kan het erger maken.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**.
 
 <figure class="shot"><img src="/assets/img/screens/settings-nl.jpg" alt="Instellingenscherm van TalkSafe: automatische opnameduur na herkenning (10 minuten, 30 minuten, 1 uur, handmatig stoppen), herkenningstaal en cloudback-up." width="540" height="960" loading="lazy"><figcaption>Instellingen. Je kiest hoe lang er na een herkenning wordt opgenomen en de herkenningstaal; luisteren en herkennen gebeurt op de telefoon, zonder internet.</figcaption></figure>
 

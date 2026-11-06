@@ -10,7 +10,7 @@ description: "V Česku je sexuální obtěžování podle antidiskriminačního 
 image: /assets/img/og/sexualni-obtezovani-cs.png
 image_alt: "Sexuální obtěžování na pracovišti: v Česku forma diskriminace podle antidiskriminačního zákona; zaměstnanec musí prokázat samotné jednání, motiv soud předpokládá (NS 21 Cdo 572/2011); nahrávka vlastního rozhovoru k ochraně práv je bez svolení přípustná; na Slovensku je ke záznamu potřeba svolení."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Co je sexuální obtěžování na pracovišti podle českého práva?"
     a: "Antidiskriminační zákon č. 198/2009 Sb. považuje sexuální obtěžování za formu diskriminace (§ 4). Jde o nežádoucí chování sexuální povahy, které vede ke snížení důstojnosti člověka nebo k vytvoření zastrašujícího, nepřátelského, ponižujícího nebo urážlivého prostředí. Zaměstnavatel je podle zákoníku práce povinen zajišťovat rovné zacházení a diskriminaci zakazuje (§ 16)."
@@ -85,7 +85,7 @@ Nahrát rozhovor s tím, kdo vás obtěžuje, kvůli doložení toho, co se děj
 
 Obtěžování se neohlašuje. Než vytáhnete telefon, odemknete ho a zmáčknete nahrávání, věta už padla — a samotné gesto může situaci zhoršit.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**.
 
 <figure class="shot"><img src="/assets/img/screens/settings-cs.jpg" alt="Nastavení TalkSafe: doba automatického nahrávání po rozpoznání slova (10 minut, 30 minut, 1 hodina, ruční ukončení), jazyk rozpoznávání a zálohování do cloudu." width="540" height="960" loading="lazy"><figcaption>Nastavení. Zvolíte, jak dlouho nahrávat po rozpoznání, a jazyk rozpoznávání; poslech a rozpoznávání probíhá v telefonu, bez internetu.</figcaption></figure>
 

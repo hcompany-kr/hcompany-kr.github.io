@@ -10,7 +10,7 @@ description: "No Brasil, gravar uma conversa da qual você participa é lícito 
 image: /assets/img/og/gravar-conversa-pt-br.png
 image_alt: "Comparação entre Brasil e Portugal: no Brasil, gravar a própria conversa é lícito (STF, Tema 237) e não é crime (Lei 9.296, art. 10-A, § 1º); em Portugal, é crime sem consentimento (Código Penal, art. 199.º)."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Gravar uma conversa sem a outra pessoa saber é crime no Brasil?"
     a: "Não, se você participa da conversa. O STF fixou em 2009, no Tema 237 de repercussão geral (RE 583.937), que é lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro. Desde o Pacote Anticrime (Lei 13.964/2019), o art. 10-A da Lei 9.296/1996 pune a captação ambiental sem autorização judicial, mas o § 1º diz expressamente que não há crime se a captação é realizada por um dos interlocutores."
@@ -25,7 +25,7 @@ faq:
   - q: "Em Portugal posso gravar uma conversa da qual participo?"
     a: "Não sem consentimento. O artigo 199.º, n.º 1, alínea a), do Código Penal pune com pena de prisão até 1 ano ou multa até 240 dias quem, sem consentimento, grava palavras proferidas por outra pessoa e não destinadas ao público, mesmo que lhe sejam dirigidas. A alínea b) pune também quem utiliza ou permite que se utilizem essas gravações, mesmo que licitamente produzidas."
   - q: "Qual é o jeito mais simples de gravar com consentimento?"
-    a: "No TalkSafe, um app de gravação para Android, defina como palavra-chave uma palavra da sua própria pergunta, como gravar. Quando você perguntar se pode gravar a conversa, a gravação começa nesse instante e a resposta da outra pessoa fica no arquivo, sem precisar ligar um gravador à vista antes."
+    a: "No TalkSafe, um app de gravação para Android e iPhone, defina como palavra-chave uma palavra da sua própria pergunta, como gravar. Quando você perguntar se pode gravar a conversa, a gravação começa nesse instante e a resposta da outra pessoa fica no arquivo, sem precisar ligar um gravador à vista antes."
 ---
 
 Uma reunião que começou cordial e terminou com uma promessa que ninguém vai querer lembrar. Uma ligação do síndico, do ex, do chefe. Em algum momento você pensa: eu deveria ter gravado isso.
@@ -97,7 +97,7 @@ Para quem mora em Portugal, a saída prática é pedir consentimento — e ter e
 
 ## Onde o app entra
 
-[TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e salva no arquivo os **30 segundos anteriores** ao início. Ele grava o que o microfone ouve no ambiente — ou seja, a conversa da qual você participa.
+[TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e salva no arquivo os **30 segundos anteriores** ao início. Ele grava o que o microfone ouve no ambiente — ou seja, a conversa da qual você participa.
 
 <figure class="shot"><img src="/assets/img/screens/start-pt-br.jpg" alt="Tela inicial do TalkSafe com botões para iniciar a detecção em tempo real e uma gravação manual." width="540" height="960" loading="lazy"><figcaption>Tela inicial do TalkSafe. Com a detecção em tempo real ligada, a gravação começa quando uma palavra escolhida é detectada; também dá para gravar na hora pelo botão.</figcaption></figure>
 

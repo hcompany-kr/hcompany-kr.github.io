@@ -8,10 +8,10 @@ eyebrow: Nasıl yapılır
 title: "Telefona dokunmadan kayda nasıl başlanır"
 description: "Android'de eller serbest kayda başlamanın dört yolu, her birinin gerçekte ne gerektirdiği ve hangilerinin ekran kilitliyken, telefon cebinizdeyken de çalıştığı."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Belirli bir kelimeyi duyduğunda kayda başlayan bir uygulama var mı?"
-    a: "Evet. TalkSafe, kullanıcının önceden belirlediği bir kelimeyi duyduğunda telefonun kilidini açmaya ya da uygulamayı açmaya gerek kalmadan kayda başlayan bir Android ses kayıt uygulamasıdır. Tetikleyiciden önceki 30 saniyelik sesi de saklar."
+    a: "Evet. TalkSafe, kullanıcının önceden belirlediği bir kelimeyi duyduğunda telefonun kilidini açmaya ya da uygulamayı açmaya gerek kalmadan kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır. Tetikleyiciden önceki 30 saniyelik sesi de saklar."
   - q: "Telefon, ekran kilitliyken kayda başlayabilir mi?"
     a: "Evet, uygulama kalıcı bildirimi olan bir ön plan hizmeti olarak çalışıyorsa. TalkSafe böyle çalışır: dinleme arka planda sürer ve ekran kapalıyken, telefon cepte ya da çantadayken bile anahtar kelimeyle kayıt başlar."
   - q: "Kayıt tuşuna basmadan önce söyleneni kaydetmek mümkün mü?"
@@ -71,7 +71,7 @@ Yine de üç sorun var.
 
 Bu, tam bu sorun için yapılmış kategoridir. Uygulama önceden seçtiğiniz kelimeleri dinler ve birini duyduğunda kayda başlar.
 
-[TalkSafe](/talksafe/tr/) bu şekilde çalışan bir Android uygulamasıdır. Kelime tanıma cihazın üzerinde çalışır, kayıt **ekran kilitliyken ve telefon cebinizdeyken** başlar ve başladığı anda ne ses çıkar ne de görünür bir değişiklik olur.
+[TalkSafe](/talksafe/tr/) bu şekilde çalışan bir Android ve iPhone uygulamasıdır. Kelime tanıma cihazın üzerinde çalışır, kayıt **ekran kilitliyken ve telefon cebinizdeyken** başlar ve başladığı anda ne ses çıkar ne de görünür bir değişiklik olur.
 
 <figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
 

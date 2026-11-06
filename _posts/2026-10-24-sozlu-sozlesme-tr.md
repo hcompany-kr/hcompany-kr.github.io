@@ -10,7 +10,7 @@ description: "Türkiye'de sözleşmeler, kanun aksini öngörmedikçe hiçbir ş
 image: /assets/img/og/sozlu-sozlesme-tr.png
 image_alt: "Türkiye'de sözlü sözleşme: kanunda aksi yoksa geçerli (TBK 12); taşınmaz satışı resmî şekle, kefalet yazılı şekle bağlı; belirli tutarın üzerinde senetle ispat (HMK 200); senede karşı tanıkla ispat yasağı (HMK 201); delil başlangıcı varsa tanık dinlenebilir (HMK 202); katıldığınız konuşmayı rızasız kaydetmek suç (TCK 133/2)."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Sözlü sözleşme geçerli mi?"
     a: "Evet. Türk Borçlar Kanunu madde 12'ye göre sözleşmelerin geçerliliği, kanunda aksine bir hüküm bulunmadıkça hiçbir şekle bağlı değildir. Kanun şekil öngördüğünde, örneğin taşınmaz satışında resmî şekil (TBK 237) veya kefalette yazılı şekil (TBK 583) gerektiğinde, şekle uyulmadan yapılan sözleşme geçerli olmaz."
@@ -23,7 +23,7 @@ faq:
   - q: "Konuşulanı en iyi nasıl kayıt altına alırım?"
     a: "Aynı gün kısa bir mesaj veya e-posta gönderin: 'Bugün konuştuğumuz gibi, eski fayansların sökülüp atılması teklif fiyatına dahildir.' Usta onaylarsa veya itiraz etmezse, tarihli bir yazılı belgeniz olur; karşı taraftan gelen bir cevap HMK 202 anlamında delil başlangıcı olabilir."
   - q: "TalkSafe bunda nasıl yardımcı olur?"
-    a: "TalkSafe, önceden belirlenen bir kelimeyle başlayan ve ekran kilitliyken çalışan bir Android ses kayıt uygulamasıdır. Anahtar kelimeyi kendi sorunuza koyabilirsiniz, örneğin 'Kaydedebilir miyim?' sorusunda 'kaydedebilir': kayıt o anda başlar, cevap dosyada olur ve önceki 30 saniye de saklanır."
+    a: "TalkSafe, önceden belirlenen bir kelimeyle başlayan ve ekran kilitliyken çalışan Android ve iPhone için bir ses kayıt uygulamasıdır. Anahtar kelimeyi kendi sorunuza koyabilirsiniz, örneğin 'Kaydedebilir miyim?' sorusunda 'kaydedebilir': kayıt o anda başlar, cevap dosyada olur ve önceki 30 saniye de saklanır."
 ---
 
 Fayans ustası boş mutfakta, teklif tezgâhın üstünde.

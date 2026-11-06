@@ -8,7 +8,7 @@ eyebrow: Kayıt
 title: "Kayıt cihazlarını birbirinden ayıran, ne zaman başladıklarıdır"
 description: "Yakaya takılan kayıt cihazları, VOX cihazları, yapay zekâlı not cihazları, telefon uygulamaları. Her birinin gün sonunda elinizde ne bıraktığı ve hangisinde sonradan bir şey bulunabildiği."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Ses kayıt cihazında VOX ne demek?"
     a: "VOX, sesle etkinleştirme anlamına gelir. Cihaz ses algılayana kadar bekler, ses bitene kadar kaydeder. Sürekli çalışmadığı için çok daha az pil harcar; bu cihazların bekleme sürelerini saat yerine ay olarak duyurmasının sebebi budur."
@@ -90,7 +90,7 @@ Satın almadan önce sürekli maliyetin nerede olduğuna bakın. **Donanım bir 
 
 **Anahtar kelimeyle başlayan bir uygulama** önceden belirlediğiniz bir kelimeyi duyduğunda başlar. Dosya sabah dokuzda değil, o anda başlar; sonradan içinde aranacak bir şey kalmaz.
 
-Bizim çalıştığımız kategori bu; bir sonraki kısmı bunu bilerek okuyun. [TalkSafe](/talksafe/tr/), seçtiğiniz bir kelimeyle başlayan, ekran kilitliyken çalışan ve başlamadan önceki 30 saniyeyi dosyayla birlikte saklayan bir Android uygulamasıdır; kesilen ilk hece sorununa cevap veren kısım budur. Bir bölümü kesip ayırmak orijinal dosyayı olduğu gibi bırakır. Sokak gibi gürültülü bir yerde yapılan bir kayıt, cihazda çalışan yapay zekâ ile gürültü giderme özelliğiyle sonradan temizlenebilir; bu, orijinalin yanına yeni bir dosya kaydeder.
+Bizim çalıştığımız kategori bu; bir sonraki kısmı bunu bilerek okuyun. [TalkSafe](/talksafe/tr/), seçtiğiniz bir kelimeyle başlayan, ekran kilitliyken çalışan ve başlamadan önceki 30 saniyeyi dosyayla birlikte saklayan bir Android ve iPhone uygulamasıdır; kesilen ilk hece sorununa cevap veren kısım budur. Bir bölümü kesip ayırmak orijinal dosyayı olduğu gibi bırakır. Sokak gibi gürültülü bir yerde yapılan bir kayıt, cihazda çalışan yapay zekâ ile gürültü giderme özelliğiyle sonradan temizlenebilir; bu, orijinalin yanına yeni bir dosya kaydeder.
 
 <figure class="shot"><img src="/assets/img/screens/start-tr.jpg" alt="TalkSafe başlangıç ekranı: gerçek zamanlı algılamayı ve manuel kaydı başlatma düğmeleri." width="540" height="960" loading="lazy"><figcaption>TalkSafe başlangıç ekranı. Gerçek zamanlı algılama açıkken belirlediğiniz kelime algılandığında kayıt başlar; düğmeyle hemen de kayıt alabilirsiniz.</figcaption></figure>
 

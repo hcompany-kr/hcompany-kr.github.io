@@ -9,7 +9,7 @@ eyebrow: Contracts
 title: "Selling a car \"as is\" does not cover a lie"
 description: "What an as-is sale actually waives, the 12 states and D.C. where it is limited, why fraud voids it anyway, and how to hold a dealer to what was only said out loud."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "What is the Buyers Guide on a used car?"
     a: "A window sticker the FTC's Used Car Rule requires dealers to display on used vehicles offered for sale. It states whether a warranty is offered and its terms, lists major systems and the defects that can occur in them, and recommends getting a vehicle history report and an independent inspection."

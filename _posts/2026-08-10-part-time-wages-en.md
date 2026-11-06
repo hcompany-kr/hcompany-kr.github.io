@@ -8,7 +8,7 @@ eyebrow: Work
 title: "If your employer kept no records, that works against them"
 description: "There is no federal right to a written contract, but there is a duty to keep records — and a 1946 Supreme Court rule that shifts the burden when employers fail it. What that means on both sides of the paycheck."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Do I need a written contract to claim unpaid wages?"
     a: "No. Federal law does not require a written employment contract, and most US employment is at will. What the law does require is that the employer keep accurate records of wages, hours and working conditions under 29 U.S.C. 211(c)."

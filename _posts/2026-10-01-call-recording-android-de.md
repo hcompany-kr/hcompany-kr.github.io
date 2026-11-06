@@ -8,7 +8,7 @@ eyebrow: Anleitung
 title: "Warum Anrufaufnahme-Apps auf Android nicht mehr funktionieren – und was noch geht"
 description: "Android hat die Schnittstelle 2015 entfernt, 2019 den Weg über das Mikrofon gesperrt, und Google hat im Mai 2022 das letzte Schlupfloch geschlossen. Die eingebaute Telefon-App war nie betroffen. Dazu, was in Deutschland, Österreich, der Schweiz, Liechtenstein, Luxemburg und Belgien gilt."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Warum funktionieren Apps zur Anrufaufnahme auf Android nicht mehr?"
     a: "Android 6 hat 2015 die Schnittstelle zur Anrufaufnahme entfernt, Android 10 hat 2019 die Aufnahme von Anrufen über das Mikrofon gesperrt. Entwickler wichen danach auf die Bedienungshilfen-Schnittstelle (Accessibility API) aus, und am 11. Mai 2022 hat Google auch diesen Weg geschlossen. Anrufaufnahme-Apps von Drittanbietern wurden aus dem Play Store entfernt."
@@ -19,7 +19,7 @@ faq:
   - q: "Funktioniert es, das Telefonat auf Lautsprecher zu stellen und mit einer Aufnahme-App aufzunehmen?"
     a: "Ja, auf jedem Android-Telefon, weil die App dann den Ton im Raum aufnimmt und nicht den Anruf selbst. Die Nachteile sind schlechtere Tonqualität, Hintergrundgeräusche und dass alle in der Nähe das Gespräch mithören."
   - q: "Ist TalkSafe eine App zur Anrufaufnahme?"
-    a: "Nein. TalkSafe ist eine Aufnahme-App für Android, die aufnimmt, was das Mikrofon im Raum hört; auf den Anruf selbst hat sie keinen Zugriff. Bei einem Telefonat auf Lautsprecher nimmt sie beide Seiten auf. Sie startet, wenn sie ein vorher festgelegtes Wort hört, funktioniert bei gesperrtem Bildschirm und speichert die 30 Sekunden vor dem Start mit."
+    a: "Nein. TalkSafe ist eine Aufnahme-App für Android und iPhone, die aufnimmt, was das Mikrofon im Raum hört; auf den Anruf selbst hat sie keinen Zugriff. Bei einem Telefonat auf Lautsprecher nimmt sie beide Seiten auf. Sie startet, wenn sie ein vorher festgelegtes Wort hört, funktioniert bei gesperrtem Bildschirm und speichert die 30 Sekunden vor dem Start mit."
   - q: "Wie holt man am Telefon die Einwilligung ein, ohne umständlich zu werden?"
     a: "Legen Sie in TalkSafe ein Wort aus Ihrer Frage als Schlüsselwort fest, etwa ‚aufnehmen‘, und stellen Sie das Telefonat auf Lautsprecher. Fragen Sie dann ‚Darf ich das Gespräch aufnehmen?‘, beginnt die Aufnahme in diesem Moment, und die Antwort Ihres Gegenübers ist in der Datei."
   - q: "Ändert ein separates Aufnahmegerät etwas an der Rechtslage?"

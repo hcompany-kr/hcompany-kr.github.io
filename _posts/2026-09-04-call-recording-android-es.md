@@ -8,7 +8,7 @@ eyebrow: Cómo hacerlo
 title: "Por qué dejaron de funcionar las apps para grabar llamadas en Android"
 description: "Android quitó la API en 2015, cerró la vía del micrófono en 2019 y Google tapó el último atajo en mayo de 2022. El marcador que trae el teléfono nunca estuvo incluido, y por eso a unos les funciona y a otros no."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Por qué ya no funcionan las apps para grabar llamadas en Android?"
     a: "Android 6, de 2015, eliminó la API de grabación de llamadas. Android 10, de 2019, bloqueó la grabación a través del micrófono. Los desarrolladores pasaron entonces a usar la API de accesibilidad como atajo, y el 11 de mayo de 2022 Google cerró también esa vía, señalando que esa API no fue diseñada para grabar el audio de las llamadas. Las apps de terceros fueron retiradas de Play Store."

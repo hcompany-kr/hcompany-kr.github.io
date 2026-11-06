@@ -8,7 +8,7 @@ eyebrow: Reflexión
 title: "Grabar una conversación, ¿es algo de lo que avergonzarse?"
 description: "Que la ley lo permita y que esté bien hacerlo son dos preguntas distintas. Qué es exactamente lo que produce reparo, y en qué casos ese reparo tiene razón."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Es éticamente reprochable grabar una conversación?"
     a: "Depende de la situación. Registrar una conversación en la que uno participa se parece más a reforzar la memoria que a espiar, pero el carácter cambia si el propósito es provocar frases que la otra persona no diría de saberlo, o si hay intención de usar la grabación fuera de ese contexto."

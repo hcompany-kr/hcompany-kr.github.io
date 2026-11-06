@@ -10,7 +10,7 @@ description: "Après un accident en France, le constat amiable décrit les faits
 image: /assets/img/og/accident-voiture-que-faire-fr.png
 image_alt: "Accident de voiture en France, Belgique, Suisse et Québec : constat amiable à envoyer dans les 5 jours ouvrés, signature qui n'engage que le signataire, délit de fuite ; au Québec, dommages matériels réglés par son propre assureur ; enregistrer sa conversation sans consentement est puni en France et en Suisse, permis au participant en Belgique et au Québec."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Que faire juste après un accident de voiture en France ?"
     a: "S'arrêter, sécuriser les lieux, porter secours aux blessés et appeler les secours s'il y en a, puis remplir un constat amiable avec l'autre conducteur. Le constat doit être transmis à l'assureur dans le délai prévu au contrat, qui ne peut pas être inférieur à cinq jours ouvrés (article L113-2 du Code des assurances). Partir sans s'arrêter pour échapper à sa responsabilité est un délit de fuite (article 434-10 du Code pénal)."
@@ -80,7 +80,7 @@ Ce qui tient :
 - **Votre propre récit, à voix haute, juste après.** Qui a dit quoi, avec quels mots, devant qui. Ce n'est pas enregistrer les paroles d'autrui : c'est votre témoignage, au plus près des faits.
 - **Un enregistrement avec l'accord de l'autre.**
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**, sans déverrouiller le téléphone ni ouvrir l'application. Choisissez un mot comme « note » : dès que l'autre est reparti, vous le dites et votre récit commence, encore au bord de la route. Si l'échange doit être enregistré ouvertement, le mot peut être dans la question : avec « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer, pour qu'on ait la même version ? », et la réponse est dans le fichier, avec les **30 secondes précédentes**.
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**, sans déverrouiller le téléphone ni ouvrir l'application. Choisissez un mot comme « note » : dès que l'autre est reparti, vous le dites et votre récit commence, encore au bord de la route. Si l'échange doit être enregistré ouvertement, le mot peut être dans la question : avec « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer, pour qu'on ait la même version ? », et la réponse est dans le fichier, avec les **30 secondes précédentes**.
 
 <figure class="shot"><img src="/assets/img/screens/active-fr.jpg" alt="Écran de TalkSafe avec la détection des mots-clés active et le bouton Arrêter." width="540" height="960" loading="lazy"><figcaption>Détection des mots-clés active. L'application continue d'écouter en arrière-plan, écran éteint ou application fermée.</figcaption></figure>
 

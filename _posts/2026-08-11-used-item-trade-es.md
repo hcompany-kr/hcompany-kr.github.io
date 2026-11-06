@@ -8,7 +8,7 @@ eyebrow: Compraventa
 title: "Entre particulares no hay garantía, hay vicios ocultos"
 description: "Comprar en Wallapop a alguien que no es profesional cambia las reglas. Qué protege el Código Civil, los seis meses del artículo 1490, y por qué todo acaba dependiendo de lo que se dijo en la entrega."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Hay garantía cuando compro a un particular?"
     a: "No en el sentido de la garantía de consumo. La normativa de defensa de los consumidores no obliga a un vendedor particular a dar cobertura. Lo que existe es el saneamiento por vicios ocultos de los artículos 1484 y siguientes del Código Civil."

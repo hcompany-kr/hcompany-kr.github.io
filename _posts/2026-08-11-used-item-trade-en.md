@@ -8,7 +8,7 @@ eyebrow: Trading
 title: "In a private sale, the only warranty is what the seller said"
 description: "Buying from an individual on Marketplace or OfferUp strips away the protections that come with buying from a business. What remains is the conversation in the parking lot."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Does the implied warranty of merchantability apply when I buy from a private individual?"
     a: "No. Under UCC 2-314, that warranty arises only where the seller is a merchant with respect to goods of that kind. A person making an isolated sale is not a merchant within the meaning of the section, so no implied warranty of merchantability attaches to a garage sale or a Marketplace listing by a neighbor."

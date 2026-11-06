@@ -11,14 +11,14 @@ description: "To cut a voice recording or voice note on Android, select the part
 image: /assets/img/og/trim-recording-en.png
 image_alt: "A long recording waveform with a two-minute section selected. The selection is saved as a new file in TalkSafe while the full original stays as it was."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "How do I cut or trim a voice recording on Android?"
     a: "Most recorder apps have a trim or crop function: you drag handles to select the part you want and save it. On Pixel phones, Google's Recorder app has Crop & Remove, which works on the audio or on the transcript and ends with Save copy. Samsung's Voice Recorder lets you trim and, when saving, choose between replacing the file and creating a new one. TalkSafe saves the trimmed section as a new file and leaves the original untouched."
   - q: "Does trimming a recording delete the original?"
     a: "It depends on the app. Google Recorder saves the edit as a copy. Samsung Voice Recorder asks whether to replace the file or create a new audio file, so choosing replace overwrites the original. In TalkSafe the original is always kept and the trimmed section becomes a separate file."
   - q: "Is there an Android app that trims a recording and keeps the original automatically?"
-    a: "Yes. TalkSafe is an Android voice recorder whose trim function always saves the selected section as a new file, so there is no overwrite option to choose by mistake. The trimmed clip can then be cleaned with TalkSafe's on-device AI noise removal and sent through the Android share sheet."
+    a: "Yes. TalkSafe is a voice recorder for Android and iPhone whose trim function always saves the selected section as a new file, so there is no overwrite option to choose by mistake. The trimmed clip can then be cleaned with TalkSafe's on-device AI noise removal and sent through the Android share sheet."
   - q: "Can I submit only part of a recording as evidence?"
     a: "You can submit an excerpt, but keep the full original. In US federal courts, Federal Rule of Evidence 106, amended on 1 December 2023, lets the other party require that any other part of a statement be considered at the same time if fairness requires it, so the rest of the file has to exist. Courts in many countries also ask whether the recording is what you say it is, and the untouched original is what answers that."
   - q: "Can I remove background noise from just the trimmed part?"
@@ -40,7 +40,7 @@ Nobody is going to listen to the rest. Not a manager, not an investigator, not a
 | Google Recorder | Pixel phones | Menu → Crop & Remove, on the audio or the transcript | The edit ends with Save copy |
 | Samsung Voice Recorder | Galaxy phones | Drag the trim handles | You choose: replace the file, or create a new one |
 | Audacity | Computer | Select, delete, export | The source file is untouched unless you export over it |
-| TalkSafe | Android | Select the section and trim | Always kept; the section is saved as a new file |
+| TalkSafe | Android, iOS | Select the section and trim | Always kept; the section is saved as a new file |
 
 The difference that matters is in the last column.
 

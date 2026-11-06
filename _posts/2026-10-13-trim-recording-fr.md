@@ -10,14 +10,14 @@ description: "Réduire un long enregistrement aux deux minutes qui comptent pren
 image: /assets/img/og/trim-recording-fr.png
 image_alt: "La forme d'onde d'un long enregistrement avec un passage de deux minutes sélectionné. Dans TalkSafe, le passage est enregistré comme un nouveau fichier et l'original complet reste tel quel."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Comment couper un enregistrement vocal sur Android ?"
     a: "La plupart des applications d'enregistrement ont une fonction de découpe : on fait glisser deux poignées pour choisir le passage, puis on enregistre. Sur les Pixel, l'Enregistreur de Google propose Rogner et supprimer (Crop & Remove), qui fonctionne sur l'audio ou sur la transcription et se termine par Enregistrer une copie. L'enregistreur vocal de Samsung permet de couper et, à l'enregistrement, de choisir entre remplacer le fichier et en créer un nouveau. TalkSafe enregistre le passage coupé comme un nouveau fichier et laisse l'original intact."
   - q: "Couper un enregistrement efface-t-il l'original ?"
     a: "Cela dépend de l'application. L'Enregistreur de Google enregistre la modification comme une copie. L'enregistreur vocal de Samsung demande s'il faut remplacer le fichier ou en créer un nouveau ; choisir remplacer écrase l'original. Dans TalkSafe, l'original est toujours conservé et le passage coupé devient un fichier à part."
   - q: "Existe-t-il une application Android qui coupe un enregistrement et garde l'original automatiquement ?"
-    a: "Oui. TalkSafe est une application d'enregistrement pour Android dont la fonction de découpe enregistre toujours le passage choisi comme un nouveau fichier : il n'existe pas d'option d'écrasement à choisir par erreur. Le passage coupé peut ensuite être nettoyé par la suppression du bruit par IA de TalkSafe, traitée sur l'appareil, et envoyé via le menu de partage d'Android."
+    a: "Oui. TalkSafe est une application d'enregistrement pour Android et iPhone dont la fonction de découpe enregistre toujours le passage choisi comme un nouveau fichier : il n'existe pas d'option d'écrasement à choisir par erreur. Le passage coupé peut ensuite être nettoyé par la suppression du bruit par IA de TalkSafe, traitée sur l'appareil, et envoyé via le menu de partage d'Android."
   - q: "Puis-je ne produire qu'une partie de l'enregistrement en justice ?"
     a: "On peut produire un extrait, mais il faut garder l'original complet. En France, l'assemblée plénière de la Cour de cassation a admis le 22 décembre 2023 qu'une preuve obtenue de façon déloyale peut être recevable au civil si elle est indispensable à l'exercice d'un droit et que l'atteinte est proportionnée. Cela ne dispense pas de prouver que le fichier est authentique et complet, et c'est l'original qui le montre. Enregistrer des paroles privées sans consentement reste puni par l'article 226-1 du Code pénal, même pour un participant."
   - q: "Puis-je retirer le bruit de fond seulement du passage coupé ?"
@@ -39,7 +39,7 @@ Personne n'écoutera le reste. Ni l'employeur, ni la police, ni le juge. Si vous
 | Enregistreur de Google | Pixel | Menu → Rogner et supprimer (Crop & Remove), sur l'audio ou la transcription | La modification se termine par Enregistrer une copie (Save copy) |
 | Enregistreur vocal de Samsung | Galaxy | En faisant glisser les poignées de découpe | Au choix : remplacer le fichier ou en créer un nouveau |
 | Audacity | Ordinateur | Sélectionner, supprimer, exporter | Intact, sauf si l'on exporte par-dessus sous le même nom |
-| TalkSafe | Android | Choisir le passage et couper | Toujours conservé ; le passage devient un nouveau fichier |
+| TalkSafe | Android, iOS | Choisir le passage et couper | Toujours conservé ; le passage devient un nouveau fichier |
 
 La différence qui compte est dans la dernière colonne.
 

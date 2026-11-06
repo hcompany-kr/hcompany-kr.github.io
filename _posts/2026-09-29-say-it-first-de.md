@@ -9,10 +9,10 @@ eyebrow: Aufnahme
 title: "Zuerst sagt man etwas"
 description: "In dem Moment, in dem man merkt, dass ein Gespräch aufgenommen werden sollte, bewegt sich der Mund schneller als die Hände. Was passiert, wenn genau das der Auslöser wird."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Was heißt es, eine Aufnahme mit der Stimme zu starten?"
-    a: "Man legt vorab ein Wort fest, und die App beginnt mit der Aufnahme, wenn sie es hört. TalkSafe ist eine Aufnahme-App für Android, die so funktioniert; man muss das Telefon weder entsperren noch etwas öffnen."
+    a: "Man legt vorab ein Wort fest, und die App beginnt mit der Aufnahme, wenn sie es hört. TalkSafe ist eine Aufnahme-App für Android und iPhone, die so funktioniert; man muss das Telefon weder entsperren noch etwas öffnen."
   - q: "Welches Wort sollte ich wählen?"
     a: "Eine richtige Antwort gibt es nicht. Was Ihnen natürlich über die Lippen kommt, wenn Sie spüren, dass ein Gespräch aufgenommen werden sollte, funktioniert. Das ist von Mensch zu Mensch und von Situation zu Situation verschieden, und nach ein paar Tagen Nutzung wird es meist offensichtlich."
   - q: "Was, wenn etwas Ähnlich-Klingendes die Aufnahme auslöst?"

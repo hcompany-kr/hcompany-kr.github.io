@@ -8,7 +8,7 @@ eyebrow: Contratos
 title: "La cláusula \"vendido sin garantía\" es nula"
 description: "Un año mínimo comprando a profesional, seis meses por vicios ocultos entre particulares, y por qué reparar por tu cuenta puede costarte la reclamación."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Tiene garantía un coche de segunda mano comprado en un concesionario?"
     a: "Sí. Bajo el Real Decreto Legislativo 1/2007, modificado por la Ley 7/2021, si en el contrato no se pacta nada el plazo de garantía es de tres años desde la entrega. Vendedor y comprador pueden pactar reducirlo, pero nunca por debajo de un año. Cualquier cláusula que intente eliminar la garantía legal es nula de pleno derecho conforme al artículo 125."

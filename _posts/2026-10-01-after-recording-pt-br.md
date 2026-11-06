@@ -9,7 +9,7 @@ eyebrow: Como fazer
 title: "O que fazer com uma gravação, e o que não fazer"
 description: "Como guardar o arquivo, como cortar só a parte que importa e onde apresentar. E por que divulgar uma gravação tem regras próprias no Brasil e em Portugal, mesmo quando gravar era permitido."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Dá para guardar só a parte que importa de uma gravação?"
     a: "O TalkSafe tem uma função de corte. Ela não mexe no original e salva o trecho escolhido como um arquivo novo. Assim você prepara uma versão curta para apresentar e mantém a gravação completa."

@@ -10,7 +10,7 @@ description: "Filmen ist im deutschsprachigen Raum meist erlaubt, solange man ni
 image: /assets/img/og/recording-police-de.png
 image_alt: "Polizei aufnehmen im Vergleich: Filmen ohne Behinderung ist in Deutschland, Österreich und der Schweiz grundsätzlich erlaubt; Tonaufnahmen sind in Deutschland umstritten (§ 201 StGB) und in der Schweiz ohne Einwilligung strafbar (Art. 179ter StGB)."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Darf man in Deutschland einen Polizeieinsatz mit dem Handy filmen?"
     a: "Bilder ohne Ton fallen nicht unter § 201 StGB, der nur das gesprochene Wort schützt; für das Veröffentlichen von Bildern gelten eigene Regeln. Schwierig ist der Ton: Ob die Äußerungen von Polizisten bei einem Einsatz im öffentlichen Raum nichtöffentlich gesprochenes Wort sind, beurteilen die Gerichte unterschiedlich."
@@ -23,7 +23,7 @@ faq:
   - q: "Was ist die Grenze beim Aufnehmen der Polizei?"
     a: "Die Behinderung des Einsatzes. Filmen ist im deutschsprachigen Raum weitgehend erlaubt, sich in den Weg zu stellen nicht. Abstand halten, Anweisungen zum Zurücktreten befolgen, die Hände sichtbar lassen."
   - q: "Wie hilft TalkSafe bei einer Polizeikontrolle?"
-    a: "TalkSafe ist eine Aufnahme-App für Android, die bei einem vorher festgelegten Wort startet und bei gesperrtem Bildschirm funktioniert. In Deutschland und der Schweiz ist der sicherste Weg, um Erlaubnis zu fragen: Mit einem Wort aus der eigenen Frage als Schlüsselwort, etwa aufnehmen, beginnt die Aufnahme genau beim Fragen, und die Antwort ist in der Datei, ohne dass man während der Kontrolle zum Handy greifen muss."
+    a: "TalkSafe ist eine Aufnahme-App für Android und iPhone, die bei einem vorher festgelegten Wort startet und bei gesperrtem Bildschirm funktioniert. In Deutschland und der Schweiz ist der sicherste Weg, um Erlaubnis zu fragen: Mit einem Wort aus der eigenen Frage als Schlüsselwort, etwa aufnehmen, beginnt die Aufnahme genau beim Fragen, und die Antwort ist in der Datei, ohne dass man während der Kontrolle zum Handy greifen muss."
 ---
 
 Eine Verkehrskontrolle am Abend. Es klopft an die Scheibe.
@@ -87,7 +87,7 @@ Der belgische **Comité P** hat 2017 festgehalten, dass ein Polizist die Aufnahm
 
 Eine Kontrolle beginnt ohne Vorwarnung. Wenn man aufgefordert wurde, die Hände sichtbar zu lassen, ist das Handy herauszuholen, zu entsperren und auf Aufnahme zu drücken genau die Bewegung, die missverstanden werden kann.
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. In Deutschland und der Schweiz ist der sicherste Weg, zu fragen: Legen Sie ein Wort aus Ihrer eigenen Frage als Schlüsselwort fest, etwa **„aufnehmen“**. Sie fragen „Darf ich das Gespräch aufnehmen?“ – die Aufnahme beginnt genau in diesem Moment, und die Antwort ist in der Datei. Sagt der Beamte nein, wissen Sie, woran Sie sind.
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. In Deutschland und der Schweiz ist der sicherste Weg, zu fragen: Legen Sie ein Wort aus Ihrer eigenen Frage als Schlüsselwort fest, etwa **„aufnehmen“**. Sie fragen „Darf ich das Gespräch aufnehmen?“ – die Aufnahme beginnt genau in diesem Moment, und die Antwort ist in der Datei. Sagt der Beamte nein, wissen Sie, woran Sie sind.
 
 <figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
 

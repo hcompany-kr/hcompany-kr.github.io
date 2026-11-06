@@ -8,7 +8,7 @@ eyebrow: Enregistrement
 title: "Ce qui distingue les enregistreurs, c'est le moment où ils démarrent"
 description: "Enregistreurs à clip, appareils VOX, prise de notes par IA, applications de téléphone. Ce que chacun vous laisse en fin de journée, et dans lequel on peut encore retrouver quelque chose."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Que signifie VOX sur un dictaphone ?"
     a: "VOX désigne l'activation par la voix ou par le son. L'appareil attend de détecter un son, puis enregistre jusqu'à ce que le son s'arrête. Comme il ne tourne pas en continu, il consomme beaucoup moins de batterie, d'où des autonomies en veille annoncées en mois plutôt qu'en heures."
@@ -90,7 +90,7 @@ Deux versions.
 
 **Une application à mot-clé** démarre quand elle entend un mot choisi à l'avance. Le fichier commence au bon moment, pas à neuf heures du matin, donc il n'y a rien à fouiller ensuite.
 
-C'est la catégorie dans laquelle nous travaillons, gardez-le en tête pour la suite. [TalkSafe](/talksafe/fr/) est une application Android qui démarre sur un mot choisi, fonctionne écran verrouillé et conserve les 30 secondes précédant le démarrage avec le fichier, ce qui répond au problème de la première syllabe coupée. Découper un passage laisse le fichier d'origine intact. Un enregistrement fait dans un endroit bruyant, comme la rue, peut être nettoyé après coup avec la suppression du bruit par IA, traitée sur l'appareil, qui enregistre un nouveau fichier à côté de l'original.
+C'est la catégorie dans laquelle nous travaillons, gardez-le en tête pour la suite. [TalkSafe](/talksafe/fr/) est une application pour Android et iPhone qui démarre sur un mot choisi, fonctionne écran verrouillé et conserve les 30 secondes précédant le démarrage avec le fichier, ce qui répond au problème de la première syllabe coupée. Découper un passage laisse le fichier d'origine intact. Un enregistrement fait dans un endroit bruyant, comme la rue, peut être nettoyé après coup avec la suppression du bruit par IA, traitée sur l'appareil, qui enregistre un nouveau fichier à côté de l'original.
 
 <figure class="shot"><img src="/assets/img/screens/start-fr.jpg" alt="Écran d'accueil de TalkSafe avec des boutons pour lancer la détection en temps réel et un enregistrement manuel." width="540" height="960" loading="lazy"><figcaption>Écran d'accueil de TalkSafe. Avec la détection en temps réel activée, l'enregistrement démarre quand un mot choisi est détecté ; le bouton permet aussi d'enregistrer tout de suite.</figcaption></figure>
 

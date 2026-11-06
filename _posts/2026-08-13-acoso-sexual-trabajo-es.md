@@ -8,7 +8,7 @@ eyebrow: Trabajo
 title: "Si te despiden por denunciar, el despido es nulo"
 description: "La garantía de indemnidad, el protocolo que toda empresa está obligada a tener, qué pide la Inspección de Trabajo, y qué documentar cuando no hay testigos."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué pasa si me despiden después de denunciar acoso sexual?"
     a: "Cualquier represalia tras denunciar —despido, traslado, reducción de funciones— se considera nula por vulneración de la garantía de indemnidad del artículo 24 de la Constitución. El despido nulo conlleva readmisión obligatoria, abono de los salarios de tramitación e indemnización por daño moral. No es lo mismo que un despido improcedente."

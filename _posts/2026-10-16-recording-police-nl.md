@@ -10,7 +10,7 @@ description: "Filmen met een zichtbare camera noemt het Openbaar Ministerie een 
 image: /assets/img/og/recording-police-nl.png
 image_alt: "De politie opnemen: filmen met een zichtbare camera mag in Nederland en België zolang je niet hindert; je eigen gesprek met een agent opnemen mag; verborgen filmen (art. 441b Sr) en doxing (art. 285d Sr) zijn strafbaar."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Mag je in Nederland de politie filmen?"
     a: "Ja, met een zichtbare camera en zonder agenten te hinderen. Het Openbaar Ministerie stelde in 2024 dat filmen met een zichtbare camera een burgerrecht is, maar dat agenten hun werk ongestoord moeten kunnen doen. Artikel 441b van het Wetboek van Strafrecht verbiedt wel het opzettelijk filmen van personen met een verborgen camera in de openbare ruimte, tenzij dat vooraf duidelijk is aangekondigd."
@@ -23,7 +23,7 @@ faq:
   - q: "Mag je in België de politie filmen?"
     a: "Filmen van een politie-interventie op de openbare weg wordt in het algemeen aanvaard. Het Comité P stelde in 2017 dat een agent de beelden van iemand die een politieactie filmt niet mag wissen en de verwijdering ook niet mag opleggen. Een deelnemer die een communicatie opneemt, pleegt volgens het Hof van Cassatie (2015) geen misdrijf."
   - q: "Hoe helpt TalkSafe bij een politiecontrole?"
-    a: "TalkSafe is een opname-app voor Android die begint met opnemen zodra hij een vooraf gekozen woord hoort. Woorden worden herkend wie ze ook zegt, dus je kunt woorden instellen die een agent waarschijnlijk zegt, zoals rijbewijs of legitimatie. Hij werkt met een vergrendeld scherm en bewaart de 30 seconden daarvoor, zodat je tijdens een controle niet naar je telefoon hoeft te grijpen."
+    a: "TalkSafe is een opname-app voor Android en iPhone die begint met opnemen zodra hij een vooraf gekozen woord hoort. Woorden worden herkend wie ze ook zegt, dus je kunt woorden instellen die een agent waarschijnlijk zegt, zoals rijbewijs of legitimatie. Hij werkt met een vergrendeld scherm en bewaart de 30 seconden daarvoor, zodat je tijdens een controle niet naar je telefoon hoeft te grijpen."
 ---
 
 Een verkeerscontrole, 's avonds. Er wordt op het raam geklopt.
@@ -77,7 +77,7 @@ Voor geluid bevestigde het **Hof van Cassatie** in **2015** dat een deelnemer di
 
 Een controle begint zonder waarschuwing. Als je is gevraagd je handen zichtbaar te houden, is je telefoon pakken, ontgrendelen en op opnemen drukken precies de beweging die verkeerd kan worden begrepen.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt woorden instellen die een agent waarschijnlijk zegt: **„rijbewijs”**, **„legitimatie”**. Hij werkt met een **vergrendeld scherm**, en omdat hij de **30 seconden daarvoor** bewaart, staat het gesprek erin vanaf het kloppen op het raam.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt woorden instellen die een agent waarschijnlijk zegt: **„rijbewijs”**, **„legitimatie”**. Hij werkt met een **vergrendeld scherm**, en omdat hij de **30 seconden daarvoor** bewaart, staat het gesprek erin vanaf het kloppen op het raam.
 
 <figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
 

@@ -8,10 +8,10 @@ eyebrow: Návod
 title: "Jak začít nahrávat, aniž byste se dotkli telefonu"
 description: "Čtyři způsoby, jak na Androidu spustit nahrávání bez rukou, co každý z nich skutečně vyžaduje a které fungují při zamčené obrazovce s telefonem v kapse."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Existuje aplikace, která začne nahrávat po určitém slově?"
-    a: "Ano. TalkSafe je aplikace pro nahrávání zvuku na Android, která začne nahrávat, jakmile uslyší předem zvolené slovo, bez odemykání telefonu a bez otevírání aplikace. Uloží přitom i 30 sekund před spouštěčem."
+    a: "Ano. TalkSafe je aplikace pro nahrávání zvuku na Android a iPhone, která začne nahrávat, jakmile uslyší předem zvolené slovo, bez odemykání telefonu a bez otevírání aplikace. Uloží přitom i 30 sekund před spouštěčem."
   - q: "Může telefon začít nahrávat při zamčené obrazovce?"
     a: "Ano, pokud aplikace běží jako služba v popředí s trvalým oznámením. Takto funguje TalkSafe: naslouchání probíhá na pozadí a nahrávání se po klíčovém slově spustí i tehdy, když je obrazovka zhasnutá a telefon v kapse."
   - q: "Dá se nahrát to, co zaznělo před stisknutím tlačítka?"
@@ -71,7 +71,7 @@ Přesto jsou tu tři problémy.
 
 Tahle kategorie vznikla přesně pro tenhle problém. Aplikace naslouchá slovům, která jste předem zvolili, a začne nahrávat, když jedno z nich uslyší.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro Android, která funguje takto. Rozpoznávání slov probíhá v zařízení, nahrávání začne **při zamčené obrazovce a s telefonem v kapse** a v okamžiku spuštění se neozve žádný zvuk ani se nic viditelně nezmění.
+[TalkSafe](/talksafe/cs/) je aplikace pro Android a iPhone, která funguje takto. Rozpoznávání slov probíhá v zařízení, nahrávání začne **při zamčené obrazovce a s telefonem v kapse** a v okamžiku spuštění se neozve žádný zvuk ani se nic viditelně nezmění.
 
 <figure class="shot"><img src="/assets/img/screens/active-cs.jpg" alt="Obrazovka TalkSafe se zapnutým rozpoznáváním klíčových slov a tlačítkem Zastavit." width="540" height="960" loading="lazy"><figcaption>Rozpoznávání klíčových slov zapnuto. Aplikace poslouchá dál na pozadí i se zhasnutou obrazovkou nebo zavřenou aplikací.</figcaption></figure>
 

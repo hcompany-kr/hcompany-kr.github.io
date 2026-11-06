@@ -11,7 +11,7 @@ description: "Filmer une intervention policière sur la voie publique est admis 
 image: /assets/img/og/recording-police-fr.png
 image_alt: "Enregistrer la police : filmer une intervention sans gêner est admis en France, en Belgique et au Québec ; en Suisse, enregistrer en cachette une conversation avec un policier est puni (Tribunal fédéral, 2020)."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "A-t-on le droit de filmer la police en France ?"
     a: "Oui, sur la voie publique et sans gêner l'intervention. Le 20 mai 2021, le Conseil constitutionnel a censuré l'ex-article 24 de la loi « Sécurité globale », qui sanctionnait la « provocation à l'identification » d'un policier agissant dans le cadre d'une opération de police, en jugeant ses termes trop imprécis. La diffusion d'images reste soumise à d'autres règles, notamment le respect de la vie privée."
@@ -26,7 +26,7 @@ faq:
   - q: "Peut-on filmer ou enregistrer un policier au Maroc ?"
     a: "Ce n'est pas tranché. L'article 447-1 du Code pénal marocain, introduit par la loi 103-13 et en vigueur depuis septembre 2018, punit de six mois à trois ans d'emprisonnement et de 2 000 à 20 000 dirhams d'amende l'enregistrement sans consentement de paroles émises dans un cadre privé ou confidentiel. En 2018, la DGSN a demandé d'interpeller les personnes qui filment des agents en service sans autorisation, et à Fès un homme qui avait filmé deux agents de la circulation a été poursuivi ; un juriste marocain estime au contraire que le texte ne vise pas les lieux publics. Le plus sûr est de demander et de ne pas publier."
   - q: "Comment TalkSafe aide-t-il lors d'un contrôle ?"
-    a: "TalkSafe est une application d'enregistrement pour Android qui démarre sur un mot choisi à l'avance et fonctionne écran verrouillé. En France et en Suisse, le plus sûr est de demander : avec un mot de votre propre question comme mot-clé, par exemple enregistrer, l'enregistrement commence au moment où vous demandez et la réponse figure dans le fichier, sans sortir le téléphone pendant le contrôle."
+    a: "TalkSafe est une application d'enregistrement pour Android et iPhone qui démarre sur un mot choisi à l'avance et fonctionne écran verrouillé. En France et en Suisse, le plus sûr est de demander : avec un mot de votre propre question comme mot-clé, par exemple enregistrer, l'enregistrement commence au moment où vous demandez et la réponse figure dans le fichier, sans sortir le téléphone pendant le contrôle."
 ---
 
 Un contrôle routier, le soir. On frappe à la vitre.
@@ -97,7 +97,7 @@ En pratique, au Maroc, **sortir son téléphone face à un agent peut coûter le
 
 Un contrôle commence sans prévenir. Quand on vous a demandé de garder les mains visibles, sortir le téléphone, le déverrouiller et appuyer sur enregistrer est exactement le geste qui peut être mal compris.
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. En France et en Suisse, le plus sûr est de demander : choisissez un mot de votre propre question comme mot-clé, par exemple **« enregistrer »**. Vous demandez « Je peux enregistrer notre échange ? » — l'enregistrement commence à cet instant, et la réponse figure dans le fichier. Si l'agent refuse, vous le savez.
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. En France et en Suisse, le plus sûr est de demander : choisissez un mot de votre propre question comme mot-clé, par exemple **« enregistrer »**. Vous demandez « Je peux enregistrer notre échange ? » — l'enregistrement commence à cet instant, et la réponse figure dans le fichier. Si l'agent refuse, vous le savez.
 
 Comme les **30 secondes précédentes** sont conservées, le début du contrôle est lui aussi dans le fichier. Démarrer sans toucher le téléphone : [Lancer un enregistrement sans toucher son téléphone](/blog/fr/hands-free-recording/). Le cadre général : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
 

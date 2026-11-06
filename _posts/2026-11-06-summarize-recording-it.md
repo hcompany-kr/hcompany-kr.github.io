@@ -10,10 +10,10 @@ description: "Per riassumere una registrazione vocale su Android si usa un'app d
 image: /assets/img/og/summarize-recording-it.png
 image_alt: "Confronto tra il Registratore di Google su Pixel, il Registratore vocale Samsung su Galaxy e TalkSafe: tutti e tre offrono il riassunto IA, solo Pixel e Galaxy la trascrizione completa, e solo TalkSafe parte da solo con una parola scelta."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Come si riassume una registrazione vocale con l'IA su Android?"
-    a: "Con un'app di registrazione che abbia il riassunto IA. Sui Pixel, il Registratore di Google può riassumere la trascrizione di una registrazione sul dispositivo con Gemini Nano. Il Registratore vocale Samsung offre trascrizione e riassunto con Transcript Assist di Galaxy AI e richiede un account Samsung. TalkSafe, un registratore vocale per Android, crea un riassunto IA di ogni registrazione e lo mostra sotto il lettore, nella schermata di dettaglio."
+    a: "Con un'app di registrazione che abbia il riassunto IA. Sui Pixel, il Registratore di Google può riassumere la trascrizione di una registrazione sul dispositivo con Gemini Nano. Il Registratore vocale Samsung offre trascrizione e riassunto con Transcript Assist di Galaxy AI e richiede un account Samsung. TalkSafe, un registratore vocale per Android e iPhone, crea un riassunto IA di ogni registrazione e lo mostra sotto il lettore, nella schermata di dettaglio."
   - q: "L'audio viene inviato a un server quando si riassume una registrazione?"
     a: "Dipende dall'app. I riassunti del Registratore di Google sui Pixel avvengono sul dispositivo con Gemini Nano. TalkSafe invia la registrazione a un server per il riassunto IA, mentre il rilevamento delle parole chiave avviene interamente sul telefono. Se nella conversazione c'erano altre persone, le loro voci sono nel file che invii."
   - q: "In che lingua è il riassunto di TalkSafe?"

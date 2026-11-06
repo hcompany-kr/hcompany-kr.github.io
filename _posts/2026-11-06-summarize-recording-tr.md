@@ -10,10 +10,10 @@ description: "Android'de bir ses kaydını özetlemek için yapay zekâ özeti o
 image: /assets/img/og/summarize-recording-tr.png
 image_alt: "Pixel’deki Google Kaydedici, Galaxy’deki Samsung Ses Kaydedici ve TalkSafe karşılaştırması: üçünde de yapay zekâ özeti var, tam döküm yalnızca Pixel ve Galaxy’de, belirlenen bir kelimeyle kaydı kendiliğinden başlatan yalnızca TalkSafe."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Android'de bir ses kaydını yapay zekâ ile nasıl özetlerim?"
-    a: "Yapay zekâ özeti olan bir kayıt uygulamasıyla. Pixel telefonlarda Google Kaydedici, bir kaydın dökümünü cihaz üzerinde Gemini Nano ile özetleyebilir. Samsung Ses Kaydedici, Galaxy AI'ın Transcript Assist özelliğiyle döküm ve özet sunar ve Samsung hesabı gerektirir. Android için bir ses kayıt uygulaması olan TalkSafe, her kayıt için bir yapay zekâ özeti oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında gösterir."
+    a: "Yapay zekâ özeti olan bir kayıt uygulamasıyla. Pixel telefonlarda Google Kaydedici, bir kaydın dökümünü cihaz üzerinde Gemini Nano ile özetleyebilir. Samsung Ses Kaydedici, Galaxy AI'ın Transcript Assist özelliğiyle döküm ve özet sunar ve Samsung hesabı gerektirir. Android ve iPhone için bir ses kayıt uygulaması olan TalkSafe, her kayıt için bir yapay zekâ özeti oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında gösterir."
   - q: "Bir kayıt özetlenirken ses bir sunucuya gönderilir mi?"
     a: "Uygulamaya göre değişir. Pixel'deki Google Kaydedici özetleri cihaz üzerinde Gemini Nano ile yapılır. TalkSafe, yapay zekâ özeti için kaydı bir sunucuya gönderir; anahtar kelime algılama ise tamamen telefonda çalışır. Konuşmada başka kişiler varsa, gönderdiğiniz dosyada onların sesleri de bulunur."
   - q: "TalkSafe özeti hangi dilde çıkar?"

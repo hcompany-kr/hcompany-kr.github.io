@@ -8,7 +8,7 @@ eyebrow: Contratos
 title: "El desgaste normal no se descuenta de la fianza"
 description: "Un mes desde la entrega de las llaves antes de que corran intereses, una mensualidad como máximo legal, y por qué la mayoría de los conflictos no se pierden por el importe sino por la falta de fotos del primer día."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Cuánto puede pedirme el casero de fianza?"
     a: "El artículo 36.1 de la LAU fija una mensualidad de renta en arrendamiento de vivienda y dos mensualidades en uso distinto de vivienda. Es un mínimo obligatorio y también el importe de la fianza legal: pedir más bajo ese concepto no procede."

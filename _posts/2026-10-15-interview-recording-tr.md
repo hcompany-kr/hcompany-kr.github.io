@@ -10,14 +10,14 @@ description: "Özel dedektifler, gazeteciler, sigorta eksperleri, şirket içi s
 image: /assets/img/og/interview-recording-tr.png
 image_alt: "Bir görüşmeyi kaydetmenin iki yolu: cihazı masaya koymak karşı tarafın sözlerini seçmesine yol açar; kendi sorunuzdaki kelime anahtar kelime olunca kayıt soruyla başlar ve evet dosyada olur."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Bir dedektif katıldığı görüşmeyi kaydedebilir mi?"
     a: "Türkiye'de rıza olmadan hayır. Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek altı aydan iki yıla kadar hapis veya adli para cezası gerektirir. Dedektiflik ya da basın kartı bunu değiştirmez."
   - q: "Görüşmede kayıt cihazını çıkarmak neden sorun olur?"
     a: "Cihaz göründüğü anda insanlar tutanağa geçecek sözleri seçmeye başlar. Cevaplar kısalır, dikkatli hâle gelir; aradığınız ayrıntı ancak cihaz kapalıyken söylenir. Görüşmenin ortasında kaydı başlatmak için telefona uzanmak da aynı anı yaratır."
   - q: "Görüşmeyi bölmeden kayıt izni nasıl istenir?"
-    a: "Android için bir ses kayıt uygulaması olan TalkSafe'te sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini, anahtar kelime olarak belirleyin. Kayıt alabilir miyim diye sorduğunuzda kayıt tam o anda başlar ve karşı tarafın cevabı dosyada olur; cihazı önceden göz önünde açmanız gerekmez."
+    a: "Android ve iPhone için bir ses kayıt uygulaması olan TalkSafe'te sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini, anahtar kelime olarak belirleyin. Kayıt alabilir miyim diye sorduğunuzda kayıt tam o anda başlar ve karşı tarafın cevabı dosyada olur; cihazı önceden göz önünde açmanız gerekmez."
   - q: "Başkalarının konuşmasını kaydetmenin cezası nedir?"
     a: "Kişiler arasındaki aleni olmayan konuşmaları, taraflardan herhangi birinin rızası olmadan ses alma cihazıyla kaydetmek TCK 133/1'e göre iki yıldan beş yıla kadar hapis cezası gerektirir. Bir odaya kayıt cihazı bırakıp çıkmak bu kapsama girer."
   - q: "Telefonu çıkarmadan kayıt başlatan bir uygulama var mı?"
@@ -65,7 +65,7 @@ Yargıtay'ın tanıdığı istisna dardır: kişinin ani bir suçla karşılaşt
 
 Sormak görüşmeyi bölmek demek değildir. Yeter ki soru kaydı kendisi başlatsın.
 
-[TalkSafe](/talksafe/tr/), **önceden belirlenen bir kelimeyle** kayda başlayan ve **ekran kilitliyken** çalışan bir Android ses kayıt uygulamasıdır. Kendi sorunuzdaki bir kelimeyi belirleyin, örneğin **"kayıt"**. "Kayıt alabilir miyim?" diye sorarsınız ve kayıt tam o anda başlar. "Evet" dosyadadır — TCK 133/2'nin aradığı rıza tam olarak budur. Önceden göz önünde açılan bir cihaz yok, cebe giden bir el yok.
+[TalkSafe](/talksafe/tr/), **önceden belirlenen bir kelimeyle** kayda başlayan ve **ekran kilitliyken** çalışan Android ve iPhone için bir ses kayıt uygulamasıdır. Kendi sorunuzdaki bir kelimeyi belirleyin, örneğin **"kayıt"**. "Kayıt alabilir miyim?" diye sorarsınız ve kayıt tam o anda başlar. "Evet" dosyadadır — TCK 133/2'nin aradığı rıza tam olarak budur. Önceden göz önünde açılan bir cihaz yok, cebe giden bir el yok.
 
 <figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
 

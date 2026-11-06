@@ -8,7 +8,7 @@ eyebrow: Lavoro
 title: "Il foglio che firmi in quella stanza non è una dimissione"
 description: "Le dimissioni valgono solo per via telematica e si revocano entro sette giorni. Il rischio vero non è la firma sul foglio: è la risoluzione consensuale, che ti lascia senza NASpI."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Se firmo una lettera di dimissioni su carta, le dimissioni sono valide?"
     a: "No. Le dimissioni volontarie devono essere presentate attraverso la procedura telematica sugli appositi moduli disponibili sul sito del Ministero del Lavoro, salvo alcune eccezioni previste dalla legge. Una lettera firmata su carta e consegnata in ufficio non produce di per sé l'effetto di risolvere il rapporto."

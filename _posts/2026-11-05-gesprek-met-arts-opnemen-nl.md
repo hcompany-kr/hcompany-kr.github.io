@@ -10,7 +10,7 @@ description: "Volgens een overzichtsartikel uit 2003 vergeten patiënten 40 tot 
 image: /assets/img/og/gesprek-met-arts-opnemen-nl.png
 image_alt: "Gesprek met je arts opnemen in Nederland en België: in Nederland mag het voor privégebruik zonder toestemming, de KNMG vraagt het te melden, verspreiden alleen met toestemming; schriftelijke informatie als de arts bezwaar heeft; in België is opnemen door een deelnemer geen misdrijf, de Orde der Artsen vraagt akkoord van beide partijen."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Mag ik een gesprek met mijn arts opnemen zonder toestemming?"
     a: "Ja, voor privégebruik. Volgens de KNMG en de Rijksoverheid mag een patiënt een gesprek met een zorgverlener opnemen, ook zonder dat te zeggen en zonder toestemming. De KNMG vraagt wel om het vooraf te melden. Het openbaar maken of verspreiden van de opname mag alleen met toestemming van de zorgverlener, en voor beeldopnamen gelden strengere regels."
@@ -23,7 +23,7 @@ faq:
   - q: "Hoe zit het in België?"
     a: "Een deelnemer die een gesprek opneemt, pleegt in België geen misdrijf (Hof van Cassatie, 2015). De Nationale Raad van de Orde der Artsen vond in 2023 wel dat beide partijen in de zorgrelatie akkoord moeten gaan met een opname. De wet van 22 augustus 2002 betreffende de rechten van de patiënt geeft recht op informatie over je gezondheidstoestand en op inzage in je dossier."
   - q: "Hoe helpt TalkSafe bij een gesprek met de arts?"
-    a: "TalkSafe is een opname-app voor Android die begint met opnemen zodra hij een vooraf gekozen woord hoort, ook met een vergrendeld scherm. Met 'opnemen' als trefwoord begint de opname zodra je vraagt 'Vindt u het goed als ik dit opneem, zodat ik thuis niets vergeet?', en het antwoord staat in het bestand, samen met de 30 seconden daarvoor. In de spreekkamer hoef je niets te bedienen."
+    a: "TalkSafe is een opname-app voor Android en iPhone die begint met opnemen zodra hij een vooraf gekozen woord hoort, ook met een vergrendeld scherm. Met 'opnemen' als trefwoord begint de opname zodra je vraagt 'Vindt u het goed als ik dit opneem, zodat ik thuis niets vergeet?', en het antwoord staat in het bestand, samen met de 30 seconden daarvoor. In de spreekkamer hoef je niets te bedienen."
 ---
 
 Je gaat naar binnen met drie vragen. De arts beantwoordt ze, zegt iets over de dosering, noemt waar je op moet letten, en na elf minuten is het consult voorbij.
@@ -68,7 +68,7 @@ Veel mensen zoeken specifiek naar het gesprek met de bedrijfs- of arboarts. Stra
 
 Telefoon pakken, ontgrendelen, de app zoeken, op opnemen drukken – precies op het moment dat de arts begint uit te leggen. Dat onderbreekt het gesprek en kost de eerste zinnen.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort – met een **vergrendeld scherm**, zonder de telefoon te ontgrendelen of de app te openen. Zet het woord in je vraag: met "opnemen" begint de opname zodra je vraagt "Vindt u het goed als ik dit opneem, zodat ik thuis niets vergeet?", en het antwoord staat in het bestand, samen met de **30 seconden daarvoor**. Stel je een tweede woord uit dezelfde zin in, zoals "vergeet", dan wordt de herkenning nauwkeuriger. Woorden worden herkend **wie ze ook zegt**, dus je kunt ook een woord kiezen dat de arts meestal gebruikt, zoals "dosering". Meer in [Eerst zeg je iets](/blog/nl/say-it-first/).
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint met opnemen zodra hij een **vooraf gekozen woord** hoort – met een **vergrendeld scherm**, zonder de telefoon te ontgrendelen of de app te openen. Zet het woord in je vraag: met "opnemen" begint de opname zodra je vraagt "Vindt u het goed als ik dit opneem, zodat ik thuis niets vergeet?", en het antwoord staat in het bestand, samen met de **30 seconden daarvoor**. Stel je een tweede woord uit dezelfde zin in, zoals "vergeet", dan wordt de herkenning nauwkeuriger. Woorden worden herkend **wie ze ook zegt**, dus je kunt ook een woord kiezen dat de arts meestal gebruikt, zoals "dosering". Meer in [Eerst zeg je iets](/blog/nl/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
 

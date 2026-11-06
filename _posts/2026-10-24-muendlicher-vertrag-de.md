@@ -10,7 +10,7 @@ description: "Ein mündlicher Vertrag ist in Deutschland, Österreich und der Sc
 image: /assets/img/og/muendlicher-vertrag-de.png
 image_alt: "Mündlicher Vertrag in Deutschland, Österreich und der Schweiz: grundsätzlich gültig (Formfreiheit, § 883 ABGB, Art. 11 OR); Schriftform nur, wo das Gesetz sie verlangt; gegen einen schriftlichen Vertrag muss die mündliche Abrede bewiesen werden; das eigene Gespräch heimlich aufzunehmen ist in Deutschland und der Schweiz strafbar."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Ist ein mündlicher Vertrag in Deutschland gültig?"
     a: "Ja. Im deutschen Recht gilt Formfreiheit: Ein Vertrag kommt durch übereinstimmende Erklärungen zustande, auch mündlich. Nur wo das Gesetz eine Form vorschreibt, ist ein formlos geschlossener Vertrag nach § 125 BGB nichtig, etwa beim Grundstückskauf, der notariell beurkundet werden muss (§ 311b BGB), oder bei der Bürgschaftserklärung, die schriftlich erteilt werden muss (§ 766 BGB)."
@@ -25,7 +25,7 @@ faq:
   - q: "Wie halte ich eine mündliche Abrede am besten fest?"
     a: "Am selben Tag eine kurze Nachricht oder E-Mail schicken, die das Vereinbarte zusammenfasst, etwa „Wie heute besprochen: Entsorgung des alten Bodens ist im Preis enthalten.“ Widerspricht die andere Seite nicht, ist das ein starkes Indiz. Eine Aufnahme ist mit Einwilligung möglich."
   - q: "Wie hilft TalkSafe dabei?"
-    a: "TalkSafe ist eine Aufnahme-App für Android, die bei einem vorher festgelegten Wort startet und bei gesperrtem Bildschirm funktioniert. Legt man das Schlüsselwort in die eigene Frage, etwa „aufnehmen“ in „Darf ich das kurz aufnehmen?“, beginnt die Aufnahme genau dann, und die Einwilligung ist in der Datei. Die 30 Sekunden davor werden mitgespeichert."
+    a: "TalkSafe ist eine Aufnahme-App für Android und iPhone, die bei einem vorher festgelegten Wort startet und bei gesperrtem Bildschirm funktioniert. Legt man das Schlüsselwort in die eigene Frage, etwa „aufnehmen“ in „Darf ich das kurz aufnehmen?“, beginnt die Aufnahme genau dann, und die Einwilligung ist in der Datei. Die 30 Sekunden davor werden mitgespeichert."
 ---
 
 Der Fliesenleger steht in der leeren Küche, das Angebot liegt auf der Arbeitsplatte.

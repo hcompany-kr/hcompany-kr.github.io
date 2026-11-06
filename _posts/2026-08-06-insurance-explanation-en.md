@@ -8,7 +8,7 @@ eyebrow: Contracts
 title: "What the agent said is not in the policy"
 description: "The entire contract clause means only the written policy counts. What that leaves out, how long you have to act, and what to do about a conversation nobody wrote down."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is what my insurance agent told me legally binding?"
     a: "Not through the policy itself. The entire contract clause means the insurer cannot rely on any document not contained in the contract, and the same logic leaves spoken statements outside it. Your remedy usually runs against the agent through a negligent misrepresentation claim rather than through the policy."

@@ -8,7 +8,7 @@ eyebrow: Cómo hacerlo
 title: "Cómo quitar el ruido de fondo de una grabación de voz en Android"
 description: "Tráfico, viento, una cafetería detrás. Cuatro formas de limpiar una conversación grabada — en el móvil mientras grabas, en el móvil después, en un ordenador o subiéndola — y cuáles sirven para el ruido de la calle."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Cómo quito el ruido de fondo de una grabación de voz en Android?"
     a: "Hay cuatro vías: una grabadora que reduce el ruido mientras graba, como Clear voice en la app Grabadora de Google en la serie Pixel 9; una app que limpia el archivo después en el móvil, como la eliminación de ruido con IA de TalkSafe; un programa de ordenador como el efecto Reducción de ruido de Audacity; o un servicio web al que subes el archivo, como Adobe Podcast Enhance Speech."

@@ -8,7 +8,7 @@ eyebrow: Como fazer
 title: "Como tirar o ruído de fundo de uma gravação de voz no Android"
 description: "Trânsito, vento, um café atrás de você. Quatro jeitos de limpar uma conversa gravada — no celular enquanto grava, no celular depois, no computador ou enviando o arquivo — e quais deles dão conta do barulho da rua."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Como tiro o ruído de fundo de uma gravação de voz no Android?"
     a: "São quatro caminhos: um gravador que reduz o ruído enquanto grava, como o Clear voice no app Gravador do Google na série Pixel 9; um app que limpa o arquivo depois, no celular, como a remoção de ruído com IA do TalkSafe; um programa de computador, como o efeito Redução de Ruído do Audacity; ou um serviço web para o qual você envia o arquivo, como o Adobe Podcast Enhance Speech."

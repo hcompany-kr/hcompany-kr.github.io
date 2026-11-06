@@ -10,7 +10,7 @@ description: "W Polsce od porozumienia stron albo wypowiedzenia złożonego pod 
 image: /assets/img/og/porozumienie-stron-pod-presja-pl.png
 image_alt: "Porozumienie stron pod presją w Polsce: uchylenie się od skutków oświadczenia złożonego pod wpływem groźby bezprawnej w ciągu roku; wskazanie na możliwość zwolnienia nie jest groźbą bezprawną; porozumienie stron i wypowiedzenie przez pracownika to zasiłek dopiero po 90 dniach; nagranie własnej rozmowy jest co do zasady dozwolone."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy można unieważnić porozumienie stron podpisane pod presją pracodawcy?"
     a: "Można uchylić się od skutków prawnych oświadczenia woli złożonego pod wpływem groźby bezprawnej (art. 87 i 88 Kodeksu cywilnego w związku z art. 300 Kodeksu pracy). Oświadczenie o uchyleniu się składa się pracodawcy na piśmie w ciągu roku od chwili, gdy ustał stan obawy. Ciężar wykazania groźby spoczywa na pracowniku."
@@ -77,7 +77,7 @@ W Polsce nagranie rozmowy, w której się uczestniczy, co do zasady **nie jest p
 
 Problemem jest moment. Rozmowa jest ustalana w ostatniej chwili, trwa dziesięć minut, a zdanie, które ma znaczenie, pada bez zapowiedzi. Zanim wyjmiesz telefon, odblokujesz go i naciśniesz nagrywanie, już minęło.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić to, co zwykle mówi **druga strona** w takiej rozmowie: „porozumienie”, „dyscyplinarka”, „inną drogą”. Działa przy **zablokowanym ekranie**, a **30 sekund sprzed startu** zostaje w pliku – zdanie, po którym zorientowałeś się, o co chodzi, się nie gubi.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić to, co zwykle mówi **druga strona** w takiej rozmowie: „porozumienie”, „dyscyplinarka”, „inną drogą”. Działa przy **zablokowanym ekranie**, a **30 sekund sprzed startu** zostaje w pliku – zdanie, po którym zorientowałeś się, o co chodzi, się nie gubi.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-pl.jpg" alt="Ekran słów kluczowych w TalkSafe. Słowa dodaje się przyciskiem mikrofonu, a poniżej widać ich listę." width="540" height="960" loading="lazy"><figcaption>Ustawienia słów kluczowych. Można zapisać kilka słów; wystarczy, że zostanie wykryte jedno z nich.</figcaption></figure>
 

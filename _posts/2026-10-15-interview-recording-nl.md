@@ -10,7 +10,7 @@ description: "Particuliere recherche, journalisten, schade-experts, interne onde
 image: /assets/img/og/interview-recording-nl.png
 image_alt: "Twee manieren om een gesprek op te nemen: een recorder op tafel laat de ander woorden kiezen; een opname die start op een trefwoord vraagt niet om de telefoon aan te raken en het gesprek loopt door. Alleen eigen gesprekken, origineel onaangeroerd."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Mag een particulier rechercheur een gesprek opnemen waaraan hij deelneemt?"
     a: "Ja. Artikel 139a van het Wetboek van Strafrecht stelt het opnemen van een gesprek alleen strafbaar voor wie geen deelnemer is en niet in opdracht van een deelnemer handelt. In België pleegt een deelnemer die opneemt volgens het Hof van Cassatie (2015) geen misdrijf. Een vergunning als particulier rechercheur verandert daar niets aan."
@@ -19,7 +19,7 @@ faq:
   - q: "Waarom verandert een zichtbare recorder een interview?"
     a: "Zodra de recorder te zien is, beginnen mensen woorden te kiezen voor het verslag. Antwoorden worden korter en voorzichtiger, en het detail waar het om ging, komt alleen nog met de recorder uit. Midden in het gesprek naar je telefoon grijpen om de opname te starten, schept hetzelfde moment."
   - q: "Is er een app die begint met opnemen zonder de telefoon te pakken?"
-    a: "TalkSafe is een opname-app voor Android die begint met opnemen zodra hij een vooraf gekozen woord hoort. Hij werkt met een vergrendeld scherm en de telefoon in je zak, het woord is niet aan je stem gebonden, dus het kan een woord van de ander zijn, en de 30 seconden voor de start worden bewaard."
+    a: "TalkSafe is een opname-app voor Android en iPhone die begint met opnemen zodra hij een vooraf gekozen woord hoort. Hij werkt met een vergrendeld scherm en de telefoon in je zak, het woord is niet aan je stem gebonden, dus het kan een woord van de ander zijn, en de 30 seconden voor de start worden bewaard."
   - q: "Kan een stiekeme opname als bewijs dienen?"
     a: "Meestal wel. De Hoge Raad oordeelde op 18 april 2014 (ECLI:NL:HR:2014:942) dat in een civiele procedure niet als algemene regel geldt dat de rechter geen acht mag slaan op onrechtmatig verkregen bewijs. In België bevestigde het Hof van Cassatie op 14 juni 2021 dat onrechtmatig verkregen bewijs in burgerlijke zaken in beginsel is toegelaten."
   - q: "Wat telt als de opname bewijs wordt?"
@@ -57,7 +57,7 @@ Midden in het gesprek in je zak grijpen, je telefoon ontgrendelen en de app zoek
 
 ## Een woord drukt de knop voor je in
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een vooraf gekozen woord hoort. Voor wie gesprekken voert, tellen drie dingen.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint met opnemen zodra hij een vooraf gekozen woord hoort. Voor wie gesprekken voert, tellen drie dingen.
 
 <figure class="shot"><img src="/assets/img/screens/active-nl.jpg" alt="TalkSafe-scherm met actieve trefwoordherkenning en een Stop-knop." width="540" height="960" loading="lazy"><figcaption>Trefwoordherkenning actief. De app blijft op de achtergrond luisteren, ook met het scherm uit of de app gesloten.</figcaption></figure>
 

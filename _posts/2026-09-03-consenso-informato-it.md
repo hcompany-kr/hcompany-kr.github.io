@@ -8,7 +8,7 @@ eyebrow: Salute
 title: "La legge dice che il tempo della comunicazione è tempo di cura"
 description: "La 219/2017 stabilisce cosa il medico deve spiegarti e prevede che il consenso possa essere documentato anche con videoregistrazione. Quello che resta in cartella però è il modulo, non la spiegazione."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Cosa deve spiegarmi il medico per legge?"
     a: "La Legge 219/2017 riconosce a ogni persona il diritto di conoscere le proprie condizioni di salute e di essere informata in modo completo, aggiornato e comprensibile su diagnosi, prognosi, benefici e rischi degli accertamenti diagnostici e dei trattamenti sanitari indicati, nonché sulle possibili alternative e sulle conseguenze dell'eventuale rifiuto."

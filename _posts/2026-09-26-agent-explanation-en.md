@@ -8,7 +8,7 @@ eyebrow: Property
 title: "What the agent told you at the viewing: can you prove it later?"
 description: "'No, it doesn't leak' gets said out loud while you walk round the property, and only part of it reaches the paperwork. How sixteen countries define a real estate agent's duty to disclose, and what you can do when what you were told turns out to be wrong."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "What does a real estate agent have to disclose in California?"
     a: "Under California Civil Code section 2079, a licensed broker acting for the seller of residential property of one to four units must conduct a reasonably competent and diligent visual inspection of the property and disclose to a prospective buyer all facts materially affecting its value or desirability that the inspection would reveal. The seller must also deliver a Transfer Disclosure Statement under section 1102, and the buyer can cancel within three days of receiving it."
@@ -23,7 +23,7 @@ faq:
   - q: "How can I prove what an agent told me at a viewing?"
     a: "Save the listing and any disclosure documents, send a short message the same day summarising what you were told, and, where it is lawful where you are, record the viewing you took part in. Most US states and India allow a participant to record a conversation, while some US states such as California require everyone's consent."
   - q: "How does TalkSafe help at a property viewing?"
-    a: "TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words likely to come up in the agent's explanation, like 'leak', 'damp' or 'service charge'. It works with the screen locked and saves the 30 seconds before recording started."
+    a: "TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words likely to come up in the agent's explanation, like 'leak', 'damp' or 'service charge'. It works with the screen locked and saves the 30 seconds before recording started."
 ---
 
 You look round the flat and notice a stain on the ceiling.
@@ -101,7 +101,7 @@ Three things help.
 
 **Record the viewing you are part of, where that is lawful.** In most US states and in India a participant may record a conversation; California and some other states require everyone's consent ([is it legal to record a conversation you're in?](https://hcompany-kr.github.io/blog/en/recording-consent-law/), [which states are strict](https://hcompany-kr.github.io/blog/en/state-recording-consent/)). The practical problem is that you do not usually ask an agent "mind if I record this?", and the explanation comes in short bursts as you move from room to room.
 
-TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words likely to come up in the agent's explanation, like "leak", "damp" or "service charge". It works with the screen locked, and because it saves the 30 seconds before it started, what was said just before that word is in the file too.
+TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words likely to come up in the agent's explanation, like "leak", "damp" or "service charge". It works with the screen locked, and because it saves the 30 seconds before it started, what was said just before that word is in the file too.
 
 <figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
 

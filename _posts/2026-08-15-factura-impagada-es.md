@@ -8,7 +8,7 @@ eyebrow: Contratos
 title: "Son 40 euros por cada factura, y casi nadie los reclama"
 description: "Plazos legales de pago, intereses automáticos, la compensación fija que el Supremo confirmó por factura, y qué hacer con lo que solo se habló en la reunión."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Cuál es el plazo legal para que me paguen una factura?"
     a: "Si la factura no especifica plazo, el plazo legal supletorio es de 30 días naturales desde la recepción de la factura o, si es anterior, desde la recepción de los bienes o servicios. Si hay acuerdo expreso, el máximo permitido en operaciones entre empresas es de 60 días. Para la Administración Pública el plazo es de 30 días."

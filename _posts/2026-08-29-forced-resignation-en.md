@@ -8,7 +8,7 @@ eyebrow: Work
 title: "The exit conversation is off the record until it isn't"
 description: "In the UK a pre-termination negotiation is inadmissible in an ordinary unfair dismissal claim — unless there was improper behaviour. In the US you have 21 days to consider a severance agreement and 7 more to undo it."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "What is a protected conversation in the UK?"
     a: "It is a pre-termination negotiation under section 111A of the Employment Rights Act 1996. Evidence of any offer made or discussion held before termination, with a view to the employment ending on agreed terms, is inadmissible in an ordinary unfair dismissal claim. Employers may call it an off the record conversation or a section 111A conversation."

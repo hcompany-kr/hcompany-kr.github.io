@@ -9,7 +9,7 @@ eyebrow: Recording
 title: "You say something first"
 description: "The moment you realise a conversation should be recorded, your mouth moves before your hands do. What happens when that becomes the trigger."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "What does it mean to start a recording with your voice?"
     a: "You choose a word in advance, and the app begins recording when it hears it. You do not need to unlock the phone or open anything."

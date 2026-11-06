@@ -10,7 +10,7 @@ description: "In Nederland, België, Suriname, Aruba, Curaçao en Sint Maarten m
 image: /assets/img/og/gesprek-opnemen-nl.png
 image_alt: "Overzicht: een eigen gesprek opnemen zonder toestemming mag in Nederland, België, Suriname, Aruba, Curaçao en Sint Maarten; het gesprek van anderen opnemen is overal strafbaar."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Mag je in Nederland een gesprek opnemen zonder dat de ander het weet?"
     a: "Ja, als je zelf deelneemt aan het gesprek. Artikel 139a van het Wetboek van Strafrecht stelt het opnemen van een gesprek alleen strafbaar voor wie geen deelnemer is en niet in opdracht van een deelnemer handelt. Een gesprek waaraan je zelf meedoet, mag je dus opnemen zonder toestemming van de ander."
@@ -25,7 +25,7 @@ faq:
   - q: "Is het opnemen van het gesprek van anderen strafbaar?"
     a: "Ja. Wie een gesprek opneemt waaraan hij niet deelneemt, en niet in opdracht van een deelnemer handelt, valt onder artikel 139a Sr. Telefoon in een kamer laten liggen waar je weggaat, een app op de telefoon van een partner zetten of een recorder in andermans auto achterlaten valt daar allemaal onder."
   - q: "Hoe neem je ook de toestemming mee op?"
-    a: "Stel in TalkSafe, een opname-app voor Android, een woord uit je eigen vraag in als trefwoord, bijvoorbeeld opnemen. Vraag je of je het gesprek mag opnemen, dan begint de opname precies op dat moment en staat het antwoord van de ander in het bestand."
+    a: "Stel in TalkSafe, een opname-app voor Android en iPhone, een woord uit je eigen vraag in als trefwoord, bijvoorbeeld opnemen. Vraag je of je het gesprek mag opnemen, dan begint de opname precies op dat moment en staat het antwoord van de ander in het bestand."
 ---
 
 Een gesprek met je leidinggevende waarin ineens een vaststellingsovereenkomst op tafel ligt. Een verhuurder die de borg anders herinnert. Op een gegeven moment komt de gedachte: dit had ik moeten opnemen.
@@ -85,7 +85,7 @@ Wat nergens in dit taalgebied mag: het gesprek van anderen opnemen. Je telefoon 
 
 ## Waar de app past
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met een **vergrendeld scherm** en de **30 seconden vóór de start** in het bestand bewaart. Hij neemt op wat de microfoon in de ruimte hoort — het gesprek waaraan je deelneemt. Een verborgen modus heeft hij niet.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint op een **vooraf gekozen woord**, werkt met een **vergrendeld scherm** en de **30 seconden vóór de start** in het bestand bewaart. Hij neemt op wat de microfoon in de ruimte hoort — het gesprek waaraan je deelneemt. Een verborgen modus heeft hij niet.
 
 <figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
 

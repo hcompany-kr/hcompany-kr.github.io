@@ -8,7 +8,7 @@ eyebrow: Famiglia
 title: "I tempi si sono accorciati. Gli accordi no."
 description: "Sei mesi dalla separazione consensuale, negoziazione assistita, separazione e divorzio in un solo atto. La procedura è diventata rapida, ma cosa vi siete detti su soldi e figli resta la parte lenta."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Quanto tempo serve oggi per divorziare in Italia?"
     a: "La Legge 55 del 2015, il cosiddetto divorzio breve, consente di proporre la domanda di divorzio dopo sei mesi in caso di separazione consensuale e dopo un anno in caso di separazione giudiziale. Prima della riforma il termine era di tre anni."

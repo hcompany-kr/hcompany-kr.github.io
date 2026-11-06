@@ -9,7 +9,7 @@ eyebrow: Cómo hacerlo
 title: "Qué hacer con una grabación, y qué no hacer con ella"
 description: "Cómo conservar el archivo, cómo dejar solo la parte que importa y dónde presentarlo. La mayoría de los problemas aparecen después de grabar, no mientras se graba."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Se puede conservar solo el fragmento que interesa?"
     a: "TalkSafe tiene una función de recorte. Al recortar, el archivo original queda intacto y el fragmento seleccionado se guarda como un archivo nuevo, de modo que puedes preparar una versión corta para aportar sin perder la grabación completa."

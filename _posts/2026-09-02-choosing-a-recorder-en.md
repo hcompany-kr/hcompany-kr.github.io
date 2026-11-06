@@ -8,7 +8,7 @@ eyebrow: Recording
 title: "The thing that separates recorders is when they start"
 description: "Badge recorders, VOX devices, AI note takers, phone apps. What each one leaves you with at the end of a day, and which of them you can still search afterwards."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "What is VOX on a voice recorder?"
     a: "VOX is voice or sound activation. The device sits idle until it detects sound, then records until the sound stops. Because it is not running continuously it uses far less battery, which is how these devices advertise standby times measured in months rather than hours."
@@ -90,7 +90,7 @@ Two versions of this.
 
 **A keyword triggered app** starts when it hears a word you set in advance. The file begins at the moment, not at nine in the morning, so there is nothing to search through afterwards.
 
-This is the category we work in, so read the next part with that in mind. [TalkSafe](https://hcompany-kr.github.io/talksafe/) is an Android app that starts on a word you choose, works with the screen locked, and saves the 30 seconds before the start along with the file — which is the part that answers the clipped first syllable problem. Cutting a section keeps the original file intact rather than replacing it. A recording made somewhere noisy, like a street, can be cleaned afterwards with AI noise removal, which runs on the device and saves a new file alongside the original.
+This is the category we work in, so read the next part with that in mind. [TalkSafe](https://hcompany-kr.github.io/talksafe/) is an app for Android and iPhone that starts on a word you choose, works with the screen locked, and saves the 30 seconds before the start along with the file — which is the part that answers the clipped first syllable problem. Cutting a section keeps the original file intact rather than replacing it. A recording made somewhere noisy, like a street, can be cleaned afterwards with AI noise removal, which runs on the device and saves a new file alongside the original.
 
 <figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
 

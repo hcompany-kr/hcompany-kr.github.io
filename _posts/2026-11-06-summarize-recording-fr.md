@@ -10,10 +10,10 @@ description: "Pour résumer un enregistrement vocal sur Android, on utilise une 
 image: /assets/img/og/summarize-recording-fr.png
 image_alt: "Comparaison de l’Enregistreur de Google sur Pixel, de l’Enregistreur vocal Samsung sur Galaxy et de TalkSafe : les trois proposent un résumé par IA, seuls Pixel et Galaxy une transcription complète, et seul TalkSafe démarre tout seul sur un mot choisi."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Comment résumer un enregistrement vocal avec l'IA sur Android ?"
-    a: "Avec une application d'enregistrement qui propose un résumé par IA. Sur les Pixel, l'Enregistreur de Google peut résumer la transcription d'un enregistrement sur l'appareil avec Gemini Nano. L'Enregistreur vocal de Samsung propose transcription et résumé avec Transcript Assist de Galaxy AI et nécessite un compte Samsung. TalkSafe, une application d'enregistrement pour Android, crée un résumé par IA de chaque enregistrement et l'affiche sous le lecteur, dans l'écran de détail."
+    a: "Avec une application d'enregistrement qui propose un résumé par IA. Sur les Pixel, l'Enregistreur de Google peut résumer la transcription d'un enregistrement sur l'appareil avec Gemini Nano. L'Enregistreur vocal de Samsung propose transcription et résumé avec Transcript Assist de Galaxy AI et nécessite un compte Samsung. TalkSafe, une application d'enregistrement pour Android et iPhone, crée un résumé par IA de chaque enregistrement et l'affiche sous le lecteur, dans l'écran de détail."
   - q: "L'audio est-il envoyé à un serveur quand on résume un enregistrement ?"
     a: "Cela dépend de l'application. Les résumés de l'Enregistreur de Google sur Pixel se font sur l'appareil avec Gemini Nano. TalkSafe envoie l'enregistrement à un serveur pour le résumé par IA, tandis que sa détection des mots-clés fonctionne entièrement sur le téléphone. Si d'autres personnes participaient à la conversation, leurs voix sont dans le fichier envoyé."
   - q: "Dans quelle langue est le résumé de TalkSafe ?"

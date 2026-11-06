@@ -8,7 +8,7 @@ eyebrow: Lavoro
 title: "Quello che ti hanno promesso al colloquio non è quello che c'è nel contratto"
 description: "Stipendio e giorni da remoto si decidono parlando; il contratto arriva dopo. Cosa obbligano a mettere per iscritto tredici paesi e cosa si può fare quando la carta non coincide con la promessa."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Quello che mi hanno promesso a voce al colloquio vale?"
     a: "Il contratto di lavoro può nascere anche a voce, quindi quanto concordato al colloquio può farne parte. Il problema è la prova: se il contratto scritto dice altro, è chi lavora a dover dimostrare che quel patto c'è stato. Per questo conviene confermare per email, lo stesso giorno, quello che è stato detto."
@@ -106,7 +106,7 @@ Tutte queste strade dipendono dalla stessa cosa: **poter mostrare che cosa ti è
 
 **Se è stato tutto a voce, resta la registrazione.** Colloqui e telefonate di offerta non lasciano nulla di scritto. Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è che un candidato non può certo chiedere «le dispiace se registro?».
 
-TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere quelle che ricorrono quando si parla di condizioni. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così il momento in cui esce la cifra non è la parte che manca.
+TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere quelle che ricorrono quando si parla di condizioni. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così il momento in cui esce la cifra non è la parte che manca.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-it.jpg" alt="Schermata delle parole chiave di TalkSafe. Le parole si aggiungono con il pulsante del microfono e compaiono in un elenco." width="540" height="960" loading="lazy"><figcaption>Impostazioni delle parole chiave. Puoi registrarne diverse; basta che ne venga rilevata una perché la registrazione parta.</figcaption></figure>
 

@@ -8,12 +8,12 @@ eyebrow: Kayıt
 title: "Kayıt tuşuna neden hep geç basılır"
 description: "Bir konuşmanın kaydedilmesi gerektiğini fark ettiğinizde, gereken sözler çoktan söylenmiştir. Bu boşluğu kapatmanın iki yolu."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Bir kayıt uygulaması, kayıt tuşuna basmadan önce söyleneni kaydedebilir mi?"
     a: "Çoğu kayıt uygulaması yalnızca kayda bastığınız andan itibaren kaydeder; öncesi kaybolur. Bazı uygulamalar boştayken son birkaç saniyelik sesi tutar ve kayıt başladığında bunu dosyanın başına ekler. TalkSafe önceki 30 saniyeyi saklar."
   - q: "Kaydı dokunarak değil sesle başlatmak mümkün mü?"
-    a: "Evet. TalkSafe, önceden bir kelime belirlediğiniz ve uygulama bu kelimeyi duyduğunda kaydın kendiliğinden başladığı bir Android ses kayıt uygulamasıdır. Telefonun kilidini açmanız ya da uygulamayı açmanız gerekmez; bu, elleriniz doluyken önemlidir."
+    a: "Evet. TalkSafe, önceden bir kelime belirlediğiniz ve uygulama bu kelimeyi duyduğunda kaydın kendiliğinden başladığı Android ve iPhone için bir ses kayıt uygulamasıdır. Telefonun kilidini açmanız ya da uygulamayı açmanız gerekmez; bu, elleriniz doluyken önemlidir."
   - q: "Anahtar kelime benim söyleyeceğim bir kelime mi olmalı?"
     a: "Hayır. Algılama bir sese bağlı değildir; karşınızdakinin o durumda söylemesi muhtemel bir kelimeyi de seçebilirsiniz. Tek bir kelime birçok cümleyi kapsar: kayıt kelimesini seçtiğinizde hem bunun kaydını almalıyım dediğinizde hem de kayıt alabilir miyim diye sorduğunuzda kayıt başlar."
   - q: "Sesim bir yere yükleniyor mu?"

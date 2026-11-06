@@ -10,10 +10,10 @@ description: "Androidで録音をAIで要約するには、要約機能のある
 image: /assets/img/og/summarize-recording-ja.png
 image_alt: "PixelのGoogleレコーダー、GalaxyのSamsungボイスレコーダー、TalkSafeの比較：三つともAI要約があり、全文の文字起こしはPixelとGalaxyのみ、決めた言葉で録音が自分で始まるのはTalkSafeのみです。"
 app: true
-app_description: "あらかじめ決めておいた言葉が聞こえると自動で録音を開始するAndroidアプリです。録音が始まると、その直前30秒もあわせて保存されます。"
+app_description: "あらかじめ決めておいた言葉が聞こえると自動で録音を開始するAndroid・iPhoneアプリです。録音が始まると、その直前30秒もあわせて保存されます。"
 faq:
   - q: "Androidで録音をAIで要約するにはどうすればいいですか"
-    a: "AI要約機能のある録音アプリを使います。PixelのGoogleレコーダーは、録音の文字起こしを端末内のGemini Nanoで要約できます。SamsungのボイスレコーダーはGalaxy AIのTranscript Assistで文字起こしと要約を提供し、サムスンアカウントが必要です。Android向け録音アプリのTalkSafeは録音ごとにAI要約を作り、録音の詳細画面で再生バーの下に表示します。"
+    a: "AI要約機能のある録音アプリを使います。PixelのGoogleレコーダーは、録音の文字起こしを端末内のGemini Nanoで要約できます。SamsungのボイスレコーダーはGalaxy AIのTranscript Assistで文字起こしと要約を提供し、サムスンアカウントが必要です。Android・iPhone向け録音アプリのTalkSafeは録音ごとにAI要約を作り、録音の詳細画面で再生バーの下に表示します。"
   - q: "録音を要約すると音声はサーバーに送られますか"
     a: "アプリによって異なります。PixelのGoogleレコーダーの要約は端末内のGemini Nanoで行われます。TalkSafeはAI要約のために録音をサーバーへ送り、キーワード検知はすべてスマートフォンの中で行います。会話にほかの人がいた場合、送るファイルにはその人の声も含まれます。"
   - q: "TalkSafeの要約は何語で出ますか"

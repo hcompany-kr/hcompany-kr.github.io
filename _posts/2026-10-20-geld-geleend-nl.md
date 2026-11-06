@@ -10,7 +10,7 @@ description: "Een lening hoeft niet op papier, maar wie terugbetaling eist, moet
 image: /assets/img/og/geld-geleend-nl.png
 image_alt: "Geld geleend en niet terugbetaald: in Nederland stuit een mondelinge herinnering de verjaring niet, alleen een schriftelijke (art. 3:317 BW); een erkenning door de schuldenaar stuit in Nederland en België, in Nederland ook mondeling (art. 3:318 BW); je eigen gesprek opnemen mag in beide landen."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Kan ik geleend geld terugeisen zonder schriftelijk contract?"
     a: "Ja. Een geldlening is ook mondeling geldig. Het probleem is bewijs: wie stelt dat het een lening was, moet dat bewijzen, ook als de ander zegt dat het een gift was. Een bankoverschrijving laat zien dat het geld is overgemaakt, niet waarom."
@@ -85,7 +85,7 @@ Over geld praat je aan tafel of aan de telefoon. In **Nederland** is het opnemen
 
 „Mag ik dit opnemen?” zeg je alleen niet zo makkelijk tegen een oude vriend.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**, dus je kunt kiezen wat de ander waarschijnlijk zegt: **„terugbetalen”**, **„volgende maand”**. Zegt hij „Ik betaal je volgende maand terug”, dan begint de opname — en wat daarvoor gezegd werd, zit er ook in.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**, dus je kunt kiezen wat de ander waarschijnlijk zegt: **„terugbetalen”**, **„volgende maand”**. Zegt hij „Ik betaal je volgende maand terug”, dan begint de opname — en wat daarvoor gezegd werd, zit er ook in.
 
 <figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
 

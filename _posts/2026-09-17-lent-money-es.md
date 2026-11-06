@@ -8,7 +8,7 @@ eyebrow: Dinero
 title: "Le prestaste dinero sin papeles y ahora dice que se lo regalaste"
 description: "Una transferencia prueba que el dinero salió, no que fuera un préstamo. Cómo tratan trece países el préstamo entre particulares: quién tiene que probarlo, cuánto tiempo hay para reclamar y si un 'te lo devuelvo' de palabra reinicia el plazo."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Puedo recuperar dinero que presté sin contrato escrito?"
     a: "Sí. El préstamo entre particulares no necesita forma escrita para obligar: el artículo 1278 del Código Civil español establece que los contratos son obligatorios cualquiera que sea la forma en que se hayan celebrado. El problema es la prueba. Si la otra parte dice que no fue un préstamo, quien reclama la devolución tiene que acreditar que lo fue, y una transferencia bancaria solo demuestra que el dinero cambió de manos."
@@ -23,7 +23,7 @@ faq:
   - q: "¿Puedo grabar la conversación en la que le pido el dinero?"
     a: "En España el Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor, de modo que grabar una conversación en la que participas no lo vulnera. Difundir la grabación es otra cuestión y puede vulnerar la intimidad. En Hispanoamérica la regla cambia según el país."
   - q: "¿Cómo ayuda TalkSafe a dejar constancia de una conversación sobre dinero?"
-    a: "TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente usará la otra persona. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio."
+    a: "TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente usará la otra persona. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio."
 ---
 
 Un amigo te dijo que era urgente. Que te lo devolvía el mes siguiente, sin falta. Os conocíais de hace años, así que ni se te pasó por la cabeza pedirle que firmara nada. Le hiciste la transferencia.
@@ -110,7 +110,7 @@ No se puede volver atrás y firmar un documento. Lo que sí se puede hacer ahora
 
 El problema práctico es otro: a un amigo de toda la vida no le dices «¿te importa si grabo esto?». En el momento en que lo dices, la conversación ya es otra.
 
-TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente usará la otra persona. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, así que no hace falta cortar la conversación.
+TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente usará la otra persona. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, así que no hace falta cortar la conversación.
 
 <figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
 

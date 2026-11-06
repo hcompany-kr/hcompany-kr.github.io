@@ -8,7 +8,7 @@ eyebrow: Diritto
 title: "Hai la registrazione e non riesci comunque a usarla"
 description: "Quasi mai è la legge a fermare una registrazione. Sono l'originale e l'inizio. Come quattordici paesi decidono se una registrazione entra in giudizio."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Perché una registrazione autentica può non essere utilizzabile?"
     a: "Quasi sempre per due ragioni: l'originale e la completezza. Una registrazione non porta firma né sigillo, quindi prima di valutare cosa dice occorre stabilire che il file sia quello che si afferma e che rappresenti la conversazione in modo fedele. Se l'originale è stato cancellato o resta solo una copia passata per una compressione, quella questione diventa il centro della causa e a rispondere è chi ha registrato."
@@ -21,7 +21,7 @@ faq:
   - q: "E se ho iniziato a registrare troppo tardi?"
     a: "Si perde il contesto che spiega perché quelle parole sono state dette. Quasi nessuno registra dall'inizio di una conversazione: si comincia quando le cose stanno già andando male, cioè nel momento in cui ci si è accorti del problema. Tutto quello che c'era prima è andato e non si ricostruisce dopo."
   - q: "Come fa TalkSafe a conservare la parte precedente all'avvio?"
-    a: "TalkSafe è un registratore vocale per Android che mantiene sempre gli ultimi 30 secondi e avvia la registrazione quando sente una parola scelta dall'utente. Quei 30 secondi già trascorsi vengono salvati insieme al file, così lo spazio fra l'accorgersi e il prendere in mano il telefono non va perduto."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che mantiene sempre gli ultimi 30 secondi e avvia la registrazione quando sente una parola scelta dall'utente. Quei 30 secondi già trascorsi vengono salvati insieme al file, così lo spazio fra l'accorgersi e il prendere in mano il telefono non va perduto."
   - q: "Le regole cambiano da paese a paese?"
     a: "Cambia la soglia. L'India non accetta in linea di principio un documento elettronico privo del certificato di legge, la Spagna impone il supporto originale insieme alla trascrizione. Gli Stati Uniti trattano la copia come l'originale e il Canada si accontenta della prova di integrità del sistema di conservazione. L'asse però è ovunque lo stesso: originale e completezza."
 ---

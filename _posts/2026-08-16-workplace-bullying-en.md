@@ -8,7 +8,7 @@ eyebrow: Work
 title: "Most workplace bullying is perfectly legal"
 description: "There is no federal or state anti-bullying law. What makes it actionable, why writing your complaint down changes the employer's position, and what to do when none of that applies."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is workplace bullying illegal in the United States?"
     a: "Generally no. No federal statute prohibits a manager from berating you or a team from freezing you out. Bullying becomes unlawful only when it targets a protected characteristic such as race, sex, age, religion or disability, when it is severe or pervasive enough to create a hostile work environment, or when it is retaliation for protected activity."

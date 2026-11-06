@@ -9,7 +9,7 @@ eyebrow: How to
 title: "What to do with a recording, and what not to do with it"
 description: "How to keep the file, how to cut it down to the part that matters, and where to submit it. Most of the trouble people run into comes after the recording, not during it."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can I keep only the part of a recording that matters?"
     a: "TalkSafe has a trim function. Trimming leaves the original untouched and saves the selected section as a new file, so you can prepare a shorter version for submission while keeping the full recording intact."

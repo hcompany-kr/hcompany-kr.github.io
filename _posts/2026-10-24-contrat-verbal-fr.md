@@ -10,7 +10,7 @@ description: "En France, en Belgique, en Suisse et au Québec, un contrat conclu
 image: /assets/img/og/contrat-verbal-fr.png
 image_alt: "Contrat verbal en France, Belgique, Suisse et Québec : valable en principe ; preuve écrite exigée au-delà de 1 500 € (France), 3 500 € (Belgique) ou 1 500 $ (Québec) ; on ne prouve pas contre un écrit par témoins ; enregistrer sa propre conversation à l'insu de l'autre est interdit en France et en Suisse, permis en Belgique et au Québec."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Un contrat verbal est-il valable en France ?"
     a: "Oui. Selon l'article 1172 du Code civil, les contrats sont par principe consensuels : ils se forment par le seul échange des consentements, sans écrit. Seuls les contrats solennels, pour lesquels la loi impose une forme déterminée, ne sont pas valables sans elle. La question est en pratique celle de la preuve."
@@ -25,7 +25,7 @@ faq:
   - q: "Et au Québec ?"
     a: "Le contrat verbal est valable. Pour prouver un contrat de plus de 1 500 $ conclu entre deux personnes, le témoignage ne suffit généralement pas, sauf si le contrat a été conclu dans le cours des activités d'une entreprise ou s'il existe un début de preuve, comme un aveu, un échange de courriels ou un virement. On ne peut pas non plus contredire un contrat écrit par témoignage sans un tel début de preuve."
   - q: "Comment TalkSafe peut-il aider ?"
-    a: "TalkSafe est une application d'enregistrement pour Android qui démarre sur un mot choisi à l'avance et fonctionne écran verrouillé. En France, où il faut le consentement, on peut placer le mot-clé dans sa propre question, par exemple « enregistrer » dans « Je peux enregistrer, pour qu'on ait tous les deux la même chose ? » : l'enregistrement commence à ce moment et la réponse est dans le fichier, avec les 30 secondes précédentes."
+    a: "TalkSafe est une application d'enregistrement pour Android et iPhone qui démarre sur un mot choisi à l'avance et fonctionne écran verrouillé. En France, où il faut le consentement, on peut placer le mot-clé dans sa propre question, par exemple « enregistrer » dans « Je peux enregistrer, pour qu'on ait tous les deux la même chose ? » : l'enregistrement commence à ce moment et la réponse est dans le fichier, avec les 30 secondes précédentes."
 ---
 
 Le carreleur est dans la cuisine vide, le devis posé sur le plan de travail.

@@ -10,7 +10,7 @@ description: "Detectives privados, periodistas, peritos de seguros, investigador
 image: /assets/img/og/interview-recording-es.png
 image_alt: "Dos formas de grabar una entrevista: sacar la grabadora hace que la otra persona elija sus palabras; una grabación que empieza con una palabra clave no exige tocar el móvil y la conversación sigue. Solo conversaciones propias, original intacto."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Puede un detective privado grabar una conversación en la que participa?"
     a: "En España, con carácter general, sí. El Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor: quien graba es partícipe del secreto. En México, Perú, Ecuador, Colombia y Costa Rica grabar la conversación propia también es lícito; en Chile y Uruguay no es delito, pero los tribunales han llegado a excluirla como prueba."
@@ -19,7 +19,7 @@ faq:
   - q: "¿Por qué sacar la grabadora cambia una entrevista?"
     a: "En cuanto la grabadora está a la vista, la gente empieza a elegir palabras para el acta. Las respuestas se acortan, se vuelven cuidadosas, y el detalle que buscabas pasa a ser algo que solo dirán con la grabadora apagada. Sacar el móvil a mitad de conversación para empezar a grabar crea el mismo momento."
   - q: "¿Hay una app que empiece a grabar sin sacar el móvil?"
-    a: "TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra elegida de antemano. Funciona con la pantalla bloqueada y el móvil en el bolsillo, la palabra no está ligada a tu voz, así que puede ser una que diga la otra persona, y guarda los 30 segundos anteriores al inicio."
+    a: "TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra elegida de antemano. Funciona con la pantalla bloqueada y el móvil en el bolsillo, la palabra no está ligada a tu voz, así que puede ser una que diga la otra persona, y guarda los 30 segundos anteriores al inicio."
   - q: "¿Qué importa si la grabación de la entrevista se convierte en prueba?"
     a: "El original. En España, el artículo 382 de la Ley de Enjuiciamiento Civil exige aportar la grabación íntegra, en soporte original y con su transcripción escrita. El recorte y la eliminación de ruido con IA de TalkSafe guardan cada uno un archivo nuevo y dejan el original intacto."
   - q: "¿Cómo pido permiso para grabar sin que suene forzado?"
@@ -57,7 +57,7 @@ Meter la mano en el bolsillo a mitad de conversación, desbloquear el móvil y b
 
 ## Una palabra pulsa el botón por ti
 
-[TalkSafe](/talksafe/es/) es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra elegida de antemano. Para quien entrevista, importan tres cosas.
+[TalkSafe](/talksafe/es/) es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra elegida de antemano. Para quien entrevista, importan tres cosas.
 
 <figure class="shot"><img src="/assets/img/screens/active-es.jpg" alt="Pantalla de TalkSafe con la detección de palabras clave activa y el botón Detener." width="540" height="960" loading="lazy"><figcaption>Detección de palabras clave activa. Sigue escuchando en segundo plano con la pantalla apagada o la aplicación cerrada.</figcaption></figure>
 

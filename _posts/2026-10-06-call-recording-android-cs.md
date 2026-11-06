@@ -8,7 +8,7 @@ eyebrow: Návod
 title: "Proč aplikace na nahrávání hovorů na Androidu přestaly fungovat a co funguje dál"
 description: "Android odstranil rozhraní v roce 2015, v roce 2019 zablokoval cestu přes mikrofon a Google v květnu 2022 zavřel poslední skulinu. Vestavěná aplikace Telefon pod zákaz nikdy nespadala. A co říká zákon v Česku a na Slovensku."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Proč na Androidu přestaly fungovat aplikace na nahrávání hovorů?"
     a: "Android 6 v roce 2015 odstranil rozhraní pro nahrávání hovorů a Android 10 v roce 2019 zablokoval nahrávání hovorů přes mikrofon. Vývojáři pak přešli na rozhraní usnadnění přístupu a 11. května 2022 Google zavřel i tuto cestu. Aplikace třetích stran na nahrávání hovorů byly z Obchodu Play odstraněny."
@@ -21,7 +21,7 @@ faq:
   - q: "Funguje dát hovor na hlasitý odposlech a nahrávat ho aplikací?"
     a: "Ano, na každém telefonu s Androidem, protože aplikace pak nahrává zvuk v místnosti, ne samotný hovor. Cenou je horší kvalita zvuku, hluk v pozadí a to, že hovor slyší všichni v okolí."
   - q: "Je TalkSafe aplikace na nahrávání telefonních hovorů?"
-    a: "Ne. TalkSafe je aplikace pro nahrávání zvuku na Android, která nahrává to, co mikrofon slyší v místnosti; k samotnému hovoru přístup nemá. Při hovoru na hlasitý odposlech nahraje obě strany. Začne nahrávat, když uslyší předem zvolené slovo, funguje při zamčené obrazovce a uloží 30 sekund před začátkem."
+    a: "Ne. TalkSafe je aplikace pro nahrávání zvuku na Android a iPhone, která nahrává to, co mikrofon slyší v místnosti; k samotnému hovoru přístup nemá. Při hovoru na hlasitý odposlech nahraje obě strany. Začne nahrávat, když uslyší předem zvolené slovo, funguje při zamčené obrazovce a uloží 30 sekund před začátkem."
   - q: "Mění samostatné nahrávací zařízení něco na právní úpravě?"
     a: "Ne. Právo se týká rozhovoru, ne zařízení. Druhý telefon, diktafon nebo hlasitý odposlech nic nemění na tom, jaký souhlas vyžaduje země, ve které jste."
 ---

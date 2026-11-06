@@ -8,7 +8,7 @@ eyebrow: School
 title: "Put it in writing, and start the clock"
 description: "There is no federal bullying law, but there are deadlines that matter. What triggers a school's duty to investigate, when federal civil rights protections apply, and what a parent should be documenting."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is there a federal law against bullying in US schools?"
     a: "No. Congress has never passed a standalone anti-bullying statute. Federal law applies when bullying overlaps with discriminatory harassment based on race, color, national origin, sex, disability, or religion. Bullying itself is governed by state law, and every state addresses it in some form."

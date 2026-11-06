@@ -10,7 +10,7 @@ description: "Israrlı takip 2022'den beri TCK 123/A'da ayrı bir suçtur: temel
 image: /assets/img/og/israrli-takip-tr.png
 image_alt: "Israrlı takip, Türkiye: suçtur, altı aydan iki yıla, nitelikli hallerde bir yıldan üç yıla kadar hapis; altı ay içinde şikâyet gerekir; aramaları rızasız kaydetmek TCK 133/2 nedeniyle risklidir; olaydan hemen sonra kendi sesinizle not tutmak güvenlidir."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Israrlı takip suçunun cezası nedir?"
     a: "TCK 123/A'nın birinci fıkrasına göre ısrarlı takip suçunun temel hâlinin cezası altı aydan iki yıla kadar hapistir. Suç çocuğa karşı ya da ayrılık kararı verilen veya boşanılan eşe karşı işlenirse, mağdurun okulunu, iş yerini veya konutunu değiştirmesine ya da okulu veya işi bırakmasına yol açılırsa ya da hakkında uzaklaştırma veya yaklaşmama tedbiri bulunan fail tarafından işlenirse ceza bir yıldan üç yıla kadar hapistir."
@@ -81,7 +81,7 @@ Yargıtay **Ceza Genel Kurulu 21.05.2013 tarihli kararında (2013/248 K.)**, ki�
 
 Kimsenin konuşmasını kaydetmeden yapabileceğiniz en güçlü şey, **olaydan hemen sonra** ne olduğunu **kendi sesinizle** kaydetmektir: ne oldu, nerede, saat kaçtı, ne söylendi, kim gördü. Olaya ne kadar yakınsa o kadar ayrıntılı olur.
 
-Sorun şu: olaydan hemen sonra eller titrer ve telefonu onun gözü önünde çıkarmak istemezsiniz. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar — telefon cebinizde kalır. Kırptığınızda **orijinal korunur**.
+Sorun şu: olaydan hemen sonra eller titrer ve telefonu onun gözü önünde çıkarmak istemezsiniz. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar — telefon cebinizde kalır. Kırptığınızda **orijinal korunur**.
 
 <figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
 

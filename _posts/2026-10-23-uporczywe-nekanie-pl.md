@@ -10,7 +10,7 @@ description: "Uporczywe nękanie jest w Polsce przestępstwem od 2011 r.: art. 1
 image: /assets/img/og/uporczywe-nekanie-pl.png
 image_alt: "Uporczywe nękanie w Polsce: przestępstwo z art. 190a § 1 k.k.; ściganie na wniosek pokrzywdzonego, nie z urzędu; nagranie rozmowy, w której się uczestniczy, co do zasady dozwolone; datowany dziennik zdarzeń."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Jaka jest kara za stalking w Polsce?"
     a: "Art. 190a § 1 Kodeksu karnego stanowi, że kto przez uporczywe nękanie innej osoby lub osoby dla niej najbliższej wzbudza u niej uzasadnione okolicznościami poczucie zagrożenia, poniżenia lub udręczenia lub istotnie narusza jej prywatność, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. Jeżeli następstwem czynu jest targnięcie się pokrzywdzonego na własne życie, kara wynosi od 2 do 15 lat."
@@ -66,7 +66,7 @@ Dwa słowa są kluczowe: **uporczywe** i **uzasadnione okolicznościami**. To w�
 
 Problem to moment. Nikt nie uprzedza, kiedy się pojawi, a wyjmowanie telefonu na jego oczach może wszystko pogorszyć.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**. Naturalny wybór to słowo, które powiesz w tej chwili: **„przestań”**. Gdy powiesz „Przestań mnie śledzić”, nagrywanie się zaczyna — a to, co było wcześniej, też jest w pliku, z telefonem w kieszeni.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**. Naturalny wybór to słowo, które powiesz w tej chwili: **„przestań”**. Gdy powiesz „Przestań mnie śledzić”, nagrywanie się zaczyna — a to, co było wcześniej, też jest w pliku, z telefonem w kieszeni.
 
 <figure class="shot"><img src="/assets/img/screens/before30-pl.jpg" alt="Historia nagrań w TalkSafe. Za każdym razem, gdy zostanie wykryte słowo kluczowe, nagranie zapisuje się z datą i godziną." width="540" height="960" loading="lazy"><figcaption>Historia nagrań. Każdy plik zawiera też 30 sekund sprzed wykrycia słowa kluczowego.</figcaption></figure>
 

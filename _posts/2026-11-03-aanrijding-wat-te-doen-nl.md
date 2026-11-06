@@ -10,7 +10,7 @@ description: "Na een aanrijding in Nederland moet je stoppen en je identiteit ke
 image: /assets/img/og/aanrijding-wat-te-doen-nl.png
 image_alt: "Aanrijding in Nederland en België: stoppen en je identiteit kenbaar maken (art. 7 WVW); het Europees schadeformulier is geen schuldbekentenis; de verzekeraar beoordeelt de aansprakelijkheid; je eigen gesprek opnemen mag in beide landen."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Wat moet ik doen na een aanrijding in Nederland?"
     a: "Stoppen, de plek veilig maken, eerste hulp regelen als er gewonden zijn en 112 bellen, en je gegevens uitwisselen: naam, adres, kenteken en verzekering. Artikel 7 van de Wegenverkeerswet 1994 verplicht een betrokkene bij een verkeersongeval om te stoppen en zijn identiteit kenbaar te maken, ook bij lichte blikschade. Vul daarna samen het Europees schadeformulier in."
@@ -21,7 +21,7 @@ faq:
   - q: "Mag ik het gesprek met de andere bestuurder opnemen?"
     a: "Ja. In Nederland stelt artikel 139a van het Wetboek van Strafrecht alleen het opnemen strafbaar door iemand die geen deelnemer is aan het gesprek. Een gesprek waaraan je zelf deelneemt, mag je opnemen, ook zonder toestemming. In België pleegt een deelnemer die een communicatie opneemt volgens het Hof van Cassatie (2015) evenmin een misdrijf."
   - q: "Hoe helpt TalkSafe na een aanrijding?"
-    a: "TalkSafe is een opname-app voor Android die begint met opnemen zodra hij een vooraf gekozen woord hoort, ook met een vergrendeld scherm en zonder de app te openen. Woorden worden herkend wie ze ook zegt, dus je kunt instellen wat de andere bestuurder meestal zegt, zoals 'verzekering' en 'gezien'. De 30 seconden vóór de start staan ook in het bestand."
+    a: "TalkSafe is een opname-app voor Android en iPhone die begint met opnemen zodra hij een vooraf gekozen woord hoort, ook met een vergrendeld scherm en zonder de app te openen. Woorden worden herkend wie ze ook zegt, dus je kunt instellen wat de andere bestuurder meestal zegt, zoals 'verzekering' en 'gezien'. De 30 seconden vóór de start staan ook in het bestand."
   - q: "Hoe zit het in België?"
     a: "In België vul je het Europees aanrijdingsformulier in, dat in alle EU-landen hetzelfde is. Ter plaatse blijven en je gegevens uitwisselen is verplicht, ook bij een klein ongeval op een parking. Wegrijden om de vaststellingen te ontlopen is vluchtmisdrijf. Een deelnemer mag zijn eigen gesprek opnemen."
 ---
@@ -72,7 +72,7 @@ In **Nederland** stelt **artikel 139a van het Wetboek van Strafrecht** alleen he
 
 Het probleem is het moment. Je bent net aangereden, je hart bonkt, de auto moet van de rijbaan, de ander loopt al op je af. Niemand pakt in die toestand zijn telefoon, opent een app en drukt op een knop. En **de zin die ertoe doet valt in de eerste tien seconden** – de structuur uit [Waarom je altijd te laat op opnemen drukt](/blog/nl/recording-delay/), in zijn meest extreme vorm.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort – met een **vergrendeld scherm**, zonder de telefoon te ontgrendelen of de app te openen. Woorden worden herkend **wie ze ook zegt**, dus je kunt instellen wat **de andere bestuurder** meestal zegt: "verzekering", "gezien". Stel je **twee woorden in die waarschijnlijk in dezelfde zin vallen** – "ik heb je niet gezien, mijn verzekering regelt het" – dan wordt de herkenning nauwkeuriger. De **30 seconden daarvoor** staan in het bestand, dus de zin die viel voordat je het doorhad, gaat niet verloren.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint met opnemen zodra hij een **vooraf gekozen woord** hoort – met een **vergrendeld scherm**, zonder de telefoon te ontgrendelen of de app te openen. Woorden worden herkend **wie ze ook zegt**, dus je kunt instellen wat **de andere bestuurder** meestal zegt: "verzekering", "gezien". Stel je **twee woorden in die waarschijnlijk in dezelfde zin vallen** – "ik heb je niet gezien, mijn verzekering regelt het" – dan wordt de herkenning nauwkeuriger. De **30 seconden daarvoor** staan in het bestand, dus de zin die viel voordat je het doorhad, gaat niet verloren.
 
 <figure class="shot"><img src="/assets/img/screens/active-nl.jpg" alt="TalkSafe-scherm met actieve trefwoordherkenning en een Stop-knop." width="540" height="960" loading="lazy"><figcaption>Trefwoordherkenning actief. De app blijft op de achtergrond luisteren, ook met het scherm uit of de app gesloten.</figcaption></figure>
 

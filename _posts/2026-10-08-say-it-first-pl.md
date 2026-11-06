@@ -9,10 +9,10 @@ eyebrow: Nagrywanie
 title: "Najpierw coś mówisz"
 description: "W chwili, w której orientujesz się, że rozmowę warto nagrać, usta działają szybciej niż ręce. Co się dzieje, gdy właśnie to staje się wyzwalaczem."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Co to znaczy zacząć nagrywanie głosem?"
-    a: "Ustawiasz z góry słowo, a aplikacja zaczyna nagrywać, gdy je usłyszy. TalkSafe to aplikacja do nagrywania na Androida, która działa w ten sposób; nie trzeba odblokowywać telefonu ani niczego otwierać."
+    a: "Ustawiasz z góry słowo, a aplikacja zaczyna nagrywać, gdy je usłyszy. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która działa w ten sposób; nie trzeba odblokowywać telefonu ani niczego otwierać."
   - q: "Jakie słowo wybrać?"
     a: "Nie ma jednej dobrej odpowiedzi. Działa to, co przychodzi ci naturalnie, gdy czujesz, że rozmowę warto nagrać. To różni się w zależności od osoby i sytuacji, a po kilku dniach używania zwykle staje się oczywiste."
   - q: "Co, jeśli nagrywanie uruchomi coś podobnie brzmiącego?"

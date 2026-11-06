@@ -10,7 +10,7 @@ description: "Nagranie rozmowy, w której się uczestniczy, co do zasady nie jes
 image: /assets/img/og/nagrywanie-rozmowy-pl.png
 image_alt: "Zasady nagrywania w Polsce: nagranie własnej rozmowy co do zasady nie jest przestępstwem, nagranie cudzej rozmowy podsłuchem jest przestępstwem (art. 267 § 3 k.k.), rozpowszechnienie może naruszać dobra osobiste."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy w Polsce można nagrywać rozmowę, w której się uczestniczy, bez zgody rozmówcy?"
     a: "Co do zasady tak. Art. 267 § 3 Kodeksu karnego karze tego, kto w celu uzyskania informacji, do której nie jest uprawniony, zakłada lub posługuje się urządzeniem podsłuchowym, a uczestnik rozmowy jest uprawniony do tego, co mówi się do niego. Nagrywając własną rozmowę, nie wypełnia się więc tego przepisu."
@@ -23,7 +23,7 @@ faq:
   - q: "Mieszkam w Niemczech. Jakie zasady obowiązują tam?"
     a: "Obowiązuje prawo kraju pobytu. W Niemczech § 201 StGB uznaje za przestępstwo nagranie bez upoważnienia niepublicznie wypowiedzianego słowa innej osoby także przez uczestnika rozmowy; grozi za to do trzech lat pozbawienia wolności lub grzywna. W Holandii art. 139a kodeksu karnego karze tylko nagrywanie przez osobę, która w rozmowie nie uczestniczy."
   - q: "Jak najprościej nagrać także zgodę rozmówcy?"
-    a: "W TalkSafe, aplikacji do nagrywania na Androida, ustaw jako słowo kluczowe słowo z własnego pytania, na przykład nagrać. Gdy zapytasz, czy możesz nagrać rozmowę, nagrywanie zacznie się dokładnie w tej chwili, a odpowiedź rozmówcy będzie w pliku."
+    a: "W TalkSafe, aplikacji do nagrywania na Androida i iPhone'a, ustaw jako słowo kluczowe słowo z własnego pytania, na przykład nagrać. Gdy zapytasz, czy możesz nagrać rozmowę, nagrywanie zacznie się dokładnie w tej chwili, a odpowiedź rozmówcy będzie w pliku."
 ---
 
 Rozmowa z pracodawcą, w której nagle pada słowo „porozumienie stron”. Właściciel mieszkania, który inaczej pamięta ustalenia co do kaucji. W pewnym momencie przychodzi myśl: powinienem był to nagrać.
@@ -80,7 +80,7 @@ Irlandia i pozostałe kraje nie są tu omówione.
 
 ## Gdzie pasuje aplikacja
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać po **wybranym wcześniej słowie**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Nagrywa to, co słyszy mikrofon w pomieszczeniu — czyli rozmowę, w której uczestniczysz. Nie ma trybu ukrytego.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać po **wybranym wcześniej słowie**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Nagrywa to, co słyszy mikrofon w pomieszczeniu — czyli rozmowę, w której uczestniczysz. Nie ma trybu ukrytego.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-pl.jpg" alt="Ekran słów kluczowych w TalkSafe. Słowa dodaje się przyciskiem mikrofonu, a poniżej widać ich listę." width="540" height="960" loading="lazy"><figcaption>Ustawienia słów kluczowych. Można zapisać kilka słów; wystarczy, że zostanie wykryte jedno z nich.</figcaption></figure>
 

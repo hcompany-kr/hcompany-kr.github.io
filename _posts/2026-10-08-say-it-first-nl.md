@@ -9,10 +9,10 @@ eyebrow: Opnemen
 title: "Eerst zeg je iets"
 description: "Op het moment dat je beseft dat een gesprek opgenomen moet worden, is je mond sneller dan je handen. Wat er gebeurt als juist dat de trigger wordt."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Wat betekent het om een opname met je stem te starten?"
-    a: "Je stelt vooraf een woord in, en de app begint met opnemen als hij het hoort. TalkSafe is een opname-app voor Android die zo werkt; je hoeft de telefoon niet te ontgrendelen en niets te openen."
+    a: "Je stelt vooraf een woord in, en de app begint met opnemen als hij het hoort. TalkSafe is een opname-app voor Android en iPhone die zo werkt; je hoeft de telefoon niet te ontgrendelen en niets te openen."
   - q: "Welk woord moet ik kiezen?"
     a: "Er is geen juist antwoord. Wat vanzelf uit je mond komt als je voelt dat een gesprek opgenomen moet worden, werkt. Dat verschilt per persoon en per situatie, en na een paar dagen gebruik wordt het meestal duidelijk."
   - q: "Wat als iets wat erop lijkt de opname start?"

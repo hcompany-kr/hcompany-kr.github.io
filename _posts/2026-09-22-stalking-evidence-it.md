@@ -8,7 +8,7 @@ eyebrow: Diritto
 title: "Come raccogliere le prove dello stalking"
 description: "Lo stalking è un reato fatto di ripetizione, quindi anche le prove devono accumularsi. Come tredici paesi puniscono gli atti persecutori e cosa può conservare lecitamente la vittima."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Che pena prevede lo stalking in Italia?"
     a: "L'art. 612-bis del codice penale punisce con la reclusione da un anno a sei anni e sei mesi chi, con condotte reiterate, minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura, ovvero da ingenerare un fondato timore per l'incolumità propria o di un prossimo congiunto o di persona legata da relazione affettiva, ovvero da costringerlo ad alterare le proprie abitudini di vita."
@@ -23,7 +23,7 @@ faq:
   - q: "La vittima deve volere il processo anche negli altri paesi?"
     a: "Dipende. In Spagna l'art. 172 ter del codice penale richiede in generale la denuncia della persona offesa, salvo nei casi di violenza domestica o di genere. In Corea del Sud la regola per cui non si poteva punire contro la volontà della vittima è stata abolita nel luglio 2023, e in Giappone lo stalking è procedibile senza querela dal 2017."
   - q: "Come aiuta TalkSafe in una situazione di stalking?"
-    a: "TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così quando la persona si presenta senza preavviso non serve tirare fuori il telefono e premere registra perché la conversazione a cui partecipi resti."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così quando la persona si presenta senza preavviso non serve tirare fuori il telefono e premere registra perché la conversazione a cui partecipi resti."
 ---
 
 Torni dal lavoro e quella persona è sotto casa.
@@ -97,7 +97,7 @@ Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non
 
 Messaggi e chiamate si conservano da soli. Quello che non si conserva da solo è **l'incontro**: sotto casa, all'uscita dal lavoro, davanti all'ascensore. Tirare fuori il telefono e premere registra in quel momento può peggiorare le cose.
 
-TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere frasi che diresti tu, come «lasciami in pace» o «vattene». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, anche quello che l'altra persona ha detto subito prima finisce nel file.
+TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere frasi che diresti tu, come «lasciami in pace» o «vattene». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, anche quello che l'altra persona ha detto subito prima finisce nel file.
 
 <figure class="shot"><img src="/assets/img/screens/before30-it.jpg" alt="Schermata dello storico delle registrazioni di TalkSafe. Ogni volta che viene rilevata una parola chiave si salva una registrazione con data e ora." width="540" height="960" loading="lazy"><figcaption>Storico delle registrazioni. Ogni file contiene anche i 30 secondi precedenti al rilevamento della parola chiave.</figcaption></figure>
 

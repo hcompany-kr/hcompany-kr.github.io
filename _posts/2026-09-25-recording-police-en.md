@@ -8,7 +8,7 @@ eyebrow: Law
 title: "Can you record the police? Thirteen countries compared"
 description: "A conversation with a police officer is still a conversation you are part of. Whether thirteen countries let you record or film the police, and where the line is drawn."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is it legal to record the police in the United States?"
     a: "The First, Second, Third, Fourth, Fifth, Seventh, Ninth, Tenth and Eleventh Circuit Courts of Appeals have recognised a First Amendment right to record police carrying out their duties in public. The Second Circuit joined in Massimino v. Benoit in August 2026, although it held the right had not been clearly established at the time and so the officers had qualified immunity. There is no federal statute; the right comes from the courts."
@@ -23,7 +23,7 @@ faq:
   - q: "What is the line I should not cross when recording police?"
     a: "Obstruction. In almost every country covered, recording is lawful but physically getting in the way of officers is an offence. Canada and New Zealand both note that refusing a lawful instruction to move for safety reasons can amount to obstruction. Record from where you are, keep your hands visible, and follow instructions to move."
   - q: "How does TalkSafe help during a police stop?"
-    a: "TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words an officer is likely to say, such as 'licence' or 'ID'. It works with the screen locked and saves the 30 seconds before recording started, so you do not have to reach for your phone during a stop."
+    a: "TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words an officer is likely to say, such as 'licence' or 'ID'. It works with the screen locked and saves the 30 seconds before recording started, so you do not have to reach for your phone during a stop."
 ---
 
 You are pulled over at night and there is a knock on the window.
@@ -107,7 +107,7 @@ In 2022 the Bombay High Court held that a police station is not a "prohibited pl
 
 A stop starts without warning. When you have been told to keep your hands where they can be seen, taking out your phone, unlocking it and pressing record is exactly the kind of movement that can be misread.
 
-TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words an officer is likely to say, like "licence" or "ID". It works with the screen locked, and because it saves the 30 seconds before it started, the conversation is there from the knock on the window.
+TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words an officer is likely to say, like "licence" or "ID". It works with the screen locked, and because it saves the 30 seconds before it started, the conversation is there from the knock on the window.
 
 <figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
 

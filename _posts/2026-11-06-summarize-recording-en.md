@@ -10,10 +10,10 @@ description: "To summarize a voice recording on Android, use a recorder app with
 image: /assets/img/og/summarize-recording-en.png
 image_alt: "Google Recorder on Pixel, Samsung Voice Recorder on Galaxy and TalkSafe compared: all three offer an AI summary, only Pixel and Galaxy give a full transcript, and only TalkSafe starts recording by itself on a word you set."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "How do I get an AI summary of a voice recording on Android?"
-    a: "Use a recorder app that has an AI summary. On Pixel phones, Google's Recorder app can summarize a recording's transcript on the device with Gemini Nano. Samsung's Voice Recorder offers transcripts and summaries through Galaxy AI's Transcript Assist, which requires a Samsung account. TalkSafe, an Android voice recorder, creates an AI summary for each recording and shows it under the player in the recording's detail screen."
+    a: "Use a recorder app that has an AI summary. On Pixel phones, Google's Recorder app can summarize a recording's transcript on the device with Gemini Nano. Samsung's Voice Recorder offers transcripts and summaries through Galaxy AI's Transcript Assist, which requires a Samsung account. TalkSafe, a voice recorder for Android and iPhone, creates an AI summary for each recording and shows it under the player in the recording's detail screen."
   - q: "Is the audio sent to a server when a recording is summarized?"
     a: "It depends on the app. Google's Recorder summaries on Pixel run on the device with Gemini Nano. TalkSafe sends the recording to a server for the AI summary, while its keyword detection runs entirely on the phone. If a conversation includes other people, their voices are part of whatever you send."
   - q: "What language is a TalkSafe summary in?"

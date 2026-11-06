@@ -10,14 +10,14 @@ description: "Reduzir uma gravação longa aos dois minutos que importam leva se
 image: /assets/img/og/trim-recording-pt-br.png
 image_alt: "A forma de onda de uma gravação longa com um trecho de dois minutos selecionado. No TalkSafe o trecho é salvo como um arquivo novo e o original completo fica como estava."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Como cortar uma gravação de voz no Android?"
     a: "A maioria dos apps de gravação tem uma função de corte: você arrasta duas alças para escolher o trecho e salva. Nos Pixel, o Gravador do Google tem Cortar e remover (Crop & Remove), que funciona no áudio ou na transcrição e termina em Salvar cópia. O gravador de voz da Samsung permite cortar e, ao salvar, escolher entre substituir o arquivo ou criar um novo. O TalkSafe salva o trecho cortado como um arquivo novo e deixa o original intacto."
   - q: "Cortar uma gravação apaga o original?"
     a: "Depende do app. O Gravador do Google salva a edição como cópia. O gravador de voz da Samsung pergunta se você quer substituir o arquivo ou criar um novo; escolher substituir sobrescreve o original. No TalkSafe o original sempre fica e o trecho cortado vira um arquivo separado."
   - q: "Existe um app Android que corta uma gravação e guarda o original automaticamente?"
-    a: "Sim. O TalkSafe é um app de gravação de voz para Android cuja função de corte sempre salva o trecho escolhido como um arquivo novo, então não existe uma opção de sobrescrever para escolher por engano. No trecho cortado dá para aplicar a remoção de ruído com IA do TalkSafe, processada no aparelho, e enviá-lo pelo menu de compartilhamento do Android."
+    a: "Sim. O TalkSafe é um app de gravação de voz para Android e iPhone cuja função de corte sempre salva o trecho escolhido como um arquivo novo, então não existe uma opção de sobrescrever para escolher por engano. No trecho cortado dá para aplicar a remoção de ruído com IA do TalkSafe, processada no aparelho, e enviá-lo pelo menu de compartilhamento do Android."
   - q: "Posso apresentar só uma parte da gravação como prova?"
     a: "Pode apresentar um trecho, mas guarde o original completo. No Brasil, o STF fixou em 2009, no Tema 237 de repercussão geral (RE 583.937), que é lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro. Ser lícita não dispensa mostrar que o arquivo é autêntico e completo, e é o original que mostra isso. Em Portugal é diferente: o artigo 199.º do Código Penal pune gravar sem consentimento e também usar a gravação sem consentimento."
   - q: "Dá para tirar o ruído de fundo só do trecho cortado?"
@@ -39,7 +39,7 @@ Ninguém vai ouvir o resto. Nem a empresa, nem a polícia, nem o juiz. Se você 
 | Gravador do Google | Pixel | Menu → Cortar e remover (Crop & Remove), no áudio ou na transcrição | A edição termina em Salvar cópia (Save copy) |
 | Gravador de voz da Samsung | Galaxy | Arrastando as alças de corte | Você escolhe: substituir o arquivo ou criar um novo |
 | Audacity | Computador | Selecionar, apagar, exportar | Intacto, a não ser que você exporte por cima com o mesmo nome |
-| TalkSafe | Android | Escolher o trecho e cortar | Sempre fica; o trecho é salvo como arquivo novo |
+| TalkSafe | Android, iOS | Escolher o trecho e cortar | Sempre fica; o trecho é salvo como arquivo novo |
 
 A diferença que importa está na última coluna.
 

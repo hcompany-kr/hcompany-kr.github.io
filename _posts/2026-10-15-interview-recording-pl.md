@@ -10,7 +10,7 @@ description: "Detektywi, dziennikarze, likwidatorzy szkód, osoby prowadzące po
 image: /assets/img/og/interview-recording-pl.png
 image_alt: "Dwa sposoby nagrywania rozmowy: dyktafon na stole sprawia, że rozmówca waży słowa; nagranie uruchamiane słowem kluczowym nie wymaga dotykania telefonu i rozmowa toczy się dalej. Tylko własne rozmowy, oryginał nietknięty."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy detektyw może nagrać rozmowę, w której uczestniczy?"
     a: "W Polsce co do zasady tak. Art. 267 § 3 Kodeksu karnego karze tego, kto w celu uzyskania informacji, do której nie jest uprawniony, posługuje się urządzeniem podsłuchowym, a uczestnik rozmowy jest uprawniony do tego, co mówi się do niego. Licencja detektywa niczego tu nie zmienia — ani w jedną, ani w drugą stronę."
@@ -21,7 +21,7 @@ faq:
   - q: "Dlaczego wyjęcie dyktafonu zmienia rozmowę?"
     a: "Gdy dyktafon jest widoczny, ludzie zaczynają dobierać słowa do protokołu. Odpowiedzi się skracają i stają ostrożne, a szczegół, o który chodziło, pada już tylko przy wyłączonym urządzeniu. Sięgnięcie po telefon w trakcie rozmowy, żeby zacząć nagrywać, tworzy tę samą chwilę."
   - q: "Czy jest aplikacja, która zaczyna nagrywać bez wyjmowania telefonu?"
-    a: "TalkSafe to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Działa przy zablokowanym ekranie i telefonie w kieszeni, słowo nie jest powiązane z twoim głosem, więc może to być słowo rozmówcy, a 30 sekund sprzed startu zostaje w pliku."
+    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Działa przy zablokowanym ekranie i telefonie w kieszeni, słowo nie jest powiązane z twoim głosem, więc może to być słowo rozmówcy, a 30 sekund sprzed startu zostaje w pliku."
   - q: "Co jest ważne, jeśli nagranie stanie się dowodem?"
     a: "Oryginał. Sąd Najwyższy uznawał nagrania dokonane bez wiedzy rozmówcy za dowód w sprawach cywilnych, jeśli nie podważono skutecznie ich autentyczności. Wycinanie i usuwanie szumów z AI w TalkSafe zapisują nowe pliki i zostawiają oryginał nietknięty."
 ---
@@ -57,7 +57,7 @@ Sięgnięcie do kieszeni w trakcie rozmowy, odblokowanie telefonu i szukanie apl
 
 ## Słowo naciska przycisk za ciebie
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Dla kogoś, kto prowadzi rozmowy, liczą się trzy rzeczy.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Dla kogoś, kto prowadzi rozmowy, liczą się trzy rzeczy.
 
 <figure class="shot"><img src="/assets/img/screens/active-pl.jpg" alt="Ekran TalkSafe z aktywnym wykrywaniem słów kluczowych i przyciskiem Zatrzymaj." width="540" height="960" loading="lazy"><figcaption>Wykrywanie słów kluczowych aktywne. Aplikacja słucha dalej w tle przy wyłączonym ekranie albo zamkniętej aplikacji.</figcaption></figure>
 

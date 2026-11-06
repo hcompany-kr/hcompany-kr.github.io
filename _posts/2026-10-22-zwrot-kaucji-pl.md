@@ -10,7 +10,7 @@ description: "Według ustawy o ochronie praw lokatorów kaucja nie może przekra
 image: /assets/img/og/zwrot-kaucji-pl.png
 image_alt: "Zwrot kaucji w Polsce: w ciągu miesiąca od opróżnienia lokalu, w kwocie zwaloryzowanej według czynszu z dnia zwrotu (art. 6 u.o.p.l.); potrącenie za normalne zużycie niedopuszczalne (art. 675 k.c.); nagranie rozmowy, w której się uczestniczy, co do zasady dozwolone."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Ile może wynosić kaucja za mieszkanie?"
     a: "Według art. 6 ustawy o ochronie praw lokatorów kaucja nie może przekraczać dwunastokrotności miesięcznego czynszu za dany lokal obowiązującego w dniu zawarcia umowy."
@@ -73,7 +73,7 @@ Kłopot w tym, że wiele rzeczy pada tylko **ustnie**: „Te dziurki po kołkach
 
 Przy oddawaniu mieszkania masz zajęte ręce — telefon do zdjęć, protokół, klucze.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc możesz ustawić to, co wynajmujący prawdopodobnie powie: **„kaucja”**, **„w porządku”**. Gdy powie „Wszystko w porządku, kaucję oddam”, nagrywanie się zaczyna — a to, co padło wcześniej, też jest w pliku.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc możesz ustawić to, co wynajmujący prawdopodobnie powie: **„kaucja”**, **„w porządku”**. Gdy powie „Wszystko w porządku, kaucję oddam”, nagrywanie się zaczyna — a to, co padło wcześniej, też jest w pliku.
 
 <figure class="shot"><img src="/assets/img/screens/before30-pl.jpg" alt="Historia nagrań w TalkSafe. Za każdym razem, gdy zostanie wykryte słowo kluczowe, nagranie zapisuje się z datą i godziną." width="540" height="960" loading="lazy"><figcaption>Historia nagrań. Każdy plik zawiera też 30 sekund sprzed wykrycia słowa kluczowego.</figcaption></figure>
 

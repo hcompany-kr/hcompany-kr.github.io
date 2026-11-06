@@ -8,7 +8,7 @@ eyebrow: Casa
 title: "Quello che ti ha detto l'agente durante la visita: puoi dimostrarlo dopo?"
 description: "«No, infiltrazioni non ce ne sono» si dice a voce mentre giri per casa, e solo una parte arriva sulla carta. Come sedici paesi regolano l'obbligo di informazione dell'agente immobiliare e cosa fare quando quello che ti hanno detto si rivela falso."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Cosa deve comunicare l'agente immobiliare in Italia?"
     a: "L'art. 1759 del codice civile stabilisce che il mediatore deve comunicare alle parti le circostanze a lui note, relative alla valutazione e alla sicurezza dell'affare, che possono influire sulla conclusione di esso. Secondo la Cassazione ha il duplice obbligo di dichiarare le circostanze rilevanti di cui è a conoscenza e di tacere quelle di cui non abbia sicura contezza."
@@ -23,7 +23,7 @@ faq:
   - q: "Posso registrare la visita senza dirlo all'agente?"
     a: "Secondo l'orientamento consolidato della Cassazione, la registrazione effettuata da chi partecipa alla conversazione non costituisce intercettazione e non richiede autorizzazione. Diffondere la registrazione è un'altra questione e può violare la riservatezza."
   - q: "Come aiuta TalkSafe durante una visita?"
-    a: "TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere quelle che usciranno nella spiegazione dell'agente, come «infiltrazioni», «condominio» o «garage». Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere quelle che usciranno nella spiegazione dell'agente, come «infiltrazioni», «condominio» o «garage». Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio."
 ---
 
 Visiti l'appartamento e noti una macchia sul soffitto.
@@ -95,7 +95,7 @@ Tre cose aiutano.
 
 **Registra la visita a cui partecipi.** Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è che a un agente non si chiede «le dispiace se registro?», e la spiegazione arriva a pezzi, passando da una stanza all'altra.
 
-TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere quelle che usciranno nella spiegazione dell'agente, come «infiltrazioni», «condominio» o «garage». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, anche quello che è stato detto subito prima finisce nel file.
+TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere quelle che usciranno nella spiegazione dell'agente, come «infiltrazioni», «condominio» o «garage». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, anche quello che è stato detto subito prima finisce nel file.
 
 <figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
 

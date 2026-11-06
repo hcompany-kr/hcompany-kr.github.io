@@ -8,7 +8,7 @@ eyebrow: Pratique
 title: "Comment retirer le bruit de fond d'un enregistrement vocal sur Android"
 description: "Circulation, vent, un café derrière vous. Quatre façons de nettoyer une conversation enregistrée — sur le téléphone pendant l'enregistrement, sur le téléphone après, sur un ordinateur ou en l'envoyant en ligne — et lesquelles gèrent le bruit de la rue."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Comment retirer le bruit de fond d'un enregistrement vocal sur Android ?"
     a: "Il y a quatre voies : un enregistreur qui réduit le bruit pendant l'enregistrement, comme Clear voice dans l'application Enregistreur de Google sur la série Pixel 9 ; une application qui nettoie le fichier après coup sur le téléphone, comme la suppression du bruit par IA de TalkSafe ; un logiciel sur ordinateur comme l'effet Réduction du bruit d'Audacity ; ou un service web auquel on envoie le fichier, comme Adobe Podcast Enhance Speech."

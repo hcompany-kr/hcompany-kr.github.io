@@ -8,7 +8,7 @@ eyebrow: Poradnik
 title: "Co zrobić z nagraniem, a czego z nim nie robić"
 description: "Jak przechowywać plik, jak skrócić go do tego, co ważne, jak oczyścić z hałasu i gdzie go złożyć. I dlaczego w Polsce rozpowszechnianie nagrania to osobna sprawa, nawet gdy samo nagrywanie było dozwolone."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy można zachować tylko ważną część nagrania?"
     a: "TalkSafe ma funkcję wycinania. Oryginał zostaje bez zmian, a wybrany fragment jest zapisywany jako nowy plik. Można więc przygotować krótką wersję do złożenia i zachować całe nagranie."

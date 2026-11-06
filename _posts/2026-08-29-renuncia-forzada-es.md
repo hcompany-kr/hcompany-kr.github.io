@@ -8,7 +8,7 @@ eyebrow: Trabajo
 title: "La renuncia que firmas en esa sala no siempre es una renuncia"
 description: "En Chile y Argentina la renuncia tiene una forma obligatoria que no se puede improvisar en una reunión. En España y México no la tiene, y ahí lo que corre es el plazo para reclamar."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "En Chile, ¿vale una renuncia firmada solo ante el jefe?"
     a: "Para que produzca plenos efectos la renuncia debe ratificarse ante un ministro de fe: un inspector del trabajo, un notario público, el secretario municipal de la comuna correspondiente o el oficial del Registro Civil. Lo mismo se exige al finiquito para que tenga pleno poder liberatorio frente a reclamaciones posteriores."

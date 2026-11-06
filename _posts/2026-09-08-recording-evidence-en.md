@@ -8,7 +8,7 @@ eyebrow: Law
 title: "You have the recording. You still may not be able to use it"
 description: "The law is rarely what stops a recording from being used. What stops it is the original and the beginning. How fourteen countries decide whether a recording gets in."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Why would a court refuse a recording that is genuine?"
     a: "Usually because of the original or because of completeness. A recording carries no signature and no seal, so before anyone considers what it says, the court has to be satisfied that the file is what you claim it is and that it fairly represents the conversation. If a copy has passed through compression or the original has been deleted, that question becomes contested, and the party who made the recording is the one who has to answer it."
@@ -21,7 +21,7 @@ faq:
   - q: "What happens if I started recording too late?"
     a: "You lose the context that explains why the words were said. Almost nobody starts recording at the beginning of a conversation. People start once it is already going wrong, which means the recording opens at the point they realised something was off, and everything before that is gone. That part cannot be reconstructed afterwards."
   - q: "How does TalkSafe keep the part before you press record?"
-    a: "TalkSafe is an Android voice recorder that holds a rolling 30 seconds at all times and starts recording when it hears a keyword you chose. The 30 seconds that already passed are saved with the file, so the gap between realising you need a recording and actually starting one does not disappear."
+    a: "TalkSafe is a voice recorder for Android and iPhone that holds a rolling 30 seconds at all times and starts recording when it hears a keyword you chose. The 30 seconds that already passed are saved with the file, so the gap between realising you need a recording and actually starting one does not disappear."
   - q: "Does a covert recording get thrown out automatically?"
     a: "Not in the jurisdictions covered here. England and Wales, Ireland, Australia and New Zealand all treat a covert recording as admissible in principle and then weigh it, considering how it was obtained and whether excluding it would be proportionate. Being lawfully made is the beginning of the question, not the end of it."
 ---

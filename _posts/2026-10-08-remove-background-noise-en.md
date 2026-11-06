@@ -10,7 +10,7 @@ description: "Traffic, wind, a café behind you. Four ways to clean up a recorde
 image: /assets/img/og/remove-background-noise-en.png
 image_alt: "A noisy street recording waveform becomes a clean speech waveform after TalkSafe's AI noise removal, processed on the device, with the original kept and the cleaned version saved as a new file."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "How do I remove background noise from a voice recording on Android?"
     a: "There are four routes: a recorder that reduces noise while recording, such as Clear voice in Google's Recorder app on the Pixel 9 series; an app that cleans the file afterwards on the phone, such as TalkSafe's AI noise removal; desktop software such as Audacity's Noise Reduction effect; or a web service you upload the file to, such as Adobe Podcast Enhance Speech."

@@ -8,12 +8,12 @@ eyebrow: Opnemen
 title: "Waarom je altijd te laat op opnemen drukt"
 description: "Als je beseft dat een gesprek opgenomen moet worden, zijn de belangrijkste woorden al gevallen. Twee manieren om dat gat te dichten."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Kan een opname-app bewaren wat er gezegd werd voordat je op opnemen drukte?"
     a: "De meeste opname-apps nemen pas op vanaf het moment dat je op opnemen tikt; alles daarvoor is verloren. Sommige apps houden in rust de laatste seconden geluid vast en zetten die bij de start aan het begin van het bestand. TalkSafe bewaart de 30 seconden daarvoor."
   - q: "Kun je een opname met je stem starten in plaats van met een tik?"
-    a: "Ja. TalkSafe is een opname-app voor Android waarin je vooraf een woord instelt; hoort de app het, dan begint de opname vanzelf. Je hoeft de telefoon niet te ontgrendelen en de app niet te openen, wat telt als je handen bezet zijn."
+    a: "Ja. TalkSafe is een opname-app voor Android en iPhone waarin je vooraf een woord instelt; hoort de app het, dan begint de opname vanzelf. Je hoeft de telefoon niet te ontgrendelen en de app niet te openen, wat telt als je handen bezet zijn."
   - q: "Moet het trefwoord een woord zijn dat ik zelf zeg?"
     a: "Nee. De herkenning is niet aan een stem gebonden, dus je kunt ook een woord instellen dat de ander in die situatie waarschijnlijk zegt. Eén woord dekt bovendien veel zinnen: met „opnemen” start de opname bij „Dit zou ik moeten opnemen” net zo goed als bij „Mag ik dit opnemen?”."
   - q: "Wordt mijn geluid ergens naartoe gestuurd?"

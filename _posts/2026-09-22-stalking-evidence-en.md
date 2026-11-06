@@ -8,7 +8,7 @@ eyebrow: Law
 title: "How to build evidence of stalking"
 description: "Stalking is a crime of repetition, so the evidence has to accumulate too. How thirteen countries define and punish stalking, and what a victim can lawfully keep."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "What is the penalty for stalking in England and Wales?"
     a: "Stalking under section 2A of the Protection from Harassment Act 1997 is a summary offence with a maximum of six months' imprisonment. Stalking involving fear of violence or serious alarm or distress under section 4A carries a maximum of ten years, raised from five years in 2017. Since January 2021 police can also apply for a stalking protection order before any conviction."
@@ -23,7 +23,7 @@ faq:
   - q: "Does the victim have to press charges?"
     a: "It varies. In South Korea the rule that a stalker could not be punished against the victim's wishes was abolished in July 2023, and in Japan stalking became prosecutable without a complaint in 2017. In Spain, stalking generally requires a complaint by the victim except within family or gender-based violence relationships, and in Italy it generally requires a complaint but proceeds without one where the victim is a minor or a person with a disability."
   - q: "How can TalkSafe help in a stalking situation?"
-    a: "TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. It works with the screen locked and saves the 30 seconds before recording started, so when someone appears without warning you do not have to take out your phone and press record for the conversation you are part of to be kept."
+    a: "TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. It works with the screen locked and saves the 30 seconds before recording started, so when someone appears without warning you do not have to take out your phone and press record for the conversation you are part of to be kept."
 ---
 
 You get home from work and they are standing outside.
@@ -105,7 +105,7 @@ In most US states and in India, a person taking part in a conversation can recor
 
 Messages and call logs keep themselves. What does not keep itself is **the encounter**: outside your home, outside work, at the lift. Taking out your phone and pressing record in that moment can itself escalate things.
 
-TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words you would say yourself, like "leave me alone" or "please go". It works with the screen locked, and because it saves the 30 seconds before it started, what they said just before you said it is in the file too.
+TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words you would say yourself, like "leave me alone" or "please go". It works with the screen locked, and because it saves the 30 seconds before it started, what they said just before you said it is in the file too.
 
 <figure class="shot"><img src="/assets/img/screens/before30-en.jpg" alt="TalkSafe recording history screen. Each time a keyword is detected, a recording is saved with its date and time." width="540" height="960" loading="lazy"><figcaption>Recording history. Each file includes the 30 seconds before the keyword was detected.</figcaption></figure>
 

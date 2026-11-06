@@ -8,7 +8,7 @@ eyebrow: Lavoro
 title: "Chi denuncia molestie non può essere licenziato, e l'onere della prova è più leggero"
 description: "L'art. 26 del Codice delle pari opportunità tratta le molestie come discriminazione: conta l'effetto, non l'intenzione. Il licenziamento ritorsivo è nullo con diritto alla reintegra, e basta portare indizi gravi, precisi e concordanti."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Cosa sono le molestie sul lavoro secondo la legge italiana?"
     a: "L'art. 26 del Codice delle pari opportunità (D.lgs. 198/2006) le qualifica come discriminazione: comportamenti indesiderati che hanno lo scopo o l'effetto di ledere la dignità della persona creando un clima intimidatorio, ostile, degradante, umiliante o offensivo. L'elemento centrale non è l'intenzione di chi molesta ma l'impatto oggettivo del comportamento."

@@ -8,7 +8,7 @@ eyebrow: Registrazione
 title: "A distinguere i registratori non è l'audio, è quando partono"
 description: "Registratori indossabili, dispositivi VOX, prendi-appunti con IA, app per telefono. Cosa ti resta di ciascuno a fine giornata, e quali puoi davvero ricercare dopo."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Cos'e il VOX in un registratore?"
     a: "E l'attivazione a suono. L'apparecchio resta in attesa finche non rileva un rumore, poi registra finche il suono continua e si ferma quando cessa. Non essendo sempre attivo consuma molta meno batteria, ed e per questo che questi dispositivi dichiarano autonomie in standby misurate in mesi anziche in ore."
@@ -90,7 +90,7 @@ Due versioni.
 
 **Un'app che parte a parola** inizia quando sente un termine deciso in anticipo. Il file comincia **nel momento**, non alle nove del mattino, quindi dopo non c'e nulla da spulciare.
 
-Lavoriamo in questa categoria, quindi leggi il prossimo passaggio tenendolo presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) e un'app Android che parte da una parola scelta da te, funziona a schermo bloccato e salva **i 30 secondi precedenti all'avvio** insieme al file — che e esattamente la risposta al problema della sillaba persa del VOX. Ritagliando un pezzo, l'originale resta invece di essere sostituito. Una registrazione fatta in un posto rumoroso, come la strada, può essere pulita dopo con la rimozione del rumore con IA, elaborata sul dispositivo, che salva un nuovo file accanto all'originale.
+Lavoriamo in questa categoria, quindi leggi il prossimo passaggio tenendolo presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) e un'app per Android e iPhone che parte da una parola scelta da te, funziona a schermo bloccato e salva **i 30 secondi precedenti all'avvio** insieme al file — che e esattamente la risposta al problema della sillaba persa del VOX. Ritagliando un pezzo, l'originale resta invece di essere sostituito. Una registrazione fatta in un posto rumoroso, come la strada, può essere pulita dopo con la rimozione del rumore con IA, elaborata sul dispositivo, che salva un nuovo file accanto all'originale.
 
 <figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
 

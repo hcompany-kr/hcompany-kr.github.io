@@ -10,7 +10,7 @@ description: "En France, un seul fait suffit s'il s'agit d'une pression grave po
 image: /assets/img/og/harcelement-sexuel-fr.png
 image_alt: "Harcèlement sexuel au travail : en France, un fait unique suffit en cas de pression grave (L1153-1), le salarié présente des éléments de fait et l'employeur prouve le contraire (L1154-1), délit puni de deux ans et 30 000 euros (art. 222-33) ; au Québec, plainte à la CNESST dans les deux ans ; en Suisse, indemnité jusqu'à six mois de salaire."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Qu'est-ce que le harcèlement sexuel au travail selon le Code du travail ?"
     a: "L'article L1153-1 vise des propos ou comportements à connotation sexuelle répétés qui portent atteinte à la dignité en raison de leur caractère dégradant ou humiliant, ou créent une situation intimidante, hostile ou offensante. Il assimile au harcèlement sexuel toute forme de pression grave, même non répétée, exercée dans le but réel ou apparent d'obtenir un acte de nature sexuelle."
@@ -82,7 +82,7 @@ Plus vous avez d'autres éléments, moins l'enregistrement clandestin sert.
 
 **Votre propre voix** ne pose aucune difficulté. Enregistrer, juste après les faits, **ce qui s'est passé, ce qui a été dit, où, quand et qui était à proximité**, ce n'est pas enregistrer les paroles d'autrui. C'est le récit daté qui donnera du poids aux autres éléments — et plus il est proche des faits, plus il est précis.
 
-Juste après, pourtant, les mains tremblent souvent, et vous êtes peut-être déjà de retour à votre poste. [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » ; dès que vous le dites, le mémo vocal commence. Lors d'une découpe, **l'original est conservé**.
+Juste après, pourtant, les mains tremblent souvent, et vous êtes peut-être déjà de retour à votre poste. [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » ; dès que vous le dites, le mémo vocal commence. Lors d'une découpe, **l'original est conservé**.
 
 <figure class="shot"><img src="/assets/img/screens/settings-fr.jpg" alt="Écran des réglages de TalkSafe : durée d'enregistrement automatique après détection (10 minutes, 30 minutes, 1 heure, arrêt manuel), langue de détection et sauvegarde dans le cloud." width="540" height="960" loading="lazy"><figcaption>Réglages. On choisit la durée d'enregistrement après une détection et la langue de détection ; l'écoute et la reconnaissance se font sur le téléphone, sans internet.</figcaption></figure>
 

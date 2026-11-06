@@ -10,7 +10,7 @@ description: "Patienten vergessen einer Übersichtsarbeit zufolge 40 bis 80 Proz
 image: /assets/img/og/arztgespraech-aufnehmen-de.png
 image_alt: "Arztgespräch aufnehmen in Deutschland, Österreich und der Schweiz: in Deutschland nur mit Einwilligung (§ 201 StGB), in Österreich ist das eigene Gespräch nicht strafbar, in der Schweiz nur mit Einwilligung (Art. 179ter StGB); Abschriften unterschriebener Aufklärungsbögen und eine kostenlose erste Kopie der Patientenakte (§ 630e, § 630g BGB)."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Darf ich das Gespräch mit meinem Arzt aufnehmen?"
     a: "In Deutschland nur mit Einwilligung des Arztes. § 201 StGB stellt die unbefugte Aufnahme des nichtöffentlich gesprochenen Wortes auch für Gesprächsteilnehmer unter Strafe; die Tat wird nur auf Antrag verfolgt. Mit Einwilligung aller Beteiligten ist die Aufnahme nicht unbefugt. Am einfachsten fragt man zu Beginn, ob man aufnehmen darf, damit man zu Hause nichts vergisst."
@@ -23,7 +23,7 @@ faq:
   - q: "Wie ist es in Österreich und der Schweiz?"
     a: "In Österreich ist die Aufnahme eines Gesprächs, an dem man selbst teilnimmt, nicht strafbar; die Weitergabe einer heimlichen Aufnahme an Dritte aber schon. In der Schweiz ist die Aufnahme eines nicht öffentlichen Gesprächs ohne Einwilligung der anderen Teilnehmer nach Art. 179ter StGB strafbar. In beiden Ländern ist es am einfachsten, vorher zu fragen."
   - q: "Wie hilft TalkSafe beim Arztgespräch?"
-    a: "TalkSafe ist eine Aufnahme-App für Android, die bei einem vorher festgelegten Wort startet und bei gesperrtem Bildschirm funktioniert. Legt man das Wort „aufnehmen“ fest, beginnt die Aufnahme genau bei der Frage „Darf ich das aufnehmen, damit ich zu Hause nichts vergesse?“, und die Antwort des Arztes ist in der Datei, zusammen mit den 30 Sekunden davor. Man muss im Sprechzimmer kein Handy bedienen."
+    a: "TalkSafe ist eine Aufnahme-App für Android und iPhone, die bei einem vorher festgelegten Wort startet und bei gesperrtem Bildschirm funktioniert. Legt man das Wort „aufnehmen“ fest, beginnt die Aufnahme genau bei der Frage „Darf ich das aufnehmen, damit ich zu Hause nichts vergesse?“, und die Antwort des Arztes ist in der Datei, zusammen mit den 30 Sekunden davor. Man muss im Sprechzimmer kein Handy bedienen."
 ---
 
 Sie gehen mit drei Fragen hinein. Die Ärztin beantwortet sie, sagt etwas zur Dosierung, erwähnt, worauf Sie achten sollen, und nach elf Minuten ist der Termin vorbei.
@@ -67,7 +67,7 @@ Die Frage selbst ist meist unproblematisch. Viele Ärzte haben nichts dagegen, w
 
 Das Handy herausholen, entsperren, die App suchen, auf Aufnahme drücken – genau in dem Moment, in dem die Ärztin anfängt zu erklären. Das stört das Gespräch und kostet die ersten Sätze.
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet – bei **gesperrtem Bildschirm**, ohne das Handy zu entsperren oder die App zu öffnen. Legen Sie das Wort in Ihre Frage: Mit „aufnehmen“ beginnt die Aufnahme bei „Darf ich das aufnehmen, damit ich zu Hause nichts vergesse?“, und die Antwort ist in der Datei – zusammen mit den **30 Sekunden davor**. Registrieren Sie dazu ein zweites Wort aus demselben Satz, etwa „vergesse“, dann wird der Start zuverlässiger erkannt. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet – bei **gesperrtem Bildschirm**, ohne das Handy zu entsperren oder die App zu öffnen. Legen Sie das Wort in Ihre Frage: Mit „aufnehmen“ beginnt die Aufnahme bei „Darf ich das aufnehmen, damit ich zu Hause nichts vergesse?“, und die Antwort ist in der Datei – zusammen mit den **30 Sekunden davor**. Registrieren Sie dazu ein zweites Wort aus demselben Satz, etwa „vergesse“, dann wird der Start zuverlässiger erkannt. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
 

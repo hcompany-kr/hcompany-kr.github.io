@@ -10,7 +10,7 @@ description: "Türkiye'de baskıyla alınan istifa dilekçesi ve işverenin tekl
 image: /assets/img/og/istifaya-zorlama-tr.png
 image_alt: "Türkiye'de istifaya zorlama: işverenin teklif ettiği ikalede makul yarar şartı; baskıyla verilen istifayı işçi ispat etmeli; istifa ve ikale işsizlik ödeneği kazandırmaz; işe iade için bir ay içinde arabulucu; görüşmeyi rızasız kaydetmek TCK 133/2 nedeniyle suçtur."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Baskıyla istifa dilekçesi imzalattılar, istifa geçerli mi?"
     a: "İrade fesadı altında verilen istifa geçerli sayılmaz, ancak baskıyı işçinin ispat etmesi gerekir. Yargıtay 9. Hukuk Dairesi 4 Aralık 2024 tarihli kararında (E. 2024/10868, K. 2024/15716), istifanın iradeyi sakatlayan bir baskıyla alındığı ispatlanamadığı için kıdem tazminatı talebini kabul etmemiştir. Boşlukları sonradan doldurulmuş matbu istifa dilekçelerine ise Yargıtay değer vermemektedir."
@@ -87,7 +87,7 @@ Güvenli olanlar:
 - **Aynı gün yazılı bir mesaj**: "Bugünkü görüşmede benden istifa dilekçesi imzalamam istendi; düşünmek için süre talep ettim." İtiraz gelmemesi de bir delildir.
 - **Herkesin rızasıyla kayıt.**
 
-[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır ve **ekran kilitliyken** de çalışır. "Not al" gibi bir kelime belirleyin: koridorda ya da arabada söylediğiniz anda sesli notunuz başlar, telefonu çıkarmanız gerekmez. Görüşme açıkça kayda alınacaksa kelime sorunun içinde olabilir: "kayıt" kelimesini belirleyin, "Bu görüşmeyi kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap, **önceki 30 saniyeyle** birlikte dosyada olur. Daha fazlası [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.
+[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır ve **ekran kilitliyken** de çalışır. "Not al" gibi bir kelime belirleyin: koridorda ya da arabada söylediğiniz anda sesli notunuz başlar, telefonu çıkarmanız gerekmez. Görüşme açıkça kayda alınacaksa kelime sorunun içinde olabilir: "kayıt" kelimesini belirleyin, "Bu görüşmeyi kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap, **önceki 30 saniyeyle** birlikte dosyada olur. Daha fazlası [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-tr.jpg" alt="TalkSafe anahtar kelime ayarları ekranı. Kelimeler mikrofon düğmesiyle eklenir ve altında liste halinde görünür." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime ayarları. Birden fazla kelime kaydedebilirsiniz; herhangi birinin algılanması kaydı başlatır.</figcaption></figure>
 

@@ -10,7 +10,7 @@ description: "V Česku je stalking od roku 2010 trestným činem nebezpečného 
 image: /assets/img/og/nebezpecne-pronasledovani-cs.png
 image_alt: "Nebezpečné pronásledování: trestný čin v Česku (§ 354) i na Slovensku (§ 360a); vlastní rozhovor lze bez svolení nahrát k ochraně práv v Česku, na Slovensku ne; deník vlastním hlasem hned po události lze vést v obou zemích."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Je stalking v Česku trestný čin?"
     a: "Ano, jako nebezpečné pronásledování podle § 354 trestního zákoníku, účinného od 1. ledna 2010. Trestného činu se dopustí, kdo jiného dlouhodobě pronásleduje tím, že mu vyhrožuje újmou, vyhledává jeho osobní blízkost nebo ho sleduje, vytrvale ho kontaktuje prostředky elektronických komunikací nebo jinak, omezuje ho v jeho obvyklém způsobu života, nebo zneužije jeho osobní údaje k získání kontaktu, a toto jednání je způsobilé vzbudit v něm důvodnou obavu o jeho život nebo zdraví nebo o život a zdraví osob jemu blízkých."
@@ -71,7 +71,7 @@ Podle **§ 88 občanského zákoníku** není svolení třeba, pokud se záznam 
 
 Problém je okamžik. Nikdo neohlásí, kdy se objeví, a vytáhnout telefon před ním může všechno zhoršit.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**. Přirozená volba je slovo, které v tu chvíli řeknete: **„přestaň“**. Když řeknete „Přestaň mě sledovat“, nahrávání začne — a to, co bylo předtím, je v souboru také, s telefonem v kapse.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**. Přirozená volba je slovo, které v tu chvíli řeknete: **„přestaň“**. Když řeknete „Přestaň mě sledovat“, nahrávání začne — a to, co bylo předtím, je v souboru také, s telefonem v kapse.
 
 <figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
 

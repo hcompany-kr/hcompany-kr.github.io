@@ -10,7 +10,7 @@ description: "In Nederland kunnen verklaringen in iedere vorm worden gedaan, ten
 image: /assets/img/og/mondelinge-afspraak-nl.png
 image_alt: "Mondelinge afspraak in Nederland en België: geldig in beginsel (art. 3:37 BW); ondertekende akte is dwingend bewijs tussen partijen, tegenbewijs blijft open (art. 157 Rv); in België ondertekend geschrift vanaf 3.500 euro en niet tegen of boven een geschrift zonder ander geschrift; een eigen gesprek opnemen mag in beide landen."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Is een mondelinge afspraak juridisch bindend?"
     a: "Ja. Volgens art. 3:37 lid 1 BW kunnen verklaringen, tenzij anders is bepaald, in iedere vorm worden gedaan en zelfs in gedragingen besloten liggen. Een overeenkomst ontstaat door aanbod en aanvaarding, ook mondeling. Alleen waar de wet een vorm voorschrijft, is die nodig."
@@ -23,7 +23,7 @@ faq:
   - q: "Hoe zit het in België?"
     a: "Sinds Boek 8 van het Burgerlijk Wetboek is een ondertekend geschrift vereist om een rechtshandeling van 3.500 euro of meer te bewijzen; vroeger was dat 375 euro. Ongeacht het bedrag kan tegen of boven een ondertekend geschrift alleen met een ander ondertekend geschrift worden bewezen."
   - q: "Hoe helpt TalkSafe?"
-    a: "TalkSafe is een opname-app voor Android die start bij een vooraf gekozen woord en werkt met vergrendeld scherm. Kies als trefwoord iets waarmee een afspraak meestal wordt bevestigd, zoals 'afgesproken': wanneer iemand zegt 'dus afgesproken?', begint de opname en staan de 30 seconden daarvoor, waarin de voorwaarden werden genoemd, in het bestand."
+    a: "TalkSafe is een opname-app voor Android en iPhone die start bij een vooraf gekozen woord en werkt met vergrendeld scherm. Kies als trefwoord iets waarmee een afspraak meestal wordt bevestigd, zoals 'afgesproken': wanneer iemand zegt 'dus afgesproken?', begint de opname en staan de 30 seconden daarvoor, waarin de voorwaarden werden genoemd, in het bestand."
 ---
 
 De tegelzetter staat in de lege keuken, de offerte ligt op het aanrecht.

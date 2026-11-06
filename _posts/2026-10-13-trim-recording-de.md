@@ -10,14 +10,14 @@ description: "Eine lange Aufnahme auf die zwei Minuten zu kürzen, auf die es an
 image: /assets/img/og/trim-recording-de.png
 image_alt: "Die Wellenform einer langen Aufnahme mit einem markierten Abschnitt von zwei Minuten. In TalkSafe wird der Abschnitt als neue Datei gespeichert, das vollständige Original bleibt unverändert."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Wie kürzt man eine Sprachaufnahme auf Android?"
     a: "Die meisten Aufnahme-Apps haben eine Schneidefunktion: Man zieht zwei Griffe auf den gewünschten Abschnitt und speichert. Auf Pixel-Handys hat die Rekorder-App von Google Zuschneiden und Entfernen (Crop & Remove), das an der Audiospur oder am Transkript funktioniert und mit Kopie speichern endet. Der Sprachrekorder von Samsung lässt schneiden und beim Speichern wählen, ob die Datei ersetzt oder eine neue angelegt wird. TalkSafe speichert den geschnittenen Abschnitt als neue Datei und lässt das Original unverändert."
   - q: "Löscht das Kürzen einer Aufnahme das Original?"
     a: "Das hängt von der App ab. Die Rekorder-App von Google speichert die Bearbeitung als Kopie. Der Sprachrekorder von Samsung fragt, ob die Datei ersetzt oder eine neue angelegt werden soll; wer ersetzen wählt, überschreibt das Original. In TalkSafe bleibt das Original immer erhalten, und der geschnittene Abschnitt wird eine eigene Datei."
   - q: "Gibt es eine Android-App, die eine Aufnahme kürzt und das Original automatisch behält?"
-    a: "Ja. TalkSafe ist eine Aufnahme-App für Android, deren Schneidefunktion den gewählten Abschnitt immer als neue Datei speichert. Eine Option zum Überschreiben, die man versehentlich wählen könnte, gibt es nicht. Auf den geschnittenen Abschnitt lässt sich die KI-Rauschentfernung von TalkSafe anwenden, die auf dem Gerät arbeitet, und er lässt sich über das Android-Teilen-Menü versenden."
+    a: "Ja. TalkSafe ist eine Aufnahme-App für Android und iPhone, deren Schneidefunktion den gewählten Abschnitt immer als neue Datei speichert. Eine Option zum Überschreiben, die man versehentlich wählen könnte, gibt es nicht. Auf den geschnittenen Abschnitt lässt sich die KI-Rauschentfernung von TalkSafe anwenden, die auf dem Gerät arbeitet, und er lässt sich über das Android-Teilen-Menü versenden."
   - q: "Darf ich eine Aufnahme schneiden und nur den Ausschnitt verwenden?"
     a: "Das Schneiden ändert nichts daran, ob die Aufnahme überhaupt gemacht und verwendet werden durfte. In Deutschland ist es nach § 201 StGB strafbar, das nichtöffentlich gesprochene Wort eines anderen ohne Befugnis aufzunehmen – auch für Gesprächsteilnehmer – und eine so hergestellte Aufnahme zu gebrauchen oder einem Dritten zugänglich zu machen. Wo eine Aufnahme erlaubt ist, gilt: Ausschnitt einreichen, vollständiges Original behalten."
   - q: "Kann ich nur aus dem geschnittenen Abschnitt das Hintergrundgeräusch entfernen?"
@@ -39,7 +39,7 @@ Den Rest wird niemand anhören. Nicht die Personalabteilung, nicht die Polizei, 
 | Rekorder-App von Google | Pixel | Menü → Zuschneiden und Entfernen (Crop & Remove), an Audiospur oder Transkript | Die Bearbeitung endet mit Kopie speichern (Save copy) |
 | Sprachrekorder von Samsung | Galaxy | Schneidegriffe ziehen | Man wählt: Datei ersetzen oder neue anlegen |
 | Audacity | Computer | Markieren, löschen, exportieren | Unverändert, solange man nicht unter gleichem Namen darüber exportiert |
-| TalkSafe | Android | Abschnitt wählen und schneiden | Bleibt immer; der Abschnitt wird als neue Datei gespeichert |
+| TalkSafe | Android, iOS | Abschnitt wählen und schneiden | Bleibt immer; der Abschnitt wird als neue Datei gespeichert |
 
 Der Unterschied, auf den es ankommt, steht in der letzten Spalte.
 

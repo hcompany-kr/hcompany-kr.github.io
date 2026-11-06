@@ -10,7 +10,7 @@ description: "İş yerinde cinsel taciz TCK 105'te suçtur; hiyerarşi veya ayn�
 image: /assets/img/og/cinsel-taciz-tr.png
 image_alt: "İş yerinde cinsel taciz: TCK 105 temel halde üç aydan iki yıla kadar hapis veya adli para cezası, hiyerarşi veya aynı işyeri kolaylığında yarı oranında artırım; işçi İş Kanunu 24/II-d ile haklı fesih yapabilir; katılınan konuşmanın rızasız kaydı TCK 133/2 nedeniyle risklidir."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "İş yerinde cinsel tacizin cezası nedir?"
     a: "TCK 105/1'e göre bir kimseyi cinsel amaçlı olarak taciz eden kişi, mağdurun şikâyeti üzerine üç aydan iki yıla kadar hapis veya adli para cezasıyla cezalandırılır. Fiil hiyerarşi, hizmet veya eğitim ilişkisinin ya da aynı işyerinde çalışmanın sağladığı kolaylıktan yararlanılarak işlenirse ceza yarı oranında artırılır; mağdur bu yüzden işi bırakmak zorunda kalmışsa ceza bir yıldan az olamaz."
@@ -92,7 +92,7 @@ Bu kararlar kaydın her durumda serbest olduğu anlamına gelmez. İstisna **ani
 
 Kimsenin sözünü kaydetmeden yapabileceğiniz en güçlü şey, **olaydan hemen sonra** ne olduğunu **kendi sesinizle** kaydetmektir: ne oldu, ne söylendi, saat kaçtı, nerede, yakında kim vardı. Bu başkasının konuşmasını kaydetmek değil, kendi tanıklığınızı tarihli olarak saklamaktır. Olaya ne kadar yakınsa o kadar ayrıntılı ve inandırıcı olur.
 
-Sorun şu: olaydan hemen sonra eller titrer, belki de masanıza dönmüşsünüzdür. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar. Kırptığınızda **orijinal korunur**.
+Sorun şu: olaydan hemen sonra eller titrer, belki de masanıza dönmüşsünüzdür. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar. Kırptığınızda **orijinal korunur**.
 
 <figure class="shot"><img src="/assets/img/screens/settings-tr.jpg" alt="TalkSafe ayarlar ekranı: anahtar kelime algılandıktan sonra otomatik kayıt süresi (10 dk, 30 dk, 1 saat, manuel durdur), algılama dili ve bulut yedekleme." width="540" height="960" loading="lazy"><figcaption>Ayarlar. Algılamadan sonra ne kadar kayıt alınacağını ve algılama dilini seçersiniz; dinleme ve tanıma internetsiz, telefonda gerçekleşir.</figcaption></figure>
 

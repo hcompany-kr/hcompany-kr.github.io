@@ -10,7 +10,7 @@ description: "Sinds 1 juli 2023 mag de borg in Nederland maximaal twee maanden k
 image: /assets/img/og/borg-terug-nl.png
 image_alt: "Borg terug in Nederland: maximaal twee maanden kale huur voor contracten vanaf 1 juli 2023; terug binnen 14 dagen, of 30 dagen bij verrekening; administratiekosten verrekenen mag niet; je eigen gesprek opnemen mag, ook in België."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Hoe hoog mag de borg voor een huurwoning zijn?"
     a: "Voor huurcontracten die vanaf 1 juli 2023 zijn gesloten, mag de waarborgsom maximaal twee maanden kale huur zijn (artikel 7:261b lid 2 BW, ingevoerd met de Wet goed verhuurderschap). Voor contracten van vóór 1 juli 2023 geldt volgens de Rijksoverheid een maximum van drie maanden kale huur."
@@ -73,7 +73,7 @@ In **Nederland** is het opnemen van een gesprek **waaraan je zelf deelneemt** ni
 
 Bij de oplevering heb je je handen vol — telefoon voor foto's, rapport, sleutels.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**, dus je kunt kiezen wat de verhuurder waarschijnlijk zegt: **„borg”**, **„in orde”**. Zegt hij „Alles in orde, de borg krijg je terug”, dan begint de opname — en wat daarvoor gezegd werd, zit er ook in.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**, dus je kunt kiezen wat de verhuurder waarschijnlijk zegt: **„borg”**, **„in orde”**. Zegt hij „Alles in orde, de borg krijg je terug”, dan begint de opname — en wat daarvoor gezegd werd, zit er ook in.
 
 <figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
 

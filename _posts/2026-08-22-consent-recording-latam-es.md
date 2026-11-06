@@ -8,7 +8,7 @@ eyebrow: Cómo hacerlo
 title: "En Chile y Uruguay, pide permiso y deja que la respuesta quede grabada"
 description: "En esos dos países grabar tu propia conversación no es delito, pero el tribunal puede dejar el audio fuera del expediente. Pedir permiso resuelve eso, y hay una forma de que el sí quede dentro del archivo."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Por qué en Chile y Uruguay hace falta pedir permiso si grabar no es delito?"
     a: "Porque la licitud penal y la admisibilidad como prueba se deciden por separado. En ambos países la doctrina mayoritaria entiende que el partícipe no comete delito al grabar, pero los tribunales ponderan caso por caso si la grabación vulneró la vida privada del otro, y hay sentencias que la han excluido del juicio por esa vía."

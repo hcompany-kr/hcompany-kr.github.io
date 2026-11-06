@@ -10,7 +10,7 @@ description: "Ein Aufhebungsvertrag muss schriftlich geschlossen werden (§ 623 
 image: /assets/img/og/aufhebungsvertrag-de.png
 image_alt: "Aufhebungsvertrag in Deutschland, Österreich und der Schweiz: in Deutschland schriftlich und nicht widerrufbar, aber unwirksam bei unfairem Verhandeln; Sperrzeit von zwölf Wochen beim Arbeitslosengeld; in Österreich keine Sperrfrist bei einvernehmlicher Auflösung; das eigene Gespräch heimlich aufzunehmen ist in Deutschland und der Schweiz strafbar."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Kann ich einen Aufhebungsvertrag widerrufen?"
     a: "Nein. Das Bundesarbeitsgericht hat am 7. Februar 2019 (6 AZR 75/18) entschieden, dass die Zustimmung zu einem arbeitsrechtlichen Aufhebungsvertrag nicht nach § 355 BGB widerrufen werden kann, auch wenn er in der Wohnung des Arbeitnehmers unterschrieben wurde. Ein Aufhebungsvertrag ist aber unwirksam, wenn er unter Missachtung des Gebots fairen Verhandelns zustande gekommen ist."
@@ -104,7 +104,7 @@ Was trägt:
 - **Eine kurze E-Mail am selben Tag**: „Wie heute besprochen, haben Sie mir einen Aufhebungsvertrag mit Unterschrift bis heute 17 Uhr angeboten; ich habe um Bedenkzeit gebeten.“ Widerspricht niemand, ist das ein starkes Indiz.
 - **Eine Aufnahme mit Einwilligung**, wo alle zustimmen.
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest: Auf dem Gang oder im Auto sagen Sie es, und das Gedächtnisprotokoll beginnt, ohne dass Sie das Handy herausholen. Soll das Gespräch offen aufgenommen werden, kann das Wort in der Frage stecken – mit „aufnehmen“ beginnt die Aufnahme bei „Darf ich das Gespräch aufnehmen?“, und das Ja ist in der Datei, zusammen mit den **30 Sekunden davor**. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest: Auf dem Gang oder im Auto sagen Sie es, und das Gedächtnisprotokoll beginnt, ohne dass Sie das Handy herausholen. Soll das Gespräch offen aufgenommen werden, kann das Wort in der Frage stecken – mit „aufnehmen“ beginnt die Aufnahme bei „Darf ich das Gespräch aufnehmen?“, und das Ja ist in der Datei, zusammen mit den **30 Sekunden davor**. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/keywords-de.jpg" alt="Schlüsselwort-Einstellungen in TalkSafe. Schlüsselwörter werden über die Mikrofon-Taste hinzugefügt und darunter aufgelistet." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Einstellungen. Sie können mehrere Wörter hinterlegen; es reicht, wenn eines davon erkannt wird.</figcaption></figure>
 

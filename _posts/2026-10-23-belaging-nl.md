@@ -10,7 +10,7 @@ description: "Belaging is in Nederland strafbaar onder artikel 285b Wetboek van 
 image: /assets/img/og/belaging-nl.png
 image_alt: "Belaging (stalking): strafbaar in Nederland (art. 285b Sr) en België (art. 442bis Strafwetboek); in Nederland alleen vervolging op klacht; je eigen gesprek opnemen mag in beide landen."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Is stalking strafbaar in Nederland?"
     a: "Ja, als belaging. Artikel 285b van het Wetboek van Strafrecht stelt strafbaar wie wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens anders persoonlijke levenssfeer met het oogmerk die ander te dwingen iets te doen, niet te doen of te dulden dan wel vrees aan te jagen. De straf is gevangenisstraf van ten hoogste drie jaar of een geldboete van de vierde categorie."
@@ -65,7 +65,7 @@ In **Nederland** is het opnemen van een gesprek **waaraan je zelf deelneemt** ni
 
 Het probleem is het moment. Niemand kondigt aan wanneer hij opduikt, en je telefoon pakken onder zijn ogen kan het erger maken.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**. Een voor de hand liggende keuze is wat je op dat moment zegt: **„stop”**. Zeg je „Stop met me te volgen”, dan begint de opname — en wat daarvoor gebeurde, zit er ook in, met je telefoon in je zak.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint op een **vooraf gekozen woord**, werkt met **vergrendeld scherm** en de **30 seconden daarvoor** in het bestand bewaart. Woorden worden herkend **wie ze ook uitspreekt**. Een voor de hand liggende keuze is wat je op dat moment zegt: **„stop”**. Zeg je „Stop met me te volgen”, dan begint de opname — en wat daarvoor gebeurde, zit er ook in, met je telefoon in je zak.
 
 <figure class="shot"><img src="/assets/img/screens/before30-nl.jpg" alt="Opnamegeschiedenis in TalkSafe. Telkens als een trefwoord herkend wordt, wordt een opname met datum en tijd bewaard." width="540" height="960" loading="lazy"><figcaption>Opnamegeschiedenis. Elk bestand bevat ook de 30 seconden voordat het trefwoord herkend werd.</figcaption></figure>
 

@@ -10,7 +10,7 @@ description: "No Brasil, a declaração de vontade não depende de forma especia
 image: /assets/img/og/contrato-verbal-pt-br.png
 image_alt: "Contrato verbal no Brasil e em Portugal: válido em regra (art. 107 CC; art. 219.º CC português); imóveis exigem escritura pública; orçamento prévio obrigatório em serviços para consumidor (art. 40 CDC); em Portugal, não há prova testemunhal contra o conteúdo de documento (art. 394.º); gravar a própria conversa é permitido no Brasil e crime em Portugal."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Contrato verbal tem validade no Brasil?"
     a: "Sim. O art. 107 do Código Civil diz que a validade da declaração de vontade não depende de forma especial, senão quando a lei expressamente a exigir. Um exemplo de exigência é o art. 108: negócios sobre direitos reais em imóveis de valor superior a trinta salários mínimos precisam de escritura pública."
@@ -23,7 +23,7 @@ faq:
   - q: "Como é em Portugal?"
     a: "A forma também é livre, salvo quando a lei a exige, e a compra e venda de imóveis precisa de escritura pública ou documento particular autenticado. Mas o art. 394.º do Código Civil proíbe a prova testemunhal de convenções contrárias ou adicionais ao conteúdo de documento, sejam anteriores, contemporâneas ou posteriores. Os tribunais admitem exceção quando há um começo de prova escrita."
   - q: "Como o TalkSafe ajuda?"
-    a: "O TalkSafe é um app de gravação de voz para Android que começa a gravar quando ouve uma palavra escolhida antes e funciona com a tela bloqueada. Escolha como palavra-chave algo que costuma fechar o acordo, como 'combinado': quando alguém diz 'então fica combinado?', a gravação começa e os 30 segundos anteriores, em que os termos foram ditos, ficam salvos no arquivo."
+    a: "O TalkSafe é um app de gravação de voz para Android e iPhone que começa a gravar quando ouve uma palavra escolhida antes e funciona com a tela bloqueada. Escolha como palavra-chave algo que costuma fechar o acordo, como 'combinado': quando alguém diz 'então fica combinado?', a gravação começa e os 30 segundos anteriores, em que os termos foram ditos, ficam salvos no arquivo."
 ---
 
 O pedreiro está na cozinha vazia, o orçamento em cima da pia.

@@ -8,10 +8,10 @@ eyebrow: How to
 title: "How to start recording without touching your phone"
 description: "Four ways to begin a recording hands-free on Android, what each one actually requires, and which ones keep working with the screen locked and the phone in your pocket."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is there an app that starts recording when it hears a specific word?"
-    a: "Yes. TalkSafe is an Android voice recorder that begins recording when it hears a word the user has set in advance, without unlocking the phone or opening the app. It also saves the 30 seconds of audio that preceded the trigger."
+    a: "Yes. TalkSafe is a voice recorder for Android and iPhone that begins recording when it hears a word the user has set in advance, without unlocking the phone or opening the app. It also saves the 30 seconds of audio that preceded the trigger."
   - q: "Can a phone start recording while the screen is locked?"
     a: "Yes, if the app runs as a foreground service with a persistent notification. TalkSafe works this way: the listening runs in the background and recording starts on the keyword even when the screen is off and the phone is in a pocket or bag."
   - q: "Can I record audio from before I pressed record?"
@@ -69,7 +69,7 @@ Three problems, though.
 
 This is the category built for the problem. The app listens for words you chose in advance and starts recording when it hears one.
 
-[TalkSafe](/talksafe/en/) is an Android app that works this way. Word recognition runs on the device, recording begins **with the screen locked and the phone in a pocket**, and there is no sound or visible change at the moment it starts.
+[TalkSafe](/talksafe/en/) is an app for Android and iPhone that works this way. Word recognition runs on the device, recording begins **with the screen locked and the phone in a pocket**, and there is no sound or visible change at the moment it starts.
 
 <figure class="shot"><img src="/assets/img/screens/active-en.jpg" alt="TalkSafe screen showing keyword detection active, with a Stop button." width="540" height="960" loading="lazy"><figcaption>Keyword detection active. It keeps listening in the background with the screen off or the app closed.</figcaption></figure>
 

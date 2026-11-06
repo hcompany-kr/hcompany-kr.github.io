@@ -10,7 +10,7 @@ description: "Šikana, mobbing ani bossing nejsou v českých předpisech defino
 image: /assets/img/og/sikana-na-pracovisti-cs.png
 image_alt: "Šikana na pracovišti v Česku: není výslovně upravena, řeší se přes § 16 a 17 zákoníku práce a antidiskriminační zákon; vlastní rozhovor lze nahrát k ochraně svých práv (§ 88 obč. zák.); obrátit se lze na zaměstnavatele, inspektorát práce a soud."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Je šikana na pracovišti v Česku upravena zákonem?"
     a: "Pojmy šikana, mobbing ani bossing se v právních předpisech nevyskytují a nejsou definovány. Řeší se přes obecné normy: zákoník práce ukládá zaměstnavateli rovné zacházení a zakazuje diskriminaci včetně obtěžování (§ 16 a 17), antidiskriminační zákon č. 198/2009 Sb. pracuje s pojmem obtěžování a občanský zákoník chrání důstojnost a čest. V extrémních případech může jednání naplnit skutkovou podstatu trestného činu."
@@ -73,7 +73,7 @@ Nahrávat rozhovory, kterých se neúčastníte — nechat telefon v místnosti 
 
 Šikana se neohlašuje. Ponižující věta padne uprostřed porady, na chodbě, při hovoru na hlasitý odposlech. Než vytáhnete telefon, odemknete ho a zmáčknete nahrávání, je po všem — a samotné gesto může situaci zhoršit.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit slova, která obvykle padnou, když to začíná — název projektu, frázi, kterou nadřízený opakuje, vlastní jméno. Funguje při **zamčené obrazovce** a **30 sekund předtím** zůstane v souboru.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit slova, která obvykle padnou, když to začíná — název projektu, frázi, kterou nadřízený opakuje, vlastní jméno. Funguje při **zamčené obrazovce** a **30 sekund předtím** zůstane v souboru.
 
 <figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
 

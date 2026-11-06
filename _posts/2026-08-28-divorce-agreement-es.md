@@ -8,7 +8,7 @@ eyebrow: Familia
 title: "Lo que se pacta en el divorcio no se ejecuta hasta que alguien lo aprueba"
 description: "El convenio regulador solo puede hacerse efectivo por la vía de apremio desde su aprobación judicial o desde la escritura pública. Cómo funciona en España, México, Argentina y Chile, y qué pasa con lo que se habló y no se firmó."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Un acuerdo de divorcio firmado entre los dos ya es ejecutable?"
     a: "No por sí solo. En España, el artículo 90.2 del Código Civil establece que los acuerdos podrán hacerse efectivos por la vía de apremio desde la aprobación del convenio regulador o desde el otorgamiento de la escritura pública. Antes de ese momento el convenio tiene la eficacia de cualquier negocio jurídico, pero no la de una resolución."

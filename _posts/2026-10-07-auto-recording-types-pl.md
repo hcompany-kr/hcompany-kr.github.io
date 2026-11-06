@@ -8,7 +8,7 @@ eyebrow: Nagrywanie
 title: "Nie każda „automatyczna” nagrywarka robi to samo"
 description: "Na Androidzie automatyczne nagrywanie oznacza pięć całkiem różnych rzeczy. Co uruchamia każdy rodzaj i jakie sytuacje każdy z nich przegapia."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Jakie rodzaje aplikacji do automatycznego nagrywania są na Androidzie?"
     a: "Z grubsza pięć: nagrywanie, które zaczyna się po nawiązaniu połączenia, nagrywanie, które zaczyna się, gdy pojawia się dźwięk, nagrywanie o ustalonej godzinie, nagrywanie, które zachowuje też chwile sprzed startu, i nagrywanie, które zaczyna się po wybranym słowie."

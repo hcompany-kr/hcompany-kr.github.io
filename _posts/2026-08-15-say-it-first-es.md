@@ -9,7 +9,7 @@ eyebrow: Grabación
 title: "Lo primero que se mueve no es la mano"
 description: "En el momento en que sientes que deberías estar grabando, las palabras ya salieron. Qué pasa cuando esas palabras son las que ponen la grabación en marcha."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué significa iniciar una grabación con la voz?"
     a: "Que eliges una palabra de antemano y la aplicación empieza a grabar al escucharla. No hace falta encender la pantalla ni abrir nada."

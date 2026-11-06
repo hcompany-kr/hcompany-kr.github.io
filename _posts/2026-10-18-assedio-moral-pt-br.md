@@ -10,7 +10,7 @@ description: "No Brasil não há lei federal específica nem crime de assédio m
 image: /assets/img/og/assedio-moral-pt-br.png
 image_alt: "Provar assédio moral no Brasil: a gravação feita pelo próprio trabalhador é prova lícita (STF, Tema 237; TST); testemunhas, mensagens e denúncia formal reforçam; o assédio pode levar à rescisão indireta (CLT, art. 483) e a indenização por dano moral."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Assédio moral no trabalho é crime no Brasil?"
     a: "Não há um tipo penal específico de assédio moral nem uma lei federal própria sobre o tema; o que é crime é o assédio sexual (Código Penal, art. 216-A). O assédio moral é tratado na esfera trabalhista: pode justificar a rescisão indireta do contrato (CLT, art. 483) e a condenação do empregador ao pagamento de indenização por dano moral."
@@ -70,7 +70,7 @@ Duas ressalvas aparecem nas decisões: os tribunais costumam excluir casos com *
 
 O assédio raramente avisa. A frase humilhante sai no meio de uma reunião, num corredor, numa ligação no viva-voz. Até você tirar o celular, desbloquear e apertar gravar, já passou — e o gesto ainda pode piorar a situação.
 
-O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher palavras que costumam aparecer quando a situação começa — o nome de um projeto, uma expressão que o chefe repete, seu próprio nome. Funciona com a **tela bloqueada**, e os **30 segundos anteriores** ficam no arquivo, então a frase que fez você querer gravar não se perde.
+O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes**. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher palavras que costumam aparecer quando a situação começa — o nome de um projeto, uma expressão que o chefe repete, seu próprio nome. Funciona com a **tela bloqueada**, e os **30 segundos anteriores** ficam no arquivo, então a frase que fez você querer gravar não se perde.
 
 <figure class="shot"><img src="/assets/img/screens/start-pt-br.jpg" alt="Tela inicial do TalkSafe com botões para iniciar a detecção em tempo real e uma gravação manual." width="540" height="960" loading="lazy"><figcaption>Tela inicial do TalkSafe. Com a detecção em tempo real ligada, a gravação começa quando uma palavra escolhida é detectada; também dá para gravar na hora pelo botão.</figcaption></figure>
 

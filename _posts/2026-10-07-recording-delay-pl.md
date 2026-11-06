@@ -8,12 +8,12 @@ eyebrow: Nagrywanie
 title: "Dlaczego przycisk nagrywania zawsze wciskasz za późno"
 description: "Kiedy orientujesz się, że rozmowę warto nagrać, najważniejsze słowa już padły. Dwa sposoby, żeby tę lukę zamknąć."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy aplikacja do nagrywania może zapisać to, co powiedziano przed naciśnięciem przycisku?"
     a: "Większość aplikacji do nagrywania zapisuje dźwięk dopiero od chwili naciśnięcia przycisku; wszystko wcześniej przepada. Niektóre aplikacje w trybie czuwania trzymają ostatnie sekundy dźwięku i po starcie wstawiają je na początek pliku. TalkSafe zachowuje 30 sekund sprzed startu."
   - q: "Czy można zacząć nagrywanie głosem zamiast dotknięciem?"
-    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida, w której z góry ustawiasz słowo; gdy aplikacja je usłyszy, nagrywanie zaczyna się samo. Nie trzeba odblokowywać telefonu ani otwierać aplikacji, co ma znaczenie, gdy ręce są zajęte."
+    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, w której z góry ustawiasz słowo; gdy aplikacja je usłyszy, nagrywanie zaczyna się samo. Nie trzeba odblokowywać telefonu ani otwierać aplikacji, co ma znaczenie, gdy ręce są zajęte."
   - q: "Czy słowo kluczowe musi być słowem, które sam wypowiadam?"
     a: "Nie. Rozpoznawanie nie jest powiązane z głosem, więc można ustawić słowo, które w danej sytuacji prawdopodobnie powie rozmówca. Jedno słowo obejmuje przy tym wiele zdań: z „nagrać” nagrywanie zacznie się zarówno przy „Powinienem to nagrać”, jak i przy „Mogę to nagrać?”."
   - q: "Czy mój dźwięk jest gdzieś wysyłany?"

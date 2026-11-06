@@ -10,7 +10,7 @@ description: "V Česku si každý může pro právní jednání zvolit libovolno
 image: /assets/img/og/ustni-smlouva-cs.png
 image_alt: "Ústní smlouva v Česku: platná (§ 559 OZ); písemná forma u věcných práv k nemovitosti (§ 560); změna v zákonem vyžadované formě jen v téže nebo přísnější formě (§ 564); dohodnutá forma znamená, že strany bez ní nechtějí být vázány (§ 1758); vlastní rozhovor lze nahrát k ochraně svých práv, na Slovensku je potřeba svolení."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Je ústní smlouva platná?"
     a: "Ano. Podle § 559 občanského zákoníku má každý právo zvolit si pro právní jednání libovolnou formu, není-li ve volbě formy omezen ujednáním nebo zákonem. Zákon vyžaduje písemnou formu například u právního jednání, kterým se zřizuje, převádí, mění nebo ruší věcné právo k nemovité věci (§ 560)."
@@ -23,7 +23,7 @@ faq:
   - q: "Jak nejlépe zachytit ústní domluvu?"
     a: "Ještě týž den poslat krátkou zprávu nebo e-mail, který domluvu shrne, například: „Jak jsme se dnes domluvili: vybourání a odvoz staré dlažby je v ceně rozpočtu.“ Odpoví-li řemeslník souhlasně nebo nic nenamítne, máte datovaný doklad. Soud hodnotí důkazy volně."
   - q: "Jak pomáhá TalkSafe?"
-    a: "TalkSafe je aplikace pro nahrávání na Android, která začne nahrávat po zaznění předem zvoleného slova a funguje při zamčené obrazovce. Jako klíčové slovo lze zvolit to, čím se domluva obvykle uzavírá, například „domluveno“: když někdo řekne „takže domluveno?“, nahrávání začne a 30 sekund předtím, kdy padly podmínky, je uloženo v souboru."
+    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která začne nahrávat po zaznění předem zvoleného slova a funguje při zamčené obrazovce. Jako klíčové slovo lze zvolit to, čím se domluva obvykle uzavírá, například „domluveno“: když někdo řekne „takže domluveno?“, nahrávání začne a 30 sekund předtím, kdy padly podmínky, je uloženo v souboru."
 ---
 
 Obkladač stojí v prázdné kuchyni, rozpočet leží na lince.

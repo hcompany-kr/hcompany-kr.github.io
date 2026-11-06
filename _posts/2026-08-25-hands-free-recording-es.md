@@ -8,10 +8,10 @@ eyebrow: Cómo hacerlo
 title: "Cómo empezar a grabar sin tocar el móvil"
 description: "Cuatro formas de iniciar una grabación sin las manos en Android, qué exige cada una, y cuál sigue funcionando con la pantalla bloqueada y el teléfono en el bolsillo."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Existe una aplicación que empiece a grabar al oír una palabra concreta?"
-    a: "Sí. TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra fijada de antemano por el usuario, sin desbloquear el móvil ni abrir la aplicación. Además guarda los 30 segundos de audio anteriores al momento en que arrancó."
+    a: "Sí. TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra fijada de antemano por el usuario, sin desbloquear el móvil ni abrir la aplicación. Además guarda los 30 segundos de audio anteriores al momento en que arrancó."
   - q: "¿Puede empezar una grabación con la pantalla bloqueada?"
     a: "Sí, si la aplicación funciona como servicio en primer plano con una notificación permanente. TalkSafe funciona así: la escucha ocurre en segundo plano y la grabación arranca al oír la palabra clave aunque la pantalla esté apagada y el teléfono en un bolsillo o un bolso."
   - q: "¿Se puede guardar el audio anterior a pulsar grabar?"
@@ -69,7 +69,7 @@ Hay tres problemas.
 
 Es la categoría pensada para este problema. La aplicación escucha palabras elegidas de antemano y empieza a grabar cuando oye una.
 
-[TalkSafe](https://hcompany-kr.github.io/talksafe/es/) es una aplicación de Android que funciona así. El reconocimiento ocurre en el dispositivo, la grabación arranca **con la pantalla bloqueada y el móvil en el bolsillo**, y no hay sonido ni cambio visible en el momento en que empieza.
+[TalkSafe](https://hcompany-kr.github.io/talksafe/es/) es una aplicación para Android y iPhone que funciona así. El reconocimiento ocurre en el dispositivo, la grabación arranca **con la pantalla bloqueada y el móvil en el bolsillo**, y no hay sonido ni cambio visible en el momento en que empieza.
 
 <figure class="shot"><img src="/assets/img/screens/active-es.jpg" alt="Pantalla de TalkSafe con la detección de palabras clave activa y el botón Detener." width="540" height="960" loading="lazy"><figcaption>Detección de palabras clave activa. Sigue escuchando en segundo plano con la pantalla apagada o la aplicación cerrada.</figcaption></figure>
 

@@ -10,7 +10,7 @@ description: "No Brasil, assédio sexual (art. 216-A) e importunação sexual (a
 image: /assets/img/og/assedio-sexual-pt-br.png
 image_alt: "Assédio sexual no trabalho: no Brasil, assédio sexual (art. 216-A, detenção de 1 a 2 anos) e importunação sexual (art. 215-A, reclusão de 1 a 5 anos); a gravação feita pela própria vítima é prova lícita (STF, Tema 237); em Portugal, o artigo 29.º do Código do Trabalho proíbe o assédio e gravar sem consentimento é crime (art. 199.º)."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Qual a diferença entre assédio sexual e importunação sexual?"
     a: "O assédio sexual (art. 216-A do Código Penal) é constranger alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se o agente da condição de superior hierárquico ou ascendência inerentes ao emprego, cargo ou função; a pena é de detenção de 1 a 2 anos. A importunação sexual (art. 215-A, incluído pela Lei 13.718/2018) é praticar ato libidinoso contra alguém sem a sua anuência, para satisfazer a própria lascívia ou a de terceiro, e não exige hierarquia; a pena é de reclusão de 1 a 5 anos, se o ato não constitui crime mais grave."
@@ -71,7 +71,7 @@ O STF fixou no **Tema 237 de repercussão geral (RE 583.937)** que **é lícita 
 
 O assédio não avisa. Até você tirar o celular, desbloquear e apertar gravar, a frase já passou — e o gesto pode piorar a situação.
 
-O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda no arquivo os **30 segundos anteriores**. As palavras são reconhecidas **seja quem for que as diga**.
+O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda no arquivo os **30 segundos anteriores**. As palavras são reconhecidas **seja quem for que as diga**.
 
 <figure class="shot"><img src="/assets/img/screens/settings-pt-br.jpg" alt="Tela de configurações do TalkSafe: tempo de gravação automática após a detecção (10 minutos, 30 minutos, 1 hora, parada manual), idioma de detecção e backup na nuvem." width="540" height="960" loading="lazy"><figcaption>Configurações. Você escolhe quanto gravar depois de uma detecção e o idioma de detecção; ouvir e reconhecer acontece no celular, sem internet.</figcaption></figure>
 

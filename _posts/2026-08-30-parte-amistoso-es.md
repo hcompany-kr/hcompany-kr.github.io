@@ -8,7 +8,7 @@ eyebrow: Accidentes
 title: "El parte amistoso no es reconocer la culpa"
 description: "La jurisprudencia lo dice claro: no supone aceptación de culpa ni renuncia a derechos, sino una descripción conjunta. Lo que no tiene es una casilla para lo que os dijisteis."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Firmar el parte amistoso significa admitir que tengo la culpa?"
     a: "No. La jurisprudencia española ha señalado reiteradamente que el parte amistoso no supone una aceptación de culpa ni una renuncia a derechos, sino una descripción conjunta de las circunstancias del accidente. Es un malentendido muy extendido y es la razón por la que muchos conductores se niegan a firmarlo."

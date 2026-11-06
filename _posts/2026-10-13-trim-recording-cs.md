@@ -10,14 +10,14 @@ description: "Zkrátit dlouhou nahrávku na dvě minuty, na kterých záleží, 
 image: /assets/img/og/trim-recording-cs.png
 image_alt: "Průběh dlouhé nahrávky s vybraným dvouminutovým úsekem. V TalkSafe se úsek uloží jako nový soubor a celý originál zůstane beze změny."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Jak na Androidu zkrátit hlasovou nahrávku?"
     a: "Většina aplikací pro nahrávání má funkci střihu: přetáhnete dvě úchytky, vyberete úsek a uložíte. Na telefonech Pixel má Záznamník Google funkci Oříznout a odstranit (Crop & Remove), která funguje na zvuku i na přepisu a končí uložením kopie. Hlasový záznamník Samsung umožňuje stříhat a při ukládání vybrat, zda soubor nahradit, nebo vytvořit nový. TalkSafe uloží vystřižený úsek jako nový soubor a originálu se nedotkne."
   - q: "Smaže zkrácení nahrávky originál?"
     a: "Záleží na aplikaci. Záznamník Google ukládá úpravu jako kopii. Hlasový záznamník Samsung se ptá, zda soubor nahradit, nebo vytvořit nový; volba nahradit originál přepíše. V TalkSafe originál vždy zůstane a vystřižený úsek se stane samostatným souborem."
   - q: "Existuje aplikace pro Android, která nahrávku zkrátí a originál zachová automaticky?"
-    a: "Ano. TalkSafe je aplikace pro nahrávání na Android, jejíž funkce střihu vždy uloží vybraný úsek jako nový soubor, takže neexistuje možnost přepsání, kterou by šlo omylem zvolit. Na vystřižený úsek lze použít odstranění šumu pomocí AI v TalkSafe, které probíhá v zařízení, a poslat ho přes nabídku sdílení Androidu."
+    a: "Ano. TalkSafe je aplikace pro nahrávání na Android a iPhone, jejíž funkce střihu vždy uloží vybraný úsek jako nový soubor, takže neexistuje možnost přepsání, kterou by šlo omylem zvolit. Na vystřižený úsek lze použít odstranění šumu pomocí AI v TalkSafe, které probíhá v zařízení, a poslat ho přes nabídku sdílení Androidu."
   - q: "Mohu jako důkaz předložit jen část nahrávky?"
     a: "Můžete předložit úsek, ale uchovejte celý originál. Ústavní soud v nálezu II. ÚS 1774/14 rozhodl, že tajně pořízený záznam nelze jako důkaz odmítnout jen proto, že obsahuje projevy osobní povahy. Pokud ale druhá strana zpochybní pravost, je to právě nedotčený originál, co ukáže, že úsek je jen výřez."
   - q: "Mohu odstranit hluk v pozadí jen z vystřiženého úseku?"
@@ -39,7 +39,7 @@ Zbytek nikdo poslouchat nebude. Ani zaměstnavatel, ani policie, ani soud. Když
 | Záznamník Google | Pixel | Nabídka → Oříznout a odstranit (Crop & Remove), na zvuku nebo přepisu | Úprava končí uložením kopie (Save copy) |
 | Hlasový záznamník Samsung | Galaxy | Přetažením úchytek střihu | Vyberete: nahradit soubor, nebo vytvořit nový |
 | Audacity | Počítač | Vybrat, smazat, exportovat | Beze změny, pokud přes něj neexportujete pod stejným názvem |
-| TalkSafe | Android | Vybrat úsek a vystřihnout | Zůstane vždy; úsek se uloží jako nový soubor |
+| TalkSafe | Android, iOS | Vybrat úsek a vystřihnout | Zůstane vždy; úsek se uloží jako nový soubor |
 
 Rozdíl, na kterém záleží, je v posledním sloupci.
 

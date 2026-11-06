@@ -8,7 +8,7 @@ eyebrow: Work
 title: "Four countries, four answers to the same workplace question"
 description: "Can your employer stop you recording at work? In the US a blanket ban is often unlawful. In Japan the employer wins without a written rule at all. Spain and Korea land somewhere else entirely."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can an employer prohibit recording in the workplace?"
     a: "It depends on the country, and the four answers are genuinely different. In the United States a blanket ban has repeatedly been found unlawful under federal labour law. In Japan courts have held the employer has that power even with no written rule. In Spain the question turns on proportionality. In Korea the criminal answer and the disciplinary answer are decided separately."

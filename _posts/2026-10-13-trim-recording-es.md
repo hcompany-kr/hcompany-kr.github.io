@@ -11,14 +11,14 @@ description: "Para cortar o recortar una grabación de audio o una nota de voz e
 image: /assets/img/og/trim-recording-es.png
 image_alt: "La forma de onda de una grabación larga con un tramo de dos minutos seleccionado. En TalkSafe el tramo se guarda como un archivo nuevo y el original completo queda como estaba."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Cómo se corta o recorta una grabación de audio en Android?"
     a: "La mayoría de las apps de grabación tienen una función de recorte: arrastras unos tiradores para elegir el tramo y lo guardas. En los Pixel, la Grabadora de Google tiene Recortar y quitar (Crop & Remove), que funciona sobre el audio o sobre la transcripción y termina con Guardar copia. La grabadora de voz de Samsung permite recortar y, al guardar, elegir entre reemplazar el archivo o crear uno nuevo. TalkSafe guarda el tramo recortado como un archivo nuevo y deja intacto el original."
   - q: "¿Recortar una grabación borra el original?"
     a: "Depende de la app. La Grabadora de Google guarda la edición como una copia. La grabadora de voz de Samsung pregunta si reemplazar el archivo o crear uno nuevo, así que elegir reemplazar sobrescribe el original. En TalkSafe el original siempre se conserva y el tramo recortado pasa a ser un archivo aparte."
   - q: "¿Hay una app de Android que recorte una grabación y conserve el original automáticamente?"
-    a: "Sí. TalkSafe es una grabadora de voz para Android cuya función de recorte siempre guarda el tramo elegido como un archivo nuevo, de modo que no existe la opción de sobrescribir por error. Al tramo recortado se le puede aplicar la eliminación de ruido con IA de TalkSafe, que se procesa en el dispositivo, y enviarlo con el menú para compartir de Android."
+    a: "Sí. TalkSafe es una grabadora de voz para Android y iPhone cuya función de recorte siempre guarda el tramo elegido como un archivo nuevo, de modo que no existe la opción de sobrescribir por error. Al tramo recortado se le puede aplicar la eliminación de ruido con IA de TalkSafe, que se procesa en el dispositivo, y enviarlo con el menú para compartir de Android."
   - q: "¿Puedo aportar solo una parte de la grabación como prueba?"
     a: "Puedes aportar un extracto, pero conserva el original completo. En España, el artículo 382 de la Ley de Enjuiciamiento Civil exige aportar la grabación íntegra, en soporte original y acompañada de su transcripción escrita. Si se impugna, suele ser casi indispensable una pericial que acredite la autenticidad e integridad del archivo, habitualmente cotejándolo con el terminal original."
   - q: "¿Puedo quitar el ruido de fondo solo del tramo recortado?"
@@ -40,7 +40,7 @@ El resto no lo va a escuchar nadie. Ni la empresa, ni la policía, ni el juez. S
 | Grabadora de Google | Pixel | Menú → Recortar y quitar (Crop & Remove), sobre el audio o la transcripción | La edición termina con Guardar copia (Save copy) |
 | Grabadora de voz de Samsung | Galaxy | Arrastrando los tiradores de recorte | Eliges: reemplazar el archivo o crear uno nuevo |
 | Audacity | Ordenador | Seleccionar, borrar, exportar | Intacto salvo que exportes encima con el mismo nombre |
-| TalkSafe | Android | Seleccionar el tramo y recortar | Siempre se conserva; el tramo se guarda como archivo nuevo |
+| TalkSafe | Android, iOS | Seleccionar el tramo y recortar | Siempre se conserva; el tramo se guarda como archivo nuevo |
 
 La diferencia que importa está en la última columna.
 

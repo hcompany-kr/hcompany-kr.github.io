@@ -8,7 +8,7 @@ eyebrow: Salud
 title: "La ley dice que la información se da de palabra"
 description: "Qué queda por escrito de una consulta, qué puedes pedir según la Ley 41/2002, y cómo conservar la parte que no se documenta."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Tengo derecho a que me expliquen mi situación de salud?"
     a: "Sí. La Ley 41/2002 reconoce el derecho del paciente a recibir información adecuada, veraz y comprensible sobre su estado de salud, el diagnóstico, el pronóstico y las alternativas de tratamiento, con sus riesgos y beneficios."

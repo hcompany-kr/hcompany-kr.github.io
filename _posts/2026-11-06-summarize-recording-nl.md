@@ -10,10 +10,10 @@ description: "Om een spraakopname op Android samen te vatten, gebruik je een opn
 image: /assets/img/og/summarize-recording-nl.png
 image_alt: "Googles Recorder op Pixel, de Samsung Spraakrecorder op Galaxy en TalkSafe vergeleken: alle drie bieden een AI-samenvatting, alleen Pixel en Galaxy een volledige transcriptie, en alleen TalkSafe start zelf met opnemen op een gekozen woord."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Hoe vat ik een spraakopname samen met AI op Android?"
-    a: "Met een opname-app die een AI-samenvatting heeft. Op Pixel-telefoons kan Googles Recorder de transcriptie van een opname op het toestel samenvatten met Gemini Nano. De Samsung Spraakrecorder biedt met Transcript Assist van Galaxy AI een transcriptie en samenvatting en vraagt een Samsung-account. TalkSafe, een opname-app voor Android, maakt van elke opname een AI-samenvatting en toont die onder de speler in het detailscherm."
+    a: "Met een opname-app die een AI-samenvatting heeft. Op Pixel-telefoons kan Googles Recorder de transcriptie van een opname op het toestel samenvatten met Gemini Nano. De Samsung Spraakrecorder biedt met Transcript Assist van Galaxy AI een transcriptie en samenvatting en vraagt een Samsung-account. TalkSafe, een opname-app voor Android en iPhone, maakt van elke opname een AI-samenvatting en toont die onder de speler in het detailscherm."
   - q: "Gaat het geluid naar een server als een opname wordt samengevat?"
     a: "Dat hangt af van de app. De samenvattingen van Googles Recorder op Pixel worden op het toestel gemaakt met Gemini Nano. TalkSafe stuurt de opname naar een server voor de AI-samenvatting, terwijl de trefwoordherkenning volledig op de telefoon werkt. Deden er andere mensen mee aan het gesprek, dan staan hun stemmen in het bestand dat je verstuurt."
   - q: "In welke taal is de samenvatting van TalkSafe?"

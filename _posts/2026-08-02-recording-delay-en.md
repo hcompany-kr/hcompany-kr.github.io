@@ -9,7 +9,7 @@ eyebrow: Recording
 title: "Why hitting record is always too late"
 description: "By the time you realise a conversation needs recording, the words you needed are already gone. Two ways to close that gap."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can a recording app capture audio from before I pressed record?"
     a: "Most recorders start saving at the moment you tap record, so anything before that is lost. Some apps hold the last few seconds of audio while idle and attach it to the front of the file once recording begins. TalkSafe keeps the previous 30 seconds."

@@ -10,7 +10,7 @@ description: "W Polsce umowę można zawrzeć ustnie; formę pisemną pod rygore
 image: /assets/img/og/umowa-ustna-pl.png
 image_alt: "Umowa ustna w Polsce: ważna co do zasady; akt notarialny przy nieruchomości (art. 158 k.c.), pisemne poręczenie (art. 876 k.c.); przy formie dla celów dowodowych dowód ze świadków wyłączony, z wyjątkiem m.in. żądania konsumenta (art. 74 k.c.); dowód przeciwko osnowie dokumentu tylko wyjątkowo (art. 247 k.p.c.); własną rozmowę uczestnik może nagrać."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy umowa ustna jest ważna?"
     a: "Tak. Zgodnie z art. 60 Kodeksu cywilnego wola osoby dokonującej czynności prawnej może być wyrażona przez każde zachowanie, które ujawnia ją w sposób dostateczny. Forma jest wymagana tylko wtedy, gdy przewiduje ją ustawa lub strony: przeniesienie własności nieruchomości wymaga aktu notarialnego (art. 158 k.c.), a oświadczenie poręczyciela formy pisemnej pod rygorem nieważności (art. 876 § 2 k.c.)."
@@ -23,7 +23,7 @@ faq:
   - q: "Czy mogę nagrać rozmowę z wykonawcą?"
     a: "Tak, jeśli w niej uczestniczysz. Art. 267 § 3 k.k. dotyczy podsłuchu, czyli zdobywania informacji, które nie są dla nas przeznaczone; nagranie własnej rozmowy co do zasady nie jest przestępstwem i może być dowodem w procesie cywilnym. Rozpowszechnianie nagrania może natomiast naruszać dobra osobiste."
   - q: "Jak pomaga TalkSafe?"
-    a: "TalkSafe to aplikacja do nagrywania na Androida, która zaczyna nagrywać po usłyszeniu wybranego wcześniej słowa i działa przy zablokowanym ekranie. Jako słowo kluczowe można ustawić to, które zwykle zamyka ustalenia, np. 'umowa': gdy ktoś mówi 'to umowa stoi?', nagrywanie startuje, a 30 sekund wcześniej, gdy padały warunki, zostaje zapisane w pliku."
+    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać po usłyszeniu wybranego wcześniej słowa i działa przy zablokowanym ekranie. Jako słowo kluczowe można ustawić to, które zwykle zamyka ustalenia, np. 'umowa': gdy ktoś mówi 'to umowa stoi?', nagrywanie startuje, a 30 sekund wcześniej, gdy padały warunki, zostaje zapisane w pliku."
 ---
 
 Glazurnik stoi w pustej kuchni, kosztorys leży na blacie.

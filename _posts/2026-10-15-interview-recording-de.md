@@ -10,14 +10,14 @@ description: "Privatdetektive, Journalisten, Schadenregulierer, interne Ermittle
 image: /assets/img/og/interview-recording-de.png
 image_alt: "Zwei Arten, ein Gespräch aufzunehmen: Das Gerät auf den Tisch zu legen lässt das Gegenüber Worte wählen; mit dem Wort aus der eigenen Frage als Schlüsselwort beginnt die Aufnahme beim Fragen, und das Ja ist in der Datei."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Darf ein Privatdetektiv ein Gespräch aufnehmen, an dem er teilnimmt?"
     a: "In Deutschland nicht ohne Einwilligung. Nach § 201 StGB wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft, wer unbefugt das nichtöffentlich gesprochene Wort eines anderen aufnimmt – auch als Gesprächsteilnehmer. Eine Detektivlizenz ändert daran nichts. In Österreich ist die eigene Aufnahme nach § 120 Abs. 1 StGB nicht strafbar, die Weitergabe ohne Einverständnis des Sprechenden nach Abs. 2 aber schon; in der Schweiz bestraft Art. 179ter StGB auf Antrag auch den Gesprächsteilnehmer."
   - q: "Warum verändert ein sichtbares Aufnahmegerät ein Interview?"
     a: "Sobald das Gerät zu sehen ist, beginnen Menschen, Worte für das Protokoll zu wählen. Antworten werden kürzer und vorsichtiger, und das Detail, um das es ging, kommt nur noch bei ausgeschaltetem Gerät. Mitten im Gespräch zum Handy zu greifen, um die Aufnahme zu starten, erzeugt denselben Moment."
   - q: "Wie fragt man nach der Einwilligung, ohne das Gespräch zu unterbrechen?"
-    a: "In TalkSafe, einer Aufnahme-App für Android, legt man ein Wort aus der eigenen Frage als Schlüsselwort fest, etwa aufnehmen. Fragt man dann, ob man das Gespräch aufnehmen darf, beginnt die Aufnahme genau in diesem Moment, und die Antwort des Gegenübers ist in der Datei. Man muss das Gerät nicht vorher sichtbar einschalten."
+    a: "In TalkSafe, einer Aufnahme-App für Android und iPhone, legt man ein Wort aus der eigenen Frage als Schlüsselwort fest, etwa aufnehmen. Fragt man dann, ob man das Gespräch aufnehmen darf, beginnt die Aufnahme genau in diesem Moment, und die Antwort des Gegenübers ist in der Datei. Man muss das Gerät nicht vorher sichtbar einschalten."
   - q: "Reicht ein offen auf dem Tisch liegendes Handy als Hinweis?"
     a: "Nach dem Hessischen Landesarbeitsgericht nicht. Es hat am 23. August 2017 (6 Sa 137/17) eine fristlose Kündigung wegen der heimlichen Aufnahme eines Personalgesprächs bestätigt; der Arbeitnehmer hätte ausdrücklich auf die Aufnahme hinweisen müssen."
   - q: "Gibt es eine App, die ohne Griff zum Handy aufnimmt?"
@@ -69,7 +69,7 @@ Gespräche anderer aufzunehmen – ein Gerät im Raum lassen und hinausgehen, ei
 
 Fragen heißt nicht, das Gespräch zu unterbrechen. Es heißt nur, dass die Frage selbst die Aufnahme starten sollte.
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort aus Ihrer eigenen Frage fest, etwa **„aufnehmen“**. Sie fragen „Darf ich das aufnehmen?“ – und die Aufnahme beginnt genau in diesem Moment. Das „Ja“ ist in der Datei, ausdrücklich, so wie es das Hessische LAG verlangt. Kein Gerät, das vorher sichtbar eingeschaltet werden muss, kein Griff zum Handy.
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort aus Ihrer eigenen Frage fest, etwa **„aufnehmen“**. Sie fragen „Darf ich das aufnehmen?“ – und die Aufnahme beginnt genau in diesem Moment. Das „Ja“ ist in der Datei, ausdrücklich, so wie es das Hessische LAG verlangt. Kein Gerät, das vorher sichtbar eingeschaltet werden muss, kein Griff zum Handy.
 
 <figure class="shot"><img src="/assets/img/screens/active-de.jpg" alt="TalkSafe-Bildschirm mit aktiver Schlüsselwort-Erkennung und Stopp-Taste." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Erkennung aktiv. Die App hört im Hintergrund weiter, auch bei ausgeschaltetem Bildschirm oder geschlossener App.</figcaption></figure>
 

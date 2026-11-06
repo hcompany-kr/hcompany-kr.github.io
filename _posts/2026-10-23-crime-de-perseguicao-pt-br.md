@@ -10,7 +10,7 @@ description: "Desde 2021, perseguir alguém de forma reiterada é crime no Brasi
 image: /assets/img/og/crime-de-perseguicao-pt-br.png
 image_alt: "Crime de perseguição, Brasil e Portugal: crime nos dois países (art. 147-A e art. 154.º-A); gravar a própria conversa é lícito no Brasil e crime em Portugal; o relato com a própria voz, logo depois, é seguro nos dois."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Stalking é crime no Brasil?"
     a: "Sim. A Lei 14.132/2021 incluiu no Código Penal o art. 147-A, que pune perseguir alguém reiteradamente, por qualquer meio, ameaçando sua integridade física ou psicológica, restringindo sua capacidade de locomoção ou invadindo ou perturbando sua esfera de liberdade ou privacidade. A pena é de reclusão de seis meses a dois anos, e multa. A mesma lei revogou a contravenção de perturbação da tranquilidade."
@@ -64,7 +64,7 @@ O STF fixou no **Tema 237 de repercussão geral (RE 583.937)** que **é lícita 
 
 O problema é o momento. Ninguém avisa quando vai aparecer, e tirar o celular na frente da pessoa pode piorar tudo.
 
-O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda os **30 segundos anteriores** no arquivo. As palavras são reconhecidas **seja quem for que as diga**. Uma escolha natural é o que você diria na hora: **"para"**. Quando você diz "Para de me seguir", a gravação começa — e o que veio antes também está no arquivo, com o celular no bolso.
+O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda os **30 segundos anteriores** no arquivo. As palavras são reconhecidas **seja quem for que as diga**. Uma escolha natural é o que você diria na hora: **"para"**. Quando você diz "Para de me seguir", a gravação começa — e o que veio antes também está no arquivo, com o celular no bolso.
 
 <figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
 

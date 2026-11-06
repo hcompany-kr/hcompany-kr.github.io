@@ -10,7 +10,7 @@ description: "En France, une démission doit être claire et non équivoque, et 
 image: /assets/img/og/demission-forcee-fr.png
 image_alt: "Démission forcée en France, Belgique, Suisse et Québec : en France, démission claire et non équivoque, rupture conventionnelle avec 15 jours de rétractation et 12 mois de recours ; la démission prive en principe de l'ARE ; au Québec, plainte dans les 45 jours ; enregistrer sa propre conversation sans consentement est puni en France et en Suisse."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Une démission donnée sous la pression de l'employeur est-elle valable ?"
     a: "La démission ne peut résulter que d'une manifestation claire et non équivoque de la volonté du salarié de rompre le contrat de travail (Cass. soc., 9 mai 2007, n° 05-40.518). Lorsque des circonstances antérieures ou contemporaines la rendent équivoque, notamment des manquements de l'employeur, le juge peut l'analyser en une prise d'acte, qui produit les effets d'un licenciement sans cause réelle et sérieuse si les manquements sont établis."
@@ -88,7 +88,7 @@ Ce qui tient :
 - **Un courriel le jour même** : « Suite à notre entretien de ce jour, vous m'avez proposé de démissionner ou de signer une rupture conventionnelle avant vendredi. Je souhaite prendre le temps de la réflexion. » Une réponse — ou son absence — est datée.
 - **Un enregistrement avec l'accord de tous.**
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » : dans le couloir ou dans la voiture, vous le dites et votre récit commence, sans sortir le téléphone. Si l'entretien doit être enregistré ouvertement, le mot peut être dans la question : avec « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer l'entretien ? », et la réponse est dans le fichier, avec les **30 secondes précédentes**. Plus de détails dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » : dans le couloir ou dans la voiture, vous le dites et votre récit commence, sans sortir le téléphone. Si l'entretien doit être enregistré ouvertement, le mot peut être dans la question : avec « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer l'entretien ? », et la réponse est dans le fichier, avec les **30 secondes précédentes**. Plus de détails dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/keywords-fr.jpg" alt="Écran des mots-clés de TalkSafe. Les mots-clés s'ajoutent avec le bouton du micro et s'affichent en liste." width="540" height="960" loading="lazy"><figcaption>Réglages des mots-clés. Vous pouvez en enregistrer plusieurs ; il suffit que l'un d'eux soit détecté pour que l'enregistrement démarre.</figcaption></figure>
 

@@ -9,7 +9,7 @@ eyebrow: Diritto
 title: "Si può registrare la polizia? Tredici paesi a confronto"
 description: "Una conversazione con un agente resta una conversazione a cui partecipi. Se tredici paesi permettono di registrare o filmare le forze dell'ordine, e dove passa il limite."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "In Italia si possono filmare le forze dell'ordine?"
     a: "Sì. Secondo il Garante per la protezione dei dati personali, i funzionari pubblici e i pubblici ufficiali, compresi i rappresentanti delle forze di polizia impegnati in operazioni di controllo o presenti in manifestazioni o avvenimenti pubblici, possono essere fotografati e filmati, a meno che non vi sia un espresso divieto dell'autorità pubblica."
@@ -24,7 +24,7 @@ faq:
   - q: "C'è un paese in cui registrare la polizia è vietato?"
     a: "Tra i tredici paesi esaminati, nessuno vieta in quanto tale di registrare o filmare la polizia in servizio in un luogo pubblico. Il limite comune è non ostacolare l'attività degli agenti. Nel Nuovo Galles del Sud la registrazione audio di una conversazione privata è limitata dalla legge sui dispositivi di sorveglianza. Fuori da questi tredici, il Marocco è un caso a parte: l'articolo 447-1 del codice penale punisce la registrazione senza consenso di parole private o confidenziali, e dal 2018 la polizia ha fermato e fatto processare chi filmava agenti in servizio senza autorizzazione, anche se un giurista marocchino sostiene che la norma non copra la strada."
   - q: "Come aiuta TalkSafe durante un controllo?"
-    a: "TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere parole che dirà probabilmente l'agente, come «patente» o «documenti». Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere parole che dirà probabilmente l'agente, come «patente» o «documenti». Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio."
 ---
 
 Di notte ti fermano a un posto di blocco e bussano al finestrino.
@@ -106,7 +106,7 @@ In pratica: in Marocco **tirare fuori il telefono davanti a un agente può costa
 
 Un controllo comincia senza preavviso. Se ti hanno detto di tenere le mani in vista, tirare fuori il telefono, sbloccarlo e premere registra è proprio il tipo di movimento che può essere frainteso.
 
-TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere parole che probabilmente dirà l'agente, come «patente» o «documenti». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, la conversazione c'è da quando hanno bussato al finestrino.
+TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere parole che probabilmente dirà l'agente, come «patente» o «documenti». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, la conversazione c'è da quando hanno bussato al finestrino.
 
 Perché contano l'originale e i primi secondi quando una registrazione viene usata come prova è spiegato in [hai la registrazione e non riesci comunque a usarla](https://hcompany-kr.github.io/blog/it/recording-evidence/). Come iniziare a registrare senza toccare il telefono è in [come iniziare a registrare senza toccare il telefono](https://hcompany-kr.github.io/blog/it/hands-free-recording/).
 

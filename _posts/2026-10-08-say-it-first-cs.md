@@ -9,10 +9,10 @@ eyebrow: Nahrávání
 title: "Nejdřív něco řeknete"
 description: "Ve chvíli, kdy si uvědomíte, že by se rozhovor měl nahrát, jsou ústa rychlejší než ruce. Co se stane, když se právě to stane spouštěčem."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Co znamená spustit nahrávání hlasem?"
-    a: "Předem si nastavíte slovo a aplikace začne nahrávat, když ho uslyší. TalkSafe je aplikace pro nahrávání na Android, která takto funguje; nemusíte odemykat telefon ani nic otevírat."
+    a: "Předem si nastavíte slovo a aplikace začne nahrávat, když ho uslyší. TalkSafe je aplikace pro nahrávání na Android a iPhone, která takto funguje; nemusíte odemykat telefon ani nic otevírat."
   - q: "Jaké slovo mám zvolit?"
     a: "Jedna správná odpověď neexistuje. Funguje to, co vám přirozeně vyjde z úst, když cítíte, že by se rozhovor měl nahrát. To se liší podle člověka i situace a po pár dnech používání to bývá zřejmé."
   - q: "Co když nahrávání spustí něco podobně znějícího?"

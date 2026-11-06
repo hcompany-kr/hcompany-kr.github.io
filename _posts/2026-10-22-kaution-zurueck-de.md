@@ -10,7 +10,7 @@ description: "Die Mietkaution darf drei Nettokaltmieten nicht übersteigen und s
 image: /assets/img/og/kaution-zurueck-de.png
 image_alt: "Mietkaution in Deutschland und der Schweiz: höchstens drei Monatsmieten (§ 551 BGB, Art. 257e OR); keine feste Rückzahlungsfrist in Deutschland, meist bis zu sechs Monate, in der Schweiz Freigabe nach einem Jahr; normale Abnutzung zahlt der Mieter nicht (§ 538 BGB); heimliche Aufnahme der Übergabe in beiden Ländern strafbar, Aufnahme mit Einwilligung möglich."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Wie hoch darf die Mietkaution sein?"
     a: "Nach § 551 Abs. 1 BGB höchstens das Dreifache der Monatsmiete ohne die als Pauschale oder Vorauszahlung ausgewiesenen Betriebskosten. Der Mieter darf sie in drei gleichen monatlichen Teilzahlungen leisten. Der Vermieter muss sie getrennt von seinem Vermögen bei einem Kreditinstitut anlegen; die Erträge stehen dem Mieter zu."
@@ -85,7 +85,7 @@ In Deutschland ist die **heimliche Aufnahme** der Übergabe keine Option: **§ 2
 
 Mit Einwilligung ist es unproblematisch, und bei einer Übergabe lässt es sich gut begründen: „Damit wir beide dasselbe festhalten.“
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert — Sie haben die Hände frei für Fotos und Protokoll. Legen Sie das Schlüsselwort in Ihre eigene Frage, zum Beispiel **„aufnehmen“**. Wenn Sie fragen „Darf ich die Übergabe aufnehmen?“, beginnt die Aufnahme genau dann, und das „Ja“ ist in der Datei — zusammen mit allem, was danach über die Räume gesagt wird. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert — Sie haben die Hände frei für Fotos und Protokoll. Legen Sie das Schlüsselwort in Ihre eigene Frage, zum Beispiel **„aufnehmen“**. Wenn Sie fragen „Darf ich die Übergabe aufnehmen?“, beginnt die Aufnahme genau dann, und das „Ja“ ist in der Datei — zusammen mit allem, was danach über die Räume gesagt wird. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
 

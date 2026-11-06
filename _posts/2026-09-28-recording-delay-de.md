@@ -8,12 +8,12 @@ eyebrow: Aufnahme
 title: "Warum der Druck auf Aufnahme immer zu spät kommt"
 description: "Wenn man merkt, dass ein Gespräch aufgenommen werden sollte, sind die entscheidenden Worte schon gefallen. Zwei Wege, diese Lücke zu schließen."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Kann eine Aufnahme-App speichern, was vor dem Drücken auf Aufnahme gesagt wurde?"
     a: "Die meisten Aufnahme-Apps speichern erst ab dem Moment, in dem man auf Aufnahme tippt; alles davor ist verloren. Manche Apps halten im Leerlauf die letzten Sekunden Ton vor und setzen sie beim Start an den Anfang der Datei. TalkSafe behält die 30 Sekunden davor."
   - q: "Kann man eine Aufnahme per Stimme statt per Tippen starten?"
-    a: "Ja. TalkSafe ist eine Aufnahme-App für Android, bei der man vorab ein Wort festlegt; hört die App es, beginnt die Aufnahme von selbst. Man muss das Telefon weder entsperren noch die App öffnen, was zählt, wenn die Hände beschäftigt sind."
+    a: "Ja. TalkSafe ist eine Aufnahme-App für Android und iPhone, bei der man vorab ein Wort festlegt; hört die App es, beginnt die Aufnahme von selbst. Man muss das Telefon weder entsperren noch die App öffnen, was zählt, wenn die Hände beschäftigt sind."
   - q: "Muss das Schlüsselwort ein Wort sein, das ich selbst sage?"
     a: "Nein. Die Erkennung ist nicht an eine Stimme gebunden, man kann also auch ein Wort festlegen, das das Gegenüber in dieser Situation wahrscheinlich sagt. Ein einzelnes Wort deckt dabei viele Sätze ab: Mit ‚aufnehmen‘ startet die Aufnahme bei ‚Ich sollte das aufnehmen‘ genauso wie bei ‚Darf ich das aufnehmen?‘."
   - q: "Wird mein Ton irgendwo hochgeladen?"

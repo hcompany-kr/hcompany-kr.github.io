@@ -8,7 +8,7 @@ eyebrow: Incidenti
 title: "Se non lo dimostri, la legge divide la colpa a metà"
 description: "L'articolo 2054 presume che entrambi i conducenti abbiano concorso ugualmente. A ribaltare quella presunzione è un foglio che si compila in cinque minuti sul ciglio della strada."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Se non si riesce a stabilire di chi è la colpa, cosa succede?"
     a: "L'articolo 2054 comma 2 del codice civile stabilisce che nel caso di scontro tra veicoli si presume, fino a prova contraria, che ciascuno dei conducenti abbia concorso ugualmente a produrre il danno subito dai singoli veicoli. In assenza di prova, quindi, la responsabilità si divide a metà."

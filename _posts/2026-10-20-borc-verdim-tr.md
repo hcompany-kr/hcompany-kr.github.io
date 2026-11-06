@@ -10,7 +10,7 @@ description: "Türkiye'de ödünç sözleşmesi yazılı olmak zorunda değildir
 image: /assets/img/og/borc-verdim-tr.png
 image_alt: "Borç verdim, senet yok: borçlunun WhatsApp mesajı delil başlangıcı olabilir (Yargıtay 2024); yakın akrabalar arası borçta tanık dinlenebilir (HMK 203); ihtarname zamanaşımını kesmez, ikrar keser; konuşmayı rızasız kaydetmek TCK 133/2'ye göre suçtur."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Senetsiz verilen borç geri alınabilir mi?"
     a: "Alınabilir; ödünç sözleşmesi yazılı olmak zorunda değildir. Sorun ispattır: HMK 200'e göre, her yıl yeniden değerlenen parasal sınırın üzerindeki hukuki işlemler senetle ispat edilir ve karşı tarafın açık muvafakati olmadıkça tanıkla ispat edilemez. Banka havalesi paranın gönderildiğini gösterir, ama borç olarak verildiğini tek başına göstermez."
@@ -85,7 +85,7 @@ Para konuşmaları mesajla değil, yüz yüze veya telefonda olur. Türkiye'de b
 
 Rızayla kayıt sorun değildir ve para konusunda gerekçesi kolay bulunur: "Ne konuştuğumuzu ikimiz de unutmayalım."
 
-[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan ve **ekran kilitliyken** çalışan bir Android ses kayıt uygulamasıdır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedeyim"**. "Kaydedeyim mi?" diye sorduğunuzda kayıt o anda başlar; "olur" cevabı ve ardından tutar ve tarih hakkında söylenenler dosyadadır. Ayrıntı: [Önce bir şey söylersiniz](/blog/tr/say-it-first/).
+[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan ve **ekran kilitliyken** çalışan Android ve iPhone için bir ses kayıt uygulamasıdır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedeyim"**. "Kaydedeyim mi?" diye sorduğunuzda kayıt o anda başlar; "olur" cevabı ve ardından tutar ve tarih hakkında söylenenler dosyadadır. Ayrıntı: [Önce bir şey söylersiniz](/blog/tr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-tr.jpg" alt="TalkSafe başlangıç ekranı: gerçek zamanlı algılamayı ve manuel kaydı başlatma düğmeleri." width="540" height="960" loading="lazy"><figcaption>TalkSafe başlangıç ekranı. Gerçek zamanlı algılama açıkken belirlediğiniz kelime algılandığında kayıt başlar; düğmeyle hemen de kayıt alabilirsiniz.</figcaption></figure>
 

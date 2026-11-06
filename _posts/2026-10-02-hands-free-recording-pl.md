@@ -8,10 +8,10 @@ eyebrow: Poradnik
 title: "Jak zacząć nagrywać, nie dotykając telefonu"
 description: "Cztery sposoby na rozpoczęcie nagrywania bez rąk na Androidzie, czego każdy z nich naprawdę wymaga i które działają przy zablokowanym ekranie, z telefonem w kieszeni."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy jest aplikacja, która zaczyna nagrywać po określonym słowie?"
-    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, bez odblokowywania telefonu i bez otwierania aplikacji. Zapisuje przy tym także 30 sekund sprzed wyzwalacza."
+    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, bez odblokowywania telefonu i bez otwierania aplikacji. Zapisuje przy tym także 30 sekund sprzed wyzwalacza."
   - q: "Czy telefon może zacząć nagrywać przy zablokowanym ekranie?"
     a: "Tak, jeśli aplikacja działa jako usługa na pierwszym planie ze stałym powiadomieniem. Tak działa TalkSafe: nasłuchiwanie odbywa się w tle, a nagrywanie startuje po słowie kluczowym także wtedy, gdy ekran jest wyłączony, a telefon leży w kieszeni."
   - q: "Czy można nagrać to, co powiedziano przed naciśnięciem przycisku?"
@@ -71,7 +71,7 @@ Mimo to są trzy problemy.
 
 Ta kategoria powstała dokładnie z myślą o tym problemie. Aplikacja nasłuchuje słów, które wybrałeś wcześniej, i zaczyna nagrywać, gdy usłyszy jedno z nich.
 
-[TalkSafe](/talksafe/pl/) to aplikacja na Androida, która działa w ten sposób. Rozpoznawanie słów odbywa się na urządzeniu, nagrywanie zaczyna się **przy zablokowanym ekranie i z telefonem w kieszeni**, a w chwili startu nie ma ani dźwięku, ani widocznej zmiany.
+[TalkSafe](/talksafe/pl/) to aplikacja na Androida i iPhone'a, która działa w ten sposób. Rozpoznawanie słów odbywa się na urządzeniu, nagrywanie zaczyna się **przy zablokowanym ekranie i z telefonem w kieszeni**, a w chwili startu nie ma ani dźwięku, ani widocznej zmiany.
 
 <figure class="shot"><img src="/assets/img/screens/active-pl.jpg" alt="Ekran TalkSafe z aktywnym wykrywaniem słów kluczowych i przyciskiem Zatrzymaj." width="540" height="960" loading="lazy"><figcaption>Wykrywanie słów kluczowych aktywne. Aplikacja słucha dalej w tle przy wyłączonym ekranie albo zamkniętej aplikacji.</figcaption></figure>
 

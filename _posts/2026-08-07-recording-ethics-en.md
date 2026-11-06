@@ -8,7 +8,7 @@ eyebrow: Thinking
 title: "Is it wrong to record a conversation?"
 description: "Legal and defensible are not the same question. What actually makes recording feel uncomfortable, and when that discomfort is telling you something true."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is it morally wrong to record a conversation you are part of?"
     a: "It depends on the situation. Keeping a record of a conversation you took part in is close to supplementing memory. It changes character if the purpose is to draw out something the other person would not have said had they known, or if you intend to use the recording somewhere else."

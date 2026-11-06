@@ -10,14 +10,14 @@ description: "Een lange opname terugbrengen tot de twee minuten die ertoe doen, 
 image: /assets/img/og/trim-recording-nl.png
 image_alt: "De golfvorm van een lange opname met een geselecteerd stuk van twee minuten. In TalkSafe wordt het stuk als nieuw bestand opgeslagen en blijft het volledige origineel zoals het was."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Hoe kort je een spraakopname in op Android?"
     a: "De meeste opname-apps hebben een knipfunctie: je sleept twee grepen om het stuk te kiezen en slaat het op. Op Pixel-telefoons heeft de Recorder-app van Google Bijsnijden en verwijderen (Crop & Remove), dat werkt op de audio of op het transcript en eindigt met Kopie opslaan. De spraakrecorder van Samsung laat je knippen en bij het opslaan kiezen tussen het bestand vervangen en een nieuw bestand maken. TalkSafe slaat het geknipte stuk op als nieuw bestand en laat het origineel ongemoeid."
   - q: "Wist het inkorten van een opname het origineel?"
     a: "Dat hangt af van de app. De Recorder-app van Google slaat de bewerking op als kopie. De spraakrecorder van Samsung vraagt of je het bestand wilt vervangen of een nieuw bestand wilt maken; kies je vervangen, dan wordt het origineel overschreven. In TalkSafe blijft het origineel altijd bestaan en wordt het geknipte stuk een apart bestand."
   - q: "Is er een Android-app die een opname inkort en het origineel automatisch bewaart?"
-    a: "Ja. TalkSafe is een opname-app voor Android waarvan de knipfunctie het gekozen stuk altijd als nieuw bestand opslaat, dus er is geen optie om per ongeluk te overschrijven. Op het geknipte stuk kun je de AI-ruisverwijdering van TalkSafe toepassen, die op het toestel werkt, en het versturen via het deelmenu van Android."
+    a: "Ja. TalkSafe is een opname-app voor Android en iPhone waarvan de knipfunctie het gekozen stuk altijd als nieuw bestand opslaat, dus er is geen optie om per ongeluk te overschrijven. Op het geknipte stuk kun je de AI-ruisverwijdering van TalkSafe toepassen, die op het toestel werkt, en het versturen via het deelmenu van Android."
   - q: "Mag ik maar een deel van de opname als bewijs indienen?"
     a: "Je kunt een fragment indienen, maar bewaar het volledige origineel. In Nederland mag je volgens artikel 139a van het Wetboek van Strafrecht een gesprek opnemen waaraan je zelf deelneemt; of de rechter de opname als bewijs gebruikt, beoordeelt hij per geval. Wordt de echtheid betwist, dan is het onaangeroerde origineel wat laat zien dat het fragment gewoon een uitsnede is."
   - q: "Kan ik het achtergrondgeluid alleen uit het geknipte stuk halen?"
@@ -39,7 +39,7 @@ De rest gaat niemand beluisteren. Niet de werkgever, niet de politie, niet de re
 | Recorder-app van Google | Pixel | Menu → Bijsnijden en verwijderen (Crop & Remove), op audio of transcript | De bewerking eindigt met Kopie opslaan (Save copy) |
 | Spraakrecorder van Samsung | Galaxy | Door de knipgrepen te slepen | Je kiest: bestand vervangen of een nieuw maken |
 | Audacity | Computer | Selecteren, verwijderen, exporteren | Ongewijzigd, tenzij je eroverheen exporteert onder dezelfde naam |
-| TalkSafe | Android | Stuk kiezen en knippen | Blijft altijd; het stuk wordt als nieuw bestand opgeslagen |
+| TalkSafe | Android, iOS | Stuk kiezen en knippen | Blijft altijd; het stuk wordt als nieuw bestand opgeslagen |
 
 Het verschil dat ertoe doet, staat in de laatste kolom.
 

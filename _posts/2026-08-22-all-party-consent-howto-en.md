@@ -9,7 +9,7 @@ eyebrow: How to
 title: "In an all-party state, ask — and let the answer land in the file"
 description: "Living in California or Massachusetts doesn't mean you can't record. It means the consent has to come first. Here is the sequence that works, and why a keyword-triggered recorder handles it better than pressing record."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can I record at all if I live in an all-party consent state?"
     a: "Yes. All-party consent means everyone has to agree before recording, not that recording is forbidden. Asking directly and getting a yes is the most legally secure form of consent there is, and it leaves little room for later dispute."

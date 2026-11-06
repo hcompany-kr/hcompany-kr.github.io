@@ -8,7 +8,7 @@ eyebrow: Health
 title: "Most of what the doctor said is gone by the parking lot"
 description: "Studies put the forgetting rate as high as 80%. What actually gets written down, what you can request, and how to keep the part that does not."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "How much of a doctor's explanation do patients typically forget?"
     a: "A range of studies indicates patients forget as much as 80% of the information immediately following a visit. Contributing factors include emotional distress, physical pain, unfamiliar terminology, and limited health literacy — not inattention."

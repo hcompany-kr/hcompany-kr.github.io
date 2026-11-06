@@ -9,7 +9,7 @@ eyebrow: Come si fa
 title: "Cosa fare con una registrazione, e cosa non farne"
 description: "Come conservare il file, come tenere solo la parte che conta e dove depositarlo. La maggior parte dei problemi nasce dopo la registrazione, non durante."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Si può tenere solo la parte che interessa?"
     a: "TalkSafe ha una funzione di ritaglio. Ritagliando, il file originale resta intatto e il tratto selezionato viene salvato come nuovo file, così puoi preparare una versione breve da produrre senza perdere la registrazione completa."

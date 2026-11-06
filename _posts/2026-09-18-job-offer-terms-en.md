@@ -8,7 +8,7 @@ eyebrow: Work
 title: "What you were promised at interview is not what the contract says"
 description: "Pay, remote days and title get agreed out loud at interview. The contract arrives after you start. What thirteen countries require employers to put in writing, and what you can do when the paperwork does not match the promise."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is a verbal job offer binding?"
     a: "An employment contract can be formed verbally, and in Australia a job offered and accepted out loud, followed by work and wages, is generally a binding contract. The difficulty is proving the terms. If the written contract says something different, the employee has to show that the spoken term was agreed, which is why a short follow-up email after the interview matters."
@@ -23,7 +23,7 @@ faq:
   - q: "Can I record a job interview?"
     a: "In most US states, and in India, a person taking part in a conversation can record it; some US states such as California require everyone's consent, and rules differ elsewhere. Where recording is lawful, a recording of the interview is a record of what was actually said before the contract arrived."
   - q: "How does TalkSafe help with an interview or an offer call?"
-    a: "TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words that come up when terms are discussed. It works with the screen locked and saves the 30 seconds before recording started."
+    a: "TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words that come up when terms are discussed. It works with the screen locked and saves the 30 seconds before recording started."
 ---
 
 The terms are agreed at the interview.
@@ -108,7 +108,7 @@ Every one of these depends on the same thing: being able to show **what you were
 
 **If it only happens out loud, a recording is the record.** Interviews and offer calls rarely leave a paper trail. In most US states and in India a person taking part in a conversation may record it; California and some other states require everyone's consent ([is it legal to record a conversation you're in?](https://hcompany-kr.github.io/blog/en/recording-consent-law/), [which states are strict](https://hcompany-kr.github.io/blog/en/state-recording-consent/)). The practical problem is that a candidate cannot easily ask "do you mind if I record this?"
 
-TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set the words that come up when terms are discussed. It works with the screen locked and saves the 30 seconds before it started, so the moment the numbers come up is not the part you miss.
+TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set the words that come up when terms are discussed. It works with the screen locked and saves the 30 seconds before it started, so the moment the numbers come up is not the part you miss.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-en.jpg" alt="TalkSafe keyword settings screen. Keywords are added with the microphone button and listed below it." width="540" height="960" loading="lazy"><figcaption>Keyword settings. You can register several keywords; any one of them being detected starts a recording.</figcaption></figure>
 

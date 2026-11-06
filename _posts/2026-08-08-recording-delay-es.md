@@ -8,7 +8,7 @@ eyebrow: Grabación
 title: "Cuando pulsas grabar, ya es tarde"
 description: "En el momento en que te das cuenta de que deberías estar grabando, lo que querías conservar ya pasó. Dos maneras de cerrar esa distancia."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Se puede guardar el audio anterior al momento en que pulsé grabar?"
     a: "Las grabadoras habituales guardan desde el momento en que pulsas, así que lo anterior se pierde. Algunas aplicaciones mantienen los últimos segundos en espera y los añaden al principio del archivo cuando la grabación comienza. TalkSafe conserva los 30 segundos previos."

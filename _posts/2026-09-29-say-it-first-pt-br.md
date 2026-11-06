@@ -9,10 +9,10 @@ eyebrow: Gravação
 title: "Primeiro você diz alguma coisa"
 description: "No momento em que você percebe que uma conversa deveria ser gravada, a boca se mexe antes das mãos. O que acontece quando isso vira o gatilho."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "O que significa começar uma gravação com a voz?"
-    a: "Você escolhe uma palavra antes, e o app começa a gravar quando a ouve. TalkSafe é um app de gravação de voz para Android que funciona assim; não é preciso desbloquear o celular nem abrir nada."
+    a: "Você escolhe uma palavra antes, e o app começa a gravar quando a ouve. TalkSafe é um app de gravação de voz para Android e iPhone que funciona assim; não é preciso desbloquear o celular nem abrir nada."
   - q: "Que palavra eu devo escolher?"
     a: "Não existe resposta certa. O que sai naturalmente da sua boca quando você sente que uma conversa deveria ser gravada vai funcionar. Isso muda de pessoa para pessoa e de situação para situação, e alguns dias de uso costumam deixar isso claro."
   - q: "E se algo parecido disparar a gravação?"

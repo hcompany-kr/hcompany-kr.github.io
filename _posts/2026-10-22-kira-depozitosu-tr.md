@@ -10,7 +10,7 @@ description: "Türkiye'de kira depozitosu (güvence) üç aylık kirayı aşamaz
 image: /assets/img/og/kira-depozitosu-tr.png
 image_alt: "Kira depozitosu, Türkiye: en fazla üç aylık kira ve vadeli hesapta (TBK 342); olağan eskime kesilemez (TBK 334); ev sahibi eksiklikleri teslimde derhal ve yazılı bildirmelidir (TBK 335); konuşmayı rızasız kaydetmek TCK 133/2'ye göre suçtur."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Kira depozitosu en fazla ne kadar olabilir?"
     a: "Türk Borçlar Kanunu 342. maddeye göre konut ve çatılı işyeri kiralarında kiracının vereceği güvence üç aylık kira bedelini aşamaz. Para olarak verilen güvence, kiraya verenin onayı olmadan çekilmemek üzere vadeli bir tasarruf hesabına yatırılır; kıymetli evrak ise bir bankaya depo edilir."
@@ -82,7 +82,7 @@ Teslimde söylenenlerin çoğu yazıya geçmez: "Çivi delikleri sorun değil", 
 
 Rızayla kayıt sorun değildir ve teslim için gerekçesi açıktır: "İkimizde de aynı kayıt olsun."
 
-[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan ve **ekran kilitliyken** çalışan bir Android ses kayıt uygulamasıdır — elleriniz fotoğraf ve tutanak için serbest kalır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedeyim"**. "Teslimi kaydedeyim mi?" diye sorduğunuzda kayıt o anda başlar; cevap ve ardından her oda hakkında söylenenler dosyadadır. Ayrıntı: [Önce bir şey söylersiniz](/blog/tr/say-it-first/).
+[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan ve **ekran kilitliyken** çalışan Android ve iPhone için bir ses kayıt uygulamasıdır — elleriniz fotoğraf ve tutanak için serbest kalır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedeyim"**. "Teslimi kaydedeyim mi?" diye sorduğunuzda kayıt o anda başlar; cevap ve ardından her oda hakkında söylenenler dosyadadır. Ayrıntı: [Önce bir şey söylersiniz](/blog/tr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
 

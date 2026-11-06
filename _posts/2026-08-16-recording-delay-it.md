@@ -8,7 +8,7 @@ eyebrow: Registrazione
 title: "Quando premi registra, è già tardi"
 description: "Nel momento in cui capisci che dovresti registrare, quello che volevi conservare è già passato. Due modi per chiudere quella distanza."
 app: true
-app_description: "Un registratore vocale per Android che parte da solo quando sente una parola che hai scelto. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che parte da solo quando sente una parola che hai scelto. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Si può salvare l'audio precedente al momento in cui ho premuto registra?"
     a: "I registratori comuni salvano dal momento in cui premi, quindi tutto ciò che viene prima va perso. Alcune app mantengono in memoria gli ultimi secondi mentre sono in attesa e li aggiungono all'inizio del file quando la registrazione parte. TalkSafe conserva i 30 secondi precedenti."

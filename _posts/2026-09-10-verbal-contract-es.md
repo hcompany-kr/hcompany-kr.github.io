@@ -11,7 +11,7 @@ description: "Un acuerdo verbal es un contrato. El problema empieza cuando choca
 image: /assets/img/og/verbal-contract-es.png
 image_alt: "Cómo tratan trece países lo pactado de palabra frente a lo firmado: lo pactado de palabra obliga, pero si hay contrato escrito suele ganar lo escrito. En reformas del hogar en España, el derecho a un presupuesto previo por escrito depende de cada comunidad autónoma."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Un contrato verbal es válido?"
     a: "Sí, como regla general. El artículo 1278 del Código Civil español establece que los contratos son obligatorios cualquiera que sea la forma en que se hayan celebrado, siempre que concurran las condiciones esenciales para su validez. México (artículo 1832 del Código Civil Federal) y Argentina (artículo 284 del Código Civil y Comercial) parten también de la libertad de forma. En reformas del hogar en España no hay una norma estatal específica: el derecho a pedir un presupuesto previo por escrito lo regula cada comunidad autónoma."
@@ -26,7 +26,7 @@ faq:
   - q: "¿En Argentina se puede probar un contrato sin documento escrito?"
     a: "Sí. El artículo 1019 del Código Civil y Comercial permite probar los contratos por todos los medios aptos para llegar a una razonable convicción según las reglas de la sana crítica. Los que sea de uso instrumentar no pueden probarse exclusivamente por testigos, y el artículo 1020 admite otros medios, incluidos los testigos, cuando hay principio de prueba instrumental o comienzo de ejecución."
   - q: "¿Cómo ayuda TalkSafe a dejar constancia de una reunión?"
-    a: "TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, de modo que no hace falta interrumpir la reunión para pedir permiso ni sacar el teléfono."
+    a: "TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, de modo que no hace falta interrumpir la reunión para pedir permiso ni sacar el teléfono."
 ---
 
 La reunión termina como casi siempre.
@@ -137,7 +137,7 @@ Hay dos cosas que funcionan.
 
 **Grabar la reunión en la que participas.** En España, el Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor ([grabar sí, difundir no](https://hcompany-kr.github.io/blog/es/recording-consent-law/)). En Hispanoamérica la regla cambia de un país a otro ([grabar tu propia conversación: país por país](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/)). El problema práctico es otro: cuando eres la parte pequeña de la mesa, «¿te importa si grabo?» no es algo fácil de decir.
 
-TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, así que no hace falta cortar la reunión para pedir permiso ni sacar el teléfono.
+TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, así que no hace falta cortar la reunión para pedir permiso ni sacar el teléfono.
 
 Por qué importan el original y los primeros segundos cuando una grabación se usa como prueba está en [tienes la grabación y aun así no puedes usarla](https://hcompany-kr.github.io/blog/es/recording-evidence/).
 

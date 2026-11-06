@@ -9,10 +9,10 @@ eyebrow: Anleitung
 title: "Aufnahme starten, ohne das Telefon zu berühren"
 description: "Vier Wege, auf Android freihändig eine Aufnahme zu starten, was jeder davon tatsächlich voraussetzt und welche auch bei gesperrtem Bildschirm und Telefon in der Tasche funktionieren."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Gibt es eine App, die bei einem bestimmten Wort mit der Aufnahme beginnt?"
-    a: "Ja. TalkSafe ist eine Aufnahme-App für Android, die mit der Aufnahme beginnt, sobald sie ein vorher festgelegtes Wort hört, ohne dass man das Telefon entsperren oder die App öffnen muss. Dabei werden auch die 30 Sekunden vor dem Auslöser gespeichert."
+    a: "Ja. TalkSafe ist eine Aufnahme-App für Android und iPhone, die mit der Aufnahme beginnt, sobald sie ein vorher festgelegtes Wort hört, ohne dass man das Telefon entsperren oder die App öffnen muss. Dabei werden auch die 30 Sekunden vor dem Auslöser gespeichert."
   - q: "Kann ein Telefon bei gesperrtem Bildschirm eine Aufnahme starten?"
     a: "Ja, wenn die App als Vordergrunddienst mit dauerhafter Benachrichtigung läuft. TalkSafe funktioniert so: Das Lauschen läuft im Hintergrund, und die Aufnahme startet beim Schlüsselwort auch dann, wenn der Bildschirm aus ist und das Telefon in der Tasche steckt."
   - q: "Kann man aufnehmen, was vor dem Drücken auf Aufnahme gesagt wurde?"
@@ -72,7 +72,7 @@ Drei Probleme gibt es trotzdem.
 
 Diese Kategorie ist für genau dieses Problem gebaut. Die App lauscht auf Wörter, die Sie vorab gewählt haben, und beginnt mit der Aufnahme, wenn sie eines davon hört.
 
-[TalkSafe](/talksafe/de/) ist eine Android-App, die so funktioniert. Die Worterkennung läuft auf dem Gerät, die Aufnahme beginnt **bei gesperrtem Bildschirm und mit dem Telefon in der Tasche**, und im Moment des Starts gibt es weder einen Ton noch eine sichtbare Veränderung.
+[TalkSafe](/talksafe/de/) ist eine App für Android und iPhone, die so funktioniert. Die Worterkennung läuft auf dem Gerät, die Aufnahme beginnt **bei gesperrtem Bildschirm und mit dem Telefon in der Tasche**, und im Moment des Starts gibt es weder einen Ton noch eine sichtbare Veränderung.
 
 <figure class="shot"><img src="/assets/img/screens/active-de.jpg" alt="TalkSafe-Bildschirm mit aktiver Schlüsselwort-Erkennung und Stopp-Taste." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Erkennung aktiv. Die App hört im Hintergrund weiter, auch bei ausgeschaltetem Bildschirm oder geschlossener App.</figcaption></figure>
 

@@ -9,10 +9,10 @@ eyebrow: Kayıt
 title: "Önce bir şey söylersiniz"
 description: "Bir konuşmanın kaydedilmesi gerektiğini fark ettiğiniz anda ağzınız ellerinizden önce hareket eder. Tetikleyici bu olduğunda ne olur."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Kaydı sesle başlatmak ne demek?"
-    a: "Önceden bir kelime seçersiniz ve uygulama o kelimeyi duyduğunda kayda başlar. TalkSafe bu şekilde çalışan bir Android ses kayıt uygulamasıdır; telefonun kilidini açmanız ya da bir şey açmanız gerekmez."
+    a: "Önceden bir kelime seçersiniz ve uygulama o kelimeyi duyduğunda kayda başlar. TalkSafe bu şekilde çalışan Android ve iPhone için bir ses kayıt uygulamasıdır; telefonun kilidini açmanız ya da bir şey açmanız gerekmez."
   - q: "Hangi kelimeyi seçmeliyim?"
     a: "Tek bir doğru cevap yok. Bir konuşmanın kaydedilmesi gerektiğini hissettiğinizde ağzınızdan doğal olarak ne çıkıyorsa o işe yarar. Bu kişiden kişiye ve durumdan duruma değişir; birkaç günlük kullanım genellikle bunu belli eder."
   - q: "Benzer bir ses kaydı başlatırsa ne olur?"

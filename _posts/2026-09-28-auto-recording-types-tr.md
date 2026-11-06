@@ -8,7 +8,7 @@ eyebrow: Kayıt
 title: "Her “otomatik” kayıt uygulaması aynı şeyi yapmaz"
 description: "Android'de otomatik kayıt, birbirinden oldukça farklı beş şey anlamına gelir. Her birini neyin başlattığı ve her birinin hangi durumları kaçırdığı."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Android'de hangi tür otomatik kayıt uygulamaları var?"
     a: "Kabaca beş tür: arama bağlandığında başlayan kayıt, ses algılandığında başlayan kayıt, belirli bir saate zamanlanmış kayıt, başlamadan önceki anları da saklayan kayıt ve seçilen bir kelime duyulduğunda başlayan kayıt."

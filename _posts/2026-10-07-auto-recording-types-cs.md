@@ -8,7 +8,7 @@ eyebrow: Nahrávání
 title: "Ne každý „automatický“ diktafon dělá totéž"
 description: "Na Androidu znamená automatické nahrávání pět dost odlišných věcí. Co spouští každý typ a které situace každý z nich mine."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Jaké druhy aplikací pro automatické nahrávání na Androidu existují?"
     a: "Zhruba pět: nahrávání, které začne při spojení hovoru, nahrávání, které začne, když se objeví zvuk, nahrávání v nastavený čas, nahrávání, které ponechá i chvíle před začátkem, a nahrávání, které začne po zvoleném slově."

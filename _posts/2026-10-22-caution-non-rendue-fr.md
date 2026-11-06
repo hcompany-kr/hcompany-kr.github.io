@@ -10,7 +10,7 @@ description: "En France, le dépôt de garantie d'un logement vide ne peut dépa
 image: /assets/img/og/caution-non-rendue-fr.png
 image_alt: "Dépôt de garantie en France, en Suisse et au Québec : un mois de loyer en France, trois mois en Suisse, interdit au Québec ; en France, majoration de 10 % du loyer par mois de retard ; enregistrer sa conversation sans consentement est un délit en France et en Suisse, permis au Québec ; avec l'accord de l'autre, partout."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Quel est le montant maximum du dépôt de garantie ?"
     a: "Pour un logement loué vide, l'article 22 de la loi du 6 juillet 1989 limite le dépôt de garantie à un mois de loyer hors charges. Ce plafond, auparavant de deux mois, a été ramené à un mois par la loi du 8 février 2008."
@@ -75,7 +75,7 @@ En France, enregistrer **à l'insu** du propriétaire n'est pas une option : l'*
 
 Avec son accord, c'est simple — et pour un état des lieux, la raison va de soi : « pour qu'on garde tous les deux la même trace ».
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé** — vous gardez les mains libres pour les photos et le formulaire. Mettez le mot-clé dans votre propre question, par exemple **« enregistrer »**. Quand vous demandez « Je peux enregistrer l'état des lieux ? », l'enregistrement commence à ce moment-là, et la réponse est dans le fichier — avec tout ce qui se dit ensuite sur chaque pièce. Voir [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé** — vous gardez les mains libres pour les photos et le formulaire. Mettez le mot-clé dans votre propre question, par exemple **« enregistrer »**. Quand vous demandez « Je peux enregistrer l'état des lieux ? », l'enregistrement commence à ce moment-là, et la réponse est dans le fichier — avec tout ce qui se dit ensuite sur chaque pièce. Voir [On dit d'abord quelque chose](/blog/fr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
 

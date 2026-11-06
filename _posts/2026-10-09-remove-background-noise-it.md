@@ -8,7 +8,7 @@ eyebrow: Come si fa
 title: "Come togliere il rumore di fondo da una registrazione vocale su Android"
 description: "Traffico, vento, un bar alle spalle. Quattro modi per ripulire una conversazione registrata — sul telefono mentre registri, sul telefono dopo, al computer o caricandola — e quali gestiscono il rumore della strada."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Come tolgo il rumore di fondo da una registrazione vocale su Android?"
     a: "Le strade sono quattro: un registratore che riduce il rumore mentre registra, come Clear voice nell'app Registratore di Google sulla serie Pixel 9; un'app che pulisce il file dopo, sul telefono, come la rimozione del rumore con IA di TalkSafe; un programma per computer come l'effetto Riduzione del rumore di Audacity; oppure un servizio web su cui carichi il file, come Adobe Podcast Enhance Speech."

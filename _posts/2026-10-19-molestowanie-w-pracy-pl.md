@@ -10,7 +10,7 @@ description: "Molestowanie seksualne to według art. 18³a § 6 Kodeksu pracy fo
 image: /assets/img/og/molestowanie-w-pracy-pl.png
 image_alt: "Molestowanie seksualne w pracy w Polsce: dyskryminacja ze względu na płeć (art. 18³a § 6 k.p.), odwrócony ciężar dowodu (art. 18³b k.p.), odszkodowanie co najmniej w wysokości minimalnego wynagrodzenia (art. 18³d k.p.); nagranie rozmowy, w której się uczestniczy, co do zasady nie jest przestępstwem."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Co to jest molestowanie seksualne w pracy według Kodeksu pracy?"
     a: "Art. 18³a § 6 Kodeksu pracy uznaje za dyskryminację ze względu na płeć każde niepożądane zachowanie o charakterze seksualnym lub odnoszące się do płci pracownika, którego celem lub skutkiem jest naruszenie jego godności, w szczególności stworzenie wobec niego zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery. Na zachowanie to mogą się składać fizyczne, werbalne lub pozawerbalne elementy."
@@ -85,7 +85,7 @@ W cięższych przypadkach w grę wchodzi też **Kodeks karny**, na przykład **a
 
 Molestowanie nie zapowiada się. Zanim wyjmiesz telefon, odblokujesz go i naciśniesz nagrywanie, zdanie już padło — a sam gest może pogorszyć sytuację.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**.
 
 <figure class="shot"><img src="/assets/img/screens/settings-pl.jpg" alt="Ekran ustawień TalkSafe: czas automatycznego nagrywania po wykryciu słowa (10 minut, 30 minut, 1 godzina, ręczne zatrzymanie), język wykrywania i kopia w chmurze." width="540" height="960" loading="lazy"><figcaption>Ustawienia. Wybierasz, jak długo nagrywać po wykryciu, i język wykrywania; słuchanie i rozpoznawanie odbywa się w telefonie, bez internetu.</figcaption></figure>
 

@@ -9,10 +9,10 @@ eyebrow: Enregistrement
 title: "On dit d'abord quelque chose"
 description: "Au moment où l'on comprend qu'une conversation mériterait d'être enregistrée, la bouche bouge avant les mains. Ce qui se passe quand c'est cela qui devient le déclencheur."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Que veut dire lancer un enregistrement avec la voix ?"
-    a: "On choisit un mot à l'avance, et l'application commence à enregistrer quand elle l'entend. TalkSafe est une application d'enregistrement pour Android qui fonctionne ainsi ; pas besoin de déverrouiller le téléphone ni d'ouvrir quoi que ce soit."
+    a: "On choisit un mot à l'avance, et l'application commence à enregistrer quand elle l'entend. TalkSafe est une application d'enregistrement pour Android et iPhone qui fonctionne ainsi ; pas besoin de déverrouiller le téléphone ni d'ouvrir quoi que ce soit."
   - q: "Quel mot choisir ?"
     a: "Il n'y a pas de bonne réponse. Ce qui vous vient naturellement quand vous sentez qu'une conversation mériterait d'être enregistrée fonctionnera. Cela varie selon les personnes et les situations, et quelques jours d'utilisation suffisent en général à le rendre évident."
   - q: "Et si un mot qui ressemble le déclenche ?"

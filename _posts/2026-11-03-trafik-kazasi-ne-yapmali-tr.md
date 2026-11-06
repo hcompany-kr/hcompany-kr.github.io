@@ -10,7 +10,7 @@ description: "Türkiye'de yalnız maddi hasarlı, iki araçlı kazalarda sürüc
 image: /assets/img/og/trafik-kazasi-ne-yapmali-tr.png
 image_alt: "Türkiye'de trafik kazası: yalnız maddi hasarlı iki araçlı kazada anlaşmalı tutanak; anlaşma yoksa veya yaralı varsa polis ya da jandarma; tutanak kusur oranını belirlemez; olay yerinde konuşmayı rızasız kaydetmek TCK 133/2 nedeniyle suçtur."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Trafik kazasından sonra ilk ne yapmalıyım?"
     a: "Durun, aracınızı ve olay yerini güvenli hale getirin, yaralı varsa ilk yardım için 112'yi arayın ve polis veya jandarmaya haber verin. Kaza yalnızca maddi hasarlıysa, en az iki araç karışmışsa ve araçların geçerli zorunlu trafik sigortası varsa, sürücüler anlaşmalı kaza tespit tutanağını kendileri doldurabilir. Anlaşamazsanız polis veya jandarma çağrılır."
@@ -23,7 +23,7 @@ faq:
   - q: "Kazadan sonra diğer sürücüyle konuşmayı kaydedebilir miyim?"
     a: "Türkiye'de TCK 133/2, katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan kaydetmeyi altı aydan iki yıla kadar hapis veya adli para cezasıyla cezalandırır. Güvenli olan, karşı tarafın rızasını almak ya da konuşmanın hemen ardından kendi sesinizle kimin ne dediğini kaydetmektir."
   - q: "TalkSafe kazadan sonra nasıl yardımcı olur?"
-    a: "TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır ve ekran kilitliyken, uygulamayı açmadan çalışır. 'Not al' gibi bir kelimeyle, kazadan hemen sonra hâlâ yol kenarındayken kimin ne dediğini kendi sesinizle kaydedebilirsiniz; rıza alınarak yapılan kayıtlarda kayıt başlamadan önceki 30 saniye de dosyada olur."
+    a: "TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır ve ekran kilitliyken, uygulamayı açmadan çalışır. 'Not al' gibi bir kelimeyle, kazadan hemen sonra hâlâ yol kenarındayken kimin ne dediğini kendi sesinizle kaydedebilirsiniz; rıza alınarak yapılan kayıtlarda kayıt başlamadan önceki 30 saniye de dosyada olur."
 ---
 
 Çarpışma, sonra sessizlik. İki sürücü de araçtan iner.
@@ -81,7 +81,7 @@ Güvenli olanlar:
 - **Kendi sesinizle, hemen sonra.** Kim ne dedi, hangi kelimelerle, kim duydu. Bu başkasının sözünü kaydetmek değil, kendi tanıklığınızı tarihli olarak saklamaktır.
 - **Karşı tarafın rızasıyla kayıt.**
 
-[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır ve **ekran kilitliyken**, telefonun kilidini açmadan ve uygulamayı açmadan çalışır. "Not al" gibi bir kelime belirleyin: karşı taraf ayrılır ayrılmaz, hâlâ yol kenarındayken söyleyin ve kendi anlatımınız başlasın. Konuşma açıkça kayda alınacaksa kelime sorunun içinde olabilir: "kayıt" kelimesini belirleyin, "Aynı şeyi konuştuğumuzdan emin olmak için kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap, **önceki 30 saniyeyle** birlikte dosyada olur.
+[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır ve **ekran kilitliyken**, telefonun kilidini açmadan ve uygulamayı açmadan çalışır. "Not al" gibi bir kelime belirleyin: karşı taraf ayrılır ayrılmaz, hâlâ yol kenarındayken söyleyin ve kendi anlatımınız başlasın. Konuşma açıkça kayda alınacaksa kelime sorunun içinde olabilir: "kayıt" kelimesini belirleyin, "Aynı şeyi konuştuğumuzdan emin olmak için kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap, **önceki 30 saniyeyle** birlikte dosyada olur.
 
 <figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
 

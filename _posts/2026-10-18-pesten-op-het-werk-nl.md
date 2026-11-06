@@ -10,7 +10,7 @@ description: "In Nederland moet de werkgever volgens de Arbowet beleid voeren te
 image: /assets/img/og/pesten-op-het-werk-nl.png
 image_alt: "Pesten op het werk: in Nederland verplicht de Arbowet de werkgever tot beleid tegen pesten, in België de welzijnswet met preventieadviseur en vertrouwenspersoon; je eigen gesprek opnemen mag in beide landen."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Wat zegt de wet over pesten op het werk in Nederland?"
     a: "Artikel 3 lid 2 van de Arbeidsomstandighedenwet verplicht de werkgever beleid te voeren om psychosociale arbeidsbelasting te voorkomen of, als dat niet kan, te beperken. Onder psychosociale arbeidsbelasting vallen ongewenste omgangsvormen zoals pesten, discriminatie, seksuele intimidatie, agressie en geweld. De risico's horen in de RI&E, en een vertrouwenspersoon aanstellen is een van de manieren om dit in te vullen."
@@ -74,7 +74,7 @@ Gesprekken van anderen opnemen — je telefoon laten liggen in een kamer waar je
 
 Pesten kondigt zich niet aan. De kleinerende zin valt midden in een overleg, op de gang, tijdens een telefoontje op de luidspreker. Voordat je je telefoon hebt gepakt, ontgrendeld en op opnemen gedrukt, is het voorbij — en het gebaar zelf kan de situatie verergeren.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt woorden instellen die meestal vallen als het begint — de naam van een project, een uitdrukking die je leidinggevende herhaalt, je eigen naam. Hij werkt met een **vergrendeld scherm**, en de **30 seconden daarvoor** staan in het bestand.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt woorden instellen die meestal vallen als het begint — de naam van een project, een uitdrukking die je leidinggevende herhaalt, je eigen naam. Hij werkt met een **vergrendeld scherm**, en de **30 seconden daarvoor** staan in het bestand.
 
 <figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
 

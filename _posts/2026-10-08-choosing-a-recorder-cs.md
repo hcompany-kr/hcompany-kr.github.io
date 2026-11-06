@@ -8,7 +8,7 @@ eyebrow: Nahrávání
 title: "Diktafony se liší tím, kdy začnou nahrávat"
 description: "Připínací diktafony, zařízení s VOX, poznámkovače s AI, aplikace v telefonu. Co vám každé z nich na konci dne zanechá a ve kterém pak ještě něco najdete."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Co znamená VOX u diktafonu?"
     a: "VOX znamená aktivaci hlasem nebo zvukem. Zařízení čeká, až zachytí zvuk, a nahrává, dokud zvuk neutichne. Protože neběží nepřetržitě, spotřebuje mnohem méně baterie; proto taková zařízení inzerují pohotovostní dobu v měsících, ne v hodinách."
@@ -90,7 +90,7 @@ Dvě varianty.
 
 **Aplikace se startem po klíčovém slově** začne, když uslyší předem nastavené slovo. Soubor začíná v dané chvíli, ne v devět ráno, takže potom není co prohledávat.
 
-V této kategorii pracujeme my, takže další odstavec čtěte s tímto vědomím. [TalkSafe](/talksafe/cs/) je aplikace pro Android, která se spustí po zvoleném slově, funguje při zamčené obrazovce a ukládá se souborem 30 sekund před začátkem — což řeší problém chybějící první slabiky. Při vystřižení úseku zůstane původní soubor zachován. Nahrávku pořízenou v hlučném prostředí, třeba na ulici, lze dodatečně vyčistit odstraněním šumu pomocí AI, které běží v zařízení a uloží nový soubor vedle originálu.
+V této kategorii pracujeme my, takže další odstavec čtěte s tímto vědomím. [TalkSafe](/talksafe/cs/) je aplikace pro Android a iPhone, která se spustí po zvoleném slově, funguje při zamčené obrazovce a ukládá se souborem 30 sekund před začátkem — což řeší problém chybějící první slabiky. Při vystřižení úseku zůstane původní soubor zachován. Nahrávku pořízenou v hlučném prostředí, třeba na ulici, lze dodatečně vyčistit odstraněním šumu pomocí AI, které běží v zařízení a uloží nový soubor vedle originálu.
 
 <figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
 

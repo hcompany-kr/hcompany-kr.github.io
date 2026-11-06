@@ -10,7 +10,7 @@ description: "Art. 94³ Kodeksu pracy wymaga dziś wykazania uporczywego i dług
 image: /assets/img/og/mobbing-pl.png
 image_alt: "Mobbing w Polsce: od 5 listopada 2026 r. nowa definicja w art. 94³ k.p. bez wymogu długotrwałości; nagranie własnej rozmowy z przełożonym jest dozwolone i może być dowodem; zgłoszenie do pracodawcy, PIP lub sądu pracy."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czym jest mobbing według Kodeksu pracy?"
     a: "Do 4 listopada 2026 r. art. 94³ § 2 Kodeksu pracy definiuje mobbing jako działania lub zachowania dotyczące pracownika lub skierowane przeciwko niemu, polegające na uporczywym i długotrwałym nękaniu lub zastraszaniu, wywołujące zaniżoną ocenę przydatności zawodowej, powodujące lub mające na celu poniżenie lub ośmieszenie pracownika, izolowanie go lub wyeliminowanie z zespołu. Pracodawca jest obowiązany przeciwdziałać mobbingowi (art. 94³ § 1)."
@@ -86,7 +86,7 @@ Nagrywanie rozmów, w których nie uczestniczysz — telefon zostawiony w pokoju
 
 Mobbing nie zapowiada się. Upokarzające zdanie pada w środku zebrania, na korytarzu, przez telefon na głośniku. Zanim wyjmiesz telefon, odblokujesz go i naciśniesz nagrywanie, już minęło — a sam gest może pogorszyć sytuację.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić słowa, które zwykle padają, gdy sytuacja się zaczyna — nazwę projektu, zwrot, który przełożony powtarza, własne nazwisko. Działa przy **zablokowanym ekranie**, a **30 sekund sprzed startu** zostaje w pliku.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić słowa, które zwykle padają, gdy sytuacja się zaczyna — nazwę projektu, zwrot, który przełożony powtarza, własne nazwisko. Działa przy **zablokowanym ekranie**, a **30 sekund sprzed startu** zostaje w pliku.
 
 <figure class="shot"><img src="/assets/img/screens/start-pl.jpg" alt="Ekran startowy TalkSafe z przyciskami do uruchomienia wykrywania na żywo i ręcznego nagrywania." width="540" height="960" loading="lazy"><figcaption>Ekran startowy TalkSafe. Przy włączonym wykrywaniu na żywo nagrywanie zaczyna się, gdy zostanie wykryte ustawione słowo; przyciskiem można też nagrać od razu.</figcaption></figure>
 

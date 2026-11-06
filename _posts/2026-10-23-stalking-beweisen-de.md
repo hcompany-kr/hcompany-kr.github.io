@@ -10,7 +10,7 @@ description: "Seit Oktober 2021 genügt für die Nachstellung nach § 238 StGB, 
 image: /assets/img/og/stalking-beweisen-de.png
 image_alt: "Stalking in Deutschland, Österreich und der Schweiz: überall strafbar, in der Schweiz seit 1. Januar 2026; Anrufe heimlich aufnehmen in Deutschland und der Schweiz strafbar, in Österreich nicht; ein Tagebuch mit der eigenen Stimme direkt nach dem Vorfall ist überall unproblematisch."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Ab wann ist Stalking in Deutschland strafbar?"
     a: "Nach § 238 StGB macht sich strafbar, wer einer anderen Person in einer Weise unbefugt nachstellt, die geeignet ist, deren Lebensgestaltung nicht unerheblich zu beeinträchtigen, indem er wiederholt etwa ihre räumliche Nähe aufsucht oder Kontakt über Telekommunikationsmittel oder Dritte herzustellen versucht. Seit der Reform, die am 1. Oktober 2021 in Kraft trat, verlangt das Gesetz wiederholtes statt beharrliches Handeln. Die Strafe beträgt bis zu drei Jahre Freiheitsstrafe oder Geldstrafe."
@@ -74,7 +74,7 @@ In Deutschland ist die **unbefugte Aufnahme des nichtöffentlich gesprochenen Wo
 
 Unproblematisch ist die **eigene Stimme**. Direkt nach einem Vorfall festzuhalten, **was passiert ist, wo, wann, was gesagt wurde und wer dabei war**, ist keine Aufnahme fremder Worte. Je näher am Vorfall, desto genauer.
 
-Nur: Direkt danach zittern oft die Hände, und Sie wollen das Handy nicht vor den Augen des Stalkers herausholen. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz — das Handy bleibt in der Tasche. Beim Schneiden **bleibt das Original erhalten**.
+Nur: Direkt danach zittern oft die Hände, und Sie wollen das Handy nicht vor den Augen des Stalkers herausholen. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz — das Handy bleibt in der Tasche. Beim Schneiden **bleibt das Original erhalten**.
 
 <figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
 

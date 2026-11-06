@@ -9,7 +9,7 @@ eyebrow: Recording
 title: "Not every \"automatic\" recorder means the same thing"
 description: "On Android, automatic recording refers to five quite different things. What each one starts on, and which situations each one misses."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "What kinds of automatic recording apps exist on Android?"
     a: "Five broad kinds: recording that starts when a call connects, recording that starts when sound is detected, recording scheduled for a set time, recording that also keeps the moments before it started, and recording that starts when a chosen word is heard."

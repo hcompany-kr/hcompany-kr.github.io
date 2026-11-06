@@ -10,7 +10,7 @@ description: "V Česku se od 1. července 2025 policie k nehodě volá, když je
 image: /assets/img/og/dopravni-nehoda-co-delat-cs.png
 image_alt: "Dopravní nehoda v Česku a na Slovensku: v Česku policie při zranění nebo škodě nad 200 000 Kč na jednom vozidle, jinak společný záznam; na Slovensku žádná hranice škody, policie i při neshodě o vině; vlastní rozhovor lze v Česku nahrát k ochraně svých práv, na Slovensku jen se svolením."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Kdy musím k dopravní nehodě volat policii?"
     a: "V Česku od 1. července 2025 tehdy, když je při nehodě někdo usmrcen nebo zraněn, nebo když hmotná škoda na jednom ze zúčastněných vozidel včetně přepravovaných věcí zřejmě převyšuje 200 000 Kč. Dříve byla hranice 100 000 Kč. Policii je třeba přivolat také při poškození pozemní komunikace nebo majetku třetí osoby."
@@ -21,7 +21,7 @@ faq:
   - q: "Mohu nahrát rozhovor s druhým řidičem?"
     a: "V Česku podle § 88 odst. 1 občanského zákoníku není svolení třeba, pokud se záznam pořídí nebo použije k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů, a Ústavní soud v nálezu II. ÚS 1774/14 rozhodl, že tajně pořízený záznam nelze jako důkaz odmítnout jen proto, že obsahuje projevy osobní povahy. Na Slovensku lze podle § 12 občanského zákoníku zvukový záznam pořídit nebo použít jen se svolením, s výjimkami."
   - q: "Jak pomůže TalkSafe po nehodě?"
-    a: "TalkSafe je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší předem zvolené slovo, i při zamčené obrazovce a bez otevírání aplikace. Slova rozpozná bez ohledu na to, kdo je řekne, takže lze nastavit, co obvykle říká druhý řidič, například „pojišťovna“ a „neviděl“. V souboru zůstane i 30 sekund před začátkem."
+    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší předem zvolené slovo, i při zamčené obrazovce a bez otevírání aplikace. Slova rozpozná bez ohledu na to, kdo je řekne, takže lze nastavit, co obvykle říká druhý řidič, například „pojišťovna“ a „neviděl“. V souboru zůstane i 30 sekund před začátkem."
   - q: "Je přiznání viny na místě nehody závazné?"
     a: "O odpovědnosti rozhoduje pojišťovna podle okolností nehody, záznamu, fotografií a svědků. Věta řečená v rozrušení sama o sobě vinu neurčuje, ale druhá strana se na ni později může odvolávat. Proto je rozumné netvrdit jako fakt nic, čím si nejste jistí, a nepsat to ani do záznamu."
 ---
@@ -69,7 +69,7 @@ Podle **§ 86 občanského zákoníku** nelze bez svolení pořizovat zvukový z
 
 Problémem je okamžik. Právě do vás někdo narazil, srdce buší, auto je potřeba odstavit z vozovky a druhý řidič už jde k vám. Nikdo v takovém stavu nevytahuje telefon, neotevírá aplikaci a nemačká tlačítko. A **věta, na které záleží, padne v prvních deseti vteřinách** – struktura z [Proč tlačítko nahrávání mačkáte vždycky pozdě](/blog/cs/recording-delay/) v té nejkrajnější podobě.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo** – při **zamčené obrazovce**, bez odemykání telefonu a bez otevírání aplikace. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit, co obvykle říká **druhý řidič**: „pojišťovna“, „neviděl“. Uložíte-li **dvě slova, která pravděpodobně zazní ve stejné větě** – „neviděl jsem vás, zaplatí to pojišťovna“ – rozpoznávání bude spolehlivější. **30 sekund předtím** zůstane v souboru.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší **předem zvolené slovo** – při **zamčené obrazovce**, bez odemykání telefonu a bez otevírání aplikace. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit, co obvykle říká **druhý řidič**: „pojišťovna“, „neviděl“. Uložíte-li **dvě slova, která pravděpodobně zazní ve stejné větě** – „neviděl jsem vás, zaplatí to pojišťovna“ – rozpoznávání bude spolehlivější. **30 sekund předtím** zůstane v souboru.
 
 <figure class="shot"><img src="/assets/img/screens/active-cs.jpg" alt="Obrazovka TalkSafe se zapnutým rozpoznáváním klíčových slov a tlačítkem Zastavit." width="540" height="960" loading="lazy"><figcaption>Rozpoznávání klíčových slov zapnuto. Aplikace poslouchá dál na pozadí i se zhasnutou obrazovkou nebo zavřenou aplikací.</figcaption></figure>
 

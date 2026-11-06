@@ -8,12 +8,12 @@ eyebrow: Enregistrement
 title: "Pourquoi on appuie toujours trop tard sur enregistrer"
 description: "Quand on comprend qu'une conversation mérite d'être enregistrée, les mots qui comptaient sont déjà passés. Deux façons de combler cet écart."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Une application peut-elle enregistrer ce qui a été dit avant d'appuyer sur enregistrer ?"
     a: "La plupart des enregistreurs ne sauvegardent qu'à partir du moment où l'on appuie ; tout ce qui précède est perdu. Certaines applications gardent en attente les dernières secondes de son et les placent au début du fichier quand l'enregistrement démarre. TalkSafe conserve les 30 secondes précédentes."
   - q: "Peut-on lancer un enregistrement à la voix plutôt qu'en appuyant ?"
-    a: "Oui. TalkSafe est une application d'enregistrement pour Android dans laquelle on choisit un mot à l'avance ; quand elle l'entend, l'enregistrement démarre tout seul. Pas besoin de déverrouiller le téléphone ni d'ouvrir l'application, ce qui compte quand on a les mains prises."
+    a: "Oui. TalkSafe est une application d'enregistrement pour Android et iPhone dans laquelle on choisit un mot à l'avance ; quand elle l'entend, l'enregistrement démarre tout seul. Pas besoin de déverrouiller le téléphone ni d'ouvrir l'application, ce qui compte quand on a les mains prises."
   - q: "Le mot-clé doit-il être un mot que je dis moi-même ?"
     a: "Non. La détection n'est pas liée à une voix : on peut choisir un mot que l'autre personne dira probablement. Un seul mot couvre aussi beaucoup de phrases : avec « enregistrer », l'enregistrement démarre aussi bien sur « Il faudrait enregistrer ça » que sur « Je peux enregistrer ? »."
   - q: "Mon son est-il envoyé quelque part ?"

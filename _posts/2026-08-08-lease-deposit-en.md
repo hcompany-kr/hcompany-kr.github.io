@@ -8,7 +8,7 @@ eyebrow: Contracts
 title: "What you were told at the showing is not in the lease"
 description: "Deposit deadlines, what counts as normal wear and tear, and why the conversation at the walkthrough matters more than the paperwork suggests."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "How long does a landlord have to return my security deposit?"
     a: "It depends on the state and generally runs from 14 to 60 days after move-out, with 30 days the most common and California at 21 days. Where deductions are taken, most states require a written itemized statement, and some require copies of receipts for repairs."

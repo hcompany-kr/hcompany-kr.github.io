@@ -8,7 +8,7 @@ eyebrow: Návod
 title: "Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu"
 description: "Doprava, vítr, kavárna za zády. Čtyři způsoby, jak vyčistit nahraný rozhovor — v telefonu během nahrávání, v telefonu potom, v počítači, nebo nahráním na web — a které z nich si poradí s hlukem ulice."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu?"
     a: "Cesty jsou čtyři: aplikace, která hluk snižuje už při nahrávání, jako Clear voice v aplikaci Záznamník od Googlu na řadě Pixel 9; aplikace, která soubor vyčistí potom v telefonu, jako odstranění šumu pomocí AI v TalkSafe; program do počítače, jako efekt Redukce šumu v Audacity; nebo webová služba, na kterou soubor nahrajete, jako Adobe Podcast Enhance Speech."

@@ -10,10 +10,10 @@ description: "Para resumir una grabación de audio en Android, usa una app de gr
 image: /assets/img/og/summarize-recording-es.png
 image_alt: "Comparación entre la Grabadora de Google en Pixel, la grabadora de Samsung en Galaxy y TalkSafe: las tres ofrecen resumen con IA, solo Pixel y Galaxy dan transcripción completa, y solo TalkSafe empieza a grabar sola con una palabra elegida."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Cómo se resume una grabación de audio con IA en Android?"
-    a: "Con una app de grabación que tenga resumen por IA. En los Pixel, la Grabadora de Google puede resumir la transcripción de una grabación en el dispositivo con Gemini Nano. La grabadora de voz de Samsung ofrece transcripción y resumen con Transcript Assist de Galaxy AI, y requiere una cuenta Samsung. TalkSafe, una grabadora de voz para Android, crea un resumen con IA de cada grabación y lo muestra bajo el reproductor, en la pantalla de detalle."
+    a: "Con una app de grabación que tenga resumen por IA. En los Pixel, la Grabadora de Google puede resumir la transcripción de una grabación en el dispositivo con Gemini Nano. La grabadora de voz de Samsung ofrece transcripción y resumen con Transcript Assist de Galaxy AI, y requiere una cuenta Samsung. TalkSafe, una grabadora de voz para Android y iPhone, crea un resumen con IA de cada grabación y lo muestra bajo el reproductor, en la pantalla de detalle."
   - q: "¿Se envía el audio a un servidor al resumir una grabación?"
     a: "Depende de la app. Los resúmenes de la Grabadora de Google en Pixel se hacen en el dispositivo con Gemini Nano. TalkSafe envía la grabación a un servidor para el resumen con IA, mientras que su detección de palabras clave funciona por completo en el teléfono. Si en la conversación había otras personas, sus voces van en el archivo que envías."
   - q: "¿En qué idioma sale el resumen de TalkSafe?"

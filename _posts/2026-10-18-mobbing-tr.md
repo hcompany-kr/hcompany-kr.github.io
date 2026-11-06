@@ -10,7 +10,7 @@ description: "Türkiye'de mobbing için ayrı bir kanun yok; işçi TBK 417 ve �
 image: /assets/img/og/mobbing-tr.png
 image_alt: "Türkiye'de mobbingi ispat: yazılı şikâyet, tanık, e-posta ve sağlık raporu güçlü delildir; katılınan konuşmanın rızasız ses kaydı TCK 133/2 nedeniyle risklidir; olay sonrası kendi sesinizle tutulan kayıt güvenlidir."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Türkiye'de mobbing için özel bir kanun var mı?"
     a: "Mobbingi ayrıca tanımlayan bir kanun yok. İşveren, Türk Borçlar Kanunu'nun 417. maddesine göre işçinin kişiliğini korumak ve iş yerinde psikolojik ve cinsel tacize uğramamaları için gerekli önlemleri almakla yükümlüdür. Mobbinge uğrayan işçi, İş Kanunu'nun 24/II maddesindeki ahlak ve iyi niyet kurallarına aykırılık hâllerine dayanarak iş sözleşmesini haklı nedenle feshedebilir."
@@ -76,7 +76,7 @@ Yargıtay'ın, işçinin **başka türlü ispat imkânı bulunmadığı** duruml
 
 Kimsenin konuşmasını kaydetmeden yapabileceğiniz en güçlü şey, **her olaydan hemen sonra** ne olduğunu **kendi sesinizle** kaydetmektir: tarih, saat, yer, kimin ne dediği, kimlerin orada olduğu. Bu, başkasının sözünü kaydetmek değil, kendi tanıklığınızı tarihli olarak saklamaktır. Sonradan yazıya dökülen tarihli bir günlük, "tutarlı olgular"ın omurgası olur.
 
-Sorun şu: olaydan sonra genellikle hâlâ iş yerindesiniz, ellerinizde iş var ya da sinirden telefonla uğraşacak hâlde değilsiniz. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar. Kırptığınızda **orijinal korunur**.
+Sorun şu: olaydan sonra genellikle hâlâ iş yerindesiniz, ellerinizde iş var ya da sinirden telefonla uğraşacak hâlde değilsiniz. [TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır. "Not al" gibi bir kelime belirleyin; söylediğiniz anda, **ekran kilitliyken** bile sesli not başlar. Kırptığınızda **orijinal korunur**.
 
 <figure class="shot"><img src="/assets/img/screens/start-tr.jpg" alt="TalkSafe başlangıç ekranı: gerçek zamanlı algılamayı ve manuel kaydı başlatma düğmeleri." width="540" height="960" loading="lazy"><figcaption>TalkSafe başlangıç ekranı. Gerçek zamanlı algılama açıkken belirlediğiniz kelime algılandığında kayıt başlar; düğmeyle hemen de kayıt alabilirsiniz.</figcaption></figure>
 

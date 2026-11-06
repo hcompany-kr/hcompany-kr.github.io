@@ -10,7 +10,7 @@ description: "Selon une revue publiée en 2003, 40 à 80 % des informations méd
 image: /assets/img/og/enregistrer-consultation-medecin-fr.png
 image_alt: "Enregistrer une consultation en France, Belgique, Suisse et Québec : en France consentement nécessaire (art. 226-1 CP), présumé si l'enregistrement est fait ouvertement sans opposition ; en Belgique et au Québec le participant peut enregistrer ; en Suisse consentement nécessaire (art. 179ter CP) ; dossier médical communiqué sous huit jours en France."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Ai-je le droit d'enregistrer ma consultation chez le médecin ?"
     a: "En France, l'article 226-1 du Code pénal punit l'enregistrement sans consentement de paroles prononcées à titre privé ou confidentiel, même par un participant. Le même article prévoit que le consentement est présumé lorsque l'enregistrement a été fait au vu et au su de la personne sans qu'elle s'y soit opposée alors qu'elle était en mesure de le faire. Le plus simple est donc de demander au début de la consultation."
@@ -23,7 +23,7 @@ faq:
   - q: "Et en Suisse et au Québec ?"
     a: "En Suisse, enregistrer une conversation non publique sans le consentement des autres participants est puni par l'article 179ter du Code pénal. Au Québec, un participant peut enregistrer sa propre conversation. Dans les deux cas, demander d'abord reste la voie la plus simple."
   - q: "Comment TalkSafe aide pendant une consultation ?"
-    a: "TalkSafe est une application d'enregistrement pour Android qui démarre sur un mot choisi à l'avance et fonctionne écran verrouillé. Avec le mot « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer, pour ne rien oublier en rentrant ? », et la réponse du médecin est dans le fichier, avec les 30 secondes précédentes. Il n'y a rien à manipuler dans le cabinet."
+    a: "TalkSafe est une application d'enregistrement pour Android et iPhone qui démarre sur un mot choisi à l'avance et fonctionne écran verrouillé. Avec le mot « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer, pour ne rien oublier en rentrant ? », et la réponse du médecin est dans le fichier, avec les 30 secondes précédentes. Il n'y a rien à manipuler dans le cabinet."
 ---
 
 Vous entrez avec trois questions. La médecin y répond, ajoute un mot sur la posologie, mentionne ce qu'il faut surveiller, et la consultation est finie en onze minutes.
@@ -62,7 +62,7 @@ La question elle-même passe généralement bien, surtout avec la raison : « Je
 
 Sortir le téléphone, le déverrouiller, chercher l'application, appuyer – au moment précis où la médecin commence à expliquer. Cela interrompt l'échange et coûte les premières phrases.
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** – **écran verrouillé**, sans déverrouiller le téléphone ni ouvrir l'application. Mettez le mot dans votre question : avec « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer, pour ne rien oublier en rentrant ? », et la réponse est dans le fichier, avec les **30 secondes précédentes**. En enregistrant aussi un second mot de la même phrase, comme « oublier », la détection devient plus fiable. Plus de détails dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** – **écran verrouillé**, sans déverrouiller le téléphone ni ouvrir l'application. Mettez le mot dans votre question : avec « enregistrer », l'enregistrement commence quand vous demandez « Je peux enregistrer, pour ne rien oublier en rentrant ? », et la réponse est dans le fichier, avec les **30 secondes précédentes**. En enregistrant aussi un second mot de la même phrase, comme « oublier », la détection devient plus fiable. Plus de détails dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
 

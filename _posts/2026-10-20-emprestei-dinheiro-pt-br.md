@@ -10,7 +10,7 @@ description: "No Brasil, empréstimo verbal vale e pode ser provado por testemun
 image: /assets/img/og/emprestei-dinheiro-pt-br.png
 image_alt: "Emprestei dinheiro e não me pagaram, Brasil e Portugal: empréstimo verbal acima de 2 500 euros exige documento assinado em Portugal; no Brasil o reconhecimento da dívida interrompe a prescrição (art. 202, VI); gravar a própria conversa é lícito no Brasil e crime em Portugal; com consentimento, a gravação é possível nos dois."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Emprestei dinheiro sem contrato. Posso cobrar na Justiça?"
     a: "Pode. O empréstimo verbal é válido, e desde que o CPC de 2015 revogou o caput do art. 227 do Código Civil não há mais limite de valor para a prova testemunhal. Quem cobra precisa provar que o dinheiro foi emprestado, e não dado: comprovantes de PIX ou transferência, mensagens em que a pessoa reconhece a dívida, testemunhas e gravações das conversas das quais você participou ajudam."
@@ -74,7 +74,7 @@ O STF fixou no **Tema 237 de repercussão geral (RE 583.937)** que **é lícita 
 
 Conversa sobre dinheiro acontece na mesa ou no telefone, não por escrito. E "posso gravar?" não é algo que se diz a um amigo antigo.
 
-O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda os **30 segundos anteriores** no arquivo. As palavras são reconhecidas **seja quem for que as diga**, então você pode escolher o que a outra pessoa provavelmente vai dizer: **"pagar"**, **"devolver"**, **"mês que vem"**. Quando ela disser "Eu te pago mês que vem", a gravação começa — e o que veio antes também está no arquivo.
+O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda os **30 segundos anteriores** no arquivo. As palavras são reconhecidas **seja quem for que as diga**, então você pode escolher o que a outra pessoa provavelmente vai dizer: **"pagar"**, **"devolver"**, **"mês que vem"**. Quando ela disser "Eu te pago mês que vem", a gravação começa — e o que veio antes também está no arquivo.
 
 <figure class="shot"><img src="/assets/img/screens/start-pt-br.jpg" alt="Tela inicial do TalkSafe com botões para iniciar a detecção em tempo real e uma gravação manual." width="540" height="960" loading="lazy"><figcaption>Tela inicial do TalkSafe. Com a detecção em tempo real ligada, a gravação começa quando uma palavra escolhida é detectada; também dá para gravar na hora pelo botão.</figcaption></figure>
 

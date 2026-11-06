@@ -10,7 +10,7 @@ description: "Nie ma przepisu, który zakazywałby nagrywania policjantów podcz
 image: /assets/img/og/recording-police-pl.png
 image_alt: "Nagrywanie policji w Polsce: filmowanie interwencji bez utrudniania jest dopuszczalne, własną rozmowę z policjantem wolno nagrać (art. 267 § 3 k.k. jej nie obejmuje), publikacja wymaga ostrożności (TSUE C-345/17)."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy w Polsce można nagrywać policjanta podczas interwencji?"
     a: "Tak. Nie ma przepisu, który zakazywałby rejestrowania funkcjonariuszy podczas pracy, a policjant nie może wymagać legitymacji dziennikarskiej ani zgody na filmowanie. Rzecznik Praw Obywatelskich uznał, że policjanci, którzy groźbami pozwów i świeceniem latarką w telefony utrudniali filmowanie interwencji, działali nieuzasadnienie. Granicą jest nieutrudnianie interwencji."
@@ -21,7 +21,7 @@ faq:
   - q: "Czy mogę opublikować nagranie z interwencji policji?"
     a: "To osobna sprawa. Trybunał Sprawiedliwości UE w sprawie C-345/17 (Buivids) uznał, że nagranie i opublikowanie wizerunku policjantów to przetwarzanie danych osobowych, które może korzystać z wyjątku dziennikarskiego, jeśli celem jest zwrócenie uwagi na nadużycia. Wizerunek funkcjonariusza jest też jego dobrem osobistym, więc przed publikacją warto zasięgnąć porady."
   - q: "Jak TalkSafe pomaga podczas kontroli?"
-    a: "TalkSafe to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Słowa są rozpoznawane niezależnie od tego, kto je wypowie, więc można ustawić słowa, które policjant zwykle mówi, na przykład prawo jazdy albo dowód. Działa przy zablokowanym ekranie i zapisuje 30 sekund sprzed startu, więc podczas kontroli nie trzeba sięgać po telefon."
+    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Słowa są rozpoznawane niezależnie od tego, kto je wypowie, więc można ustawić słowa, które policjant zwykle mówi, na przykład prawo jazdy albo dowód. Działa przy zablokowanym ekranie i zapisuje 30 sekund sprzed startu, więc podczas kontroli nie trzeba sięgać po telefon."
 ---
 
 Kontrola drogowa wieczorem. Ktoś puka w szybę.
@@ -74,7 +74,7 @@ Jeśli mieszkasz za granicą, obowiązuje prawo kraju pobytu: w **Niemczech** s�
 
 Kontrola zaczyna się bez ostrzeżenia. Gdy poproszono cię, żebyś trzymał ręce na widoku, wyjęcie telefonu, odblokowanie go i naciśnięcie nagrywania to dokładnie ten ruch, który może zostać źle odebrany.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić słowa, które policjant zwykle mówi: **„prawo jazdy”**, **„dowód”**. Działa przy **zablokowanym ekranie**, a ponieważ zapisuje **30 sekund sprzed startu**, rozmowa jest w pliku od pukania w szybę.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić słowa, które policjant zwykle mówi: **„prawo jazdy”**, **„dowód”**. Działa przy **zablokowanym ekranie**, a ponieważ zapisuje **30 sekund sprzed startu**, rozmowa jest w pliku od pukania w szybę.
 
 <figure class="shot"><img src="/assets/img/screens/before30-pl.jpg" alt="Historia nagrań w TalkSafe. Za każdym razem, gdy zostanie wykryte słowo kluczowe, nagranie zapisuje się z datą i godziną." width="540" height="960" loading="lazy"><figcaption>Historia nagrań. Każdy plik zawiera też 30 sekund sprzed wykrycia słowa kluczowego.</figcaption></figure>
 

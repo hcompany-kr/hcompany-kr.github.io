@@ -8,7 +8,7 @@ eyebrow: Lavoro
 title: "Non è reato, ma può costarti il posto"
 description: "Registrare i colleghi a loro insaputa è illecito disciplinare per violazione dell'obbligo di fedeltà — salvo che serva a difendere un diritto. Cosa distingue una registrazione difensiva da una meramente esplorativa."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Posso registrare i colleghi sul lavoro a loro insaputa?"
     a: "Non è reato se partecipi alla conversazione, ma sul piano disciplinare la Cassazione considera la registrazione occulta una violazione della riservatezza altrui e degli obblighi di fedeltà dell'art. 2105 c.c., sanzionabile in via disciplinare. L'illiceità viene meno solo se la registrazione serve a far valere o difendere un diritto."

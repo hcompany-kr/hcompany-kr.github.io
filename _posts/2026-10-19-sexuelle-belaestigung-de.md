@@ -10,7 +10,7 @@ description: "Sexuelle Belästigung ist nach § 3 Abs. 4 AGG eine Benachteiligun
 image: /assets/img/og/sexuelle-belaestigung-de.png
 image_alt: "Sexuelle Belästigung am Arbeitsplatz im Vergleich: Deutschland – AGG, zwei Monate Frist, heimliche Aufnahme strafbar; Österreich – GlBG, mindestens 1.000 Euro, drei Jahre Frist; Schweiz – Gleichstellungsgesetz, Entschädigung bis sechs Monatslöhne."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Was gilt in Deutschland als sexuelle Belästigung am Arbeitsplatz?"
     a: "Nach § 3 Abs. 4 AGG ist sexuelle Belästigung ein unerwünschtes, sexuell bestimmtes Verhalten – dazu gehören sexuelle Handlungen und Aufforderungen dazu, sexuell bestimmte körperliche Berührungen, Bemerkungen sexuellen Inhalts sowie unerwünschtes Zeigen und sichtbares Anbringen pornographischer Darstellungen –, das bezweckt oder bewirkt, dass die Würde der betroffenen Person verletzt wird. Sie gilt als Benachteiligung im Sinne des AGG."
@@ -90,7 +90,7 @@ Der Gedanke liegt nahe: beim nächsten Mal mitschneiden. In Deutschland ist das 
 
 Unproblematisch ist die **eigene Stimme**. Direkt nach dem Vorfall festzuhalten, **was passiert ist, was gesagt wurde, wann, wo und wer in der Nähe war**, ist keine Aufnahme fremder Worte. Es ist das Protokoll, das später die Indizien trägt – und je näher am Vorfall, desto genauer.
 
-Nur: Direkt danach zittern oft die Hände, und Sie sitzen vielleicht schon wieder am Schreibtisch. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz. Beim Schneiden **bleibt das Original erhalten**.
+Nur: Direkt danach zittern oft die Hände, und Sie sitzen vielleicht schon wieder am Schreibtisch. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz. Beim Schneiden **bleibt das Original erhalten**.
 
 <figure class="shot"><img src="/assets/img/screens/settings-de.jpg" alt="Einstellungen in TalkSafe: automatische Aufnahmedauer nach erkanntem Schlüsselwort (10 Minuten, 30 Minuten, 1 Stunde, manuell beenden), Erkennungssprache und Cloud-Sicherung." width="540" height="960" loading="lazy"><figcaption>Einstellungen. Wählbar sind die Aufnahmedauer nach einer Erkennung und die Erkennungssprache; Zuhören und Erkennen laufen auf dem Handy, ohne Internet.</figcaption></figure>
 

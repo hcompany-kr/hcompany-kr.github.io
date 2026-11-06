@@ -8,7 +8,7 @@ eyebrow: Riflessione
 title: "Registrare una conversazione è una cosa di cui vergognarsi?"
 description: "Che la legge lo permetta e che sia una cosa giusta da fare sono due domande diverse. Da dove viene il disagio, e in quali casi ha ragione."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "È moralmente sbagliato registrare una conversazione?"
     a: "Dipende dalla situazione. Registrare una conversazione a cui partecipi somiglia più a rafforzare la memoria che a spiare, ma il carattere cambia se lo scopo è provocare frasi che l'altra persona non direbbe sapendolo, o se c'è l'intenzione di usare la registrazione fuori da quel contesto."

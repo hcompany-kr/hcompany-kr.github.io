@@ -8,7 +8,7 @@ eyebrow: Vivienda
 title: "Lo que te dijo el agente en la visita: ¿puedes probarlo después?"
 description: "«No, humedades no tiene» se dice de palabra mientras recorres el piso, y solo una parte llega a los papeles. Cómo regulan dieciséis países el deber de información del agente inmobiliario y qué hacer cuando lo que te dijeron resulta no ser cierto."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué información debe darme una inmobiliaria en España?"
     a: "El Real Decreto 515/1989 establece que toda oferta, promoción y publicidad dirigida a la venta o arrendamiento de viviendas debe ajustarse a las verdaderas características, condiciones y utilidad de la vivienda, y que la información no puede inducir a error ni silenciar datos fundamentales."
@@ -23,7 +23,7 @@ faq:
   - q: "¿Cómo pruebo lo que me dijo el agente en la visita?"
     a: "Guarda el anuncio y los documentos que te entreguen, envía ese mismo día un mensaje resumiendo lo que te dijeron y, si la ley lo permite donde estás, graba la visita en la que participas. En España el Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor."
   - q: "¿Cómo ayuda TalkSafe durante una visita a un piso?"
-    a: "TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir las que saldrán en la explicación del agente, como «humedad», «comunidad» o «garaje». Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio."
+    a: "TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir las que saldrán en la explicación del agente, como «humedad», «comunidad» o «garaje». Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio."
 ---
 
 Visitas el piso y ves una mancha en el techo.
@@ -97,7 +97,7 @@ Tres cosas ayudan.
 
 **Graba la visita en la que participas, donde sea lícito.** En España el Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor ([grabar sí, difundir no](https://hcompany-kr.github.io/blog/es/recording-consent-law/)); en Hispanoamérica la regla cambia según el país ([grabar tu propia conversación: país por país](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/)). El problema práctico es que a un agente no se le pregunta «¿te importa si grabo?», y la explicación llega a trozos mientras vas de una habitación a otra.
 
-TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir las que saldrán en la explicación del agente, como «humedad», «comunidad» o «garaje». Funciona con la pantalla bloqueada y, como guarda los 30 segundos anteriores al inicio, lo que se dijo justo antes también queda en el archivo.
+TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir las que saldrán en la explicación del agente, como «humedad», «comunidad» o «garaje». Funciona con la pantalla bloqueada y, como guarda los 30 segundos anteriores al inicio, lo que se dijo justo antes también queda en el archivo.
 
 <figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
 

@@ -8,7 +8,7 @@ eyebrow: Money
 title: "You lent them money. Now they say it was a gift"
 description: "A bank transfer proves the money moved, not that it was a loan. How thirteen countries handle informal loans: who has to prove it, how long you have, and whether 'I'll pay you back' restarts the clock."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can I get back money I lent a friend without a written agreement?"
     a: "Yes. A loan does not need to be in writing to be a binding contract. The difficulty is proof: if the other person says the money was a gift or something else, the person claiming it was a loan generally has to prove that it was. A bank transfer shows that the money moved, but not why."
@@ -23,7 +23,7 @@ faq:
   - q: "Can I record the conversation when I ask for the money back?"
     a: "In most US states and in India a person taking part in a conversation can record it, while some US states such as California require everyone's consent. Even where a recording is lawful, in jurisdictions that require a signed written acknowledgment a recording of someone saying they will repay does not restart the limitation period, although it can still help show that the money was a loan rather than a gift."
   - q: "How does TalkSafe help record a conversation about money?"
-    a: "TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words the other person is likely to use. It works with the screen locked and saves the 30 seconds before recording started."
+    a: "TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words the other person is likely to use. It works with the screen locked and saves the 30 seconds before recording started."
 ---
 
 A friend needed money quickly. They said they would pay it back next month, and you had known them for years, so writing anything down felt unnecessary. You sent the transfer.
@@ -110,7 +110,7 @@ You cannot go back and get a loan agreement signed. What you can do now is creat
 
 The practical problem is that "do you mind if I record this?" is not something you say to an old friend.
 
-TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words the other person is likely to use. It works with the screen locked and saves the 30 seconds before it started, so you do not have to interrupt the conversation.
+TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. Keywords are recognised whoever says them, so you can set words the other person is likely to use. It works with the screen locked and saves the 30 seconds before it started, so you do not have to interrupt the conversation.
 
 <figure class="shot"><img src="/assets/img/screens/start-en.jpg" alt="TalkSafe start screen with buttons to start live detection and to start a manual recording." width="540" height="960" loading="lazy"><figcaption>TalkSafe start screen. With live detection on, recording starts when a word you set is detected; you can also record straight away with the button.</figcaption></figure>
 

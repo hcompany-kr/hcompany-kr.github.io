@@ -8,7 +8,7 @@ eyebrow: Soldi
 title: "Gli hai prestato dei soldi senza carte, e ora dice che era un regalo"
 description: "Un bonifico prova che i soldi sono partiti, non che fosse un prestito. Come tredici paesi trattano il prestito tra privati: chi deve provarlo, quanto tempo c'è per chiederlo indietro e se un 'te li ridò' detto a voce fa ripartire la prescrizione."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Posso riavere i soldi prestati a un amico senza nulla di scritto?"
     a: "Sì. Il mutuo tra privati non richiede la forma scritta per essere valido. Il problema è la prova: la Cassazione ha stabilito che l'esistenza di un mutuo non può essere desunta dalla sola consegna di una somma di denaro, e chi chiede la restituzione deve provare anche il titolo da cui deriva l'obbligo di restituire (Cass., ordinanza 1° marzo 2021, n. 5560)."
@@ -23,7 +23,7 @@ faq:
   - q: "Posso registrare la conversazione in cui chiedo indietro i soldi?"
     a: "Secondo l'orientamento consolidato della Cassazione, la registrazione effettuata da chi partecipa alla conversazione non costituisce intercettazione e non richiede autorizzazione. Diffondere la registrazione è un'altra questione e può violare la riservatezza."
   - q: "Come aiuta TalkSafe a lasciare traccia di una conversazione sui soldi?"
-    a: "TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere parole che userà probabilmente l'altra persona. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere parole che userà probabilmente l'altra persona. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio."
 ---
 
 Un amico ti ha detto che era urgente. Che te li avrebbe ridati il mese dopo, senza falla. Vi conoscevate da anni, e chiedergli di firmare qualcosa non ti è nemmeno passato per la testa. Hai fatto il bonifico.
@@ -106,7 +106,7 @@ Non si può tornare indietro e far firmare una scrittura. Si può però, adesso,
 
 Il problema pratico è un altro: a un amico di lunga data non si dice «ti dispiace se registro?». Nel momento in cui lo dici, la conversazione è già un'altra.
 
-TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere parole che userà probabilmente l'altra persona. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così non serve interrompere la conversazione.
+TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere parole che userà probabilmente l'altra persona. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così non serve interrompere la conversazione.
 
 <figure class="shot"><img src="/assets/img/screens/start-it.jpg" alt="Schermata iniziale di TalkSafe con i pulsanti per avviare il rilevamento in tempo reale e una registrazione manuale." width="540" height="960" loading="lazy"><figcaption>Schermata iniziale di TalkSafe. Con il rilevamento in tempo reale attivo, la registrazione parte quando viene rilevata una parola scelta; puoi anche registrare subito con il pulsante.</figcaption></figure>
 

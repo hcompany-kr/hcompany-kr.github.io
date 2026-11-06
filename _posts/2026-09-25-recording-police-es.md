@@ -9,7 +9,7 @@ eyebrow: Derecho
 title: "¿Se puede grabar a la policía? Trece países comparados"
 description: "Una conversación con un agente sigue siendo una conversación en la que participas. Si trece países permiten grabar o filmar a la policía, y dónde está el límite."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Es legal grabar a la policía en España?"
     a: "Sí. La Ley Orgánica 4/2015 de protección de la seguridad ciudadana calificaba como infracción grave en su artículo 36.23 el uso no autorizado de imágenes de miembros de las Fuerzas y Cuerpos de Seguridad. En 2020 el Tribunal Constitucional declaró inconstitucional la expresión «no autorizado», de modo que grabar a los agentes no es sancionable en sí mismo. Sigue siéndolo el uso de imágenes que pueda poner en peligro la seguridad personal o familiar de los agentes, las instalaciones o el éxito de una operación."
@@ -24,7 +24,7 @@ faq:
   - q: "¿Hay algún país donde grabar a la policía esté prohibido?"
     a: "Entre los trece países revisados, ninguno prohíbe como tal grabar o filmar a la policía en servicio en un espacio público. El límite común es no obstaculizar la actuación policial. En Nueva Gales del Sur, Australia, la grabación de audio de una conversación privada está restringida por la ley de dispositivos de vigilancia. Fuera de esos trece, Marruecos es un caso aparte: el artículo 447-1 del Código Penal castiga grabar sin consentimiento palabras privadas o confidenciales, y desde 2018 la policía ha detenido y llevado a juicio a quien filmaba a agentes de servicio sin autorización, aunque un jurista marroquí sostiene que la norma no cubre la vía pública."
   - q: "¿Cómo ayuda TalkSafe durante un control policial?"
-    a: "TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente dirá el agente, como «documentación» o «carné». Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio."
+    a: "TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente dirá el agente, como «documentación» o «carné». Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio."
 ---
 
 Te paran de noche y llaman a la ventanilla.
@@ -114,7 +114,7 @@ En la práctica: en Marruecos **sacar el móvil ante un agente puede costarte el
 
 Un control empieza sin avisar. Si te han dicho que mantengas las manos a la vista, sacar el móvil, desbloquearlo y pulsar grabar es justo el tipo de movimiento que se puede malinterpretar.
 
-TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente dirá el agente, como «documentación» o «carné». Funciona con la pantalla bloqueada y, como guarda los 30 segundos anteriores al inicio, la conversación queda desde que llamaron a la ventanilla.
+TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir palabras que probablemente dirá el agente, como «documentación» o «carné». Funciona con la pantalla bloqueada y, como guarda los 30 segundos anteriores al inicio, la conversación queda desde que llamaron a la ventanilla.
 
 Por qué importan el original y los primeros segundos cuando una grabación se usa como prueba está en [tienes la grabación y aun así no puedes usarla](https://hcompany-kr.github.io/blog/es/recording-evidence/). Cómo empezar a grabar sin tocar el móvil está en [cómo empezar a grabar sin tocar el móvil](https://hcompany-kr.github.io/blog/es/hands-free-recording/).
 

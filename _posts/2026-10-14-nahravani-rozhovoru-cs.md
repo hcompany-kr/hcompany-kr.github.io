@@ -10,7 +10,7 @@ description: "V Česku upravuje nahrávání hlavně občanský zákoník: bez s
 image: /assets/img/og/nahravani-rozhovoru-cs.png
 image_alt: "Srovnání Česka a Slovenska: v Česku lze záznam bez svolení pořídit k ochraně vlastních práv (§ 88 obč. zák.), na Slovensku je potřeba svolení (§ 12 obč. zák.); cizí rozhovory nahrávat nelze."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Je v Česku legální nahrát rozhovor, kterého se účastním, bez souhlasu druhé strany?"
     a: "Záleží na účelu. Podle § 86 občanského zákoníku nelze bez svolení člověka pořizovat zvukový záznam jeho soukromého života. Podle § 88 odst. 1 ale svolení není třeba, pokud se záznam pořídí nebo použije k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů, a podle § 90 nesmí být takový důvod využit nepřiměřeným způsobem."
@@ -23,7 +23,7 @@ faq:
   - q: "Jak je to na Slovensku?"
     a: "Podle § 12 slovenského občanského zákoníku lze zvukový záznam fyzické osoby pořídit nebo použít jen s jejím svolením, s výjimkami pro úřední, vědecké, umělecké a zpravodajské účely. Podle § 377 trestního zákona je trestným činem neoprávněné zachycení neveřejně pronesených slov, pokud se záznam zpřístupní třetí osobě nebo jinak použije a způsobí jinému vážnou újmu na právech; hrozí až dva roky odnětí svobody."
   - q: "Jak nejjednodušeji nahrát i souhlas?"
-    a: "V TalkSafe, aplikaci pro nahrávání na Android, nastavte jako klíčové slovo slovo z vlastní otázky, například nahrát. Když se zeptáte, jestli můžete rozhovor nahrát, nahrávání začne právě v tu chvíli a odpověď druhé strany bude v souboru."
+    a: "V TalkSafe, aplikaci pro nahrávání na Android a iPhone, nastavte jako klíčové slovo slovo z vlastní otázky, například nahrát. Když se zeptáte, jestli můžete rozhovor nahrát, nahrávání začne právě v tu chvíli a odpověď druhé strany bude v souboru."
 ---
 
 Pohovor s vedoucím, kde najednou padne slovo „dohoda o rozvázání“. Pronajímatel, který si kauci pamatuje jinak. V nějaké chvíli přijde myšlenka: tohle jsem měl nahrát.
@@ -85,7 +85,7 @@ Co nespadá pod žádnou výjimku: nahrávání rozhovorů, kterých se neúčas
 
 ## Kde se hodí aplikace
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Nahrává to, co slyší mikrofon v místnosti — rozhovor, kterého se účastníte. Skrytý režim nemá.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Nahrává to, co slyší mikrofon v místnosti — rozhovor, kterého se účastníte. Skrytý režim nemá.
 
 <figure class="shot"><img src="/assets/img/screens/settings-cs.jpg" alt="Nastavení TalkSafe: doba automatického nahrávání po rozpoznání slova (10 minut, 30 minut, 1 hodina, ruční ukončení), jazyk rozpoznávání a zálohování do cloudu." width="540" height="960" loading="lazy"><figcaption>Nastavení. Zvolíte, jak dlouho nahrávat po rozpoznání, a jazyk rozpoznávání; poslech a rozpoznávání probíhá v telefonu, bez internetu.</figcaption></figure>
 

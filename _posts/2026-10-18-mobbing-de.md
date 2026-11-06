@@ -10,7 +10,7 @@ description: "Ein Mobbing-Gesetz gibt es in Deutschland nicht; Ansprüche laufen
 image: /assets/img/og/mobbing-de.png
 image_alt: "Mobbing beweisen in Deutschland: Mobbingtagebuch, Zeugen, schriftliche Beschwerden und E-Mails tragen; die heimliche Tonaufnahme ist nach § 201 StGB strafbar; ein Gedächtnisprotokoll mit der eigenen Stimme direkt nach dem Vorfall ist unproblematisch."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Gibt es in Deutschland ein Gesetz gegen Mobbing?"
     a: "Nein. Mobbing ist gesetzlich nicht definiert; die Gerichte greifen auf die Formulierung des Bundesarbeitsgerichts vom 15. Januar 1997 (7 ABR 14/96) zurück: fortgesetztes, aufeinander aufbauendes Anfeinden, Schikanieren oder Diskriminieren von Arbeitnehmern durch Kollegen oder Vorgesetzte. Ansprüche laufen über die Fürsorgepflicht des Arbeitgebers (§ 241 Abs. 2 BGB) und den Schutz des Persönlichkeitsrechts (§ 823 BGB); knüpft die Belästigung an ein Merkmal wie Geschlecht, Herkunft oder Alter an, greift das AGG."
@@ -77,7 +77,7 @@ Wer gemobbt wird und heimlich aufnimmt, riskiert also genau das, was der Mobber 
 
 Unproblematisch ist die **eigene Stimme**. Direkt nach einem Vorfall festzuhalten, **was passiert ist, wer was gesagt hat, wann und vor wem**, ist keine Aufnahme fremder Worte, sondern Ihr Gedächtnisprotokoll – die Grundlage des Mobbingtagebuchs. Je näher am Vorfall, desto genauer und glaubwürdiger.
 
-Das Problem: Direkt danach sitzen Sie oft noch am Arbeitsplatz, haben die Hände voll oder sind zu aufgewühlt, um mit dem Handy zu hantieren. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz. Beim Schneiden **bleibt das Original erhalten**.
+Das Problem: Direkt danach sitzen Sie oft noch am Arbeitsplatz, haben die Hände voll oder sind zu aufgewühlt, um mit dem Handy zu hantieren. [TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie ein Wort wie „Notiz“ fest; sobald Sie es sagen, beginnt die Sprachnotiz. Beim Schneiden **bleibt das Original erhalten**.
 
 <figure class="shot"><img src="/assets/img/screens/start-de.jpg" alt="Startbildschirm von TalkSafe mit Tasten für die Echtzeit-Erkennung und für eine manuelle Aufnahme." width="540" height="960" loading="lazy"><figcaption>Startbildschirm von TalkSafe. Ist die Echtzeit-Erkennung an, beginnt die Aufnahme, wenn ein festgelegtes Wort erkannt wird; per Taste lässt sich auch sofort aufnehmen.</figcaption></figure>
 

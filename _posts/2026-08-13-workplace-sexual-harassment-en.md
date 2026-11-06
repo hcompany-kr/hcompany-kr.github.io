@@ -8,7 +8,7 @@ eyebrow: Work
 title: "Retaliation is its own violation — even if the harassment claim fails"
 description: "The 180/300-day clock, what an employer is required to do once you report, and why what happens after you report is often the stronger case."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "How long do I have to file a sexual harassment charge with the EEOC?"
     a: "Generally 180 calendar days from the discriminatory act, extended to 300 days where a state or local fair employment practices agency enforces a law prohibiting the same conduct. In harassment cases the clock runs from the last incident, and the EEOC will consider all incidents when investigating — including earlier ones that fall outside the window."

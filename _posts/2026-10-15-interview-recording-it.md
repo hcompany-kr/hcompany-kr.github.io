@@ -10,7 +10,7 @@ description: "Investigatori privati, giornalisti, periti assicurativi, chi condu
 image: /assets/img/og/interview-recording-it.png
 image_alt: "Due modi di registrare un'intervista: tirare fuori il registratore fa scegliere le parole all'altra persona; una registrazione che parte con una parola chiave non richiede di toccare il telefono e la conversazione continua. Solo conversazioni proprie, originale intatto."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Un investigatore privato può registrare una conversazione a cui partecipa?"
     a: "Sì. Secondo l'orientamento consolidato della Cassazione, la registrazione effettuata da chi partecipa alla conversazione o è comunque legittimamente presente non costituisce intercettazione e non richiede alcuna autorizzazione del giudice. Il fondamento è il principio del rischio accettato: chi parla accetta il rischio che l'interlocutore documenti quanto detto."
@@ -19,7 +19,7 @@ faq:
   - q: "Perché tirare fuori il registratore cambia un'intervista?"
     a: "Appena il registratore è visibile, le persone iniziano a scegliere le parole per il verbale. Le risposte si accorciano e diventano prudenti, e il dettaglio che cercavi diventa qualcosa che diranno solo a registratore spento. Prendere il telefono a metà conversazione per avviare la registrazione crea lo stesso momento."
   - q: "Esiste un'app che inizia a registrare senza tirare fuori il telefono?"
-    a: "TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. Funziona con lo schermo bloccato e il telefono in tasca, la parola non è legata alla tua voce, quindi può essere una che dirà l'altra persona, e salva i 30 secondi precedenti all'avvio."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. Funziona con lo schermo bloccato e il telefono in tasca, la parola non è legata alla tua voce, quindi può essere una che dirà l'altra persona, e salva i 30 secondi precedenti all'avvio."
   - q: "Cosa conta se la registrazione dell'intervista diventa una prova?"
     a: "L'originale. In sede civile la registrazione rientra tra le riproduzioni meccaniche dell'art. 2712 c.c., che fanno piena prova se la parte contro cui sono prodotte non ne disconosce la conformità; nel penale vale come prova documentale ai sensi dell'art. 234 c.p.p. Il taglio e la rimozione del rumore con IA di TalkSafe salvano ciascuno un file nuovo e lasciano intatto l'originale."
   - q: "Come chiedo il permesso di registrare senza forzature?"
@@ -57,7 +57,7 @@ Mettere la mano in tasca a metà conversazione, sbloccare il telefono e cercare 
 
 ## Una parola preme il pulsante al posto tuo
 
-[TalkSafe](/talksafe/it/) è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. Per chi intervista contano tre cose.
+[TalkSafe](/talksafe/it/) è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. Per chi intervista contano tre cose.
 
 <figure class="shot"><img src="/assets/img/screens/active-it.jpg" alt="Schermata di TalkSafe con il rilevamento delle parole chiave attivo e il pulsante Interrompi." width="540" height="960" loading="lazy"><figcaption>Rilevamento delle parole chiave attivo. Continua ad ascoltare in background con lo schermo spento o l'app chiusa.</figcaption></figure>
 

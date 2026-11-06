@@ -8,7 +8,7 @@ eyebrow: Nasıl yapılır
 title: "Android'de arama kaydı uygulamaları neden artık çalışmıyor, ve hâlâ ne çalışıyor"
 description: "Android arayüzü 2015'te kaldırdı, 2019'da mikrofon yolunu kapattı, Google da son açığı Mayıs 2022'de kapattı. Telefonla gelen arama uygulaması hiç etkilenmedi. Türkiye'de ve Avrupa'da Türkçe konuşanların yaşadığı ülkelerde kanunun ne dediği de burada."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Android'de arama kaydı uygulamaları neden artık çalışmıyor?"
     a: "Android 6, 2015'te arama kaydı arayüzünü kaldırdı; Android 10, 2019'da aramaların mikrofon üzerinden kaydedilmesini engelledi. Geliştiriciler bunun üzerine erişilebilirlik arayüzünü kullanmaya başladı, Google da 11 Mayıs 2022'de bu yolu kapattı. Üçüncü taraf arama kaydı uygulamaları Play Store'dan kaldırıldı."
@@ -21,7 +21,7 @@ faq:
   - q: "Görüşmeyi hoparlöre alıp bir kayıt uygulamasıyla kaydetmek işe yarar mı?"
     a: "Evet, her Android telefonda, çünkü uygulama bu durumda aramanın kendisini değil odadaki sesi kaydeder. Bedeli daha düşük ses kalitesi, arka plan gürültüsü ve yakındaki herkesin görüşmeyi duymasıdır."
   - q: "TalkSafe bir arama kaydı uygulaması mı?"
-    a: "Hayır. TalkSafe, mikrofonun odada duyduğunu kaydeden bir Android ses kayıt uygulamasıdır; aramanın kendisine erişimi yoktur. Hoparlördeki bir görüşmede iki tarafı da kaydeder. Önceden belirlediğiniz bir kelimeyi duyduğunda başlar, ekran kilitliyken çalışır ve başlangıçtan önceki 30 saniyeyi de saklar."
+    a: "Hayır. TalkSafe, mikrofonun odada duyduğunu kaydeden Android ve iPhone için bir ses kayıt uygulamasıdır; aramanın kendisine erişimi yoktur. Hoparlördeki bir görüşmede iki tarafı da kaydeder. Önceden belirlediğiniz bir kelimeyi duyduğunda başlar, ekran kilitliyken çalışır ve başlangıçtan önceki 30 saniyeyi de saklar."
   - q: "Telefonda rızayı kolayca nasıl alırım?"
     a: "TalkSafe'te sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini, anahtar kelime olarak belirleyin ve görüşmeyi hoparlöre alın. Görüşmeyi kaydedebilir miyim diye sorduğunuzda kayıt tam o anda başlar ve karşı tarafın cevabı dosyada olur."
 ---

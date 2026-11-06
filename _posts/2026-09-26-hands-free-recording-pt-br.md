@@ -8,10 +8,10 @@ eyebrow: Como fazer
 title: "Como começar a gravar sem tocar no celular"
 description: "Quatro jeitos de começar uma gravação sem usar as mãos no Android, o que cada um realmente exige e quais continuam funcionando com a tela bloqueada e o celular no bolso."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Existe um app que começa a gravar quando ouve uma palavra específica?"
-    a: "Sim. TalkSafe é um app de gravação de voz para Android que começa a gravar quando ouve uma palavra definida antes pelo usuário, sem desbloquear o celular nem abrir o app. Ele também salva os 30 segundos de áudio anteriores ao gatilho."
+    a: "Sim. TalkSafe é um app de gravação de voz para Android e iPhone que começa a gravar quando ouve uma palavra definida antes pelo usuário, sem desbloquear o celular nem abrir o app. Ele também salva os 30 segundos de áudio anteriores ao gatilho."
   - q: "O celular consegue começar a gravar com a tela bloqueada?"
     a: "Sim, se o app roda como serviço em primeiro plano com uma notificação permanente. O TalkSafe funciona assim: a escuta roda em segundo plano e a gravação começa com a palavra-chave mesmo com a tela apagada e o celular no bolso ou na bolsa."
   - q: "Dá para gravar o que foi dito antes de apertar o botão?"
@@ -71,7 +71,7 @@ Mesmo assim, há três problemas.
 
 Essa é a categoria feita para esse problema. O app escuta palavras que você escolheu antes e começa a gravar quando ouve uma delas.
 
-O [TalkSafe](/talksafe/pt-br/) é um app para Android que funciona assim. O reconhecimento da palavra acontece no aparelho, a gravação começa **com a tela bloqueada e o celular no bolso**, e não há som nem mudança visível no momento em que começa.
+O [TalkSafe](/talksafe/pt-br/) é um app para Android e iPhone que funciona assim. O reconhecimento da palavra acontece no aparelho, a gravação começa **com a tela bloqueada e o celular no bolso**, e não há som nem mudança visível no momento em que começa.
 
 <figure class="shot"><img src="/assets/img/screens/active-pt-br.jpg" alt="Tela do TalkSafe com a detecção de palavras-chave ativa e o botão Parar." width="540" height="960" loading="lazy"><figcaption>Detecção de palavras-chave ativa. Continua ouvindo em segundo plano com a tela apagada ou o app fechado.</figcaption></figure>
 

@@ -8,7 +8,7 @@ eyebrow: Pratique
 title: "Pourquoi les applications d'enregistrement d'appels ne marchent plus sur Android, et ce qui fonctionne encore"
 description: "Android a retiré l'interface en 2015, bloqué la voie du micro en 2019, et Google a fermé la dernière brèche en mai 2022. L'application Téléphone intégrée n'a jamais été concernée. Et ce que dit la loi en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Pourquoi les applications d'enregistrement d'appels ne fonctionnent-elles plus sur Android ?"
     a: "Android 6 a retiré en 2015 l'interface d'enregistrement des appels, et Android 10 a bloqué en 2019 l'enregistrement des appels par le micro. Les développeurs sont alors passés par l'interface d'accessibilité, et le 11 mai 2022 Google a fermé cette voie aussi. Les applications tierces d'enregistrement d'appels ont été retirées du Play Store."
@@ -19,7 +19,7 @@ faq:
   - q: "Mettre l'appel sur haut-parleur et utiliser un enregistreur, ça marche ?"
     a: "Oui, sur n'importe quel téléphone Android, parce que l'application enregistre alors le son de la pièce et non le flux de l'appel. Les inconvénients sont une qualité audio moindre, le bruit ambiant et le fait que tout le monde autour entend l'appel."
   - q: "TalkSafe est-elle une application d'enregistrement d'appels ?"
-    a: "Non. TalkSafe est une application d'enregistrement pour Android qui enregistre ce que le micro entend dans la pièce ; elle n'a pas accès au flux de l'appel. Sur haut-parleur, elle enregistre les deux côtés. Elle démarre quand elle entend un mot choisi à l'avance, fonctionne écran verrouillé et conserve les 30 secondes qui précèdent le démarrage."
+    a: "Non. TalkSafe est une application d'enregistrement pour Android et iPhone qui enregistre ce que le micro entend dans la pièce ; elle n'a pas accès au flux de l'appel. Sur haut-parleur, elle enregistre les deux côtés. Elle démarre quand elle entend un mot choisi à l'avance, fonctionne écran verrouillé et conserve les 30 secondes qui précèdent le démarrage."
   - q: "Comment demander l'accord au téléphone sans alourdir la conversation ?"
     a: "Dans TalkSafe, choisissez comme mot-clé un mot de votre question, par exemple « enregistrer », et mettez l'appel sur haut-parleur. Quand vous demandez « Je peux enregistrer notre échange ? », l'enregistrement démarre à ce moment-là et la réponse de votre interlocuteur est dans le fichier."
   - q: "Utiliser un appareil séparé change-t-il quelque chose à la loi ?"

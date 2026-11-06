@@ -8,7 +8,7 @@ eyebrow: Opnemen
 title: "Niet elke „automatische” recorder doet hetzelfde"
 description: "Op Android betekent automatisch opnemen vijf behoorlijk verschillende dingen. Wat elk type start en welke situaties elk type mist."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Welke soorten apps voor automatisch opnemen zijn er op Android?"
     a: "Grofweg vijf: opname die start als een gesprek tot stand komt, opname die start als er geluid is, opname op een vast tijdstip, opname die ook de momenten vóór de start bewaart, en opname die start bij een gekozen woord."

@@ -10,7 +10,7 @@ description: "V Česku se neplatnost dohody nebo výpovědi podepsané pod nátl
 image: /assets/img/og/dohoda-pod-natlakem-cs.png
 image_alt: "Dohoda o rozvázání pracovního poměru pod nátlakem v Česku a na Slovensku: žaloba na neplatnost do dvou měsíců; od roku 2026 stejná podpora v nezaměstnanosti bez ohledu na způsob skončení; odstupné jen při organizačních důvodech; vlastní rozhovor lze v Česku nahrát k ochraně svých práv."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Lze napadnout dohodu o rozvázání pracovního poměru podepsanou pod nátlakem?"
     a: "Ano. Neplatnost rozvázání pracovního poměru, včetně dohody, lze uplatnit žalobou u soudu nejpozději do dvou měsíců ode dne, kdy měl pracovní poměr skončit (§ 72 zákoníku práce). Lhůta je prekluzivní: po jejím marném uplynutí právo zaniká. Nejvyšší soud ve věci 21 Cdo 81/2019 shledal dohodu absolutně neplatnou, protože vůle zaměstnankyně při jejím uzavření nebyla utvářena svobodně."
@@ -74,7 +74,7 @@ Podle **§ 86 občanského zákoníku** nelze bez svolení pořizovat zvukový z
 
 Problémem je okamžik. Takový rozhovor se svolá narychlo, trvá deset minut a věta, na které záleží – „jinak budeme řešit výpověď“ – padne bez varování. Než vytáhnete telefon, odemknete ho a zmáčknete nahrávání, je pryč.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit, co v takovém rozhovoru obvykle říká **druhá strana**: „dohoda“, „výpověď“, „rozvázání“. Funguje při **zamčené obrazovce** a **30 sekund předtím** zůstane v souboru – věta, po které vám došlo, o co jde, se neztratí.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit, co v takovém rozhovoru obvykle říká **druhá strana**: „dohoda“, „výpověď“, „rozvázání“. Funguje při **zamčené obrazovce** a **30 sekund předtím** zůstane v souboru – věta, po které vám došlo, o co jde, se neztratí.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-cs.jpg" alt="Nastavení klíčových slov v TalkSafe. Slova se přidávají tlačítkem mikrofonu a pod ním se zobrazí jejich seznam." width="540" height="960" loading="lazy"><figcaption>Nastavení klíčových slov. Můžete uložit několik slov; stačí, aby bylo rozpoznáno jedno z nich.</figcaption></figure>
 

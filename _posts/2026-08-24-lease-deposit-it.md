@@ -8,7 +8,7 @@ eyebrow: Contratti
 title: "I buchi dei chiodi non sono danni"
 description: "Massimo tre mensilità, interessi legali ogni anno, e nessuna trattenuta senza voci specifiche e dimostrabili. Perché la cauzione si perde quasi sempre per mancanza di foto del primo giorno."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Quanto può chiedermi il proprietario di deposito cauzionale?"
     a: "Nelle locazioni abitative non più di tre mensilità del canone, secondo l'art. 11 della legge 392/1978. È nullo ogni patto che preveda un importo superiore. Nelle locazioni commerciali quel limite non si applica."

@@ -10,10 +10,10 @@ description: "Aby streścić nagranie głosowe na Androidzie, używa się aplika
 image: /assets/img/og/summarize-recording-pl.png
 image_alt: "Porównanie Dyktafonu Google na Pixelu, Dyktafonu Samsunga na Galaxy i TalkSafe: wszystkie trzy mają podsumowanie AI, pełną transkrypcję tylko Pixel i Galaxy, a samo zaczyna nagrywać po wybranym słowie tylko TalkSafe."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Jak streścić nagranie głosowe za pomocą AI na Androidzie?"
-    a: "Za pomocą aplikacji do nagrywania z podsumowaniem AI. Na telefonach Pixel Dyktafon Google może streścić transkrypcję nagrania na urządzeniu za pomocą Gemini Nano. Dyktafon Samsunga oferuje transkrypcję i podsumowanie dzięki funkcji Transcript Assist w Galaxy AI i wymaga konta Samsung. TalkSafe, aplikacja do nagrywania na Androida, tworzy podsumowanie AI każdego nagrania i pokazuje je pod odtwarzaczem na ekranie szczegółów."
+    a: "Za pomocą aplikacji do nagrywania z podsumowaniem AI. Na telefonach Pixel Dyktafon Google może streścić transkrypcję nagrania na urządzeniu za pomocą Gemini Nano. Dyktafon Samsunga oferuje transkrypcję i podsumowanie dzięki funkcji Transcript Assist w Galaxy AI i wymaga konta Samsung. TalkSafe, aplikacja do nagrywania na Androida i iPhone'a, tworzy podsumowanie AI każdego nagrania i pokazuje je pod odtwarzaczem na ekranie szczegółów."
   - q: "Czy przy streszczaniu nagranie trafia na serwer?"
     a: "To zależy od aplikacji. Podsumowania Dyktafonu Google na Pixelu powstają na urządzeniu za pomocą Gemini Nano. TalkSafe wysyła nagranie na serwer, aby utworzyć podsumowanie AI, a wykrywanie słów kluczowych działa w całości w telefonie. Jeśli w rozmowie brały udział inne osoby, ich głosy są w wysyłanym pliku."
   - q: "W jakim języku jest podsumowanie TalkSafe?"

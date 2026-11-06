@@ -11,7 +11,7 @@ description: "A verbal agreement is a contract. The trouble starts when it runs 
 image: /assets/img/og/verbal-contract-en.png
 image_alt: "How thirteen countries treat a spoken agreement that differs from the written contract: a verbal agreement is a contract, but the writing usually comes first. For work on your home, the UK treats a trader's spoken statements you relied on as contract terms (Consumer Rights Act 2015, s.50), and California requires a written contract for home improvement over $500."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is a verbal agreement legally binding?"
     a: "In most countries, yes. Contracts generally need no particular form, so an agreement reached by conversation is a contract. The exceptions are set by statute: in the United States the statute of frauds requires a signed writing for contracts such as sales of land, guarantees, agreements that cannot be performed within a year, and sales of goods for $500 or more, and in England and Wales a contract for the sale of land must be in writing and signed by both parties. For work on a home, California requires a written contract for home improvement projects over $500, and in the UK a trader's statements that a consumer relied on are treated as terms of the contract under section 50 of the Consumer Rights Act 2015."
@@ -26,7 +26,7 @@ faq:
   - q: "Is Chile or Italy different?"
     a: "Both restrict witness evidence. Chile's Civil Code article 1709 requires contracts worth more than two UTM to be in writing and bars witness evidence of what was said before, at the time of, or after the contract. Italy's Civil Code bars witness evidence of added or contrary terms agreed before or at the time of a written contract, and allows it for later agreements only where the judge finds them plausible."
   - q: "How does TalkSafe help keep a record of a meeting?"
-    a: "TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. It works with the screen locked and saves the 30 seconds before recording started, so you do not have to interrupt the meeting to ask about recording or reach for your phone."
+    a: "TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. It works with the screen locked and saves the 30 seconds before recording started, so you do not have to interrupt the meeting to ask about recording or reach for your phone."
 ---
 
 The meeting ends the way it usually does.
@@ -140,7 +140,7 @@ Two things work in practice.
 
 **Record the meeting you are in.** Most US states allow a person taking part in a conversation to record it, and so does India. Some states, including California, require everyone's consent. The details are in [is it legal to record a conversation you're in?](https://hcompany-kr.github.io/blog/en/recording-consent-law/) and [which states are strict](https://hcompany-kr.github.io/blog/en/state-recording-consent/). The practical problem is different: when you are the smaller party at the table, "mind if I record this?" is not an easy thing to say.
 
-TalkSafe is an Android voice recorder that starts recording when it hears a word you set in advance. It works with the screen locked and saves the 30 seconds before it started, so you do not have to stop the meeting to ask or reach for your phone.
+TalkSafe is a voice recorder for Android and iPhone that starts recording when it hears a word you set in advance. It works with the screen locked and saves the 30 seconds before it started, so you do not have to stop the meeting to ask or reach for your phone.
 
 Why the original file and the opening seconds matter once a recording is used as evidence is covered in [you have the recording, you still may not be able to use it](https://hcompany-kr.github.io/blog/en/recording-evidence/). For freelancers in New York and Illinois, where the client is now required to put the deal in writing, see [no written contract is now the client's problem, not yours](https://hcompany-kr.github.io/blog/en/freelance-payment/).
 

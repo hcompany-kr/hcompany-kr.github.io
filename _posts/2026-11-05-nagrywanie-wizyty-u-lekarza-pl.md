@@ -10,7 +10,7 @@ description: "Według przeglądu z 2003 roku pacjenci od razu zapominają 40–8
 image: /assets/img/og/nagrywanie-wizyty-u-lekarza-pl.png
 image_alt: "Nagrywanie wizyty u lekarza w Polsce: nagranie własnej rozmowy co do zasady dozwolone, rozpowszechnianie to osobna sprawa; pierwsze udostępnienie dokumentacji medycznej bezpłatne; 40–80% informacji zapomina się od razu."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy mogę nagrać wizytę u lekarza?"
     a: "W Polsce nagranie rozmowy, w której się uczestniczy, co do zasady nie jest przestępstwem, bo art. 267 § 3 Kodeksu karnego dotyczy uzyskiwania informacji, do której nie jest się uprawnionym, a pacjent jest uczestnikiem wizyty. Problemem może być dopiero rozpowszechnianie nagrania, na przykład z wizerunkiem lekarza. Najprościej zapytać na początku wizyty."
@@ -21,7 +21,7 @@ faq:
   - q: "Czy mogę opublikować nagranie z wizyty?"
     a: "To osobna kwestia od samego nagrywania. Rozpowszechnianie nagrania bez zgody nagranej osoby może naruszać jej dobra osobiste i przepisy o ochronie danych osobowych. Nagranie służy do tego, by odsłuchać, co powiedział lekarz, albo przekazać je rodzinie."
   - q: "Jak TalkSafe pomaga podczas wizyty?"
-    a: "TalkSafe to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, także przy zablokowanym ekranie. Ze słowem „nagrać” nagrywanie zaczyna się, gdy pytasz „Czy mogę to nagrać, żeby nic nie zapomnieć?”, a odpowiedź lekarza jest w pliku razem z 30 sekundami sprzed startu. W gabinecie nie trzeba niczego obsługiwać."
+    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, także przy zablokowanym ekranie. Ze słowem „nagrać” nagrywanie zaczyna się, gdy pytasz „Czy mogę to nagrać, żeby nic nie zapomnieć?”, a odpowiedź lekarza jest w pliku razem z 30 sekundami sprzed startu. W gabinecie nie trzeba niczego obsługiwać."
   - q: "Co jeśli chodzę do lekarza w Niemczech, Holandii albo Wielkiej Brytanii?"
     a: "W Niemczech nagranie bez zgody lekarza jest przestępstwem (§ 201 StGB), a pierwsza kopia dokumentacji jest bezpłatna. W Holandii pacjent może nagrać rozmowę do użytku prywatnego także bez zgody, choć zaleca się o tym powiedzieć. W Wielkiej Brytanii BMA zachęca lekarzy do zgody na nagrywanie, a pacjentów do wcześniejszego pytania."
 ---
@@ -65,7 +65,7 @@ A choć prawo nie wymaga zgody, **zapytanie na początku** – „Czy mogę to n
 
 Wyjąć telefon, odblokować, znaleźć aplikację, nacisnąć nagrywanie – akurat wtedy, gdy lekarka zaczyna tłumaczyć. To przerywa rozmowę i kosztuje pierwsze zdania.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo** – przy **zablokowanym ekranie**, bez odblokowywania telefonu i otwierania aplikacji. Włóż słowo w pytanie: ze słowem „nagrać” nagrywanie zaczyna się, gdy pytasz „Czy mogę to nagrać, żeby nic nie zapomnieć?”, a odpowiedź jest w pliku razem z **30 sekundami sprzed startu**. Zapisanie drugiego słowa z tego samego zdania, na przykład „zapomnieć”, sprawia, że wykrywanie jest dokładniejsze. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można też ustawić słowo, które zwykle pada z ust lekarza, na przykład „dawka”. Więcej w [Najpierw coś mówisz](/blog/pl/say-it-first/).
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo** – przy **zablokowanym ekranie**, bez odblokowywania telefonu i otwierania aplikacji. Włóż słowo w pytanie: ze słowem „nagrać” nagrywanie zaczyna się, gdy pytasz „Czy mogę to nagrać, żeby nic nie zapomnieć?”, a odpowiedź jest w pliku razem z **30 sekundami sprzed startu**. Zapisanie drugiego słowa z tego samego zdania, na przykład „zapomnieć”, sprawia, że wykrywanie jest dokładniejsze. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można też ustawić słowo, które zwykle pada z ust lekarza, na przykład „dawka”. Więcej w [Najpierw coś mówisz](/blog/pl/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-pl.jpg" alt="Historia nagrań w TalkSafe. Za każdym razem, gdy zostanie wykryte słowo kluczowe, nagranie zapisuje się z datą i godziną." width="540" height="960" loading="lazy"><figcaption>Historia nagrań. Każdy plik zawiera też 30 sekund sprzed wykrycia słowa kluczowego.</figcaption></figure>
 

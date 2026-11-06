@@ -10,7 +10,7 @@ description: "Pela Lei do Inquilinato, a caução em dinheiro não pode passar d
 image: /assets/img/og/caucao-aluguel-pt-br.png
 image_alt: "Caução do aluguel, Brasil e Portugal: limite de três aluguéis no Brasil e duas rendas em Portugal; desgaste do uso normal não se desconta no Brasil (art. 23, III); gravar a própria conversa é lícito no Brasil e crime em Portugal; com consentimento, a gravação é possível nos dois."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Qual o valor máximo da caução do aluguel?"
     a: "Pelo art. 38, §2º, da Lei 8.245/1991 (Lei do Inquilinato), a caução em dinheiro não pode exceder o equivalente a três meses de aluguel. Ela deve ser depositada em caderneta de poupança, e todas as vantagens dela decorrentes revertem em benefício do locatário."
@@ -70,7 +70,7 @@ O STF fixou no **Tema 237 de repercussão geral (RE 583.937)** que **é lícita 
 
 Na vistoria você está com as mãos ocupadas — celular para fotos, laudo, chaves.
 
-O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda os **30 segundos anteriores** no arquivo. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que o proprietário ou o vistoriador provavelmente vai dizer: **"caução"**, **"pintura"**, **"tudo certo"**. Quando ele disser "Tá tudo certo, a caução eu devolvo", a gravação começa — e o que veio antes também está no arquivo.
+O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes**, funciona com a **tela bloqueada** e guarda os **30 segundos anteriores** no arquivo. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que o proprietário ou o vistoriador provavelmente vai dizer: **"caução"**, **"pintura"**, **"tudo certo"**. Quando ele disser "Tá tudo certo, a caução eu devolvo", a gravação começa — e o que veio antes também está no arquivo.
 
 <figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
 

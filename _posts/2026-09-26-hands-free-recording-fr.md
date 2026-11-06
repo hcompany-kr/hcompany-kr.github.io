@@ -9,10 +9,10 @@ eyebrow: Pratique
 title: "Lancer un enregistrement sans toucher son téléphone"
 description: "Quatre façons de démarrer un enregistrement mains libres sur Android, ce que chacune demande vraiment, et lesquelles fonctionnent encore écran verrouillé, téléphone dans la poche."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Existe-t-il une application qui commence à enregistrer quand elle entend un mot précis ?"
-    a: "Oui. TalkSafe est une application d'enregistrement pour Android qui démarre quand elle entend un mot choisi à l'avance par l'utilisateur, sans déverrouiller le téléphone ni ouvrir l'application. Elle conserve aussi les 30 secondes qui précèdent le déclenchement."
+    a: "Oui. TalkSafe est une application d'enregistrement pour Android et iPhone qui démarre quand elle entend un mot choisi à l'avance par l'utilisateur, sans déverrouiller le téléphone ni ouvrir l'application. Elle conserve aussi les 30 secondes qui précèdent le déclenchement."
   - q: "Un téléphone peut-il démarrer un enregistrement écran verrouillé ?"
     a: "Oui, si l'application fonctionne comme service au premier plan avec une notification permanente. C'est le cas de TalkSafe : l'écoute tourne en arrière-plan et l'enregistrement démarre sur le mot-clé même écran éteint, téléphone dans la poche ou dans un sac."
   - q: "Peut-on enregistrer ce qui a été dit avant d'appuyer sur enregistrer ?"
@@ -72,7 +72,7 @@ Trois problèmes, pourtant.
 
 C'est la catégorie conçue pour ce problème. L'application écoute des mots choisis à l'avance et commence à enregistrer quand elle en entend un.
 
-[TalkSafe](/talksafe/fr/) est une application Android qui fonctionne ainsi. La reconnaissance du mot se fait sur l'appareil, l'enregistrement démarre **écran verrouillé, téléphone dans la poche**, et il n'y a ni son ni changement visible au moment où il commence.
+[TalkSafe](/talksafe/fr/) est une application pour Android et iPhone qui fonctionne ainsi. La reconnaissance du mot se fait sur l'appareil, l'enregistrement démarre **écran verrouillé, téléphone dans la poche**, et il n'y a ni son ni changement visible au moment où il commence.
 
 <figure class="shot"><img src="/assets/img/screens/active-fr.jpg" alt="Écran de TalkSafe avec la détection des mots-clés active et le bouton Arrêter." width="540" height="960" loading="lazy"><figcaption>Détection des mots-clés active. L'application continue d'écouter en arrière-plan, écran éteint ou application fermée.</figcaption></figure>
 

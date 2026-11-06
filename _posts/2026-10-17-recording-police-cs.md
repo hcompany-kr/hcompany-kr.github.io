@@ -10,7 +10,7 @@ description: "Městský soud v Praze v roce 2017 pravomocně rozhodl, že polici
 image: /assets/img/og/recording-police-cs.png
 image_alt: "Nahrávání policie: v Česku policie neměla právo zakázat natáčení zákroku (Městský soud v Praze, 2017); na Slovensku výkon pravomoci veřejného činitele nepatří do soukromí (Ústavní soud, II. ÚS 44/00); hranicí je bránění zákroku."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Smím v Česku natáčet policii při zákroku?"
     a: "Ano, pokud zákroku nebráníte. Městský soud v Praze 12. prosince 2017 pravomocně rozhodl, že zákrok policie proti dvěma mužům, kteří při návštěvě čínského prezidenta vyvěsili tibetskou a tchajwanskou vlajku, byl nezákonný a že policie neměla právo ani zakázat nahrávání zákroku."
@@ -23,7 +23,7 @@ faq:
   - q: "Mohu záznam zveřejnit?"
     a: "To je jiná otázka. Podle § 86 občanského zákoníku nelze bez svolení šířit záznamy o soukromém životě člověka, výjimka z § 88 platí pro ochranu práv a nesmí být využita nepřiměřeně. Před zveřejněním si záznam ponechte jako důkaz a poraďte se s advokátem."
   - q: "Jak TalkSafe pomůže při kontrole?"
-    a: "TalkSafe je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší předem zvolené slovo. Slova rozpozná bez ohledu na to, kdo je řekne, takže lze nastavit slova, která policista obvykle říká, například řidičský průkaz nebo doklady. Funguje při zamčené obrazovce a uloží 30 sekund před začátkem, takže při kontrole nemusíte sahat po telefonu."
+    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší předem zvolené slovo. Slova rozpozná bez ohledu na to, kdo je řekne, takže lze nastavit slova, která policista obvykle říká, například řidičský průkaz nebo doklady. Funguje při zamčené obrazovce a uloží 30 sekund před začátkem, takže při kontrole nemusíte sahat po telefonu."
 ---
 
 Silniční kontrola večer. Někdo klepe na okénko.
@@ -68,7 +68,7 @@ Víc o nahrávání rozhovorů obecně v [Je legální nahrávat rozhovor bez so
 
 Kontrola začne bez varování. Když vás vyzvali, abyste měli ruce na očích, vytáhnout telefon, odemknout ho a zmáčknout nahrávání je přesně ten pohyb, který může být špatně pochopen.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit slova, která policista obvykle říká: **„řidičský průkaz“**, **„doklady“**. Funguje při **zamčené obrazovce**, a protože ukládá **30 sekund před začátkem**, je rozhovor v souboru od zaklepání na okénko.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší **předem zvolené slovo**. Slova rozpozná **bez ohledu na to, kdo je řekne**, takže lze nastavit slova, která policista obvykle říká: **„řidičský průkaz“**, **„doklady“**. Funguje při **zamčené obrazovce**, a protože ukládá **30 sekund před začátkem**, je rozhovor v souboru od zaklepání na okénko.
 
 <figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
 

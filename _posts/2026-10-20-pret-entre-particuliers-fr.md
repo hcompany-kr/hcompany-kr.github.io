@@ -10,7 +10,7 @@ description: "En France, un prêt de plus de 1 500 euros se prouve en principe p
 image: /assets/img/og/pret-entre-particuliers-fr.png
 image_alt: "Prêt entre particuliers sans écrit : écrit exigé au-delà de 1 500 euros en France et de 3 500 euros en Belgique ; une relance n'interrompt pas la prescription en France (Cass. com. 18 mai 2022) ; la reconnaissance du débiteur l'interrompt en France, en Belgique et en Suisse ; enregistrer sa conversation sans consentement est un délit en France et en Suisse, permis en Belgique."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Comment prouver un prêt d'argent sans reconnaissance de dette ?"
     a: "Au-delà de 1 500 euros, l'article 1359 du Code civil exige en principe un écrit. Il peut être suppléé par un commencement de preuve par écrit, c'est-à-dire un écrit émanant de l'emprunteur qui rend vraisemblable le prêt, corroboré par un autre moyen de preuve (articles 1361 et 1362). Lorsqu'il était moralement impossible de se procurer un écrit, notamment entre proches, la preuve est libre (article 1360). Dans tous les cas, le virement prouve la remise des fonds, pas l'obligation de les rendre."
@@ -85,7 +85,7 @@ Les conversations d'argent ont lieu à table ou au téléphone, pas par écrit. 
 
 Avec son accord, c'est simple — et pour une histoire d'argent, la raison se donne facilement : « pour qu'on se souvienne tous les deux de ce qu'on a convenu ».
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Mettez le mot-clé dans votre propre question, par exemple **« enregistrer »**. Quand vous demandez « Je peux enregistrer ? », l'enregistrement commence à ce moment-là, et le « oui » est dans le fichier — avec ce qui se dit ensuite sur le montant et la date. Voir [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Mettez le mot-clé dans votre propre question, par exemple **« enregistrer »**. Quand vous demandez « Je peux enregistrer ? », l'enregistrement commence à ce moment-là, et le « oui » est dans le fichier — avec ce qui se dit ensuite sur le montant et la date. Voir [On dit d'abord quelque chose](/blog/fr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-fr.jpg" alt="Écran d'accueil de TalkSafe avec des boutons pour lancer la détection en temps réel et un enregistrement manuel." width="540" height="960" loading="lazy"><figcaption>Écran d'accueil de TalkSafe. Avec la détection en temps réel activée, l'enregistrement démarre quand un mot choisi est détecté ; le bouton permet aussi d'enregistrer tout de suite.</figcaption></figure>
 

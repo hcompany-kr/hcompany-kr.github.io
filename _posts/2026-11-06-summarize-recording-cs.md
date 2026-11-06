@@ -10,10 +10,10 @@ description: "Ke shrnutí hlasové nahrávky na Androidu slouží aplikace na na
 image: /assets/img/og/summarize-recording-cs.png
 image_alt: "Srovnání Diktafonu Google na Pixelu, Diktafonu Samsung na Galaxy a TalkSafe: všechny tři mají shrnutí od AI, úplný přepis jen Pixel a Galaxy a nahrávání samo na zvolené slovo spouští jen TalkSafe."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Jak shrnout hlasovou nahrávku pomocí AI na Androidu?"
-    a: "Pomocí aplikace na nahrávání, která má shrnutí od AI. Na telefonech Pixel umí Diktafon Google shrnout přepis nahrávky přímo v zařízení pomocí Gemini Nano. Diktafon Samsung nabízí přepis a shrnutí díky funkci Transcript Assist v Galaxy AI a vyžaduje účet Samsung. TalkSafe, aplikace pro nahrávání na Android, vytvoří ke každé nahrávce shrnutí od AI a zobrazí ho pod přehrávačem na obrazovce detailu."
+    a: "Pomocí aplikace na nahrávání, která má shrnutí od AI. Na telefonech Pixel umí Diktafon Google shrnout přepis nahrávky přímo v zařízení pomocí Gemini Nano. Diktafon Samsung nabízí přepis a shrnutí díky funkci Transcript Assist v Galaxy AI a vyžaduje účet Samsung. TalkSafe, aplikace pro nahrávání na Android a iPhone, vytvoří ke každé nahrávce shrnutí od AI a zobrazí ho pod přehrávačem na obrazovce detailu."
   - q: "Posílá se při shrnutí nahrávka na server?"
     a: "Záleží na aplikaci. Shrnutí v Diktafonu Google na Pixelu vznikají v zařízení pomocí Gemini Nano. TalkSafe kvůli shrnutí od AI posílá nahrávku na server, zatímco rozpoznávání klíčových slov běží celé v telefonu. Pokud se rozhovoru účastnili další lidé, jejich hlasy jsou v souboru, který posíláte."
   - q: "V jakém jazyce je shrnutí TalkSafe?"

@@ -10,7 +10,7 @@ description: "Emniyet Genel Müdürlüğü 2021'de vatandaşların polisi kaydet
 image: /assets/img/og/recording-police-tr.png
 image_alt: "Türkiye'de polisi kaydetmek: müdahaleyi engellemeden görüntü çekmeyi yasaklayan genelge Danıştay tarafından iptal edildi (2023); polisle konuşmanızın rızasız ses kaydı TCK 133/2 nedeniyle risklidir; rızayla kayıt sorun değildir."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Türkiye'de polisin görüntüsünü çekmek yasak mı?"
     a: "Hayır. Emniyet Genel Müdürlüğü 27 Nisan 2021'de vatandaşların polisi kaydetmesinin engellenmesini isteyen 2021/19 sayılı genelgeyi yayımladı. Danıştay 10. Dairesi 15 Eylül 2021'de genelgenin yürütmesini oy birliğiyle durdurdu ve 27 Aralık 2023'te oy birliğiyle iptal etti. Mahkeme, iletişim ve basın özgürlüğünün ancak kanunla sınırlanabileceğini, bunun bir genelgeyle yapılamayacağını belirtti."
@@ -21,7 +21,7 @@ faq:
   - q: "Çektiğim görüntüyü sosyal medyada paylaşabilir miyim?"
     a: "Çekmek ile yaymak ayrı sorulardır. Paylaşmadan önce kaydı delil olarak saklayın ve bir avukata danışın; ses kaydı içeriyorsa TCK 133/3, hukuka aykırı elde edilen verilerin ifşasını ayrıca cezalandırır."
   - q: "Polis kontrolünde TalkSafe nasıl yardımcı olur?"
-    a: "TalkSafe, önceden belirlenen bir kelimeyle kayda başlayan ve ekran kilitliyken çalışan bir Android ses kayıt uygulamasıdır. Türkiye'de en güvenli yol rıza istemektir: kendi sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini anahtar kelime yaparsanız, kayıt alabilir miyim diye sorduğunuz anda kayıt başlar ve cevap dosyada olur; kontrol sırasında telefona uzanmanız gerekmez."
+    a: "TalkSafe, önceden belirlenen bir kelimeyle kayda başlayan ve ekran kilitliyken çalışan Android ve iPhone için bir ses kayıt uygulamasıdır. Türkiye'de en güvenli yol rıza istemektir: kendi sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini anahtar kelime yaparsanız, kayıt alabilir miyim diye sorduğunuz anda kayıt başlar ve cevap dosyada olur; kontrol sırasında telefona uzanmanız gerekmez."
 ---
 
 Gece bir yol kontrolü. Cama vuruluyor.
@@ -72,7 +72,7 @@ Ses kaydının genel hukuku [Gizli ses kaydı almak suç mu? Türkiye'de kendi k
 
 Bir kontrol uyarı vermeden başlar. Ellerinizi görünür tutmanız istendiğinde telefonu çıkarmak, kilidini açmak ve kayda basmak tam da yanlış anlaşılabilecek harekettir.
 
-[TalkSafe](/talksafe/tr/), **önceden belirlenen bir kelimeyle** kayda başlayan ve **ekran kilitliyken** çalışan bir Android ses kayıt uygulamasıdır. Türkiye'de en güvenli yol rıza istemek olduğu için, kendi sorunuzdaki bir kelimeyi anahtar kelime yapın, örneğin **"kayıt"**. "Konuşmamızı kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap dosyadadır. Memur hayır derse, bunu da bilirsiniz.
+[TalkSafe](/talksafe/tr/), **önceden belirlenen bir kelimeyle** kayda başlayan ve **ekran kilitliyken** çalışan Android ve iPhone için bir ses kayıt uygulamasıdır. Türkiye'de en güvenli yol rıza istemek olduğu için, kendi sorunuzdaki bir kelimeyi anahtar kelime yapın, örneğin **"kayıt"**. "Konuşmamızı kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve cevap dosyadadır. Memur hayır derse, bunu da bilirsiniz.
 
 <figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
 

@@ -8,7 +8,7 @@ eyebrow: Handleiding
 title: "Waarom apps om gesprekken op te nemen op Android niet meer werken, en wat nog wel werkt"
 description: "Android haalde de interface in 2015 weg, blokkeerde in 2019 de route via de microfoon, en Google sloot in mei 2022 de laatste maas. De ingebouwde Telefoon-app viel daar nooit onder. Plus wat de wet zegt in Nederland, België, Suriname, Aruba, Curaçao en Sint Maarten."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Waarom werken apps om telefoongesprekken op te nemen niet meer op Android?"
     a: "Android 6 haalde in 2015 de interface voor gespreksopname weg, en Android 10 blokkeerde in 2019 het opnemen van gesprekken via de microfoon. Ontwikkelaars weken daarna uit naar de toegankelijkheidsinterface, en op 11 mei 2022 sloot Google ook die route. Apps van derden om gesprekken op te nemen zijn uit de Play Store verwijderd."
@@ -21,7 +21,7 @@ faq:
   - q: "Werkt het om het gesprek op de luidspreker te zetten en met een opname-app op te nemen?"
     a: "Ja, op elke Android-telefoon, omdat de app dan het geluid in de ruimte opneemt en niet het gesprek zelf. De nadelen zijn een slechtere geluidskwaliteit, achtergrondgeluid en dat iedereen in de buurt meeluistert."
   - q: "Is TalkSafe een app om telefoongesprekken op te nemen?"
-    a: "Nee. TalkSafe is een opname-app voor Android die opneemt wat de microfoon in de ruimte hoort; tot het gesprek zelf heeft de app geen toegang. Bij een gesprek op de luidspreker neemt hij beide kanten op. Hij begint als hij een vooraf gekozen woord hoort, werkt met een vergrendeld scherm en bewaart de 30 seconden vóór de start."
+    a: "Nee. TalkSafe is een opname-app voor Android en iPhone die opneemt wat de microfoon in de ruimte hoort; tot het gesprek zelf heeft de app geen toegang. Bij een gesprek op de luidspreker neemt hij beide kanten op. Hij begint als hij een vooraf gekozen woord hoort, werkt met een vergrendeld scherm en bewaart de 30 seconden vóór de start."
   - q: "Verandert een apart opnameapparaat iets aan de wet?"
     a: "Nee. De wet gaat over het gesprek, niet over het apparaat. Een tweede telefoon, een dictafoon of de luidspreker verandert niets aan welke toestemming in jouw land nodig is."
 ---

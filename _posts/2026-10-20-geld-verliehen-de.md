@@ -10,7 +10,7 @@ description: "Ein Darlehen braucht keinen schriftlichen Vertrag, aber wer Geld z
 image: /assets/img/og/geld-verliehen-de.png
 image_alt: "Geld verliehen ohne Vertrag, Deutschland und Schweiz im Vergleich: Darlehen mündlich wirksam, Beweis beim Gläubiger; Verjährung in Deutschland drei Jahre, in der Schweiz zehn Jahre; Anerkenntnis startet die Frist neu (§ 212 BGB, Art. 135 OR); heimliche Aufnahme in beiden Ländern strafbar, Aufnahme mit Einwilligung möglich."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Kann ich verliehenes Geld ohne schriftlichen Vertrag zurückfordern?"
     a: "Ja. Ein Darlehen nach § 488 BGB ist auch mündlich wirksam. Das Problem ist der Beweis: Behauptet die andere Seite, das Geld sei geschenkt gewesen, muss in der Regel derjenige, der es zurückfordert, die Darlehensabrede beweisen. Eine Überweisung zeigt, dass Geld geflossen ist, aber nicht, warum."
@@ -85,7 +85,7 @@ Einen Vertrag können Sie nicht nachträglich unterschreiben lassen. Aber Sie k�
 
 Mit Einwilligung ist die Aufnahme unproblematisch – und gerade bei Geld kann man sie gut begründen: „Damit wir beide später wissen, was wir abgemacht haben.“
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie das Schlüsselwort in Ihre eigene Frage, zum Beispiel **„aufnehmen“**. Wenn Sie fragen „Darf ich das aufnehmen?“, beginnt die Aufnahme genau dann, und das „Ja“ ist in der Datei – zusammen mit dem, was danach über Betrag und Termin gesagt wird. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie das Schlüsselwort in Ihre eigene Frage, zum Beispiel **„aufnehmen“**. Wenn Sie fragen „Darf ich das aufnehmen?“, beginnt die Aufnahme genau dann, und das „Ja“ ist in der Datei – zusammen mit dem, was danach über Betrag und Termin gesagt wird. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-de.jpg" alt="Startbildschirm von TalkSafe mit Tasten für die Echtzeit-Erkennung und für eine manuelle Aufnahme." width="540" height="960" loading="lazy"><figcaption>Startbildschirm von TalkSafe. Ist die Echtzeit-Erkennung an, beginnt die Aufnahme, wenn ein festgelegtes Wort erkannt wird; per Taste lässt sich auch sofort aufnehmen.</figcaption></figure>
 

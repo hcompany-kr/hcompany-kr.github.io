@@ -8,7 +8,7 @@ eyebrow: Ley
 title: "Grabar tu propia conversación: país por país"
 description: "En diez países hispanohablantes la ley trata de forma distinta la grabación hecha por quien participa en la conversación. En Ecuador puedes hasta difundirla; en Chile y Uruguay los tribunales han excluido grabaciones propias."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Es legal grabar una conversación en la que participo en México?"
     a: "Sí. El artículo 16 de la Constitución declara inviolables las comunicaciones privadas, pero la Suprema Corte ha sostenido que esa protección opera solo frente a terceros ajenos a la comunicación. El mismo artículo permite expresamente que los particulares que participan en una comunicación privada la aporten en una investigación o proceso penal."

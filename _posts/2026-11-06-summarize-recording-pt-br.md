@@ -10,10 +10,10 @@ description: "Para resumir uma gravação de voz no Android, use um app de grava
 image: /assets/img/og/summarize-recording-pt-br.png
 image_alt: "Comparação entre o Gravador do Google no Pixel, o Gravador de Voz da Samsung no Galaxy e o TalkSafe: os três têm resumo com IA, só Pixel e Galaxy têm transcrição completa, e só o TalkSafe começa a gravar sozinho com uma palavra escolhida."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Como resumir uma gravação de voz com IA no Android?"
-    a: "Com um app de gravação que tenha resumo por IA. Nos Pixel, o Gravador do Google pode resumir a transcrição de uma gravação no próprio aparelho com o Gemini Nano. O Gravador de Voz da Samsung oferece transcrição e resumo com o Transcript Assist do Galaxy AI e exige uma conta Samsung. O TalkSafe, um app de gravação de voz para Android, cria um resumo por IA de cada gravação e o mostra abaixo do player, na tela de detalhes."
+    a: "Com um app de gravação que tenha resumo por IA. Nos Pixel, o Gravador do Google pode resumir a transcrição de uma gravação no próprio aparelho com o Gemini Nano. O Gravador de Voz da Samsung oferece transcrição e resumo com o Transcript Assist do Galaxy AI e exige uma conta Samsung. O TalkSafe, um app de gravação de voz para Android e iPhone, cria um resumo por IA de cada gravação e o mostra abaixo do player, na tela de detalhes."
   - q: "O áudio vai para um servidor quando a gravação é resumida?"
     a: "Depende do app. Os resumos do Gravador do Google no Pixel são feitos no aparelho com o Gemini Nano. O TalkSafe envia a gravação a um servidor para o resumo por IA, enquanto a detecção de palavras-chave funciona totalmente no celular. Se havia outras pessoas na conversa, a voz delas está no arquivo que você envia."
   - q: "Em que idioma sai o resumo do TalkSafe?"

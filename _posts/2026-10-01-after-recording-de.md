@@ -9,7 +9,7 @@ eyebrow: Anleitung
 title: "Was man mit einer Aufnahme tun sollte – und was nicht"
 description: "Wie man die Datei aufbewahrt, auf das Wesentliche kürzt und wo man sie einreicht. Und warum das Weitergeben in Deutschland, Österreich, der Schweiz, Liechtenstein, Luxemburg und Belgien eigene Regeln hat."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Kann man von einer Aufnahme nur den wichtigen Teil behalten?"
     a: "TalkSafe hat eine Schneidefunktion. Dabei bleibt das Original unverändert, und der ausgewählte Abschnitt wird als neue Datei gespeichert. So lässt sich eine kurze Fassung zum Einreichen vorbereiten, während die vollständige Aufnahme erhalten bleibt."

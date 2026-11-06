@@ -8,7 +8,7 @@ eyebrow: Trabajo
 title: "Grabar a tu jefe es lícito. Grabarlo todo puede costarte el empleo."
 description: "El Tribunal Supremo admitió la grabación de una carta de despido. Otro tribunal confirmó el despido de quien grabó dos mil llamadas. La diferencia no está en si grabaste, sino en cómo."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Puedo grabar una conversación con mi jefe sin decírselo?"
     a: "Con carácter general sí, siempre que participes en la conversación. La jurisprudencia admite la validez de estas grabaciones porque quien interviene en una conversación no vulnera el secreto de las comunicaciones del artículo 18.3 de la Constitución al registrarla. Grabar conversaciones ajenas en las que no intervienes es otra cosa distinta."

@@ -8,7 +8,7 @@ eyebrow: Aufnahme
 title: "„Automatische Aufnahme“ heißt nicht immer dasselbe"
 description: "Auf Android steht automatische Aufnahme für fünf recht verschiedene Dinge. Was jeweils die Aufnahme startet und welche Situationen jede Art verpasst."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Welche Arten automatischer Aufnahme-Apps gibt es auf Android?"
     a: "Grob fünf: Aufnahme, die beim Zustandekommen eines Anrufs startet, Aufnahme, die bei Geräuschen startet, Aufnahme zu einer festgelegten Uhrzeit, Aufnahme, die auch die Momente vor dem Start behält, und Aufnahme, die bei einem gewählten Wort startet."

@@ -8,12 +8,12 @@ eyebrow: Nahrávání
 title: "Proč tlačítko nahrávání mačkáte vždycky pozdě"
 description: "Když si uvědomíte, že by se rozhovor měl nahrát, nejdůležitější slova už zazněla. Dva způsoby, jak tu mezeru zavřít."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Může aplikace pro nahrávání uložit to, co zaznělo před stisknutím tlačítka?"
     a: "Většina aplikací pro nahrávání ukládá až od chvíle, kdy klepnete na nahrávání; všechno předtím je ztraceno. Některé aplikace v klidovém režimu drží posledních několik sekund zvuku a při spuštění je vloží na začátek souboru. TalkSafe ponechá 30 sekund před začátkem."
   - q: "Dá se nahrávání spustit hlasem místo klepnutí?"
-    a: "Ano. TalkSafe je aplikace pro nahrávání na Android, ve které si předem nastavíte slovo; když ho aplikace uslyší, nahrávání začne samo. Nemusíte odemykat telefon ani otevírat aplikaci, což se počítá, když máte plné ruce."
+    a: "Ano. TalkSafe je aplikace pro nahrávání na Android a iPhone, ve které si předem nastavíte slovo; když ho aplikace uslyší, nahrávání začne samo. Nemusíte odemykat telefon ani otevírat aplikaci, což se počítá, když máte plné ruce."
   - q: "Musí být klíčové slovo slovo, které řeknu já?"
     a: "Ne. Rozpoznávání není vázané na hlas, takže můžete nastavit i slovo, které v dané situaci pravděpodobně řekne druhá strana. Jedno slovo navíc pokryje mnoho vět: s „nahrát“ začne nahrávání u „Měl bych si to nahrát“ stejně jako u „Můžu si to nahrát?“."
   - q: "Odesílá se můj zvuk někam?"

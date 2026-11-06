@@ -11,7 +11,7 @@ description: "Un accordo a voce è un contratto. Il problema nasce quando si sco
 image: /assets/img/og/verbal-contract-it.png
 image_alt: "Come tredici paesi trattano il patto verbale diverso dal contratto: l'accordo a voce vincola, ma se c'è un contratto scritto vince lo scritto. Nei lavori di ristrutturazione, le variazioni proposte dall'impresa vanno autorizzate dal committente e l'autorizzazione si prova per iscritto (art. 1659 c.c.)."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Un contratto a voce è valido?"
     a: "In generale sì. Il codice civile richiede la forma scritta solo per i contratti indicati dalla legge: l'art. 1350 la prevede a pena di nullità, tra gli altri, per i contratti che trasferiscono la proprietà di beni immobili, per quelli che costituiscono usufrutto o servitù e per le locazioni di immobili di durata superiore a nove anni. Fuori da questi casi l'accordo a voce vincola. Nei lavori di ristrutturazione, l'appaltatore non può apportare variazioni non autorizzate dal committente, e l'autorizzazione si deve provare per iscritto (art. 1659 c.c.)."
@@ -26,7 +26,7 @@ faq:
   - q: "Posso registrare la riunione senza dirlo agli altri?"
     a: "Secondo l'orientamento consolidato della Cassazione, la registrazione effettuata da chi partecipa alla conversazione non costituisce intercettazione e non richiede autorizzazione. Diffondere la registrazione è un'altra questione e può violare la riservatezza."
   - q: "Come aiuta TalkSafe a lasciare traccia di una riunione?"
-    a: "TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così non serve interrompere la riunione per chiedere di registrare o prendere in mano il telefono."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così non serve interrompere la riunione per chiedere di registrare o prendere in mano il telefono."
 ---
 
 La riunione finisce come sempre.
@@ -139,7 +139,7 @@ Due cose funzionano.
 
 **Registrare la riunione a cui partecipi.** Per la Cassazione, la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è un altro: quando sei la parte piccola al tavolo, «posso registrare?» non è una cosa facile da dire.
 
-TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola scelta in anticipo. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così non serve interrompere la riunione per chiedere o prendere in mano il telefono.
+TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così non serve interrompere la riunione per chiedere o prendere in mano il telefono.
 
 Perché contano l'originale e i primi secondi quando una registrazione viene usata come prova è spiegato in [hai la registrazione e non riesci comunque a usarla](https://hcompany-kr.github.io/blog/it/recording-evidence/).
 

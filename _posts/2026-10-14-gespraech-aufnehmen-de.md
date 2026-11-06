@@ -11,7 +11,7 @@ description: "Wer ein Gespräch ohne Einwilligung aufnimmt, macht sich in Deutsc
 image: /assets/img/og/gespraech-aufnehmen-de.png
 image_alt: "Vergleich: eigenes Gespräch ohne Einwilligung aufnehmen ist in Deutschland und der Schweiz strafbar, in Österreich und Liechtenstein nicht; die Weitergabe ohne Zustimmung ist in Österreich strafbar."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Ist es in Deutschland strafbar, ein Gespräch heimlich aufzunehmen, an dem man selbst teilnimmt?"
     a: "Ja. Nach § 201 StGB wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft, wer unbefugt das nichtöffentlich gesprochene Wort eines anderen auf einen Tonträger aufnimmt oder eine so hergestellte Aufnahme gebraucht oder einem Dritten zugänglich macht. Das gilt auch für Gesprächsteilnehmer."
@@ -26,7 +26,7 @@ faq:
   - q: "Wann ist eine Aufnahme unproblematisch?"
     a: "Wenn alle Beteiligten eingewilligt haben – etwa bei einem vereinbarten Interview, einer Besprechung, die alle aufzeichnen lassen, oder eigenen Sprachnotizen. Mit Einwilligung ist die Aufnahme nicht unbefugt im Sinne von § 201 StGB."
   - q: "Wie lässt sich die Einwilligung am einfachsten mit aufnehmen?"
-    a: "In TalkSafe, einer Aufnahme-App für Android, legt man ein Wort aus der eigenen Frage als Schlüsselwort fest, etwa aufnehmen. Fragt man dann, ob man das Gespräch aufnehmen darf, beginnt die Aufnahme genau in diesem Moment, und die Antwort des Gegenübers ist in der Datei."
+    a: "In TalkSafe, einer Aufnahme-App für Android und iPhone, legt man ein Wort aus der eigenen Frage als Schlüsselwort fest, etwa aufnehmen. Fragt man dann, ob man das Gespräch aufnehmen darf, beginnt die Aufnahme genau in diesem Moment, und die Antwort des Gegenübers ist in der Datei."
 ---
 
 Ein Personalgespräch, in dem plötzlich von einer Abmahnung die Rede ist. Der Vermieter am Telefon, der die Kaution anders in Erinnerung hat. Irgendwann kommt der Gedanke: Das hätte ich aufnehmen sollen.
@@ -102,7 +102,7 @@ Was in keinem dieser Länder erlaubt ist: das Gespräch anderer aufnehmen. Das H
 
 ## Wo die App passt
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android, die bei einem **vorher festgelegten Wort** startet, bei **gesperrtem Bildschirm** funktioniert und die **30 Sekunden vor dem Start** mit in der Datei speichert. Sie nimmt auf, was das Mikrofon im Raum hört – also das Gespräch, an dem Sie teilnehmen. Einen versteckten Modus gibt es nicht.
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet, bei **gesperrtem Bildschirm** funktioniert und die **30 Sekunden vor dem Start** mit in der Datei speichert. Sie nimmt auf, was das Mikrofon im Raum hört – also das Gespräch, an dem Sie teilnehmen. Einen versteckten Modus gibt es nicht.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-de.jpg" alt="Schlüsselwort-Einstellungen in TalkSafe. Schlüsselwörter werden über die Mikrofon-Taste hinzugefügt und darunter aufgelistet." width="540" height="960" loading="lazy"><figcaption>Schlüsselwort-Einstellungen. Sie können mehrere Wörter hinterlegen; es reicht, wenn eines davon erkannt wird.</figcaption></figure>
 

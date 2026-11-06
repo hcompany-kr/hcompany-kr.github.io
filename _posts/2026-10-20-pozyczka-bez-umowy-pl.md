@@ -10,7 +10,7 @@ description: "Pożyczka powyżej 1000 zł wymaga formy dokumentowej, ale bez nie
 image: /assets/img/og/pozyczka-bez-umowy-pl.png
 image_alt: "Pożyczka bez umowy w Polsce: umowa bez formy dokumentowej jest ważna, ogranicza tylko dowody (art. 74 k.c.); wiadomość od dłużnika może uprawdopodobnić pożyczkę; uznanie długu przerywa przedawnienie (art. 123 § 1 pkt 2 k.c.); nagranie rozmowy, w której się uczestniczy, co do zasady dozwolone."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czy pożyczka bez umowy jest ważna?"
     a: "Tak. Art. 720 § 2 Kodeksu cywilnego wymaga dla pożyczki powyżej 1000 zł formy dokumentowej, ale jej niezachowanie nie powoduje nieważności. Skutkiem są ograniczenia dowodowe z art. 74: w sporze dowód ze świadków lub z przesłuchania stron jest dopuszczalny m.in. wtedy, gdy obie strony się na to zgodzą albo gdy fakt zawarcia umowy zostanie uprawdopodobniony za pomocą dokumentu."
@@ -81,7 +81,7 @@ O pieniądzach rozmawia się przy stole albo przez telefon, nie na piśmie. **Ar
 
 „Mogę to nagrać?” to jednak nie jest coś, co mówi się staremu znajomemu.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc możesz ustawić to, co dłużnik prawdopodobnie powie: **„oddam”**, **„zwrócę”**. Gdy powie „Oddam ci w przyszłym miesiącu”, nagrywanie się zaczyna — a to, co padło wcześniej, też jest w pliku.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać na **wcześniej wybrane słowo**, działa przy **zablokowanym ekranie** i zapisuje w pliku **30 sekund sprzed startu**. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc możesz ustawić to, co dłużnik prawdopodobnie powie: **„oddam”**, **„zwrócę”**. Gdy powie „Oddam ci w przyszłym miesiącu”, nagrywanie się zaczyna — a to, co padło wcześniej, też jest w pliku.
 
 <figure class="shot"><img src="/assets/img/screens/start-pl.jpg" alt="Ekran startowy TalkSafe z przyciskami do uruchomienia wykrywania na żywo i ręcznego nagrywania." width="540" height="960" loading="lazy"><figcaption>Ekran startowy TalkSafe. Przy włączonym wykrywaniu na żywo nagrywanie zaczyna się, gdy zostanie wykryte ustawione słowo; przyciskiem można też nagrać od razu.</figcaption></figure>
 

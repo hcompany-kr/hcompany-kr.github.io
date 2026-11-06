@@ -10,7 +10,7 @@ description: "No Brasil, quem se afasta do local do acidente para fugir à respo
 image: /assets/img/og/acidente-de-transito-o-que-fazer-pt-br.png
 image_alt: "Acidente de trânsito no Brasil e em Portugal: no Brasil, prestar socorro (art. 176 CTB) e não fugir do local (art. 305, constitucional pelo STF); gravar a própria conversa é prova lícita; em Portugal, declaração amigável à seguradora em até 8 dias, e gravar sem consentimento é crime (art. 199.º CP)."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "O que fazer logo depois de um acidente de trânsito no Brasil?"
     a: "Pare, sinalize o local e, se houver vítima, preste ou providencie socorro e chame o SAMU (192) e a polícia. Deixar de prestar ou providenciar socorro em acidente com vítima é infração gravíssima pelo art. 176 do Código de Trânsito Brasileiro. Depois, registre o boletim de ocorrência; em acidentes sem vítima, vários estados permitem o registro pela internet."
@@ -68,7 +68,7 @@ Aqui o Brasil é favorável a quem estava na conversa. O STF fixou no **Tema 237
 
 O problema é o momento. Você acabou de bater, o coração dispara, precisa tirar o carro da pista, e o outro motorista já está vindo. Ninguém, nesse estado, tira o celular, abre um app e aperta um botão. E **a frase que importa chega nos primeiros dez segundos** – a estrutura de [Por que apertar gravar é sempre tarde demais](/blog/pt-br/recording-delay/), na sua forma mais extrema.
 
-O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**, com a **tela bloqueada**, sem desbloquear o celular nem abrir o app. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que **o outro motorista** costuma dizer numa batida: "seguro", "não vi". Cadastrar **duas palavras que costumam aparecer na mesma frase** – "não te vi, meu seguro cobre" – deixa a detecção mais precisa. Os **30 segundos anteriores** ficam no arquivo, então a frase dita antes de você perceber não se perde.
+O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes**, com a **tela bloqueada**, sem desbloquear o celular nem abrir o app. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que **o outro motorista** costuma dizer numa batida: "seguro", "não vi". Cadastrar **duas palavras que costumam aparecer na mesma frase** – "não te vi, meu seguro cobre" – deixa a detecção mais precisa. Os **30 segundos anteriores** ficam no arquivo, então a frase dita antes de você perceber não se perde.
 
 <figure class="shot"><img src="/assets/img/screens/active-pt-br.jpg" alt="Tela do TalkSafe com a detecção de palavras-chave ativa e o botão Parar." width="540" height="960" loading="lazy"><figcaption>Detecção de palavras-chave ativa. Continua ouvindo em segundo plano com a tela apagada ou o app fechado.</figcaption></figure>
 

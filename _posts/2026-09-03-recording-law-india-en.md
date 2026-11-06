@@ -9,7 +9,7 @@ eyebrow: Law
 title: "In India the recording is the easy part. The certificate is not."
 description: "Recording a call you are in is generally permitted. Getting it into court now needs a certificate signed by an expert and a hash value — and in July 2025 the Supreme Court let a husband's secret recordings into a divorce case."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is it legal to record a phone call you are part of in India?"
     a: "Recording a conversation you are a participant in is generally treated as permitted and is not explicitly made illegal by Indian law, and it can be done without the other party's consent. It is not free of tension with the right to privacy under Article 21 of the Constitution, but that tension has not made participant recording unlawful in itself."

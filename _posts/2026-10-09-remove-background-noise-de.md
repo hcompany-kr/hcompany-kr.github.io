@@ -8,7 +8,7 @@ eyebrow: Anleitung
 title: "Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android"
 description: "Verkehr, Wind, ein Café im Rücken. Vier Wege, ein aufgenommenes Gespräch zu bereinigen – auf dem Telefon beim Aufnehmen, auf dem Telefon danach, am Computer oder per Upload – und welche davon mit Straßenlärm umgehen."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Wie entferne ich Hintergrundgeräusche aus einer Sprachaufnahme auf Android?"
     a: "Es gibt vier Wege: eine Aufnahme-App, die schon beim Aufnehmen Geräusche reduziert, etwa Clear voice in Googles Rekorder-App auf der Pixel-9-Serie; eine App, die die Datei danach auf dem Telefon bereinigt, etwa die KI-Rauschentfernung von TalkSafe; Software am Computer wie der Effekt Rauschverminderung in Audacity; oder ein Webdienst, auf den man die Datei hochlädt, etwa Adobe Podcast Enhance Speech."

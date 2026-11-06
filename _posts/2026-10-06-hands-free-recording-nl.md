@@ -8,10 +8,10 @@ eyebrow: Handleiding
 title: "Een opname starten zonder je telefoon aan te raken"
 description: "Vier manieren om op Android handsfree een opname te starten, wat elk ervan echt vereist en welke werken met een vergrendeld scherm en de telefoon in je zak."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Is er een app die begint met opnemen bij een bepaald woord?"
-    a: "Ja. TalkSafe is een opname-app voor Android die begint met opnemen zodra hij een vooraf gekozen woord hoort, zonder dat je de telefoon ontgrendelt of de app opent. Daarbij worden ook de 30 seconden vóór de trigger bewaard."
+    a: "Ja. TalkSafe is een opname-app voor Android en iPhone die begint met opnemen zodra hij een vooraf gekozen woord hoort, zonder dat je de telefoon ontgrendelt of de app opent. Daarbij worden ook de 30 seconden vóór de trigger bewaard."
   - q: "Kan een telefoon een opname starten als het scherm vergrendeld is?"
     a: "Ja, als de app draait als voorgronddienst met een vaste melding. Zo werkt TalkSafe: het luisteren gebeurt op de achtergrond, en de opname start bij het trefwoord ook als het scherm uit is en de telefoon in je zak zit."
   - q: "Kun je opnemen wat er gezegd werd voordat je op opnemen drukte?"
@@ -71,7 +71,7 @@ Toch zijn er drie problemen.
 
 Deze categorie is precies voor dit probleem gemaakt. De app luistert naar woorden die je vooraf hebt gekozen en begint met opnemen zodra hij er een hoort.
 
-[TalkSafe](/talksafe/nl/) is een Android-app die zo werkt. De woordherkenning gebeurt op het toestel, de opname begint **met een vergrendeld scherm en de telefoon in je zak**, en op het moment van de start is er geen geluid en geen zichtbare verandering.
+[TalkSafe](/talksafe/nl/) is een app voor Android en iPhone die zo werkt. De woordherkenning gebeurt op het toestel, de opname begint **met een vergrendeld scherm en de telefoon in je zak**, en op het moment van de start is er geen geluid en geen zichtbare verandering.
 
 <figure class="shot"><img src="/assets/img/screens/active-nl.jpg" alt="TalkSafe-scherm met actieve trefwoordherkenning en een Stop-knop." width="540" height="960" loading="lazy"><figcaption>Trefwoordherkenning actief. De app blijft op de achtergrond luisteren, ook met het scherm uit of de app gesloten.</figcaption></figure>
 

@@ -8,7 +8,7 @@ eyebrow: Law
 title: "Is it legal to record a conversation you're in?"
 description: "Federal law says yes. Your state might say otherwise. The line that actually matters, and where people get it wrong."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can I record a conversation I'm part of without telling anyone?"
     a: "Under federal law, yes. The Wiretap Act permits recording when one party consents, and as a participant you are that party. About a dozen states go further and require everyone's consent, so the answer depends on where you are."

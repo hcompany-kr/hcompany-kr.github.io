@@ -8,12 +8,12 @@ eyebrow: Gravação
 title: "Por que apertar gravar é sempre tarde demais"
 description: "Quando você percebe que uma conversa precisa ser gravada, as palavras que importavam já foram ditas. Dois jeitos de fechar essa lacuna."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Um app de gravação consegue salvar o áudio de antes de eu apertar gravar?"
     a: "A maioria dos gravadores só salva a partir do momento em que você toca em gravar; o que veio antes se perde. Alguns apps guardam os últimos segundos de áudio enquanto estão parados e os colocam no começo do arquivo quando a gravação começa. O TalkSafe guarda os 30 segundos anteriores."
   - q: "Dá para começar a gravar pela voz em vez de tocar na tela?"
-    a: "Sim. TalkSafe é um app de gravação de voz para Android em que você escolhe uma palavra antes; quando o app a ouve, a gravação começa sozinha. Não é preciso desbloquear o celular nem abrir o app, o que faz diferença quando as mãos estão ocupadas."
+    a: "Sim. TalkSafe é um app de gravação de voz para Android e iPhone em que você escolhe uma palavra antes; quando o app a ouve, a gravação começa sozinha. Não é preciso desbloquear o celular nem abrir o app, o que faz diferença quando as mãos estão ocupadas."
   - q: "A palavra-chave precisa ser uma que eu mesmo diga?"
     a: "Não. A detecção não está ligada a uma voz, então dá para escolher uma palavra que a outra pessoa provavelmente vai dizer. Uma única palavra também cobre muitas frases: com gravar, a gravação começa tanto quando você diz que deveria gravar aquilo quanto quando pergunta se pode gravar."
   - q: "Meu áudio é enviado para algum lugar?"

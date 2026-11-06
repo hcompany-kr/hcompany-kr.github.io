@@ -8,7 +8,7 @@ eyebrow: Law
 title: "Nine states are strict. The rest of the list is an argument."
 description: "Every published list of all-party consent states disagrees with every other one. Here is which states are settled, which are genuinely contested, and why the count keeps changing."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Which states require all-party consent to record a conversation?"
     a: "Nine are settled by statute: California, Florida, Illinois, Maryland, Massachusetts, Montana, New Hampshire, Pennsylvania, and Washington. Several more are commonly listed but apply different rules to phone calls than to in-person conversations, which is why published counts range from nine to fifteen."

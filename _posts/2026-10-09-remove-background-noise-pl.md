@@ -8,7 +8,7 @@ eyebrow: Poradnik
 title: "Jak usunąć hałas w tle z nagrania głosu na Androidzie"
 description: "Ruch uliczny, wiatr, kawiarnia za plecami. Cztery sposoby na oczyszczenie nagranej rozmowy — na telefonie podczas nagrywania, na telefonie potem, na komputerze albo przez wysłanie pliku — i które z nich radzą sobie z hałasem ulicy."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Jak usunąć hałas w tle z nagrania głosu na Androidzie?"
     a: "Są cztery drogi: aplikacja, która redukuje hałas już podczas nagrywania, jak Clear voice w aplikacji Dyktafon Google na serii Pixel 9; aplikacja, która czyści plik potem na telefonie, jak usuwanie szumów z AI w TalkSafe; program na komputer, jak efekt Redukcja szumów w Audacity; albo usługa internetowa, do której wysyła się plik, jak Adobe Podcast Enhance Speech."

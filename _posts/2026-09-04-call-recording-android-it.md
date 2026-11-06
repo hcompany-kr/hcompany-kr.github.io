@@ -8,7 +8,7 @@ eyebrow: Come si fa
 title: "Perché le app per registrare le chiamate non funzionano più su Android"
 description: "Android ha tolto l'API nel 2015, chiuso la via del microfono nel 2019 e a maggio 2022 Google ha tappato l'ultima scorciatoia. Il dialer di serie non è mai rientrato nel divieto, ed è per questo che ad alcuni funziona e ad altri no."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Perché le app per registrare le chiamate non funzionano più su Android?"
     a: "Android 6, del 2015, ha rimosso l'API per la registrazione delle chiamate. Android 10, del 2019, ha bloccato la registrazione attraverso il microfono. Gli sviluppatori sono passati alla API di accessibilità come scorciatoia e l'11 maggio 2022 Google ha chiuso anche quella, precisando che quella API non era stata progettata per registrare l'audio delle chiamate. Le app di terze parti sono state rimosse dal Play Store."

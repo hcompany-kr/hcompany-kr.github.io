@@ -10,14 +10,14 @@ description: "Détectives privés, journalistes, experts d'assurance, enquêteur
 image: /assets/img/og/interview-recording-fr.png
 image_alt: "Deux façons d'enregistrer un entretien : poser l'enregistreur fait choisir ses mots à l'interlocuteur ; avec un mot de sa propre question comme mot-clé, l'enregistrement démarre au moment où l'on demande, et le oui est dans le fichier."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Un détective privé peut-il enregistrer une conversation à laquelle il participe ?"
     a: "En France, pas sans consentement. L'article 226-1 du Code pénal punit d'un an d'emprisonnement et de 45 000 euros d'amende le fait d'enregistrer sans consentement des paroles prononcées à titre privé ou confidentiel, même lorsqu'on participe à la conversation. En Belgique, la Cour de cassation a confirmé en 2015 qu'un participant qui enregistre ne commet pas d'infraction ; au Québec, le Code criminel permet au participant d'enregistrer ; en Suisse, l'article 179ter du Code pénal punit sur plainte le participant qui enregistre sans consentement."
   - q: "Pourquoi un enregistreur visible change-t-il un entretien ?"
     a: "Dès que l'appareil est visible, les gens commencent à choisir leurs mots pour le procès-verbal. Les réponses raccourcissent et deviennent prudentes, et le détail recherché n'est plus donné qu'enregistreur éteint. Sortir son téléphone en pleine conversation pour lancer l'enregistrement crée le même moment."
   - q: "Comment demander l'autorisation d'enregistrer sans casser l'entretien ?"
-    a: "Dans TalkSafe, une application d'enregistrement pour Android, choisissez comme mot-clé un mot de votre propre question, par exemple enregistrer. Quand vous demandez si vous pouvez enregistrer, l'enregistrement commence à cet instant et la réponse figure dans le fichier, sans avoir à allumer d'abord un appareil à la vue de tous."
+    a: "Dans TalkSafe, une application d'enregistrement pour Android et iPhone, choisissez comme mot-clé un mot de votre propre question, par exemple enregistrer. Quand vous demandez si vous pouvez enregistrer, l'enregistrement commence à cet instant et la réponse figure dans le fichier, sans avoir à allumer d'abord un appareil à la vue de tous."
   - q: "Existe-t-il une application qui enregistre sans sortir le téléphone ?"
     a: "TalkSafe démarre sur un mot choisi à l'avance, fonctionne écran verrouillé et conserve les 30 secondes précédant le démarrage. Le mot-clé n'est pas lié à votre voix. Là où le consentement est exigé, le meilleur mot-clé est un mot de votre propre question."
   - q: "Un enregistrement clandestin peut-il servir de preuve en France ?"
@@ -69,7 +69,7 @@ Enregistrer la conversation des autres — laisser un appareil dans une pièce e
 
 Demander ne veut pas dire interrompre. Il suffit que la question elle-même lance l'enregistrement.
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot de votre propre question, par exemple **« enregistrer »**. Vous demandez « Je peux enregistrer ? » — et l'enregistrement commence à cet instant. Le « oui » est dans le fichier. Pas d'appareil à allumer d'abord à la vue de tous, pas de main qui plonge dans la poche.
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot de votre propre question, par exemple **« enregistrer »**. Vous demandez « Je peux enregistrer ? » — et l'enregistrement commence à cet instant. Le « oui » est dans le fichier. Pas d'appareil à allumer d'abord à la vue de tous, pas de main qui plonge dans la poche.
 
 <figure class="shot"><img src="/assets/img/screens/active-fr.jpg" alt="Écran de TalkSafe avec la détection des mots-clés active et le bouton Arrêter." width="540" height="960" loading="lazy"><figcaption>Détection des mots-clés active. L'application continue d'écouter en arrière-plan, écran éteint ou application fermée.</figcaption></figure>
 

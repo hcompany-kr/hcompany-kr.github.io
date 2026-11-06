@@ -8,7 +8,7 @@ eyebrow: Lavoro
 title: "Sono 40 euro per ogni fattura, e quasi nessuno li chiede"
 description: "Gli interessi decorrono da soli, senza costituzione in mora, e i 40 euro spettano comunque. Il problema è un altro: quello che vi siete detti alla riunione iniziale non è scritto da nessuna parte."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Entro quanto tempo va pagata una fattura tra imprese?"
     a: "Il D.Lgs. 231/2002 prevede un termine di 30 giorni dal ricevimento della fattura, salva diversa pattuizione tra le parti. Le nuove disposizioni introdotte dal D.Lgs. 192/2012 si applicano ai pagamenti relativi alle transazioni commerciali concluse a decorrere dal 1 gennaio 2013."

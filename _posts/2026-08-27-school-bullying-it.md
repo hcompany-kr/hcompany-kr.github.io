@@ -8,7 +8,7 @@ eyebrow: Scuola
 title: "La segnalazione scritta fa partire un orologio di 48 ore"
 description: "Dal 2024 il bullismo segue lo stesso regime del cyberbullismo. Il dirigente deve intervenire entro 48 ore dalla segnalazione e tenerne traccia documentata — e nella responsabilità della scuola l'onere della prova è già ribaltato."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Quale legge regola il bullismo a scuola in Italia?"
     a: "La legge 29 maggio 2017 n. 71, nata per il cyberbullismo, estesa dalla legge 17 maggio 2024 n. 70 anche al bullismo tradizionale. Oggi bullismo e cyberbullismo seguono lo stesso iter di contrasto, e ogni istituto deve adottare un codice interno e istituire un tavolo permanente di monitoraggio."

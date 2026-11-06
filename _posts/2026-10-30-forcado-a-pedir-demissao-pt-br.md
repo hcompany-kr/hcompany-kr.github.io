@@ -10,7 +10,7 @@ description: "No Brasil, o pedido de demissão feito sob coação pode ser anula
 image: /assets/img/og/forcado-a-pedir-demissao-pt-br.png
 image_alt: "Forçado a pedir demissão no Brasil e em Portugal: pedido sob coação pode ser anulado, com prova do empregado; pedido de demissão sem multa do FGTS nem seguro-desemprego; acordo do art. 484-A com metade da multa, saque de 80% e sem seguro-desemprego; gravar a própria conversa é prova lícita no Brasil e crime sem consentimento em Portugal."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "O pedido de demissão feito sob pressão do empregador vale?"
     a: "Um pedido de demissão obtido por coação pode ser anulado pela Justiça do Trabalho e convertido em dispensa sem justa causa, mas cabe ao empregado provar o vício de consentimento. Os tribunais não reconhecem coação quando a empresa apenas aconselha o empregado a pedir demissão diante da possibilidade real de uma dispensa por justa causa."
@@ -84,7 +84,7 @@ Aqui o Brasil é favorável ao empregado. O STF fixou no **Tema 237 de repercuss
 
 O problema é o momento. A conversa é marcada em cima da hora, dura dez minutos, e a frase que importa — "se não pedir, vai ser por justa causa" — vem sem aviso. Até você tirar o celular do bolso, desbloquear e apertar gravar, já passou.
 
-O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes**. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que **o outro lado** costuma dizer nessa conversa: "acordo", "justa causa", "pedir demissão". Funciona com a **tela bloqueada**, e os **30 segundos anteriores** ficam no arquivo — a frase que fez você perceber o que estava acontecendo não se perde.
+O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes**. As palavras são reconhecidas **seja quem for que as diga**, então dá para escolher o que **o outro lado** costuma dizer nessa conversa: "acordo", "justa causa", "pedir demissão". Funciona com a **tela bloqueada**, e os **30 segundos anteriores** ficam no arquivo — a frase que fez você perceber o que estava acontecendo não se perde.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-pt-br.jpg" alt="Tela de palavras-chave do TalkSafe. As palavras são adicionadas pelo botão do microfone e aparecem em uma lista." width="540" height="960" loading="lazy"><figcaption>Configuração de palavras-chave. Dá para cadastrar várias; basta uma delas ser detectada para a gravação começar.</figcaption></figure>
 

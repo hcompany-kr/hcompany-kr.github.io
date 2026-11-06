@@ -8,7 +8,7 @@ eyebrow: Grabación
 title: "Lo que separa a las grabadoras no es el sonido, es cuándo empiezan"
 description: "Grabadoras ocultas, dispositivos VOX, tomadores de notas con IA, aplicaciones de móvil. Qué te queda de cada uno al final del día y cuáles puedes buscar después."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué es el VOX en una grabadora?"
     a: "Es la activación por sonido. El aparato permanece en espera hasta que detecta ruido, entonces graba mientras el sonido continúa y se detiene cuando cesa. Como no funciona de forma continua consume mucha menos batería, y por eso estos dispositivos anuncian autonomías en espera medidas en meses en lugar de horas."
@@ -90,7 +90,7 @@ Dos versiones.
 
 **Una aplicación que arranca por palabra** empieza cuando oye un término que fijaste de antemano. El archivo empieza **en el momento**, no a las nueve de la mañana, así que después no hay nada que rebuscar.
 
-Trabajamos en esta categoría, así que lee lo siguiente con eso presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) es una aplicación de Android que arranca con una palabra que eliges, funciona con la pantalla bloqueada y guarda **los 30 segundos anteriores al inicio** junto con el archivo, que es precisamente la respuesta al problema de la sílaba perdida del VOX. Al recortar un fragmento, el original se conserva en lugar de sustituirse. Una grabación hecha en un sitio ruidoso, como la calle, puede limpiarse después con la eliminación de ruido con IA, que se procesa en el dispositivo y guarda un archivo nuevo junto al original.
+Trabajamos en esta categoría, así que lee lo siguiente con eso presente. [TalkSafe](https://hcompany-kr.github.io/talksafe/) es una aplicación para Android y iPhone que arranca con una palabra que eliges, funciona con la pantalla bloqueada y guarda **los 30 segundos anteriores al inicio** junto con el archivo, que es precisamente la respuesta al problema de la sílaba perdida del VOX. Al recortar un fragmento, el original se conserva en lugar de sustituirse. Una grabación hecha en un sitio ruidoso, como la calle, puede limpiarse después con la eliminación de ruido con IA, que se procesa en el dispositivo y guarda un archivo nuevo junto al original.
 
 <figure class="shot"><img src="/assets/img/screens/start-es.jpg" alt="Pantalla de inicio de TalkSafe con botones para iniciar la detección en tiempo real y una grabación manual." width="540" height="960" loading="lazy"><figcaption>Pantalla de inicio de TalkSafe. Con la detección en tiempo real activada, la grabación empieza cuando se detecta una palabra elegida; también puedes grabar al momento con el botón.</figcaption></figure>
 

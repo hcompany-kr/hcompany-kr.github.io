@@ -8,10 +8,10 @@ eyebrow: Come si fa
 title: "Come iniziare a registrare senza toccare il telefono"
 description: "Quattro modi per avviare una registrazione senza le mani su Android, cosa richiede ciascuno, e quale continua a funzionare a schermo bloccato con il telefono in tasca."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Esiste un'app che inizia a registrare quando sente una parola precisa?"
-    a: "Sì. TalkSafe è un registratore vocale per Android che inizia a registrare quando sente una parola fissata in anticipo dall'utente, senza sbloccare il telefono né aprire l'app. Salva inoltre i 30 secondi di audio precedenti al momento in cui è partita."
+    a: "Sì. TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola fissata in anticipo dall'utente, senza sbloccare il telefono né aprire l'app. Salva inoltre i 30 secondi di audio precedenti al momento in cui è partita."
   - q: "La registrazione può partire a schermo bloccato?"
     a: "Sì, se l'app funziona come servizio in primo piano con una notifica permanente. TalkSafe funziona così: l'ascolto avviene in background e la registrazione parte alla parola chiave anche con lo schermo spento e il telefono in tasca o in borsa."
   - q: "Si può salvare l'audio precedente alla pressione del tasto registra?"
@@ -69,7 +69,7 @@ Ci sono però tre problemi.
 
 È la categoria pensata per questo problema. L'app ascolta parole scelte in anticipo e inizia a registrare quando ne sente una.
 
-[TalkSafe](https://hcompany-kr.github.io/talksafe/it/) è un'app Android che funziona così. Il riconoscimento avviene sul dispositivo, la registrazione parte **a schermo bloccato e con il telefono in tasca**, e non c'è alcun suono né cambiamento visibile nel momento in cui inizia.
+[TalkSafe](https://hcompany-kr.github.io/talksafe/it/) è un'app per Android e iPhone che funziona così. Il riconoscimento avviene sul dispositivo, la registrazione parte **a schermo bloccato e con il telefono in tasca**, e non c'è alcun suono né cambiamento visibile nel momento in cui inizia.
 
 <figure class="shot"><img src="/assets/img/screens/active-it.jpg" alt="Schermata di TalkSafe con il rilevamento delle parole chiave attivo e il pulsante Interrompi." width="540" height="960" loading="lazy"><figcaption>Rilevamento delle parole chiave attivo. Continua ad ascoltare in background con lo schermo spento o l'app chiusa.</figcaption></figure>
 

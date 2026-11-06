@@ -10,7 +10,7 @@ description: "En France, le harcèlement est puni dès lors que des propos ou co
 image: /assets/img/og/harcelement-preuves-fr.png
 image_alt: "Harcèlement et stalking en France, Belgique, Suisse et Québec : puni partout, en Suisse au titre du stalking depuis 2026 ; enregistrer ses appels sans consentement est un délit en France et en Suisse, permis en Belgique et au Québec ; un journal enregistré avec sa propre voix juste après les faits ne pose pas de difficulté."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Le stalking est-il un délit en France ?"
     a: "Oui, au titre du harcèlement. L'article 222-33-2-2 du Code pénal punit le fait de harceler une personne par des propos ou comportements répétés ayant pour objet ou pour effet une dégradation de ses conditions de vie se traduisant par une altération de sa santé physique ou mentale. La peine est d'un an d'emprisonnement et de 15 000 euros d'amende lorsque l'incapacité totale de travail est inférieure ou égale à huit jours ou inexistante, et elle est aggravée dans certains cas."
@@ -69,7 +69,7 @@ Devant le **juge pénal**, l'**article 427 du Code de procédure pénale** perme
 
 Ce qui ne pose aucune difficulté, c'est **votre propre voix**. Enregistrer, juste après les faits, **ce qui s'est passé, où, quand, ce qui a été dit et qui était là**, ce n'est pas enregistrer les paroles d'autrui. Plus c'est proche des faits, plus c'est précis.
 
-Le problème : juste après, les mains tremblent, et vous ne voulez pas sortir le téléphone sous ses yeux. [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » ; dès que vous le dites, le mémo vocal commence — le téléphone reste dans la poche. Lors d'une découpe, **l'original est conservé**.
+Le problème : juste après, les mains tremblent, et vous ne voulez pas sortir le téléphone sous ses yeux. [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » ; dès que vous le dites, le mémo vocal commence — le téléphone reste dans la poche. Lors d'une découpe, **l'original est conservé**.
 
 <figure class="shot"><img src="/assets/img/screens/before30-fr.jpg" alt="Écran de l'historique des enregistrements de TalkSafe. Chaque fois qu'un mot-clé est détecté, un enregistrement est sauvegardé avec la date et l'heure." width="540" height="960" loading="lazy"><figcaption>Historique des enregistrements. Chaque fichier contient aussi les 30 secondes qui précèdent la détection du mot-clé.</figcaption></figure>
 

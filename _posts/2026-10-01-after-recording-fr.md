@@ -9,7 +9,7 @@ eyebrow: Pratique
 title: "Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire"
 description: "Comment garder le fichier, le réduire à ce qui compte et où le remettre. Et pourquoi le diffuser obéit à ses propres règles en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Peut-on ne garder que la partie utile d'un enregistrement ?"
     a: "TalkSafe a une fonction de découpe. Elle laisse l'original intact et enregistre la partie sélectionnée dans un nouveau fichier. On peut ainsi préparer une version courte à remettre tout en conservant l'enregistrement complet."

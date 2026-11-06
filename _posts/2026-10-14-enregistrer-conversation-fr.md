@@ -10,7 +10,7 @@ description: "En France et en Suisse, enregistrer sans consentement des paroles 
 image: /assets/img/og/enregistrer-conversation-fr.png
 image_alt: "Comparaison : enregistrer sa propre conversation sans consentement est puni en France et en Suisse, permis pour le participant en Belgique et au Québec."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Est-il illégal d'enregistrer une conversation à l'insu de quelqu'un en France ?"
     a: "Oui, si les paroles sont prononcées à titre privé ou confidentiel. L'article 226-1 du Code pénal punit d'un an d'emprisonnement et de 45 000 euros d'amende le fait d'enregistrer sans consentement de telles paroles, même lorsqu'on participe à la conversation. L'article 226-2 punit aussi le fait de conserver, de porter à la connaissance du public ou d'un tiers ou d'utiliser un tel enregistrement."
@@ -25,7 +25,7 @@ faq:
   - q: "En Suisse, peut-on enregistrer une conversation à laquelle on participe ?"
     a: "Pas sans le consentement des autres. L'article 179ter du Code pénal punit, sur plainte, le participant qui enregistre une conversation non publique sans leur consentement. L'article 179quinquies exclut l'enregistrement des appels dans les relations d'affaires qui portent sur des commandes, mandats, réservations et opérations semblables."
   - q: "Quel est le moyen le plus simple d'enregistrer avec consentement ?"
-    a: "Dans TalkSafe, une application d'enregistrement pour Android, choisissez comme mot-clé un mot de votre propre question, par exemple enregistrer. Quand vous demandez si vous pouvez enregistrer la conversation, l'enregistrement commence à cet instant et la réponse de votre interlocuteur figure dans le fichier."
+    a: "Dans TalkSafe, une application d'enregistrement pour Android et iPhone, choisissez comme mot-clé un mot de votre propre question, par exemple enregistrer. Quand vous demandez si vous pouvez enregistrer la conversation, l'enregistrement commence à cet instant et la réponse de votre interlocuteur figure dans le fichier."
 ---
 
 Un entretien où l'on vous parle soudain de rupture conventionnelle. Un propriétaire qui ne se souvient plus de la même façon du dépôt de garantie. À un moment, la pensée arrive : j'aurais dû enregistrer.
@@ -105,7 +105,7 @@ Ce qu'aucun de ces pays ne permet : enregistrer la conversation des autres. Lais
 
 ## Où l'application trouve sa place
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance**, fonctionne **écran verrouillé** et conserve dans le fichier les **30 secondes précédant** le démarrage. Elle enregistre ce que le micro entend dans la pièce — la conversation à laquelle vous participez. Elle n'a pas de mode caché.
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance**, fonctionne **écran verrouillé** et conserve dans le fichier les **30 secondes précédant** le démarrage. Elle enregistre ce que le micro entend dans la pièce — la conversation à laquelle vous participez. Elle n'a pas de mode caché.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-fr.jpg" alt="Écran des mots-clés de TalkSafe. Les mots-clés s'ajoutent avec le bouton du micro et s'affichent en liste." width="540" height="960" loading="lazy"><figcaption>Réglages des mots-clés. Vous pouvez en enregistrer plusieurs ; il suffit que l'un d'eux soit détecté pour que l'enregistrement démarre.</figcaption></figure>
 

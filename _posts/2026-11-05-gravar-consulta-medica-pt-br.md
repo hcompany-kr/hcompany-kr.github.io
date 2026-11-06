@@ -10,7 +10,7 @@ description: "Segundo uma revisão de 2003, 40% a 80% das informações médicas
 image: /assets/img/og/gravar-consulta-medica-pt-br.png
 image_alt: "Gravar consulta médica no Brasil e em Portugal: no Brasil a gravação pelo paciente é prova lícita (Tema 237), conselhos recomendam a concordância do médico; cópia do prontuário é direito do paciente (art. 88 do Código de Ética Médica); em Portugal, gravar sem consentimento é crime (art. 199.º CP)."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Gravar consulta médica é crime?"
     a: "Não, no Brasil. O STF fixou no Tema 237 de repercussão geral (RE 583.937) que é lícita a prova consistente em gravação ambiental feita por um dos interlocutores sem o conhecimento do outro, e o paciente é interlocutor da consulta. Gravar conversas das quais você não participa é crime (Lei 9.296, art. 10)."
@@ -23,7 +23,7 @@ faq:
   - q: "E em Portugal?"
     a: "Em Portugal, o artigo 199.º do Código Penal pune quem, sem consentimento, grava palavras não destinadas ao público, mesmo que lhe sejam dirigidas. Gravar a consulta só é possível com o consentimento do médico; o mais simples é pedir logo no início."
   - q: "Como o TalkSafe ajuda na consulta?"
-    a: "O TalkSafe é um app de gravação para Android que começa a gravar quando ouve uma palavra escolhida antes, com a tela bloqueada. Com 'gravar' como palavra-chave, a gravação começa quando você pergunta 'Posso gravar, para não esquecer nada em casa?', e a resposta do médico fica no arquivo, junto com os 30 segundos anteriores. Não é preciso mexer no celular dentro do consultório."
+    a: "O TalkSafe é um app de gravação para Android e iPhone que começa a gravar quando ouve uma palavra escolhida antes, com a tela bloqueada. Com 'gravar' como palavra-chave, a gravação começa quando você pergunta 'Posso gravar, para não esquecer nada em casa?', e a resposta do médico fica no arquivo, junto com os 30 segundos anteriores. Não é preciso mexer no celular dentro do consultório."
 ---
 
 Você entra com três perguntas. A médica responde, acrescenta algo sobre a dose, fala no que observar, e a consulta acaba em onze minutos.
@@ -66,7 +66,7 @@ O que não está em prontuário nenhum: o comentário no fim da consulta, como a
 
 Tirar o celular, desbloquear, procurar o app, apertar gravar – bem na hora em que a médica começa a explicar. Isso corta a conversa e custa as primeiras frases.
 
-O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android que começa a gravar quando ouve uma **palavra escolhida antes** – com a **tela bloqueada**, sem desbloquear o celular nem abrir o app. Ponha a palavra na sua pergunta: com "gravar", a gravação começa quando você pergunta "Posso gravar, para não esquecer nada em casa?", e a resposta fica no arquivo, junto com os **30 segundos anteriores**. Cadastrar uma segunda palavra da mesma frase, como "esquecer", deixa a detecção mais precisa. Mais em [Primeiro você diz alguma coisa](/blog/pt-br/say-it-first/).
+O [TalkSafe](/talksafe/pt-br/) é um app de gravação para Android e iPhone que começa a gravar quando ouve uma **palavra escolhida antes** – com a **tela bloqueada**, sem desbloquear o celular nem abrir o app. Ponha a palavra na sua pergunta: com "gravar", a gravação começa quando você pergunta "Posso gravar, para não esquecer nada em casa?", e a resposta fica no arquivo, junto com os **30 segundos anteriores**. Cadastrar uma segunda palavra da mesma frase, como "esquecer", deixa a detecção mais precisa. Mais em [Primeiro você diz alguma coisa](/blog/pt-br/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-pt-br.jpg" alt="Tela do histórico de gravações do TalkSafe. Cada vez que uma palavra-chave é detectada, uma gravação é salva com data e hora." width="540" height="960" loading="lazy"><figcaption>Histórico de gravações. Cada arquivo inclui os 30 segundos anteriores à detecção da palavra-chave.</figcaption></figure>
 

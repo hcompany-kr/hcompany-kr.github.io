@@ -8,7 +8,7 @@ eyebrow: Escuela
 title: "Con indicios razonables, el centro tiene que activar el protocolo"
 description: "Qué obliga a un colegio a actuar, qué son las medidas cautelares, cómo acceder al expediente y a quién acudir cuando el centro no responde."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué diferencia hay entre un conflicto puntual y acoso escolar?"
     a: "El acoso requiere tres condiciones a la vez: intencionalidad de hacer daño, repetición a lo largo del tiempo y un desequilibrio de poder claro, de modo que la víctima no puede defenderse. Una pelea puntual entre dos personas en igualdad de condiciones no encaja en esa definición."

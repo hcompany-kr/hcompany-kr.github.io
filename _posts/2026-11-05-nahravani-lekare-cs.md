@@ -10,7 +10,7 @@ description: "Podle přehledové studie z roku 2003 pacienti hned zapomenou 40 a
 image: /assets/img/og/nahravani-lekare-cs.png
 image_alt: "Nahrávání lékaře v Česku a na Slovensku: v Česku bez souhlasu k ochraně svých práv (§ 88 OZ), návrh metodiky MZ doporučuje otevřené nahrávání a nezveřejňovat; na Slovensku jen se svolením (§ 12 OZ); 40 až 80 % informací se hned zapomene."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Mohu nahrávat lékaře bez jeho souhlasu?"
     a: "V Česku podle § 88 odst. 1 občanského zákoníku není svolení třeba, pokud se záznam pořídí nebo použije k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů. Návrh metodiky ministerstva zdravotnictví z roku 2026 uvádí, že zdravotnická zařízení nemohou nahrávání plošně zakázat, ale doporučuje volit otevřené a předem oznámené nahrávání a utajené nahrávky považuje za krajní možnost."
@@ -23,7 +23,7 @@ faq:
   - q: "Jak je to na Slovensku?"
     a: "Na Slovensku lze podle § 12 občanského zákoníku zvukový záznam pořídit nebo použít jen se svolením, s výjimkami. Rozhovor s lékařem je proto nejbezpečnější nahrávat po dohodě s ním; jinak si hned po návštěvě nahrát vlastním hlasem, co lékař řekl."
   - q: "Jak pomůže TalkSafe při návštěvě u lékaře?"
-    a: "TalkSafe je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší předem zvolené slovo, i při zamčené obrazovce. Se slovem „nahrát“ začne nahrávání, když se zeptáte „Můžu si to nahrát, abych doma nic nezapomněl?“, a odpověď lékaře je v souboru spolu s 30 sekundami předtím. V ordinaci nemusíte nic ovládat."
+    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší předem zvolené slovo, i při zamčené obrazovce. Se slovem „nahrát“ začne nahrávání, když se zeptáte „Můžu si to nahrát, abych doma nic nezapomněl?“, a odpověď lékaře je v souboru spolu s 30 sekundami předtím. V ordinaci nemusíte nic ovládat."
 ---
 
 Jdete dovnitř se třemi otázkami. Lékařka na ně odpoví, dodá něco k dávkování, zmíní, čeho si všímat, a po jedenácti minutách je návštěva u konce.
@@ -70,7 +70,7 @@ Co v žádné dokumentaci není: poznámka na konci návštěvy, to, jak lékař
 
 Vytáhnout telefon, odemknout, najít aplikaci, zmáčknout nahrávání – zrovna když lékařka začne vysvětlovat. To přeruší rozhovor a stojí první věty.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší **předem zvolené slovo** – při **zamčené obrazovce**, bez odemykání telefonu a bez otevírání aplikace. Dejte slovo do své otázky: se slovem „nahrát“ začne nahrávání, když se zeptáte „Můžu si to nahrát, abych doma nic nezapomněl?“, a odpověď je v souboru spolu s **30 sekundami předtím**. Uložíte-li i druhé slovo ze stejné věty, například „nezapomněl“, rozpoznávání bude spolehlivější. Víc v [Nejdřív něco řeknete](/blog/cs/say-it-first/).
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší **předem zvolené slovo** – při **zamčené obrazovce**, bez odemykání telefonu a bez otevírání aplikace. Dejte slovo do své otázky: se slovem „nahrát“ začne nahrávání, když se zeptáte „Můžu si to nahrát, abych doma nic nezapomněl?“, a odpověď je v souboru spolu s **30 sekundami předtím**. Uložíte-li i druhé slovo ze stejné věty, například „nezapomněl“, rozpoznávání bude spolehlivější. Víc v [Nejdřív něco řeknete](/blog/cs/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
 

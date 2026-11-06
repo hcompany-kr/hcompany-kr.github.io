@@ -9,7 +9,7 @@ eyebrow: Come funziona
 title: "Prima della mano si muove la voce"
 description: "Nei momenti che contano non prendi il telefono: parli. Perché un registratore che parte da una parola arriva prima di uno che parte da un pulsante, e perché non esiste una lista giusta di parole."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Perché una parola funziona meglio di un pulsante?"
     a: "Perché nelle situazioni tese la reazione immediata è verbale, non manuale. Dire qualcosa avviene senza decidere di farlo; prendere il telefono, sbloccarlo, aprire l'app e premere richiede quattro passaggi consapevoli mentre la conversazione va avanti."

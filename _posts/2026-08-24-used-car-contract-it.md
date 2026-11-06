@@ -8,7 +8,7 @@ eyebrow: Contratti
 title: "\"Visto e piaciuto\" non copre i vizi occulti"
 description: "Dal concessionario la garanzia è di due anni, riducibile a uno solo per iscritto, e ogni clausola che la esclude è nulla. Tra privati cambia tutto: otto giorni per denunciare, un anno per agire."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Quanto dura la garanzia su un'auto usata comprata da un concessionario?"
     a: "Due anni dalla consegna secondo il Codice del Consumo. Per i beni usati le parti possono ridurla fino a un minimo di dodici mesi, ma solo con accordo specifico e scritto. Se il contratto non dice nulla, valgono i due anni."

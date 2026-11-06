@@ -8,7 +8,7 @@ eyebrow: Como fazer
 title: "Por que os apps de gravar ligação pararam de funcionar no Android, e o que ainda funciona"
 description: "O Android removeu a interface em 2015, bloqueou o caminho pelo microfone em 2019, e o Google fechou a última brecha em maio de 2022. O app de Telefone que vem no celular nunca foi afetado. E o que diz a lei no Brasil e em Portugal."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Por que os apps de gravar ligação não funcionam mais no Android?"
     a: "O Android 6 removeu em 2015 a interface de gravação de chamadas, e o Android 10 bloqueou em 2019 a gravação de ligações pelo microfone. Os desenvolvedores passaram então a usar a interface de acessibilidade, e em 11 de maio de 2022 o Google fechou esse caminho também. Os apps de terceiros para gravar ligações foram removidos da Play Store."
@@ -21,7 +21,7 @@ faq:
   - q: "Colocar a ligação no viva-voz e gravar com um app funciona?"
     a: "Sim, em qualquer Android, porque o app grava o som do ambiente e não a ligação em si. O preço é a qualidade de áudio mais baixa, o barulho em volta e o fato de que todo mundo por perto escuta a conversa."
   - q: "O TalkSafe é um app de gravar ligação?"
-    a: "Não. O TalkSafe é um app de gravação de voz para Android que grava o que o microfone ouve no ambiente; ele não tem acesso à ligação em si. Com a ligação no viva-voz, grava os dois lados. Ele começa quando ouve uma palavra escolhida por você, funciona com a tela bloqueada e salva os 30 segundos anteriores ao início."
+    a: "Não. O TalkSafe é um app de gravação de voz para Android e iPhone que grava o que o microfone ouve no ambiente; ele não tem acesso à ligação em si. Com a ligação no viva-voz, grava os dois lados. Ele começa quando ouve uma palavra escolhida por você, funciona com a tela bloqueada e salva os 30 segundos anteriores ao início."
   - q: "Usar outro aparelho para gravar muda alguma coisa na lei?"
     a: "Não. A lei trata da conversa, não do aparelho. Um segundo celular, um gravador ou o viva-voz não mudam o consentimento exigido onde você está."
 ---

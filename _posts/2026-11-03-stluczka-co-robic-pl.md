@@ -10,7 +10,7 @@ description: "Po stłuczce bez rannych w Polsce kierowcy mogą rozliczyć się b
 image: /assets/img/og/stluczka-co-robic-pl.png
 image_alt: "Stłuczka w Polsce: bez rannych można spisać oświadczenie sprawcy bez policji; przy rannych albo braku zgody co do winy wzywa się policję; ubezpieczyciel może kwestionować oświadczenie; nagranie własnej rozmowy jest co do zasady dozwolone."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Co robić po stłuczce bez rannych?"
     a: "Zatrzymać się, zabezpieczyć miejsce zdarzenia i wymienić się danymi: imię i nazwisko, adres, numer rejestracyjny, dane polisy OC. Jeśli kierowcy są zgodni co do tego, kto zawinił, sprawca zwykle spisuje oświadczenie, które jest podstawą zgłoszenia szkody z jego OC. Jeśli nie ma zgody albo ktoś jest ranny, trzeba wezwać policję pod numer 112."
@@ -21,7 +21,7 @@ faq:
   - q: "Czy mogę nagrać rozmowę z drugim kierowcą?"
     a: "W Polsce nagranie rozmowy, w której się uczestniczy, co do zasady nie jest przestępstwem, bo art. 267 § 3 Kodeksu karnego dotyczy uzyskiwania informacji, do której nie jest się uprawnionym. Sąd Najwyższy uznawał nagrania dokonane bez wiedzy rozmówcy za dowód w sprawach cywilnych, jeśli nie podważono skutecznie ich autentyczności."
   - q: "Jak TalkSafe pomaga po kolizji?"
-    a: "TalkSafe to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, także przy zablokowanym ekranie i bez otwierania aplikacji. Słowa są rozpoznawane niezależnie od tego, kto je wypowie, więc można ustawić to, co zwykle mówi drugi kierowca, na przykład „ubezpieczenie” i „nie widziałem”. W pliku zostaje też 30 sekund sprzed startu."
+    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, także przy zablokowanym ekranie i bez otwierania aplikacji. Słowa są rozpoznawane niezależnie od tego, kto je wypowie, więc można ustawić to, co zwykle mówi drugi kierowca, na przykład „ubezpieczenie” i „nie widziałem”. W pliku zostaje też 30 sekund sprzed startu."
   - q: "Co jeśli stłuczka zdarzyła się w Niemczech, Holandii albo Wielkiej Brytanii?"
     a: "W Niemczech trzeba się zatrzymać, zabezpieczyć miejsce, podać na żądanie dane i ubezpieczenie (§ 34 StVO), a nagranie rozmowy bez zgody jest przestępstwem (§ 201 StGB). W Holandii trzeba się zatrzymać i podać swoją tożsamość (art. 7 Wegenverkeerswet), a wspólne europejskie oświadczenie nie jest przyznaniem się do winy. W Wielkiej Brytanii kierowca musi się zatrzymać i podać dane, a jeśli tego nie zrobił, zgłosić zdarzenie policji w ciągu 24 godzin (sekcja 170 Road Traffic Act 1988)."
 ---
@@ -77,7 +77,7 @@ W Polsce nagranie rozmowy, w której się uczestniczy, co do zasady **nie jest p
 
 Problemem jest moment. Właśnie w ciebie uderzono, serce wali, trzeba zjechać z jezdni, a drugi kierowca już idzie. Nikt w takim stanie nie wyjmuje telefonu, nie otwiera aplikacji i nie naciska przycisku. A **zdanie, które ma znaczenie, pada w pierwszych dziesięciu sekundach** – to struktura z [Dlaczego przycisk nagrywania zawsze wciskasz za późno](/blog/pl/recording-delay/) w najbardziej skrajnej postaci.
 
-[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo** – przy **zablokowanym ekranie**, bez odblokowywania telefonu i otwierania aplikacji. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić to, co zwykle mówi **drugi kierowca**: „ubezpieczenie”, „nie widziałem”. Zapisanie **dwóch słów, które zwykle padają w tym samym zdaniu**, sprawia, że wykrywanie jest dokładniejsze. **30 sekund sprzed startu** zostaje w pliku – zdanie, które padło, zanim się zorientowałeś, nie ginie.
+[TalkSafe](/talksafe/pl/) to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy **wybrane wcześniej słowo** – przy **zablokowanym ekranie**, bez odblokowywania telefonu i otwierania aplikacji. Słowa są rozpoznawane **niezależnie od tego, kto je wypowie**, więc można ustawić to, co zwykle mówi **drugi kierowca**: „ubezpieczenie”, „nie widziałem”. Zapisanie **dwóch słów, które zwykle padają w tym samym zdaniu**, sprawia, że wykrywanie jest dokładniejsze. **30 sekund sprzed startu** zostaje w pliku – zdanie, które padło, zanim się zorientowałeś, nie ginie.
 
 <figure class="shot"><img src="/assets/img/screens/active-pl.jpg" alt="Ekran TalkSafe z aktywnym wykrywaniem słów kluczowych i przyciskiem Zatrzymaj." width="540" height="960" loading="lazy"><figcaption>Wykrywanie słów kluczowych aktywne. Aplikacja słucha dalej w tle przy wyłączonym ekranie albo zamkniętej aplikacji.</figcaption></figure>
 

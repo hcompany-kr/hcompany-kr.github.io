@@ -8,7 +8,7 @@ eyebrow: Cuidados
 title: "Tres de cada cuatro no llegan a denunciar"
 description: "Qué se considera maltrato en una residencia, dónde acudir, la figura del Fiscal de Mayores, y qué documentar cuando lo que ocurre es verbal."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué se considera maltrato en una residencia?"
     a: "Vulnerar la dignidad, la integridad o los derechos básicos de la persona mayor, por acción u omisión. Incluye el maltrato físico, el psicológico mediante trato despectivo, humillaciones o aislamiento injustificado, y la negligencia cuando no se garantizan cuidados básicos. No es necesario que exista intención de dañar: basta con que no se haya actuado con la diligencia exigible y que esa falta haya causado un perjuicio."

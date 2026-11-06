@@ -8,7 +8,7 @@ eyebrow: Derecho
 title: "Cómo reunir pruebas de acoso o stalking"
 description: "El acoso es un delito de repetición, así que las pruebas también tienen que acumularse. Cómo castigan el stalking trece países y qué puede conservar legalmente la víctima."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué pena tiene el stalking en España?"
     a: "El artículo 172 ter del Código Penal castiga con prisión de tres meses a dos años o multa de seis a veinticuatro meses a quien acose a una persona de forma insistente y reiterada, sin estar legítimamente autorizado, alterando gravemente el desarrollo de su vida cotidiana. Cuando la víctima es alguna de las personas del artículo 173.2, como la pareja o expareja, la pena es de uno a dos años de prisión o trabajos en beneficio de la comunidad."
@@ -23,7 +23,7 @@ faq:
   - q: "¿Cómo se castiga el stalking en otros países?"
     a: "En Italia, el artículo 612-bis del Código Penal castiga los actos persecutorios con uno a seis años y seis meses de prisión. En Reino Unido, el acoso que causa temor a la violencia puede llegar a diez años, igual que el acoso criminal en Canadá. En Corea del Sur y Japón se castiga aunque la víctima no quiera, tras reformas de 2023 y 2017."
   - q: "¿Cómo ayuda TalkSafe en una situación de acoso?"
-    a: "TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, así que cuando la persona aparece sin avisar no hace falta sacar el móvil y pulsar grabar para que quede la conversación en la que participas."
+    a: "TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, así que cuando la persona aparece sin avisar no hace falta sacar el móvil y pulsar grabar para que quede la conversación en la que participas."
 ---
 
 Llegas del trabajo y está en tu portal.
@@ -101,7 +101,7 @@ En España el Tribunal Constitucional estableció en la STC 114/1984 que no cabe
 
 Los mensajes y las llamadas se guardan solos. Lo que no se guarda solo es **el encuentro**: en el portal, a la salida del trabajo, en el ascensor. Sacar el móvil y pulsar grabar en ese momento puede empeorar las cosas.
 
-TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir frases que dirías tú, como «déjame en paz» o «vete, por favor». Funciona con la pantalla bloqueada y, como guarda los 30 segundos anteriores al inicio, lo que la otra persona dijo justo antes también queda en el archivo.
+TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir frases que dirías tú, como «déjame en paz» o «vete, por favor». Funciona con la pantalla bloqueada y, como guarda los 30 segundos anteriores al inicio, lo que la otra persona dijo justo antes también queda en el archivo.
 
 <figure class="shot"><img src="/assets/img/screens/before30-es.jpg" alt="Pantalla del historial de grabaciones de TalkSafe. Cada vez que se detecta una palabra clave se guarda una grabación con fecha y hora." width="540" height="960" loading="lazy"><figcaption>Historial de grabaciones. Cada archivo incluye los 30 segundos anteriores a la detección de la palabra clave.</figcaption></figure>
 

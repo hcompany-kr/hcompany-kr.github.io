@@ -8,7 +8,7 @@ eyebrow: Enregistrement
 title: "Tous les enregistreurs « automatiques » ne font pas la même chose"
 description: "Sur Android, l'enregistrement automatique désigne cinq choses bien différentes. Ce qui déclenche chacune, et les situations que chacune laisse passer."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Quels types d'applications d'enregistrement automatique existent sur Android ?"
     a: "Cinq grands types : l'enregistrement qui démarre quand un appel est établi, celui qui démarre quand un son est détecté, celui programmé à une heure fixe, celui qui garde aussi les instants précédant le démarrage, et celui qui démarre quand un mot choisi est entendu."

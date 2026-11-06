@@ -10,10 +10,10 @@ description: "Um eine Sprachaufnahme auf Android zusammenzufassen, nutzt man ein
 image: /assets/img/og/summarize-recording-de.png
 image_alt: "Google Rekorder auf Pixel, Samsung-Sprachrekorder auf Galaxy und TalkSafe im Vergleich: alle drei bieten eine KI-Zusammenfassung, nur Pixel und Galaxy ein vollständiges Transkript, und nur TalkSafe startet die Aufnahme von selbst bei einem festgelegten Wort."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Wie fasse ich eine Sprachaufnahme auf Android mit KI zusammen?"
-    a: "Mit einer Aufnahme-App, die eine KI-Zusammenfassung hat. Auf Pixel-Handys kann Googles Rekorder-App das Transkript einer Aufnahme auf dem Gerät mit Gemini Nano zusammenfassen. Der Samsung-Sprachrekorder bietet mit Transcript Assist von Galaxy AI Transkript und Zusammenfassung und setzt ein Samsung-Konto voraus. TalkSafe, eine Aufnahme-App für Android, erstellt zu jeder Aufnahme eine KI-Zusammenfassung und zeigt sie in der Detailansicht unter dem Player."
+    a: "Mit einer Aufnahme-App, die eine KI-Zusammenfassung hat. Auf Pixel-Handys kann Googles Rekorder-App das Transkript einer Aufnahme auf dem Gerät mit Gemini Nano zusammenfassen. Der Samsung-Sprachrekorder bietet mit Transcript Assist von Galaxy AI Transkript und Zusammenfassung und setzt ein Samsung-Konto voraus. TalkSafe, eine Aufnahme-App für Android und iPhone, erstellt zu jeder Aufnahme eine KI-Zusammenfassung und zeigt sie in der Detailansicht unter dem Player."
   - q: "Wird der Ton an einen Server geschickt, wenn eine Aufnahme zusammengefasst wird?"
     a: "Das hängt von der App ab. Die Zusammenfassungen von Googles Rekorder auf Pixel entstehen auf dem Gerät mit Gemini Nano. TalkSafe schickt die Aufnahme für die KI-Zusammenfassung an einen Server, während die Schlüsselwort-Erkennung vollständig auf dem Handy läuft. Waren andere Personen am Gespräch beteiligt, sind ihre Stimmen in der Datei, die Sie senden."
   - q: "In welcher Sprache ist die Zusammenfassung von TalkSafe?"

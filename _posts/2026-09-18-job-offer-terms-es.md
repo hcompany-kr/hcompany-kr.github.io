@@ -8,7 +8,7 @@ eyebrow: Trabajo
 title: "Lo que te prometieron en la entrevista no está en el contrato"
 description: "El sueldo y los días de teletrabajo se acuerdan hablando; el contrato llega después. Qué obligan a poner por escrito trece países y qué puedes hacer cuando el papel no coincide con lo prometido."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Vale lo que me prometieron de palabra en la entrevista?"
     a: "El contrato de trabajo puede nacer de palabra, así que lo acordado en la entrevista puede formar parte de él. El problema es la prueba: si el contrato escrito dice otra cosa, es la persona trabajadora quien debe acreditar que se pactó lo que se habló. Por eso conviene confirmar por correo, el mismo día, lo que se acordó."
@@ -106,7 +106,7 @@ Todos los caminos dependen de lo mismo: **poder mostrar qué te dijeron.**
 
 **Si solo hubo palabras, queda la grabación.** Las entrevistas y las llamadas de oferta no dejan rastro escrito. En España el Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor ([grabar sí, difundir no](https://hcompany-kr.github.io/blog/es/recording-consent-law/)); en Hispanoamérica la regla cambia según el país ([grabar tu propia conversación: país por país](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/)). El problema práctico es que quien se presenta a una entrevista difícilmente puede preguntar «¿te importa si grabo?».
 
-TalkSafe es una grabadora de voz para Android que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir las que aparecen cuando se habla de condiciones. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, de modo que el momento en que aparece la cifra no se pierde.
+TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido. La palabra se reconoce la diga quien la diga, así que puedes elegir las que aparecen cuando se habla de condiciones. Funciona con la pantalla bloqueada y guarda los 30 segundos anteriores al inicio, de modo que el momento en que aparece la cifra no se pierde.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-es.jpg" alt="Pantalla de ajustes de palabras clave de TalkSafe. Las palabras se añaden con el botón del micrófono y aparecen en una lista." width="540" height="960" loading="lazy"><figcaption>Ajustes de palabras clave. Puedes registrar varias; basta con que se detecte una para que empiece la grabación.</figcaption></figure>
 

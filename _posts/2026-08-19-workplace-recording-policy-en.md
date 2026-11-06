@@ -8,7 +8,7 @@ eyebrow: Work
 title: "Your employer's no-recording rule may itself be illegal"
 description: "State law is only half the question at work. A blanket ban on recording can violate federal labor law, but a narrowly written one holds up — and either way your employer can still fire you."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can my employer ban me from recording at work?"
     a: "Sometimes. A blanket rule prohibiting all recording without management approval has repeatedly been found to violate Section 8(a)(1) of the National Labor Relations Act, because employees would reasonably read it as barring activity protected by Section 7. A narrowly written rule tied to specific work areas, work time, or confidential information is far more likely to hold up."

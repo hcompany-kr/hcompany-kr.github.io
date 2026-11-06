@@ -10,7 +10,7 @@ description: "Podle § 2254 občanského zákoníku nesmí jistota (kauce) přes
 image: /assets/img/og/vraceni-kauce-cs.png
 image_alt: "Vrácení kauce v Česku: nejvýše trojnásobek měsíčního nájemného (§ 2254 obč. zák.), vrácení s úroky alespoň ve výši zákonné sazby; obvyklé opotřebení strhnout nelze; vlastní rozhovor při předání bytu lze k ochraně práv nahrát (§ 88)."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Kolik může být kauce za byt?"
     a: "Podle § 2254 občanského zákoníku nesmí jistota přesáhnout trojnásobek měsíčního nájemného."
@@ -68,7 +68,7 @@ Podle **§ 88 občanského zákoníku** není svolení třeba, pokud se záznam 
 
 Při předání máte plné ruce — telefon na fotky, protokol, klíče.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**, takže můžete nastavit, co pronajímatel pravděpodobně řekne: **„kauce“**, **„v pořádku“**. Když řekne „Všechno v pořádku, kauci vám vrátím“, nahrávání začne — a to, co padlo předtím, je v souboru také.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat na **předem zvolené slovo**, funguje při **zamčené obrazovce** a uloží do souboru i **30 sekund před začátkem**. Slova rozpozná **bez ohledu na to, kdo je vysloví**, takže můžete nastavit, co pronajímatel pravděpodobně řekne: **„kauce“**, **„v pořádku“**. Když řekne „Všechno v pořádku, kauci vám vrátím“, nahrávání začne — a to, co padlo předtím, je v souboru také.
 
 <figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
 

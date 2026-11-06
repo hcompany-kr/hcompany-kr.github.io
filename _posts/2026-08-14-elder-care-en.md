@@ -8,7 +8,7 @@ eyebrow: Care
 title: "A camera in the room and a phone in the pocket are not the same legal question"
 description: "State monitoring laws, what consent and signage they require, and why a resident recording their own conversation sits in a different category entirely."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Can I put a camera in my parent's nursing home room?"
     a: "It depends on the state. Roughly seven to ten states have specific electronic monitoring laws — Illinois, Texas, Washington, Oklahoma, Missouri, Minnesota, Virginia and Connecticut among them. Those laws typically require written consent from the resident or their representative, written consent from any roommate, written notice to the facility, and posted signage. The remaining states are a legal grey area."

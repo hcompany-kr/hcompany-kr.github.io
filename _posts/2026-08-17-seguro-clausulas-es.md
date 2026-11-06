@@ -8,7 +8,7 @@ eyebrow: Contratos
 title: "Tienes un mes para decir que la póliza no es lo que te ofrecieron"
 description: "El artículo 8 de la Ley de Contrato de Seguro, las cláusulas limitativas que no valen si no las firmaste aparte, y qué hacer con lo que solo se dijo en la oficina."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué pasa si la póliza no coincide con lo que me ofrecieron?"
     a: "El artículo 8 de la Ley 50/1980 establece que si el contenido de la póliza difiere de la proposición de seguro o de las cláusulas acordadas, el tomador puede reclamar a la aseguradora en el plazo de un mes desde la entrega de la póliza para que subsane la divergencia. Transcurrido ese plazo sin reclamar, se estará a lo dispuesto en la póliza. Ese aviso debe figurar en toda póliza."

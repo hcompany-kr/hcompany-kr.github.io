@@ -10,7 +10,7 @@ description: "2003 tarihli bir derlemeye göre hastalar verilen tıbbi bilgileri
 image: /assets/img/og/doktor-gorusmesi-ses-kaydi-tr.png
 image_alt: "Türkiye'de doktor muayenesini kaydetmek: rızasız kayıt TCK 133/2 nedeniyle suç; doktorun izniyle kayıt mümkün; bilgilerin yüzde 40 ile 80'i hemen unutuluyor; izin yoksa yazılı özet ve rapor istemek."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Doktorla muayene görüşmesini ses kaydına alabilir miyim?"
     a: "Türkiye'de doktorun izniyle alabilirsiniz. TCK 133/2, katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan kaydetmeyi altı aydan iki yıla kadar hapis veya adli para cezasıyla cezalandırır. Muayene bu tür bir konuşmadır. En kolay yol, görüşmenin başında 'Evde unutmamak için kayda alabilir miyim?' diye sormaktır."
@@ -21,7 +21,7 @@ faq:
   - q: "Gizlice kayıt almanın bir istisnası var mı?"
     a: "Yargıtay'ın ani gelişen ve başka türlü ispat imkânı olmayan durumlarda, örneğin tehdit veya baskı altında, kaydı farklı değerlendirdiği kararlar bulunduğu aktarılıyor. Ancak bu dar bir istisnadır; önceden planlanmış veya rutin bir muayene kaydına uygulanmaz."
   - q: "TalkSafe muayenede nasıl yardımcı olur?"
-    a: "TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır ve ekran kilitliyken çalışır. 'kayıt' kelimesini belirlerseniz, 'Evde unutmamak için kayda alabilir miyim?' diye sorduğunuz anda kayıt başlar ve doktorun cevabı, önceki 30 saniyeyle birlikte dosyada olur. Muayene odasında telefonla uğraşmanız gerekmez."
+    a: "TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır ve ekran kilitliyken çalışır. 'kayıt' kelimesini belirlerseniz, 'Evde unutmamak için kayda alabilir miyim?' diye sorduğunuz anda kayıt başlar ve doktorun cevabı, önceki 30 saniyeyle birlikte dosyada olur. Muayene odasında telefonla uğraşmanız gerekmez."
   - q: "Yaşlı bir yakınımın muayenesine gidemiyorsam ne yapabilirim?"
     a: "Soruları birlikte önceden yazın, sonra raporların ve sonuçların kopyasını isteyin. Kelimeyi önceden yakınınızın telefonuna kurarsanız, muayene odasında hiçbir şeye dokunmadan sadece izni sorması yeterli olur. Kaydı muayeneye katılan kişi yapar ve doktorun izni gerekir."
 ---
@@ -67,7 +67,7 @@ Yol basit: **sormak.** Nedeniyle birlikte sorulduğunda çoğu zaman sorun olmaz
 
 Telefonu çıkarmak, kilidi açmak, uygulamayı bulmak, düğmeye basmak – tam doktor anlatmaya başladığı anda. Bu hem görüşmeyi böler hem de ilk cümleleri kaçırtır.
 
-[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan bir Android ses kayıt uygulamasıdır ve **ekran kilitliyken**, telefonun kilidini açmadan ve uygulamayı açmadan çalışır. Kelimeyi sorunuzun içine koyun: "kayıt" kelimesini belirleyin, "Evde unutmamak için kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve doktorun cevabı, **önceki 30 saniyeyle** birlikte dosyada olur. Aynı cümleden ikinci bir kelime, örneğin "unutmamak", de kaydederseniz algılama daha güvenilir olur. Daha fazlası [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.
+[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan Android ve iPhone için bir ses kayıt uygulamasıdır ve **ekran kilitliyken**, telefonun kilidini açmadan ve uygulamayı açmadan çalışır. Kelimeyi sorunuzun içine koyun: "kayıt" kelimesini belirleyin, "Evde unutmamak için kayda alabilir miyim?" diye sorduğunuz anda kayıt başlar ve doktorun cevabı, **önceki 30 saniyeyle** birlikte dosyada olur. Aynı cümleden ikinci bir kelime, örneğin "unutmamak", de kaydederseniz algılama daha güvenilir olur. Daha fazlası [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.
 
 <figure class="shot"><img src="/assets/img/screens/before30-tr.jpg" alt="TalkSafe kayıt geçmişi ekranı. Bir anahtar kelime her algılandığında kayıt tarih ve saatiyle saklanır." width="540" height="960" loading="lazy"><figcaption>Kayıt geçmişi. Her dosyada anahtar kelime algılanmadan önceki 30 saniye de bulunur.</figcaption></figure>
 

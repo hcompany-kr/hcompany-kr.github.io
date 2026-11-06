@@ -10,14 +10,14 @@ description: "Uzun bir kaydı önemli olan iki dakikaya indirmek saniyeler süre
 image: /assets/img/og/trim-recording-tr.png
 image_alt: "Uzun bir kaydın dalga biçiminde iki dakikalık bir bölüm seçilmiş. TalkSafe'te seçilen bölüm yeni bir dosya olarak kaydedilir, tam orijinal olduğu gibi kalır."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Android'de bir ses kaydı nasıl kırpılır?"
     a: "Çoğu kayıt uygulamasında kırpma özelliği vardır: iki tutamacı sürükleyerek bölümü seçer ve kaydedersiniz. Pixel telefonlarda Google'ın Kaydedici uygulamasında Kırp ve kaldır (Crop & Remove) bulunur; ses üzerinde ya da metin dökümü üzerinde çalışır ve Kopyayı kaydet ile biter. Samsung'un Ses Kaydedici uygulaması kırpmaya ve kaydederken dosyayı değiştirmek ile yeni dosya oluşturmak arasında seçim yapmaya izin verir. TalkSafe kırpılan bölümü yeni bir dosya olarak kaydeder ve orijinale dokunmaz."
   - q: "Bir kaydı kırpmak orijinali siler mi?"
     a: "Uygulamaya bağlıdır. Google'ın Kaydedici uygulaması düzenlemeyi kopya olarak kaydeder. Samsung'un Ses Kaydedici uygulaması dosyayı değiştirmek mi yoksa yeni dosya oluşturmak mı istediğinizi sorar; değiştir seçilirse orijinalin üzerine yazılır. TalkSafe'te orijinal her zaman korunur ve kırpılan bölüm ayrı bir dosya olur."
   - q: "Kaydı kırpıp orijinali otomatik olarak koruyan bir Android uygulaması var mı?"
-    a: "Evet. TalkSafe, kırpma özelliği seçilen bölümü her zaman yeni bir dosya olarak kaydeden bir Android ses kayıt uygulamasıdır; yanlışlıkla seçilebilecek bir üzerine yazma seçeneği yoktur. Kırpılan bölüme TalkSafe'in cihaz üzerinde çalışan yapay zekâ gürültü giderme özelliği uygulanabilir ve Android paylaşım menüsüyle gönderilebilir."
+    a: "Evet. TalkSafe, kırpma özelliği seçilen bölümü her zaman yeni bir dosya olarak kaydeden Android ve iPhone için bir ses kayıt uygulamasıdır; yanlışlıkla seçilebilecek bir üzerine yazma seçeneği yoktur. Kırpılan bölüme TalkSafe'in cihaz üzerinde çalışan yapay zekâ gürültü giderme özelliği uygulanabilir ve Android paylaşım menüsüyle gönderilebilir."
   - q: "Bir kaydı kırpmak, kaydın hukuka uygun olup olmadığını değiştirir mi?"
     a: "Hayır. Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek altı aydan iki yıla kadar hapis veya adli para cezası gerektiren bir suçtur ve 3. fıkra bu verilerin hukuka aykırı olarak ifşasını cezalandırır. Kesmek bunu değiştirmez. Kaydın hukuka uygun olduğu durumlarda ilgili bölümü sunun, tam orijinali saklayın."
   - q: "Gürültüyü yalnızca kırpılan bölümden giderebilir miyim?"
@@ -39,7 +39,7 @@ Geri kalanını kimse dinlemeyecek. Ne işveren, ne polis, ne hâkim. Dosyanın 
 | Google Kaydedici | Pixel | Menü → Kırp ve kaldır (Crop & Remove), ses ya da metin dökümü üzerinde | Düzenleme Kopyayı kaydet (Save copy) ile biter |
 | Samsung Ses Kaydedici | Galaxy | Kırpma tutamaçlarını sürükleyerek | Siz seçersiniz: dosyayı değiştir ya da yeni dosya oluştur |
 | Audacity | Bilgisayar | Seç, sil, dışa aktar | Aynı adla üzerine dışa aktarmadıkça olduğu gibi kalır |
-| TalkSafe | Android | Bölümü seçip kırp | Her zaman kalır; bölüm yeni dosya olarak kaydedilir |
+| TalkSafe | Android, iOS | Bölümü seçip kırp | Her zaman kalır; bölüm yeni dosya olarak kaydedilir |
 
 Önemli olan fark son sütunda.
 

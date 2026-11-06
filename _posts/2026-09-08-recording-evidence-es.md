@@ -8,7 +8,7 @@ eyebrow: Derecho
 title: "Tienes la grabación y aun así no puedes usarla"
 description: "Lo que impide usar una grabación casi nunca es la ley. Es el original y el principio. Cómo deciden catorce países si una grabación entra en el juicio."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Por qué un tribunal rechaza una grabación que es verdadera?"
     a: "Casi siempre por dos motivos: el original y la integridad. Una grabación no lleva firma ni sello, así que antes de valorar lo que dice hay que acreditar que el archivo es lo que se afirma y que recoge la conversación de forma completa. Si el original se borró o el archivo pasó por una compresión, esa cuestión se convierte en el centro del debate y quien grabó es quien tiene que responderla."
@@ -21,7 +21,7 @@ faq:
   - q: "¿Qué ocurre si empecé a grabar demasiado tarde?"
     a: "Se pierde el contexto que explica por qué se dijeron esas palabras. Casi nadie graba desde el principio de una conversación: se empieza cuando la cosa ya va mal, es decir, en el momento en que uno se dio cuenta de que algo pasaba. Todo lo anterior desaparece y no se puede reconstruir después."
   - q: "¿Cómo conserva TalkSafe lo anterior a pulsar el botón?"
-    a: "TalkSafe es una grabadora de voz para Android que mantiene siempre los últimos 30 segundos y empieza a grabar cuando escucha una palabra elegida por el usuario. Esos 30 segundos ya transcurridos se guardan junto con el archivo, de manera que el hueco entre darse cuenta y empezar a grabar no se pierde."
+    a: "TalkSafe es una grabadora de voz para Android y iPhone que mantiene siempre los últimos 30 segundos y empieza a grabar cuando escucha una palabra elegida por el usuario. Esos 30 segundos ya transcurridos se guardan junto con el archivo, de manera que el hueco entre darse cuenta y empezar a grabar no se pierde."
   - q: "¿Se admiten igual las grabaciones en toda Hispanoamérica?"
     a: "No. En México la carga de probar la falta de autenticidad recae sobre quien la impugna. En Chile los tribunales rechazaban históricamente las grabaciones unilaterales por su carácter clandestino y en la última década han pasado a admitirlas de forma condicionada y caso a caso. En Argentina una cámara declaró inadmisible en marzo de 2026 el audio de una reunión interna grabado sin consentimiento, por vulnerar el derecho a la intimidad."
 ---

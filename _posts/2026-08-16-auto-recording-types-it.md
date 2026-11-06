@@ -8,7 +8,7 @@ eyebrow: Registrazione
 title: "\"Registrazione automatica\" non vuol dire la stessa cosa in tutte le app"
 description: "Su Android ci sono cinque cose diverse che si chiamano registrazione automatica. Cosa fa partire ciascuna e cosa si lascia sfuggire."
 app: true
-app_description: "Un registratore vocale per Android che parte da solo quando sente una parola che hai scelto. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che parte da solo quando sente una parola che hai scelto. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Che tipi di registrazione automatica esistono su Android?"
     a: "Cinque in sostanza: quella che parte quando si stabilisce una chiamata, quella che parte quando rileva un suono, quella programmata a un orario fisso, quella che conserva anche i momenti precedenti all'avvio, e quella che parte quando sente una parola scelta."

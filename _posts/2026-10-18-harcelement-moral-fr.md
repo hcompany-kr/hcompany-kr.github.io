@@ -10,7 +10,7 @@ description: "En France, le salarié n'a pas à tout prouver : il présente des 
 image: /assets/img/og/harcelement-moral-fr.png
 image_alt: "Prouver le harcèlement moral en France : le salarié présente des éléments de fait (L1154-1), écrits, témoins et certificats en tête ; l'enregistrement clandestin n'est recevable que s'il est indispensable (Cour de cassation 2024) ; un récit enregistré avec sa propre voix juste après les faits ne pose pas de difficulté."
 app: true
-app_description: "Une application d'enregistrement pour Android qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
+app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Qu'est-ce que le harcèlement moral au travail en droit français ?"
     a: "Selon l'article L1152-1 du Code du travail, aucun salarié ne doit subir des agissements répétés de harcèlement moral ayant pour objet ou pour effet une dégradation de ses conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de compromettre son avenir professionnel. L'intention de nuire n'est pas exigée. L'article 222-33-2 du Code pénal le punit de deux ans d'emprisonnement et de 30 000 euros d'amende."
@@ -74,7 +74,7 @@ La logique est claire : plus vous avez d'autres éléments, moins l'enregistreme
 
 Ce qui ne pose aucune difficulté, c'est **votre propre voix**. Enregistrer juste après les faits **ce qui s'est passé, qui a dit quoi, quand et devant qui** n'est pas enregistrer les paroles d'autrui : c'est votre journal, au plus près des faits, donc plus précis et plus crédible.
 
-Le problème : juste après, vous êtes souvent encore à votre poste, les mains prises ou trop secoué pour manipuler un téléphone. [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » ; dès que vous le dites, le mémo vocal commence. Lors d'une découpe, **l'original est conservé**.
+Le problème : juste après, vous êtes souvent encore à votre poste, les mains prises ou trop secoué pour manipuler un téléphone. [TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Choisissez un mot comme « note » ; dès que vous le dites, le mémo vocal commence. Lors d'une découpe, **l'original est conservé**.
 
 <figure class="shot"><img src="/assets/img/screens/start-fr.jpg" alt="Écran d'accueil de TalkSafe avec des boutons pour lancer la détection en temps réel et un enregistrement manuel." width="540" height="960" loading="lazy"><figcaption>Écran d'accueil de TalkSafe. Avec la détection en temps réel activée, l'enregistrement démarre quand un mot choisi est détecté ; le bouton permet aussi d'enregistrer tout de suite.</figcaption></figure>
 

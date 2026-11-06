@@ -10,7 +10,7 @@ description: "In Nederland kun je een vaststellingsovereenkomst binnen 14 dagen 
 image: /assets/img/og/vaststellingsovereenkomst-nl.png
 image_alt: "Vaststellingsovereenkomst onder druk in Nederland en België: in Nederland 14 dagen bedenktermijn, drie weken als die ontbreekt; zelf ontslag nemen vraagt een duidelijke en ondubbelzinnige verklaring; WW na een vaststellingsovereenkomst op initiatief van de werkgever; je eigen gesprek opnemen mag in Nederland en België."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Kan ik een getekende vaststellingsovereenkomst nog terugdraaien?"
     a: "Ja. Volgens artikel 7:670b lid 2 BW kan de werknemer de beëindigingsovereenkomst binnen veertien dagen na het sluiten ontbinden met een schriftelijke verklaring aan de werkgever, zonder opgave van redenen. Staat de bedenktermijn niet in de overeenkomst, dan bedraagt die drie weken. De overeenkomst moet schriftelijk worden gesloten."
@@ -76,7 +76,7 @@ In **Nederland** stelt **artikel 139a van het Wetboek van Strafrecht** alleen he
 
 Het probleem is het moment. Zo'n gesprek wordt kort van tevoren gepland, duurt tien minuten, en de zin die ertoe doet – "anders gaan we een andere weg" – valt zonder aankondiging. Voordat je je telefoon hebt gepakt, ontgrendeld en op opnemen gedrukt, is hij voorbij.
 
-[TalkSafe](/talksafe/nl/) is een opname-app voor Android die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt instellen wat **de andere kant** in zo'n gesprek meestal zegt: "vaststellingsovereenkomst", "vergoeding", "beëindigen". Hij werkt met een **vergrendeld scherm**, en de **30 seconden daarvoor** staan in het bestand – de zin waardoor je doorhad wat er gebeurde, gaat niet verloren.
+[TalkSafe](/talksafe/nl/) is een opname-app voor Android en iPhone die begint met opnemen zodra hij een **vooraf gekozen woord** hoort. Woorden worden herkend **wie ze ook zegt**, dus je kunt instellen wat **de andere kant** in zo'n gesprek meestal zegt: "vaststellingsovereenkomst", "vergoeding", "beëindigen". Hij werkt met een **vergrendeld scherm**, en de **30 seconden daarvoor** staan in het bestand – de zin waardoor je doorhad wat er gebeurde, gaat niet verloren.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-nl.jpg" alt="Trefwoordinstellingen in TalkSafe. Trefwoorden voeg je toe met de microfoonknop en ze staan eronder in een lijst." width="540" height="960" loading="lazy"><figcaption>Trefwoordinstellingen. Je kunt meerdere woorden instellen; het is genoeg dat er één herkend wordt.</figcaption></figure>
 

@@ -8,7 +8,7 @@ eyebrow: Contracts
 title: "No written contract is now the client's problem, not yours"
 description: "New freelance protection laws flip the burden. Thirty-day payment deadlines, double damages, and what still comes down to what was said in the kickoff call."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Does my client have to give me a written contract?"
     a: "In a growing number of jurisdictions, yes. New York State's Freelance Isn't Free Act requires a written contract for engagements worth $800 or more, counted as a single contract or multiple contracts over the preceding 120 days. Illinois sets the threshold at $500 in a 120-day period. New York City has had its own version since 2017."

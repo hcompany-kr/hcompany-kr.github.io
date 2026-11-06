@@ -8,7 +8,7 @@ eyebrow: Handleiding
 title: "Achtergrondgeluid uit een spraakopname halen op Android"
 description: "Verkeer, wind, een café achter je. Vier manieren om een opgenomen gesprek op te schonen — op de telefoon tijdens het opnemen, op de telefoon achteraf, op een computer of door het te uploaden — en welke daarvan straatlawaai aankunnen."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Hoe haal ik achtergrondgeluid uit een spraakopname op Android?"
     a: "Er zijn vier routes: een opname-app die al tijdens het opnemen ruis vermindert, zoals Clear voice in de Recorder-app van Google op de Pixel 9-serie; een app die het bestand achteraf op de telefoon opschoont, zoals de AI-ruisonderdrukking van TalkSafe; software op de computer, zoals het effect Ruisonderdrukking in Audacity; of een webdienst waar je het bestand naar uploadt, zoals Adobe Podcast Enhance Speech."

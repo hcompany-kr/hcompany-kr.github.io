@@ -8,7 +8,7 @@ eyebrow: Handleiding
 title: "Wat je met een opname doet, en wat je er niet mee doet"
 description: "Hoe je het bestand bewaart, inkort tot wat ertoe doet, opschoont van achtergrondgeluid en waar je het indient. En welke regels in Nederland, België, Suriname, Aruba, Curaçao en Sint Maarten gelden voor het verspreiden ervan."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Kun je van een opname alleen het belangrijke deel bewaren?"
     a: "TalkSafe heeft een knipfunctie. Het origineel blijft ongewijzigd en het gekozen stuk wordt als nieuw bestand bewaard. Zo kun je een korte versie voorbereiden om in te dienen en blijft de volledige opname bewaard."

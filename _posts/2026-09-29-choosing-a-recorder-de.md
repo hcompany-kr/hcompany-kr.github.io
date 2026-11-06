@@ -8,7 +8,7 @@ eyebrow: Aufnahme
 title: "Was Aufnahmegeräte unterscheidet, ist, wann sie starten"
 description: "Anstecker-Recorder, VOX-Geräte, KI-Notizgeräte, Telefon-Apps. Was jedes davon am Ende eines Tages hinterlässt und in welchem man danach noch etwas finden kann."
 app: true
-app_description: "Eine Aufnahme-App für Android, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
+app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Was bedeutet VOX bei einem Diktiergerät?"
     a: "VOX steht für Sprach- oder Geräuschaktivierung. Das Gerät wartet, bis es Ton erkennt, und nimmt auf, bis der Ton aufhört. Weil es nicht ständig läuft, verbraucht es deutlich weniger Akku; daher werben solche Geräte mit Bereitschaftszeiten in Monaten statt Stunden."
@@ -90,7 +90,7 @@ Zwei Varianten.
 
 **Eine App mit Start per Schlüsselwort** beginnt, wenn sie ein vorab festgelegtes Wort hört. Die Datei beginnt im Moment, nicht um neun Uhr morgens, also gibt es danach nichts zu durchsuchen.
 
-Das ist die Kategorie, in der wir arbeiten, also lesen Sie den nächsten Absatz mit diesem Wissen. [TalkSafe](/talksafe/de/) ist eine Android-App, die bei einem gewählten Wort startet, bei gesperrtem Bildschirm funktioniert und die 30 Sekunden vor dem Start mit der Datei speichert – das beantwortet das Problem der fehlenden ersten Silbe. Beim Ausschneiden eines Abschnitts bleibt die Originaldatei erhalten. Eine Aufnahme aus lauter Umgebung, etwa auf der Straße, lässt sich nachträglich mit der KI-Rauschentfernung bereinigen, die auf dem Gerät läuft und eine neue Datei neben dem Original speichert.
+Das ist die Kategorie, in der wir arbeiten, also lesen Sie den nächsten Absatz mit diesem Wissen. [TalkSafe](/talksafe/de/) ist eine App für Android und iPhone, die bei einem gewählten Wort startet, bei gesperrtem Bildschirm funktioniert und die 30 Sekunden vor dem Start mit der Datei speichert – das beantwortet das Problem der fehlenden ersten Silbe. Beim Ausschneiden eines Abschnitts bleibt die Originaldatei erhalten. Eine Aufnahme aus lauter Umgebung, etwa auf der Straße, lässt sich nachträglich mit der KI-Rauschentfernung bereinigen, die auf dem Gerät läuft und eine neue Datei neben dem Original speichert.
 
 <figure class="shot"><img src="/assets/img/screens/start-de.jpg" alt="Startbildschirm von TalkSafe mit Tasten für die Echtzeit-Erkennung und für eine manuelle Aufnahme." width="540" height="960" loading="lazy"><figcaption>Startbildschirm von TalkSafe. Ist die Echtzeit-Erkennung an, beginnt die Aufnahme, wenn ein festgelegtes Wort erkannt wird; per Taste lässt sich auch sofort aufnehmen.</figcaption></figure>
 

@@ -8,7 +8,7 @@ eyebrow: Trabajo
 title: "El mobbing es delito, pero el plazo para reclamar es de un año"
 description: "Qué exige el Código Penal para que haya acoso laboral, las cuatro vías disponibles, los plazos que se agotan antes de lo que parece, y qué documentar cuando todo ocurre de palabra."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿El acoso laboral es delito en España?"
     a: "Puede serlo. El artículo 173.1, párrafo segundo, del Código Penal castiga con prisión de seis meses a dos años a quien, en el ámbito de cualquier relación laboral o funcionarial y prevaliéndose de su relación de superioridad, realice contra otro de forma reiterada actos hostiles y humillantes que, sin llegar a constituir trato degradante, supongan grave acoso contra la víctima."

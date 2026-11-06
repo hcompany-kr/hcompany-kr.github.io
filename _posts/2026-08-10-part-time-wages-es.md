@@ -8,7 +8,7 @@ eyebrow: Trabajo
 title: "Sin contrato por escrito, la ley presume jornada completa"
 description: "Qué pasa cuando no hay contrato firmado, el registro horario obligatorio, el plazo de un año para reclamar, y qué debe guardar cada parte."
 app: true
-app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
+app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
   - q: "¿Qué ocurre si no me han hecho contrato por escrito?"
     a: "El artículo 8.2 del Estatuto de los Trabajadores establece que los contratos que no se formalicen por escrito cuando sea legalmente exigible se presumirán celebrados por tiempo indefinido y a jornada completa, salvo prueba en contrario. Además, cualquiera de las partes puede exigir que el contrato se formalice por escrito incluso durante la relación laboral."

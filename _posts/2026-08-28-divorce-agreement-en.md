@@ -8,7 +8,7 @@ eyebrow: Family
 title: "The divorce ends the marriage. It does not end the money."
 description: "In England and Wales a claim was allowed 19 years after the divorce because no financial order was ever made. What turns a settlement conversation into something enforceable, in the US, the UK and Canada."
 app: true
-app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
+app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "Is a verbal divorce settlement enforceable?"
     a: "Generally no. In England and Wales only a court-approved consent order closes off financial claims — a verbal agreement, a WhatsApp message or even a signed letter does not. In Canada, provincial statutes generally require a written agreement signed and witnessed. In the US, a settlement normally has to be in writing and incorporated into the divorce judgment to be enforced as a court order."

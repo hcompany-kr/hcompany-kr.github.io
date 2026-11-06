@@ -10,7 +10,7 @@ description: "Türkiye'de katıldığınız bir konuşmayı rıza olmadan kaydet
 image: /assets/img/og/ses-kaydi-suc-mu-tr.png
 image_alt: "Türkiye'de ses kaydı kuralları: katıldığınız konuşmayı rızasız kaydetmek suç (TCK 133/2), başkalarının konuşmasını kaydetmek suç (TCK 133/1), herkesin rızasıyla kayıt sorun değil."
 app: true
-app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan bir Android ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
+app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Türkiye'de katıldığım bir konuşmayı gizlice kaydetmek suç mu?"
     a: "Evet. Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek altı aydan iki yıla kadar hapis veya adli para cezası gerektiren bir suçtur."
@@ -25,7 +25,7 @@ faq:
   - q: "Ne zaman kayıt almak sorun olmaz?"
     a: "Herkesin rıza gösterdiği durumlarda: üzerinde anlaşılmış bir görüşme, bir röportaj, herkesin kaydedilmesine razı olduğu bir toplantı ya da kendi sesli notlarınız. TCK 133/2 rızası olmayan kaydı cezalandırır."
   - q: "Rızayı da kayda almanın en kolay yolu nedir?"
-    a: "Android için bir ses kayıt uygulaması olan TalkSafe'te sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini, anahtar kelime olarak belirleyin. Kayıt alabilir miyim diye sorduğunuzda kayıt tam o anda başlar ve karşı tarafın cevabı dosyada olur."
+    a: "Android ve iPhone için bir ses kayıt uygulaması olan TalkSafe'te sorunuzdaki bir kelimeyi, örneğin kayıt kelimesini, anahtar kelime olarak belirleyin. Kayıt alabilir miyim diye sorduğunuzda kayıt tam o anda başlar ve karşı tarafın cevabı dosyada olur."
 ---
 
 İş yerinde birdenbire tazminatsız çıkıştan söz edilen bir görüşme. Depozitoyu farklı hatırlayan bir ev sahibi. Bir noktada aklınıza gelir: Bunu kaydetmeliydim.
@@ -89,7 +89,7 @@ Diğer ülkeler burada ele alınmamıştır.
 
 ## Uygulama nerede devreye giriyor
 
-[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan, **ekran kilitliyken** çalışan ve başlangıçtan **önceki 30 saniyeyi** dosyaya ekleyen bir Android ses kayıt uygulamasıdır. Odadaki mikrofonun duyduğunu, yani katıldığınız konuşmayı kaydeder. Gizli modu yoktur.
+[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan, **ekran kilitliyken** çalışan ve başlangıçtan **önceki 30 saniyeyi** dosyaya ekleyen Android ve iPhone için bir ses kayıt uygulamasıdır. Odadaki mikrofonun duyduğunu, yani katıldığınız konuşmayı kaydeder. Gizli modu yoktur.
 
 <figure class="shot"><img src="/assets/img/screens/active-tr.jpg" alt="Anahtar kelime algılamasının etkin olduğu TalkSafe ekranı ve Durdur düğmesi." width="540" height="960" loading="lazy"><figcaption>Anahtar kelime algılama etkin. Ekran kapalıyken ya da uygulama kapatılmışken arka planda dinlemeye devam eder.</figcaption></figure>
 

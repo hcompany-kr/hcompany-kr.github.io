@@ -8,7 +8,7 @@ eyebrow: Opnemen
 title: "Wat recorders onderscheidt, is wanneer ze starten"
 description: "Clip-on-recorders, VOX-apparaten, AI-notitierecorders, telefoonapps. Wat elk ervan je aan het eind van een dag oplevert, en in welke je daarna nog iets terugvindt."
 app: true
-app_description: "Een opname-app voor Android die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
+app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Wat betekent VOX bij een dictafoon?"
     a: "VOX staat voor spraak- of geluidsactivering. Het apparaat wacht tot het geluid detecteert en neemt op tot het geluid stopt. Omdat het niet voortdurend loopt, verbruikt het veel minder batterij; daarom adverteren zulke apparaten met stand-bytijden in maanden in plaats van uren."
@@ -90,7 +90,7 @@ Twee varianten.
 
 **Een app met start op trefwoord** begint als hij een vooraf ingesteld woord hoort. Het bestand begint op het moment, niet om negen uur 's ochtends, dus er valt daarna niets te doorzoeken.
 
-Dit is de categorie waarin wij werken, dus lees de volgende alinea met die wetenschap. [TalkSafe](/talksafe/nl/) is een Android-app die start bij een gekozen woord, werkt met een vergrendeld scherm en de 30 seconden vóór de start met het bestand bewaart — dat beantwoordt het probleem van de ontbrekende eerste lettergreep. Bij het knippen van een stuk blijft het originele bestand bewaard. Een opname uit een lawaaiige omgeving, zoals op straat, kun je achteraf opschonen met de AI-ruisonderdrukking, die op het toestel werkt en een nieuw bestand naast het origineel bewaart.
+Dit is de categorie waarin wij werken, dus lees de volgende alinea met die wetenschap. [TalkSafe](/talksafe/nl/) is een app voor Android en iPhone die start bij een gekozen woord, werkt met een vergrendeld scherm en de 30 seconden vóór de start met het bestand bewaart — dat beantwoordt het probleem van de ontbrekende eerste lettergreep. Bij het knippen van een stuk blijft het originele bestand bewaard. Een opname uit een lawaaiige omgeving, zoals op straat, kun je achteraf opschonen met de AI-ruisonderdrukking, die op het toestel werkt en een nieuw bestand naast het origineel bewaart.
 
 <figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
 

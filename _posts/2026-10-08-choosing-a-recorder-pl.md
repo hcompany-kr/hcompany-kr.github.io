@@ -8,7 +8,7 @@ eyebrow: Nagrywanie
 title: "Nagrywarki różnią się tym, kiedy zaczynają nagrywać"
 description: "Dyktafony przypinane, urządzenia VOX, notatniki z AI, aplikacje na telefon. Co każde z nich zostawia ci na koniec dnia i w którym da się potem cokolwiek znaleźć."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Co oznacza VOX w dyktafonie?"
     a: "VOX to aktywacja głosem lub dźwiękiem. Urządzenie czeka, aż wykryje dźwięk, i nagrywa, dopóki dźwięk nie ucichnie. Ponieważ nie działa bez przerwy, zużywa znacznie mniej baterii; dlatego takie urządzenia reklamują czas czuwania w miesiącach, a nie w godzinach."
@@ -90,7 +90,7 @@ Dwie wersje.
 
 **Aplikacja ze startem po słowie kluczowym** zaczyna, gdy usłyszy wcześniej ustawione słowo. Plik zaczyna się w danej chwili, a nie o dziewiątej rano, więc potem nie ma czego przeszukiwać.
 
-To kategoria, w której pracujemy, więc czytaj następny akapit z tą wiedzą. [TalkSafe](/talksafe/pl/) to aplikacja na Androida, która startuje po wybranym słowie, działa przy zablokowanym ekranie i zapisuje z plikiem 30 sekund sprzed startu — co odpowiada na problem brakującej pierwszej sylaby. Przy wycinaniu fragmentu oryginalny plik zostaje. Nagranie zrobione w hałaśliwym miejscu, na przykład na ulicy, można potem oczyścić usuwaniem szumów z AI, które działa na urządzeniu i zapisuje nowy plik obok oryginału.
+To kategoria, w której pracujemy, więc czytaj następny akapit z tą wiedzą. [TalkSafe](/talksafe/pl/) to aplikacja na Androida i iPhone'a, która startuje po wybranym słowie, działa przy zablokowanym ekranie i zapisuje z plikiem 30 sekund sprzed startu — co odpowiada na problem brakującej pierwszej sylaby. Przy wycinaniu fragmentu oryginalny plik zostaje. Nagranie zrobione w hałaśliwym miejscu, na przykład na ulicy, można potem oczyścić usuwaniem szumów z AI, które działa na urządzeniu i zapisuje nowy plik obok oryginału.
 
 <figure class="shot"><img src="/assets/img/screens/start-pl.jpg" alt="Ekran startowy TalkSafe z przyciskami do uruchomienia wykrywania na żywo i ręcznego nagrywania." width="540" height="960" loading="lazy"><figcaption>Ekran startowy TalkSafe. Przy włączonym wykrywaniu na żywo nagrywanie zaczyna się, gdy zostanie wykryte ustawione słowo; przyciskiem można też nagrać od razu.</figcaption></figure>
 

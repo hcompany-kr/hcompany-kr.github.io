@@ -10,7 +10,7 @@ description: "Soukromí detektivové, novináři, likvidátoři pojistných udá
 image: /assets/img/og/interview-recording-cs.png
 image_alt: "Dva způsoby nahrání rozhovoru: diktafon na stole nutí druhou stranu vážit slova; nahrávání spuštěné klíčovým slovem nevyžaduje sahat na telefon a rozhovor pokračuje. Jen vlastní rozhovory, originál nedotčený."
 app: true
-app_description: "Aplikace pro nahrávání zvuku na Android, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
+app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Může soukromý detektiv nahrát rozhovor, kterého se účastní?"
     a: "V Česku záleží na účelu. Podle § 86 občanského zákoníku nelze bez svolení pořizovat zvukový záznam soukromého života člověka, podle § 88 odst. 1 ale svolení není třeba, pokud se záznam pořídí nebo použije k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů, a podle § 90 nesmí jít o nepřiměřené využití. Na Slovensku lze podle § 12 občanského zákoníku zvukový záznam pořídit jen se svolením, s výjimkami."
@@ -19,7 +19,7 @@ faq:
   - q: "Proč viditelný diktafon změní rozhovor?"
     a: "Jakmile je diktafon vidět, lidé začnou vybírat slova do protokolu. Odpovědi se zkrátí a zopatrní, a detail, o který šlo, zazní až s vypnutým přístrojem. Sáhnout uprostřed rozhovoru po telefonu, aby začalo nahrávání, vytvoří stejný okamžik."
   - q: "Existuje aplikace, která začne nahrávat bez vytahování telefonu?"
-    a: "TalkSafe je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší předem zvolené slovo. Funguje při zamčené obrazovce s telefonem v kapse, slovo není vázané na váš hlas, takže to může být slovo druhé strany, a uloží i 30 sekund před začátkem."
+    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší předem zvolené slovo. Funguje při zamčené obrazovce s telefonem v kapse, slovo není vázané na váš hlas, takže to může být slovo druhé strany, a uloží i 30 sekund před začátkem."
   - q: "Může tajně pořízená nahrávka sloužit jako důkaz?"
     a: "Ano, za podmínek. Ústavní soud v nálezu II. ÚS 1774/14 z 9. prosince 2014 rozhodl, že tajně pořízený záznam nelze jako důkaz odmítnout jen proto, že obsahuje projevy osobní povahy. V trestním řízení může podle § 89 odst. 2 trestního řádu za důkaz sloužit vše, co může přispět k objasnění věci."
   - q: "Na co dbát, když se nahrávka stane důkazem?"
@@ -57,7 +57,7 @@ Sáhnout uprostřed rozhovoru do kapsy, odemknout telefon a hledat aplikaci vytv
 
 ## Slovo zmáčkne tlačítko za vás
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android, která začne nahrávat, když uslyší předem zvolené slovo. Pro toho, kdo vede rozhovory, jsou důležité tři věci.
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší předem zvolené slovo. Pro toho, kdo vede rozhovory, jsou důležité tři věci.
 
 <figure class="shot"><img src="/assets/img/screens/active-cs.jpg" alt="Obrazovka TalkSafe se zapnutým rozpoznáváním klíčových slov a tlačítkem Zastavit." width="540" height="960" loading="lazy"><figcaption>Rozpoznávání klíčových slov zapnuto. Aplikace poslouchá dál na pozadí i se zhasnutou obrazovkou nebo zavřenou aplikací.</figcaption></figure>
 

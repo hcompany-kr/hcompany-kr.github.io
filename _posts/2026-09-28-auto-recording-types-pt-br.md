@@ -8,7 +8,7 @@ eyebrow: Gravação
 title: "Nem todo gravador “automático” faz a mesma coisa"
 description: "No Android, gravação automática quer dizer cinco coisas bem diferentes. O que dispara cada uma e quais situações cada uma deixa escapar."
 app: true
-app_description: "Um app de gravação de voz para Android que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
+app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Que tipos de app de gravação automática existem no Android?"
     a: "Cinco tipos, em linhas gerais: gravação que começa quando uma ligação é conectada, gravação que começa quando há som, gravação agendada para um horário, gravação que também guarda os momentos anteriores ao início e gravação que começa quando uma palavra escolhida é ouvida."

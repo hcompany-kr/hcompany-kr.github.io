@@ -8,7 +8,7 @@ eyebrow: Poradnik
 title: "Dlaczego aplikacje do nagrywania rozmów na Androidzie przestały działać i co nadal działa"
 description: "Android usunął interfejs w 2015 r., w 2019 r. zablokował drogę przez mikrofon, a Google w maju 2022 r. zamknął ostatnią furtkę. Wbudowana aplikacja Telefon nigdy nie była objęta zakazem. Do tego: co mówi prawo w Polsce i w krajach, w których mieszka wielu Polaków."
 app: true
-app_description: "Aplikacja do nagrywania dźwięku na Androida, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
+app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Dlaczego aplikacje do nagrywania rozmów nie działają już na Androidzie?"
     a: "Android 6 usunął w 2015 r. interfejs do nagrywania rozmów, a Android 10 zablokował w 2019 r. nagrywanie rozmów przez mikrofon. Twórcy aplikacji zaczęli wtedy korzystać z interfejsu ułatwień dostępu, a 11 maja 2022 r. Google zamknął także tę drogę. Aplikacje innych firm do nagrywania rozmów zostały usunięte ze Sklepu Play."
@@ -21,7 +21,7 @@ faq:
   - q: "Czy działa włączenie głośnika i nagrywanie aplikacją do dyktafonu?"
     a: "Tak, na każdym telefonie z Androidem, bo aplikacja nagrywa wtedy dźwięk w pomieszczeniu, a nie samo połączenie. Ceną są gorsza jakość dźwięku, hałas w tle i to, że wszyscy w pobliżu słyszą rozmowę."
   - q: "Czy TalkSafe jest aplikacją do nagrywania rozmów telefonicznych?"
-    a: "Nie. TalkSafe to aplikacja do nagrywania dźwięku na Androida, która nagrywa to, co mikrofon słyszy w pomieszczeniu; nie ma dostępu do samego połączenia. Przy rozmowie na głośniku nagrywa obie strony. Zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, działa przy zablokowanym ekranie i zapisuje 30 sekund sprzed startu."
+    a: "Nie. TalkSafe to aplikacja do nagrywania dźwięku na Androida i iPhone'a, która nagrywa to, co mikrofon słyszy w pomieszczeniu; nie ma dostępu do samego połączenia. Przy rozmowie na głośniku nagrywa obie strony. Zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, działa przy zablokowanym ekranie i zapisuje 30 sekund sprzed startu."
   - q: "Czy osobne urządzenie do nagrywania zmienia coś w przepisach?"
     a: "Nie. Prawo dotyczy rozmowy, a nie urządzenia. Drugi telefon, dyktafon czy głośnik nie zmieniają tego, jakiej zgody wymaga kraj, w którym jesteś."
 ---

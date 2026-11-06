@@ -8,7 +8,7 @@ eyebrow: Legge
 title: "Registrare sì, diffondere no"
 description: "In Italia registrare una conversazione a cui partecipi è lecito e vale come prova documentale. Diffonderla è un atto diverso, e registrare i colleghi \"per vedere cosa esce\" può costarti una sanzione disciplinare."
 app: true
-app_description: "Un registratore vocale per Android che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
+app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "È legale registrare una conversazione a cui partecipo senza dirlo?"
     a: "Sì. Secondo l'orientamento consolidato della Cassazione, la registrazione effettuata da chi partecipa alla conversazione o è comunque legittimamente presente non costituisce intercettazione e non richiede alcuna autorizzazione del giudice. Il fondamento è il principio del rischio accettato: chi parla accetta il rischio che l'interlocutore documenti quanto detto."
