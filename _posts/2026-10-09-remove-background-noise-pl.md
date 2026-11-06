@@ -106,4 +106,6 @@ Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy 
 
 Jeśli dopiero zaczynasz z TalkSafe, jak wybrać słowa kluczowe, żeby były lepiej wykrywane, opisuje [Najpierw coś mówisz](/blog/pl/say-it-first/).
 
+Jak streścić nagranie za pomocą AI i dokąd trafia dźwięk, opisuje [Jak streścić nagranie głosowe za pomocą AI na Androidzie](/blog/pl/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkcje narzędzi innych firm opisano na podstawie ich dokumentacji i doniesień z chwili pisania i mogą się zmienić. Sami tworzymy aplikację do nagrywania, jak zaznaczono wyżej.</p>

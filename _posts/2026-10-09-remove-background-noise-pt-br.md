@@ -106,4 +106,6 @@ O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões
 
 Se você está começando com o TalkSafe, como escolher as palavras-chave para que sejam detectadas com mais precisão está em [Primeiro você diz alguma coisa](/blog/pt-br/say-it-first/).
 
+Como resumir uma gravação com IA e para onde vai o áudio: [Como resumir um áudio gravado com IA no Android](/blog/pt-br/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Os recursos de ferramentas de terceiros refletem a documentação e as reportagens no momento em que este texto foi escrito e podem mudar. Nós também desenvolvemos um app de gravação, como dito acima.</p>

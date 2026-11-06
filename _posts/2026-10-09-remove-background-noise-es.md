@@ -104,4 +104,6 @@ Cómo recortar una grabación hasta lo que importa sin perder el original, y en 
 
 Si acabas de empezar con TalkSafe, cómo elegir las palabras clave para que se detecten mejor está en [Lo primero que se mueve no es la mano](/blog/es/say-it-first/).
 
+Cómo resumir una grabación con IA y a dónde va el audio: [Cómo resumir una grabación de audio con IA en Android](/blog/es/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las funciones de herramientas de terceros reflejan su documentación y lo publicado al momento de escribir, y pueden cambiar. Hacemos una app de grabación, como se indica arriba.</p>

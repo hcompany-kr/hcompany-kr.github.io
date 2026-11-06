@@ -107,4 +107,6 @@ Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın ist
 
 TalkSafe'i yeni kullanmaya başladıysanız, anahtar kelimeleri daha iyi algılanacak şekilde nasıl seçeceğiniz [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.
 
+Bir kaydı yapay zekâ ile özetlemek ve sesin nereye gittiği: [Android'de ses kaydı yapay zekâ ile nasıl özetlenir](/blog/tr/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Diğer uygulamaların özellikleri yazım sırasındaki resmî kılavuzlarına göre anlatılmıştır ve değişebilir. Biz de bir kayıt uygulaması geliştiriyoruz; bunu yukarıda belirttik. Genel bilgidir, hukuki tavsiye değildir.</p>

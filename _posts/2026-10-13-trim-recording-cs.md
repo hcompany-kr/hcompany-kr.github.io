@@ -105,4 +105,6 @@ Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník
 
 Pokud s TalkSafe teprve začínáte, jak zvolit klíčová slova, aby se lépe rozpoznávala, popisuje [Nejdřív něco řeknete](/blog/cs/say-it-first/).
 
+Jak shrnout nahrávku pomocí AI a kam zvuk putuje, popisuje [Jak shrnout hlasovou nahrávku pomocí AI na Androidu](/blog/cs/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkce jiných aplikací jsou popsány podle jejich oficiálních návodů v době psaní a mohou se změnit. Sami vyvíjíme aplikaci pro nahrávání, jak je uvedeno výše. Obecné informace, nikoli právní rada.</p>

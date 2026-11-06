@@ -104,4 +104,6 @@ Come ridurre una registrazione alla parte che conta senza perdere l'originale, e
 
 Se hai appena iniziato con TalkSafe, come scegliere le parole chiave perché vengano rilevate meglio è in [Prima della mano si muove la voce](/blog/it/say-it-first/).
 
+Come riassumere una registrazione con l'IA e dove va l'audio: [Come riassumere una registrazione vocale con l'IA su Android](/blog/it/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le funzioni degli strumenti di terzi riflettono la loro documentazione e quanto riportato al momento della scrittura, e possono cambiare. Realizziamo un'app di registrazione, come indicato sopra.</p>

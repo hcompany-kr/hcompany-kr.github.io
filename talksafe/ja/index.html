@@ -156,6 +156,14 @@ layout: null
     },
     {
       "@type": "Question",
+      "name": "TalkSafeは録音を要約してくれますか",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい。TalkSafeは録音ごとにAI要約を作り、録音の詳細画面で再生バーの下に短い箇条書きで表示します。要約は録音した言語のままで、切り取ったファイルやノイズを除去したファイルにも使えます。要約のために録音はサーバーへ送られ、キーワード検知は端末内で行われます。全文の文字起こしはありません。"
+      }
+    },
+    {
+      "@type": "Question",
       "name": "相手に知られずに録音するためのアプリですか",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -246,6 +254,7 @@ layout: null
         <li><strong>端末内での処理</strong> — 言葉の聞き取りが端末の中で行われます。</li>
         <li><strong>AIノイズ除去</strong> — 録音し終えたファイルから周囲の雑音を取り除き、会話を残します。処理は端末内で行われ、元のファイルはそのまま、整えたファイルは新しく保存されます。</li>
         <li><strong>切り取り</strong> — 必要な区間だけを新しいファイルとして保存します。元のファイルはそのまま残ります。</li>
+        <li><strong>AI要約</strong> — 録音ごとに要約を作り、録音の詳細画面に表示します。録音した言語のまま要約し、要約はサーバーで処理されます。</li>
         <li><strong>共有</strong> — Androidの共有メニューから、ファイルを受け取れるアプリならどこへでも送れます。</li>
         <li><strong>録音時間の選択</strong> — 10分、30分、1時間、手動停止から選べます。</li>
         <li><strong>常時通知</strong> — 録音中は通知が表示され、消すことはできません。</li>
@@ -336,6 +345,7 @@ layout: null
         <li><a href="{{ '/blog/ja/school-bullying/' | relative_url }}">「疑い」の段階で、学校には調査義務があります</a></li>
         <li><a href="{{ '/blog/ja/remove-background-noise/' | relative_url }}">録音の雑音を消す方法、Androidでできる4つのやり方</a></li>
         <li><a href="{{ '/blog/ja/trim-recording/' | relative_url }}">録音ファイルを切り取る方法、原本は残して必要な部分だけ</a></li>
+        <li><a href="{{ '/blog/ja/summarize-recording/' | relative_url }}">録音をAIで要約する方法、Androidで使えるアプリ</a></li>
         <li><a href="{{ '/blog/ja/interview-recording/' | relative_url }}">聞き込みで録音機を出すと、会話が変わります</a></li>
       </ul>
 

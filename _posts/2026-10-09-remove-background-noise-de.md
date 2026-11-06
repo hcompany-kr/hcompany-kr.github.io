@@ -106,4 +106,6 @@ Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201
 
 Wenn Sie TalkSafe gerade erst einrichten: Wie Sie Schlüsselwörter wählen, damit sie zuverlässig erkannt werden, steht in [Zuerst sagt man etwas](/blog/de/say-it-first/).
 
+Wie man eine Aufnahme mit KI zusammenfasst und wohin der Ton geht: [Sprachaufnahme mit KI zusammenfassen – so geht es auf Android](/blog/de/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Werkzeugen anderer Anbieter beruhen auf deren Dokumentation und Berichten zum Zeitpunkt des Schreibens und können sich ändern. Wir entwickeln selbst eine Aufnahme-App, wie oben offengelegt.</p>

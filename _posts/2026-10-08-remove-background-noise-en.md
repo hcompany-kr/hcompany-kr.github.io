@@ -104,4 +104,6 @@ How dedicated recorders compare with phones on sound quality is in [The thing th
 
 If you are new to TalkSafe, how to choose keywords so they are detected reliably is in [You say something first](/blog/en/say-it-first/).
 
+How to get an AI summary of a recording, and where the audio goes: [How to get an AI summary of a voice recording on Android](/blog/en/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Feature availability for third-party tools reflects their documentation and reporting at the time of writing and can change. We make a recording app, as disclosed above.</p>

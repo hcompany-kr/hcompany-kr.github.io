@@ -103,4 +103,6 @@ Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het o
 
 Begin je net met TalkSafe, dan staat in [Eerst zeg je iets](/blog/nl/say-it-first/) hoe je trefwoorden kiest die beter herkend worden.
 
+Hoe je een opname samenvat met AI en waar het geluid heen gaat, staat in [Een spraakopname samenvatten met AI op Android](/blog/nl/summarize-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De functies van andere apps zijn beschreven op basis van hun officiële handleidingen op het moment van schrijven en kunnen veranderen. We maken zelf een opname-app, zoals hierboven vermeld. Algemene informatie, geen juridisch advies.</p>
