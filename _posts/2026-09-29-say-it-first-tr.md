@@ -4,6 +4,7 @@ ref: say-it-first
 categories: tr
 permalink: /blog/tr/say-it-first/
 date: 2026-09-29
+last_modified_at: 2026-11-03
 eyebrow: Kayıt
 title: "Önce bir şey söylersiniz"
 description: "Bir konuşmanın kaydedilmesi gerektiğini fark ettiğiniz anda ağzınız ellerinizden önce hareket eder. Tetikleyici bu olduğunda ne olur."

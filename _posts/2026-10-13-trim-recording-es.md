@@ -4,15 +4,16 @@ ref: trim-recording
 categories: es
 permalink: /blog/es/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-06
 eyebrow: Guía
-title: "Cómo recortar una grabación de voz en Android sin perder el original"
-description: "Recortar una grabación larga hasta los dos minutos que importan lleva segundos. Que el archivo completo sobreviva al corte depende de la app. Cómo lo resuelven las más comunes, y por qué el original es lo que se conserva."
+title: "Cómo cortar una grabación de audio en Android sin perder el original"
+description: "Para cortar o recortar una grabación de audio o una nota de voz en Android, eliges el tramo en la función de recorte de la app y lo guardas como archivo nuevo. Que el original sobreviva depende de la app: cómo lo hacen la Grabadora de Google, la de Samsung, Audacity y TalkSafe, y por qué el original es lo que se conserva."
 image: /assets/img/og/trim-recording-es.png
 image_alt: "La forma de onda de una grabación larga con un tramo de dos minutos seleccionado. En TalkSafe el tramo se guarda como un archivo nuevo y el original completo queda como estaba."
 app: true
 app_description: "Una grabadora de voz para Android que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
-  - q: "¿Cómo se recorta una grabación de voz en Android?"
+  - q: "¿Cómo se corta o recorta una grabación de audio en Android?"
     a: "La mayoría de las apps de grabación tienen una función de recorte: arrastras unos tiradores para elegir el tramo y lo guardas. En los Pixel, la Grabadora de Google tiene Recortar y quitar (Crop & Remove), que funciona sobre el audio o sobre la transcripción y termina con Guardar copia. La grabadora de voz de Samsung permite recortar y, al guardar, elegir entre reemplazar el archivo o crear uno nuevo. TalkSafe guarda el tramo recortado como un archivo nuevo y deja intacto el original."
   - q: "¿Recortar una grabación borra el original?"
     a: "Depende de la app. La Grabadora de Google guarda la edición como una copia. La grabadora de voz de Samsung pregunta si reemplazar el archivo o crear uno nuevo, así que elegir reemplazar sobrescribe el original. En TalkSafe el original siempre se conserva y el tramo recortado pasa a ser un archivo aparte."

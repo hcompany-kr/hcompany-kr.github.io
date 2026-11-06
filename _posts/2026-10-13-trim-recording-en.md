@@ -4,15 +4,16 @@ ref: trim-recording
 categories: en
 permalink: /blog/en/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-06
 eyebrow: How-to
-title: "How to trim a voice recording on Android without losing the original"
-description: "Cutting a long recording down to the two minutes that matter takes seconds. Whether the full file survives the cut depends on the app — here is how the common ones handle it, and why the original is the part you keep."
+title: "How to cut or trim a voice recording on Android, keeping the original"
+description: "To cut a voice recording or voice note on Android, select the part you need in the app's trim tool and save it as a new file. Whether the original survives depends on the app: how Google Recorder, Samsung Voice Recorder, Audacity and TalkSafe handle it, and why the original is the part you keep."
 image: /assets/img/og/trim-recording-en.png
 image_alt: "A long recording waveform with a two-minute section selected. The selection is saved as a new file in TalkSafe while the full original stays as it was."
 app: true
 app_description: "An Android voice recorder that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
-  - q: "How do I trim a voice recording on Android?"
+  - q: "How do I cut or trim a voice recording on Android?"
     a: "Most recorder apps have a trim or crop function: you drag handles to select the part you want and save it. On Pixel phones, Google's Recorder app has Crop & Remove, which works on the audio or on the transcript and ends with Save copy. Samsung's Voice Recorder lets you trim and, when saving, choose between replacing the file and creating a new one. TalkSafe saves the trimmed section as a new file and leaves the original untouched."
   - q: "Does trimming a recording delete the original?"
     a: "It depends on the app. Google Recorder saves the edit as a copy. Samsung Voice Recorder asks whether to replace the file or create a new audio file, so choosing replace overwrites the original. In TalkSafe the original is always kept and the trimmed section becomes a separate file."

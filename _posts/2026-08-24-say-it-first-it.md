@@ -4,6 +4,7 @@ ref: say-it-first
 categories: it
 permalink: /blog/it/say-it-first/
 date: 2026-08-24
+last_modified_at: 2026-11-03
 eyebrow: Come funziona
 title: "Prima della mano si muove la voce"
 description: "Nei momenti che contano non prendi il telefono: parli. Perché un registratore che parte da una parola arriva prima di uno che parte da un pulsante, e perché non esiste una lista giusta di parole."

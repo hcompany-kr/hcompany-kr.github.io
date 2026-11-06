@@ -4,6 +4,7 @@ ref: say-it-first
 categories: pl
 permalink: /blog/pl/say-it-first/
 date: 2026-10-08
+last_modified_at: 2026-11-03
 eyebrow: Nagrywanie
 title: "Najpierw coś mówisz"
 description: "W chwili, w której orientujesz się, że rozmowę warto nagrać, usta działają szybciej niż ręce. Co się dzieje, gdy właśnie to staje się wyzwalaczem."

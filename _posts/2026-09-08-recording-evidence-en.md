@@ -123,7 +123,7 @@ When what you need to prove is a verbal agreement that differs from the written 
 
 Where the evidence has to show a pattern over time, see [how to build evidence of stalking](https://hcompany-kr.github.io/blog/en/stalking-evidence/).
 
-How to prepare an excerpt without losing the original is in [How to trim a voice recording on Android without losing the original](/blog/en/trim-recording/).
+How to prepare an excerpt without losing the original is in [How to cut or trim a voice recording on Android, keeping the original](/blog/en/trim-recording/).
 
 How investigators, detectives and journalists can record an interview without breaking it, and where federal law draws the line, is in [Put a recorder on the table and the interview changes](/blog/en/interview-recording/).
 

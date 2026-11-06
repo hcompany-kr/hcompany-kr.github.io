@@ -4,6 +4,7 @@ ref: say-it-first
 categories: fr
 permalink: /blog/fr/say-it-first/
 date: 2026-09-29
+last_modified_at: 2026-11-03
 eyebrow: Enregistrement
 title: "On dit d'abord quelque chose"
 description: "Au moment où l'on comprend qu'une conversation mériterait d'être enregistrée, la bouche bouge avant les mains. Ce qui se passe quand c'est cela qui devient le déclencheur."

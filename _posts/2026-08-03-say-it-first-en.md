@@ -4,7 +4,7 @@ ref: say-it-first
 categories: en
 permalink: /blog/en/say-it-first/
 date: 2026-08-03
-last_modified_at: 2026-08-04
+last_modified_at: 2026-11-03
 eyebrow: Recording
 title: "You say something first"
 description: "The moment you realise a conversation should be recorded, your mouth moves before your hands do. What happens when that becomes the trigger."

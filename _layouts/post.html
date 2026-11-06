@@ -23,14 +23,18 @@
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta name="robots" content="max-image-preview:large">
+{% comment %}표지가 없는 글은 언어별 앱 대표 이미지를 공유·스키마 이미지로 씁니다.{% endcomment %}
 {% if page.image %}
-<meta property="og:image" content="{{ page.image | absolute_url }}">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="{{ page.image_alt | escape }}">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{% assign og_img = page.image %}{% assign og_w = 1200 %}{% assign og_h = 630 %}{% assign og_alt = page.image_alt %}
+{% else %}
+{% assign og_img = '/assets/img/brand/feature-' | append: page.lang | downcase | append: '.png' %}{% assign og_w = 1024 %}{% assign og_h = 500 %}{% assign og_alt = page.app_description | default: page.title %}
 {% endif %}
+<meta property="og:image" content="{{ og_img | absolute_url }}">
+<meta property="og:image:width" content="{{ og_w }}">
+<meta property="og:image:height" content="{{ og_h }}">
+<meta property="og:image:alt" content="{{ og_alt | escape }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ og_img | absolute_url }}">
 
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
@@ -45,7 +49,7 @@
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
   "mainEntityOfPage": {{ page.url | absolute_url | jsonify }},
-  {% if page.image %}"image": [{{ page.image | absolute_url | jsonify }}],{% endif %}
+  "image": [{{ og_img | absolute_url | jsonify }}],
   {% if page.app %}"about": { "@id": "{{ site.url }}/talksafe/{% unless page.lang == 'ko' %}{{ page.lang | downcase }}/{% endunless %}#app" },{% endif %}
   "author": { "@type": "Organization", "name": {{ site.title | jsonify }}, "url": "{{ site.url }}/" },
   "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }}, "url": "{{ site.url }}/" }

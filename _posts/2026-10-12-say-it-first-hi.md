@@ -4,6 +4,7 @@ ref: say-it-first
 categories: hi
 permalink: /blog/hi/say-it-first/
 date: 2026-10-12
+last_modified_at: 2026-11-03
 eyebrow: रिकॉर्डिंग
 title: "पहले आप कुछ कहते हैं"
 description: "जिस पल आपको लगता है कि यह बातचीत रिकॉर्ड करनी चाहिए, मुँह हाथों से तेज़ चलता है। क्या होता है जब वही ट्रिगर बन जाए।"

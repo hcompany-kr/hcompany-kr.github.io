@@ -100,7 +100,7 @@ No tool adds back what the microphone never caught. A few habits make the cleanu
 - **Studio-style results and no privacy concern:** a web service, by upload.
 - **A street conversation you want to keep on your phone:** TalkSafe's AI noise removal, on the device, with the original kept.
 
-How dedicated recorders compare with phones on sound quality is in [The thing that separates recorders is when they start](/blog/en/choosing-a-recorder/). How to cut out the section you need first is in [How to trim a voice recording on Android without losing the original](/blog/en/trim-recording/).
+How dedicated recorders compare with phones on sound quality is in [The thing that separates recorders is when they start](/blog/en/choosing-a-recorder/). How to cut out the section you need first is in [How to cut or trim a voice recording on Android, keeping the original](/blog/en/trim-recording/).
 
 If you are new to TalkSafe, how to choose keywords so they are detected reliably is in [You say something first](/blog/en/say-it-first/).
 

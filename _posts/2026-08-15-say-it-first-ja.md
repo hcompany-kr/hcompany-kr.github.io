@@ -4,6 +4,7 @@ ref: say-it-first
 categories: ja
 permalink: /blog/ja/say-it-first/
 date: 2026-08-15
+last_modified_at: 2026-11-03
 eyebrow: 録音
 title: "先に出るのは、手ではなく言葉です"
 description: "録音が必要だと感じた瞬間、手より先に言葉が出ています。その言葉を開始の合図にすると、どうなるかという話。"

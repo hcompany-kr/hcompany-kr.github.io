@@ -4,6 +4,7 @@ ref: say-it-first
 categories: pt-br
 permalink: /blog/pt-br/say-it-first/
 date: 2026-09-29
+last_modified_at: 2026-11-03
 eyebrow: Gravação
 title: "Primeiro você diz alguma coisa"
 description: "No momento em que você percebe que uma conversa deveria ser gravada, a boca se mexe antes das mãos. O que acontece quando isso vira o gatilho."

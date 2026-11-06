@@ -4,6 +4,7 @@ ref: say-it-first
 categories: nl
 permalink: /blog/nl/say-it-first/
 date: 2026-10-08
+last_modified_at: 2026-11-03
 eyebrow: Opnemen
 title: "Eerst zeg je iets"
 description: "Op het moment dat je beseft dat een gesprek opgenomen moet worden, is je mond sneller dan je handen. Wat er gebeurt als juist dat de trigger wordt."

@@ -4,6 +4,7 @@ ref: hands-free-recording
 categories: fr
 permalink: /blog/fr/hands-free-recording/
 date: 2026-09-26
+last_modified_at: 2026-10-01
 eyebrow: Pratique
 title: "Lancer un enregistrement sans toucher son téléphone"
 description: "Quatre façons de démarrer un enregistrement mains libres sur Android, ce que chacune demande vraiment, et lesquelles fonctionnent encore écran verrouillé, téléphone dans la poche."

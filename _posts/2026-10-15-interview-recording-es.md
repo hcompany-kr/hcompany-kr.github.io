@@ -83,7 +83,7 @@ Las grabaciones de entrevistas suelen acabar delante de otra persona: un cliente
 
 En España, el **artículo 382 de la Ley de Enjuiciamiento Civil** exige aportar la grabación **íntegra, en soporte original y con su transcripción escrita**. Si se impugna, suele ser casi indispensable una pericial que coteje el archivo con el terminal original.
 
-En TalkSafe, **recortar conserva el original** y guarda el tramo como archivo nuevo. Si la entrevista fue en un sitio ruidoso, la **eliminación de ruido con IA** limpia una copia en el dispositivo y deja el original como estaba. Cómo hacerlo está en [Cómo recortar una grabación de voz en Android sin perder el original](/blog/es/trim-recording/); cómo se tratan las grabaciones en juicio, en [Tienes la grabación y aun así no puedes usarla](/blog/es/recording-evidence/).
+En TalkSafe, **recortar conserva el original** y guarda el tramo como archivo nuevo. Si la entrevista fue en un sitio ruidoso, la **eliminación de ruido con IA** limpia una copia en el dispositivo y deja el original como estaba. Cómo hacerlo está en [Cómo cortar una grabación de audio en Android sin perder el original](/blog/es/trim-recording/); cómo se tratan las grabaciones en juicio, en [Tienes la grabación y aun así no puedes usarla](/blog/es/recording-evidence/).
 
 ## Cuando la entrevista pide permiso
 

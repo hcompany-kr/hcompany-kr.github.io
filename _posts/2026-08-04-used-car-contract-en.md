@@ -4,6 +4,7 @@ ref: used-car-contract
 categories: en
 permalink: /blog/en/used-car-contract/
 date: 2026-08-04
+last_modified_at: 2026-08-18
 eyebrow: Contracts
 title: "Selling a car \"as is\" does not cover a lie"
 description: "What an as-is sale actually waives, the 12 states and D.C. where it is limited, why fraud voids it anyway, and how to hold a dealer to what was only said out loud."

@@ -4,6 +4,7 @@ ref: say-it-first
 categories: de
 permalink: /blog/de/say-it-first/
 date: 2026-09-29
+last_modified_at: 2026-11-03
 eyebrow: Aufnahme
 title: "Zuerst sagt man etwas"
 description: "In dem Moment, in dem man merkt, dass ein Gespräch aufgenommen werden sollte, bewegt sich der Mund schneller als die Hände. Was passiert, wenn genau das der Auslöser wird."

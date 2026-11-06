@@ -88,7 +88,7 @@ Interview records tend to end up in front of someone else — a client, an emplo
 
 **Federal Rule of Evidence 1003** admits a duplicate to the same extent as the original unless a genuine question is raised about authenticity. **Rule 106** lets the other side require that any other part of a statement be considered alongside an excerpt when fairness requires it. Both are answered by an untouched original.
 
-In TalkSafe, **trimming keeps the original** and saves the section as a new file. If the interview took place somewhere noisy, **AI noise removal** cleans a copy on the device and leaves the original as it was. How to do both is in [How to trim a voice recording on Android without losing the original](/blog/en/trim-recording/); how courts treat recordings is in [You have the recording. You still may not be able to use it](/blog/en/recording-evidence/).
+In TalkSafe, **trimming keeps the original** and saves the section as a new file. If the interview took place somewhere noisy, **AI noise removal** cleans a copy on the device and leaves the original as it was. How to do both is in [How to cut or trim a voice recording on Android, keeping the original](/blog/en/trim-recording/); how courts treat recordings is in [You have the recording. You still may not be able to use it](/blog/en/recording-evidence/).
 
 ## When the interview needs consent
 

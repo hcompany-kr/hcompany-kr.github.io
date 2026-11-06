@@ -4,6 +4,7 @@ ref: say-it-first
 categories: cs
 permalink: /blog/cs/say-it-first/
 date: 2026-10-08
+last_modified_at: 2026-11-03
 eyebrow: Nahrávání
 title: "Nejdřív něco řeknete"
 description: "Ve chvíli, kdy si uvědomíte, že by se rozhovor měl nahrát, jsou ústa rychlejší než ruce. Co se stane, když se právě to stane spouštěčem."

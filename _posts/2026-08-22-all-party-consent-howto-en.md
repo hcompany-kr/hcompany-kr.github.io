@@ -4,6 +4,7 @@ ref: all-party-consent-howto
 categories: en
 permalink: /blog/en/recording-with-consent/
 date: 2026-08-22
+last_modified_at: 2026-09-26
 eyebrow: How to
 title: "In an all-party state, ask — and let the answer land in the file"
 description: "Living in California or Massachusetts doesn't mean you can't record. It means the consent has to come first. Here is the sequence that works, and why a keyword-triggered recorder handles it better than pressing record."

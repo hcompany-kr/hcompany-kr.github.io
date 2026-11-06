@@ -4,6 +4,7 @@ ref: say-it-first
 categories: es
 permalink: /blog/es/say-it-first/
 date: 2026-08-15
+last_modified_at: 2026-11-03
 eyebrow: Grabación
 title: "Lo primero que se mueve no es la mano"
 description: "En el momento en que sientes que deberías estar grabando, las palabras ya salieron. Qué pasa cuando esas palabras son las que ponen la grabación en marcha."
