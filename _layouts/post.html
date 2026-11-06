@@ -82,11 +82,11 @@
   "@id": "{{ site.url }}/talksafe/{% unless page.lang == 'ko' %}{{ page.lang | downcase }}/{% endunless %}#app",
   "name": "TalkSafe Auto Voice Recorder",
   "alternateName": "TalkSafe",
-  "operatingSystem": "Android",
+  "operatingSystem": "Android, iOS",
   "applicationCategory": "UtilitiesApplication",
   "description": {{ page.app_description | jsonify }},
   "url": "https://play.google.com/store/apps/details?id=com.lab525.talksafe",
-  "sameAs": ["https://play.google.com/store/apps/details?id=com.lab525.talksafe", "https://www.threads.com/@525labs1", "https://www.threads.com/@525labs2"]
+  "sameAs": ["https://play.google.com/store/apps/details?id=com.lab525.talksafe", "https://apps.apple.com/app/id6826874758", "https://www.threads.com/@525labs1", "https://www.threads.com/@525labs2"]
 }
 </script>
 {% endif %}
@@ -141,6 +141,7 @@
     <p class="endcard-name">TalkSafe</p>
     <p class="endcard-desc">{{ page.app_description }}</p>
     <a class="endcard-cta" href="https://play.google.com/store/apps/details?id=com.lab525.talksafe">{% case page.lang %}{% when 'en' %}View on Google Play{% when 'ja' %}Google Play で見る{% when 'es' %}Ver en Google Play{% when 'it' %}Vedi su Google Play{% when 'de' %}Bei Google Play ansehen{% when 'fr' %}Voir sur Google Play{% when 'tr' %}Google Play'de görüntüle{% when 'pt-BR' %}Ver no Google Play{% when 'pl' %}Zobacz w Google Play{% when 'nl' %}Bekijk in Google Play{% when 'cs' %}Zobrazit na Google Play{% when 'hi' %}Google Play पर देखें{% else %}Google Play에서 보기{% endcase %}</a>
+    <a class="endcard-cta" href="https://apps.apple.com/app/id6826874758">{% case page.lang %}{% when 'en' %}View on the App Store{% when 'ja' %}App Store で見る{% when 'es' %}Ver en App Store{% when 'it' %}Vedi su App Store{% when 'de' %}Im App Store ansehen{% when 'fr' %}Voir sur l'App Store{% when 'tr' %}App Store'da görüntüle{% when 'pt-BR' %}Ver na App Store{% when 'pl' %}Zobacz w App Store{% when 'nl' %}Bekijk in de App Store{% when 'cs' %}Zobrazit v App Store{% when 'hi' %}App Store पर देखें{% else %}App Store에서 보기{% endcase %}</a>
   </aside>
   {% endif %}
 </main>
