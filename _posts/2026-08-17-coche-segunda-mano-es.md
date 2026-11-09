@@ -125,4 +125,6 @@ Es menos trabajo que una reclamación, y en la mayoría de los casos hace que no
 
 
 
+Si quien vende no es un profesional sino un particular, las reglas cambian: [Entre particulares no hay garantía, hay vicios ocultos](/blog/es/used-item-trade/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado o con una oficina de información al consumidor.</p>

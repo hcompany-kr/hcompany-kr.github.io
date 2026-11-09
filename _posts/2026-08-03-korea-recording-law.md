@@ -88,4 +88,6 @@ faq:
 
 탐정·형사·기자처럼 탐문하는 사람이 대화를 깨지 않고 기록하는 방법과 대법원이 그은 선(2020도9370, 2020도1538)은 [탐문 중에 녹음기를 꺼내면 대화가 끝납니다](/blog/ko/interview-recording/)에 있습니다.
 
+녹음이 실제로 필요해지는 생활 속 상황은 따로 정리했습니다. 계약 때 들은 설명이 보증금 정산에서 사라지는 [임대차 계약](/blog/ko/lease-deposit/), 근로계약서 없이 일한 [아르바이트 임금체불](/blog/ko/part-time-wages/), 직거래 현장의 말이 남지 않는 [개인 간 중고거래](/blog/ko/used-item-trade/), 미팅에서 [말로 정한 계약 조건](/blog/ko/verbal-contract/), 차용증 없이 [빌려준 돈](/blog/ko/lent-money/)입니다.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">이 글은 일반적인 정보 제공을 위한 것이며 법률 자문이 아닙니다. 구체적인 사안은 변호사와 상담하시기 바랍니다.</p>

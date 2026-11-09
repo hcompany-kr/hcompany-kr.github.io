@@ -155,4 +155,6 @@ Se l'accordo a voce era un prestito tra amici, quanto tempo c'è per chiederlo i
 
 Se l'accordo a voce era un'offerta di lavoro e il contratto dice altro, vedi [quello che ti hanno promesso al colloquio non è quello che c'è nel contratto](https://hcompany-kr.github.io/blog/it/job-offer-terms/).
 
+Se l'accordo preso a voce riguarda un lavoro consegnato e non pagato, interessi e 40 euro di risarcimento sono in [Sono 40 euro per ogni fattura, e quasi nessuno li chiede](/blog/it/fattura-non-pagata/). Se riguarda soldi e figli in una separazione, vedi [I tempi si sono accorciati. Gli accordi no.](/blog/it/divorzio-breve/)
+
 Questo articolo è informazione generale e non costituisce consulenza legale. Per il tuo caso rivolgiti a un avvocato.

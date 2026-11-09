@@ -108,4 +108,6 @@ La regola vale anche quando l'interlocutore è un agente. Registrare un controll
 
 Come investigatori e giornalisti possono registrare un colloquio senza romperlo è in [Tiri fuori il registratore e l'intervista cambia](/blog/it/interview-recording/).
 
+Dove una registrazione serve davvero, caso per caso: il [bullismo a scuola](/blog/it/bullismo/), il [consenso informato](/blog/it/consenso-informato/) dal medico, gli accordi su soldi e figli nel [divorzio breve](/blog/it/divorzio-breve/), la [fattura non pagata](/blog/it/fattura-non-pagata/) e i [soldi prestati senza carte](/blog/it/lent-money/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso concreto rivolgiti a un avvocato.</p>

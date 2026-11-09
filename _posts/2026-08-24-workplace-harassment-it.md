@@ -122,4 +122,6 @@ Le stesse regole, dall'altra parte.
 
 **Anche le accuse infondate esistono**, e per questo la richiesta di allegazione specifica vale in entrambe le direzioni: circostanze generiche non reggono nemmeno contro un'azienda.
 
+Se succede a scuola le regole sono altre: il dirigente deve intervenire entro 48 ore dalla segnalazione. Ne parliamo in [La segnalazione scritta fa partire un orologio di 48 ore](/blog/it/bullismo/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso concreto rivolgiti a un avvocato giuslavorista o al sindacato.</p>

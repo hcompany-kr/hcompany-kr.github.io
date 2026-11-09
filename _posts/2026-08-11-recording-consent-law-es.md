@@ -110,4 +110,6 @@ La regla es la misma cuando la otra persona es un agente. Grabar un control o un
 
 Cómo pueden grabar una entrevista detectives y periodistas sin romper la conversación está en [Saca la grabadora en una entrevista y la conversación cambia](/blog/es/interview-recording/).
 
+Cuando compras de segunda mano a un particular, en Wallapop o similares, todo acaba dependiendo de lo que se dijo en la entrega: [Entre particulares no hay garantía, hay vicios ocultos](/blog/es/used-item-trade/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado.</p>

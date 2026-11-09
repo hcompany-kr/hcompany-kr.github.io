@@ -117,4 +117,6 @@ Se quello che devi provare è un patto verbale diverso dal contratto scritto, ve
 
 Se quello che devi dimostrare è una condotta reiterata, vedi [come raccogliere le prove dello stalking](https://hcompany-kr.github.io/blog/it/stalking-evidence/).
 
+Le stesse regole valgono nei casi concreti trattati a parte: [bullismo a scuola](/blog/it/bullismo/), [consenso informato](/blog/it/consenso-informato/), [divorzio breve](/blog/it/divorzio-breve/), [fattura non pagata](/blog/it/fattura-non-pagata/) e [soldi prestati senza carte](/blog/it/lent-money/).
+
 Questo articolo è informazione generale e non costituisce consulenza legale. Per il tuo caso rivolgiti a un avvocato.
