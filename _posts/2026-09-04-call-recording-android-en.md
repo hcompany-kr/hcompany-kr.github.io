@@ -124,4 +124,6 @@ For calls, the split between countries is the same as in person. The **US** fede
 
 How to strip street and traffic noise from a recording on the phone, and which tools handle it, is in [How to remove background noise from a voice recording on Android](/blog/en/remove-background-noise/).
 
+On iPhone, call recording is built into the Phone app and announces itself to both people; how it works and where it is unavailable is in [How to record a phone call on iPhone, and why the other person hears it](/blog/en/call-recording-iphone/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Device and regional availability described here reflects reporting that changes frequently; check your own dialer. General information, not legal advice — recording law differs by country and by state.</p>

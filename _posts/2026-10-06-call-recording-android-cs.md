@@ -132,4 +132,6 @@ Jak odstranit z nahrávky hluk ulice přímo v telefonu a které nástroje to zv
 
 Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).
 
+Na iPhonu je nahrávání hovorů vestavěné v aplikaci Telefon, ale ne v EU; podrobnosti v [Nahrávání hovorů na iPhonu: proč v Česku a na Slovensku chybí](/blog/cs/call-recording-iphone/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Údaje o zařízeních a regionech vycházejí z oznámení výrobců a článků, které se často mění; zkontrolujte vlastní aplikaci Telefon. Obecná informace, nikoli právní rada — pravidla pro nahrávání se v jednotlivých zemích liší.</p>

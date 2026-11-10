@@ -138,4 +138,6 @@ Jak usunąć hałas ulicy z nagrania na telefonie i które narzędzia sobie z ty
 
 Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).
 
+Na iPhonie nagrywanie połączeń jest wbudowane w aplikację Telefon, ale nie w UE; szczegóły w [Nagrywanie rozmów na iPhonie: dlaczego w Polsce tej funkcji nie ma, a w Wielkiej Brytanii jest](/blog/pl/call-recording-iphone/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacje o urządzeniach i regionach opierają się na komunikatach producentów i artykułach, które często się zmieniają; sprawdź własną aplikację Telefon. Informacja ogólna, nie porada prawna — prawo dotyczące nagrywania różni się w zależności od kraju.</p>

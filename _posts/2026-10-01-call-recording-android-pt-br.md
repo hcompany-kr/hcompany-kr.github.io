@@ -128,4 +128,6 @@ Como tirar o barulho da rua de uma gravação no celular, e quais ferramentas d�
 
 O que a lei diz sobre gravar conversas no Brasil e em Portugal, com as decisões do STF, do TST e o artigo 199.º do Código Penal português, está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).
 
+No iPhone, a gravação de ligação vem no app Telefone e avisa os dois lados; como funciona, e por que não existe em Portugal, está em [Como gravar ligação no iPhone, e por que a outra pessoa ouve um aviso](/blog/pt-br/call-recording-iphone/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">As informações sobre aparelhos e regiões se baseiam em anúncios dos fabricantes e em reportagens que mudam com frequência; confira o seu próprio app de Telefone. Informação geral, não é aconselhamento jurídico — a lei sobre gravação muda de país para país.</p>

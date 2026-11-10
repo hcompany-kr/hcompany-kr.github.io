@@ -131,4 +131,6 @@ Hoe je straatlawaai op de telefoon uit een opname haalt, en welke hulpmiddelen d
 
 Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
 
+Op de iPhone zit gespreksopname in de Telefoon-app, maar niet in de EU; meer in [Gesprekken opnemen op de iPhone: waarom het in Nederland en België ontbreekt](/blog/nl/call-recording-iphone/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De informatie over toestellen en regio's berust op aankondigingen van fabrikanten en berichten die vaak veranderen; controleer je eigen Telefoon-app. Algemene informatie, geen juridisch advies — de regels voor opnemen verschillen per land.</p>

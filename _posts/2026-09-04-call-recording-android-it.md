@@ -122,4 +122,6 @@ Le restrizioni del Play Store sono **una policy di piattaforma, non una legge.**
 
 Come togliere il rumore della strada da una registrazione sul telefono, e quali strumenti lo gestiscono, è in [Come togliere il rumore di fondo da una registrazione vocale su Android](/blog/it/remove-background-noise/).
 
+Su iPhone la registrazione delle chiamate è integrata nell'app Telefono, ma non nell'UE: i dettagli sono in [Registrare una chiamata su iPhone: perché in Italia non c'è e perché l'altra persona lo sente](/blog/it/call-recording-iphone/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">La disponibilità per dispositivo e regione cambia spesso; controlla il tuo dialer. Informazioni di carattere generale, non consulenza legale.</p>

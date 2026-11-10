@@ -122,4 +122,6 @@ Las restricciones de Play Store son **una política de plataforma, no una ley.**
 
 Cómo quitar el ruido de la calle de una grabación en el móvil, y qué herramientas sirven para eso, está en [Cómo quitar el ruido de fondo de una grabación de voz en Android](/blog/es/remove-background-noise/).
 
+En el iPhone, la grabación de llamadas viene en la app Teléfono y avisa a los dos; cómo funciona y por qué no aparece en España está en [Cómo grabar una llamada en el iPhone, y por qué la otra persona lo oye](/blog/es/call-recording-iphone/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">La disponibilidad por dispositivo y región cambia con frecuencia; comprueba tu propio marcador. Información general, no asesoramiento jurídico.</p>

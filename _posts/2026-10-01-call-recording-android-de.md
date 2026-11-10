@@ -142,4 +142,6 @@ Wie man Straßenlärm auf dem Telefon aus einer Aufnahme entfernt und welche Wer
 
 Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
 
+Auf dem iPhone ist die Anrufaufnahme in die Telefon-App eingebaut, in der EU aber nicht verfügbar; mehr dazu in [Anrufe auf dem iPhone aufnehmen: warum es in Deutschland und Österreich fehlt und was in der Schweiz gilt](/blog/de/call-recording-iphone/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Geräten und Regionen beruhen auf Herstellerangaben und Berichten, die sich häufig ändern; prüfen Sie Ihre eigene Telefon-App. Allgemeine Information, keine Rechtsberatung – das Aufnahmerecht unterscheidet sich von Land zu Land.</p>
