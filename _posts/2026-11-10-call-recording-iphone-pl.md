@@ -8,7 +8,7 @@ eyebrow: Poradnik
 title: "Nagrywanie rozmów na iPhonie: dlaczego w Polsce tej funkcji nie ma, a w Wielkiej Brytanii jest"
 description: "Od iOS 18 aplikacja Telefon na iPhonie nagrywa połączenia: obie strony słyszą komunikat, a nagranie trafia do folderu Nagrania połączeń w Notatkach. Apple nie udostępnia tej funkcji w Unii Europejskiej, więc w Polsce, Niemczech i Holandii jej nie ma; w Wielkiej Brytanii jest."
 image: /assets/img/og/call-recording-iphone-pl.png
-image_alt: "Porównanie trzech sposobów nagrania rozmowy na iPhonie. Wbudowane nagrywanie połączeń nie wymaga aplikacji i uprzedza rozmówcę, ale nie działa w UE. Obok porównano aplikacje z połączeniem trójstronnym i głośnik nagrywany drugim urządzeniem."
+image_alt: "Porównanie trzech sposobów nagrania rozmowy na iPhonie. Wbudowane nagrywanie połączeń nie wymaga aplikacji i uprzedza rozmówcę, ale nie działa w UE. Obok porównano aplikacje z połączeniem trójstronnym i głośnik z nagrywaniem pomieszczenia."
 app: true
 app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "Czy iPhone daje transkrypcję lub podsumowanie nagranego połączenia?"
     a: "W wybranych regionach i językach aplikacja Notatki pokazuje transkrypcję nagranego połączenia z oznaczeniem, kto mówi. Polskiego nie ma wśród języków, które Apple wymienia dla transkrypcji połączeń. Na iPhone'ach z Apple Intelligence (iPhone 15 Pro, iPhone 15 Pro Max i iPhone 16 lub nowszy) można też przeczytać podsumowanie rozmowy."
   - q: "Czy TalkSafe nagrywa rozmowy na iPhonie?"
-    a: "Nie. TalkSafe nie jest aplikacją do nagrywania połączeń. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, przeznaczona do rozmów twarzą w twarz, i zapisuje też 30 sekund sprzed startu."
+    a: "TalkSafe nie jest aplikacją do nagrywania połączeń i nie ma dostępu do linii. Gdy jednak rozmowa jest na głośniku, TalkSafe na tym samym telefonie słyszy przez mikrofon głos z głośnika, więc zaczyna nagrywać, gdy wykryje ustawione słowo kluczowe. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo, i zapisuje też 30 sekund sprzed startu."
 ---
 
 Ktoś przez telefon zaczyna mówić coś ważnego. Szukasz na iPhonie przycisku nagrywania i go nie ma, choć poradniki w sieci go opisują.
@@ -49,7 +49,7 @@ Dostępność według dokumentacji Apple z listopada 2026 r.; może się zmieni�
 |---|---|---|---|
 | Wbudowane nagrywanie w iPhonie (iOS 18 lub nowszy) | Większość świata, w tym Wielka Brytania; nie UE i 18 innych miejsc | Komunikat dla obu stron, powtarzany okresowo | Folder Nagrania połączeń w Notatkach |
 | Aplikacja z połączeniem trójstronnym | Operator musi obsługiwać połączenia konferencyjne; zwykle płatna | Zależy od aplikacji | Serwery firmy od aplikacji |
-| Głośnik, nagrywany drugim urządzeniem | Wszędzie | Brak automatycznego komunikatu | Urządzenie, które nagrywa |
+| Głośnik, nagrywanie pomieszczenia (drugie urządzenie albo TalkSafe na tym samym iPhonie) | Wszędzie | Brak automatycznego komunikatu | Urządzenie, które nagrywa |
 
 ## Jak działa wbudowane nagrywanie
 
@@ -80,7 +80,7 @@ Komunikat przydaje się też nagrywającemu. Rozmowa, która toczy się dalej po
 
 **Aplikacje z połączeniem trójstronnym.** Większość aplikacji do nagrywania połączeń na iPhonie działa tak, że **dzwoni się na linię nagrywającą firmy i łączy ją z rozmową w połączenie trójstronne.** Nagranie powstaje na serwerach firmy, nie w telefonie; operator musi obsługiwać połączenia konferencyjne, a większość takich usług jest płatna. Apple ostrzega, że takie aplikacje innych firm **mogą nagrywać połączenie bez żadnego ostrzeżenia.**
 
-**Głośnik, nagrywany drugim urządzeniem.** Nagrywa się pomieszczenie, a nie linię, więc działa wszędzie. W zamian spada jakość, wchodzi hałas w tle, a osoby w pobliżu słyszą rozmowę. Hałas można usunąć później; sposoby są w [Jak usunąć hałas w tle z nagrania głosu na Androidzie](/blog/pl/remove-background-noise/).
+**Głośnik i nagrywanie pomieszczenia.** Nagrywa się pomieszczenie, a nie linię, więc działa wszędzie. W zamian spada jakość, wchodzi hałas w tle, a osoby w pobliżu słyszą rozmowę. Hałas można usunąć później; sposoby są w [Jak usunąć hałas w tle z nagrania głosu na Androidzie](/blog/pl/remove-background-noise/). Tak można używać też TalkSafe. Gdy rozmowa jest na głośniku, TalkSafe na tym samym iPhonie słyszy także głos z głośnika i zaczyna nagrywać, gdy wykryje twoje słowo kluczowe.
 
 **Prawo nie zmienia się razem z narzędziem.** W Polsce uczestnik może co do zasady nagrać własną rozmowę; w Niemczech jest to przestępstwo bez zgody, niezależnie od urządzenia czy aplikacji.
 

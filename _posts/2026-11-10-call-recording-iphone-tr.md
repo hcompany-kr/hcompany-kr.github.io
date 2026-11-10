@@ -8,7 +8,7 @@ eyebrow: Nasıl yapılır
 title: "iPhone'da arama kaydı: Türkiye'de neden yok, olduğu yerde karşı taraf neden duyuyor"
 description: "iOS 18'den beri iPhone'un Telefon uygulaması aramaları kaydedebiliyor; kayıt başlayınca iki taraf da sesli bir uyarı duyuyor ve kayıt Notlar'daki Arama Kayıtları klasörüne gidiyor. Apple bu özelliği Türkiye'de ve Avrupa Birliği'nde sunmuyor; İsviçre'de sunuyor."
 image: /assets/img/og/call-recording-iphone-tr.png
-image_alt: "iPhone'da bir görüşmeyi kaydetmenin üç yolunun karşılaştırması. Yerleşik arama kaydı uygulama gerektirmez ve karşı tarafı uyarır, ancak Türkiye'de ve AB'de yoktur. Yanında üçlü görüşme kullanan uygulamalar ve hoparlörü başka bir cihazla kaydetmek karşılaştırılıyor."
+image_alt: "iPhone'da bir görüşmeyi kaydetmenin üç yolunun karşılaştırması. Yerleşik arama kaydı uygulama gerektirmez ve karşı tarafı uyarır, ancak Türkiye'de ve AB'de yoktur. Yanında üçlü görüşme kullanan uygulamalar ve hoparlöre alıp odayı kaydetmek karşılaştırılıyor."
 app: true
 app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "iPhone kaydedilen aramanın dökümünü veya özetini veriyor mu?"
     a: "Belirli bölgelerde ve dillerde Notlar uygulaması kaydedilen aramanın dökümünü, kimin konuştuğunu göstererek sunar. Türkçe, Apple'ın arama dökümü için saydığı diller arasında değil. Apple Intelligence destekli iPhone'larda (iPhone 15 Pro, iPhone 15 Pro Max ve iPhone 16 veya sonrası) aramanın özeti de okunabilir."
   - q: "TalkSafe iPhone aramalarını kaydedebilir mi?"
-    a: "Hayır. TalkSafe bir arama kaydı uygulaması değildir. TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda başlayan, Android ve iPhone için bir ses kayıt uygulamasıdır; yüz yüze konuşmalar için tasarlanmıştır ve kayıt başladığında önceki 30 saniyeyi de saklar."
+    a: "TalkSafe bir arama kaydı uygulaması değildir ve hatta erişmez. Ancak arama hoparlördeyken aynı telefondaki TalkSafe hoparlörden gelen sesi mikrofonla duyar, bu yüzden belirlenen anahtar kelimeyi algıladığında kayda başlar. TalkSafe, önceden belirlediğiniz bir kelimeyi duyduğunda kayda başlayan, Android ve iPhone için bir ses kayıt uygulamasıdır ve kayıt başladığında önceki 30 saniyeyi de saklar. Türkiye'de katıldığınız bir görüşmeyi rıza olmadan kaydetmek TCK 133/2'ye göre suçtur."
 ---
 
 Telefonda biri önemli bir şey söylemeye başlıyor. iPhone'da bir kayıt düğmesi arıyorsunuz ama bulamıyorsunuz; internetteki anlatımlarda ise var.
@@ -52,7 +52,7 @@ Kullanılabilirlik, Apple'ın Kasım 2026 tarihli belgelerine göredir ve deği�
 |---|---|---|---|
 | iPhone'un yerleşik arama kaydı (iOS 18 ve sonrası) | Dünyanın çoğu yeri, İsviçre dahil; Türkiye, AB ve 17 yer daha hariç | İki tarafa sesli uyarı, belirli aralıklarla tekrar | Notlar'daki Arama Kayıtları klasörü |
 | Üçlü görüşmeyle kaydeden uygulama | Operatörün üçlü görüşmeye izin vermesi gerekir; çoğu ücretli | Uygulamaya göre değişir | Uygulama şirketinin sunucuları |
-| Hoparlöre alıp başka bir cihazla kaydetmek | Her yerde | Otomatik uyarı yok | Kaydı yapan cihaz |
+| Hoparlöre alıp odayı kaydetmek (başka bir cihaz ya da aynı iPhone'daki TalkSafe) | Her yerde | Otomatik uyarı yok | Kaydı yapan cihaz |
 
 ## Yerleşik arama kaydı nasıl çalışır
 
@@ -83,7 +83,7 @@ Bu uyarı kaydı yapan için de işe yarar. Uyarıdan sonra devam eden bir konu�
 
 **Üçlü görüşmeyle kaydeden uygulamalar.** iPhone'daki arama kaydı uygulamalarının çoğu, **şirketin kayıt hattını arayıp onu üçlü görüşmede birleştirerek** çalışır. Kayıt telefonda değil şirketin sunucularında yapılır; operatörün üçlü görüşmeye izin vermesi gerekir ve çoğu ücretlidir. Apple, bu tür üçüncü taraf uygulamaların **bir aramayı uyarı vermeden kaydedebileceğini** belirtiyor.
 
-**Hoparlöre alıp başka bir cihazla kaydetmek.** Hat değil oda kaydedildiği için her yerde çalışır. Karşılığında ses kalitesi düşer, arka plan gürültüsü girer ve yakındakiler görüşmeyi duyar. Gürültü sonradan giderilebilir; yolları [Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir](/blog/tr/remove-background-noise/) yazısında.
+**Hoparlöre alıp odayı kaydetmek.** Hat değil oda kaydedildiği için her yerde çalışır. Karşılığında ses kalitesi düşer, arka plan gürültüsü girer ve yakındakiler görüşmeyi duyar. Gürültü sonradan giderilebilir; yolları [Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir](/blog/tr/remove-background-noise/) yazısında. TalkSafe da bu şekilde kullanılabilir. Arama hoparlördeyken aynı iPhone'daki TalkSafe hoparlörden gelen sesi de duyar ve anahtar kelimenizi algıladığında kayda başlar.
 
 **Kanun araca göre değişmez.** Türkiye'de katıldığınız bir görüşmeyi diğer tarafın rızası olmadan kaydetmek, hangi cihaz ya da uygulamayla olursa olsun TCK 133/2'ye göre suçtur. Önce sorun.
 

@@ -8,7 +8,7 @@ eyebrow: Návod
 title: "Nahrávání hovorů na iPhonu: proč v Česku a na Slovensku chybí"
 description: "Od iOS 18 umí aplikace Telefon na iPhonu nahrávat hovory: obě strany uslyší hlasové oznámení a nahrávka se uloží do složky Záznamy hovorů v Poznámkách. V Evropské unii, tedy ani v Česku a na Slovensku, Apple tuto funkci nenabízí."
 image: /assets/img/og/call-recording-iphone-cs.png
-image_alt: "Srovnání tří způsobů, jak nahrát telefonní hovor na iPhonu. Vestavěné nahrávání hovorů nepotřebuje aplikaci a druhou stranu upozorní, ale v EU není k dispozici. Vedle jsou porovnány aplikace s konferenčním hovorem a hlasitý odposlech nahrávaný druhým zařízením."
+image_alt: "Srovnání tří způsobů, jak nahrát telefonní hovor na iPhonu. Vestavěné nahrávání hovorů nepotřebuje aplikaci a druhou stranu upozorní, ale v EU není k dispozici. Vedle jsou porovnány aplikace s konferenčním hovorem a hlasitý odposlech s nahráváním místnosti."
 app: true
 app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "Nabízí iPhone přepis nebo shrnutí nahraného hovoru?"
     a: "Ve vybraných oblastech a jazycích zobrazí aplikace Poznámky přepis nahraného hovoru s uvedením, kdo mluví. Čeština ani slovenština nepatří mezi jazyky, které Apple pro přepis hovorů uvádí. Na iPhonech s Apple Intelligence (iPhone 15 Pro, iPhone 15 Pro Max a iPhone 16 nebo novější) si lze přečíst i shrnutí hovoru."
   - q: "Umí TalkSafe nahrávat hovory na iPhonu?"
-    a: "Ne. TalkSafe není aplikace na nahrávání hovorů. TalkSafe je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší předem zvolené slovo, je určená pro rozhovory tváří v tvář a ukládá i 30 sekund před začátkem."
+    a: "TalkSafe není aplikace na nahrávání hovorů a k lince nemá přístup. Když je ale hovor na hlasitém odposlechu, TalkSafe na stejném telefonu slyší mikrofonem hlas z reproduktoru, takže začne nahrávat, jakmile rozpozná nastavené klíčové slovo. TalkSafe je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší předem zvolené slovo, a ukládá i 30 sekund před začátkem."
 ---
 
 Někdo vám do telefonu začne říkat něco důležitého. Hledáte na iPhonu tlačítko pro nahrávání a nenacházíte ho, přestože návody na internetu ho popisují.
@@ -47,7 +47,7 @@ Dostupnost odpovídá dokumentaci Apple z listopadu 2026 a může se změnit; ro
 |---|---|---|---|
 | Vestavěné nahrávání na iPhonu (iOS 18 nebo novější) | Většina světa; ne v EU a dalších 18 místech | Hlasové oznámení pro obě strany, pravidelně opakované | Složka Záznamy hovorů v Poznámkách |
 | Aplikace s konferenčním hovorem | Operátor musí podporovat konferenční hovory; většinou placené | Podle aplikace | Servery firmy, která aplikaci provozuje |
-| Hlasitý odposlech nahrávaný druhým zařízením | Všude | Žádné automatické oznámení | Zařízení, které nahrává |
+| Hlasitý odposlech, nahrávání místnosti (druhé zařízení nebo TalkSafe na stejném iPhonu) | Všude | Žádné automatické oznámení | Zařízení, které nahrává |
 
 ## Jak funguje vestavěné nahrávání
 
@@ -78,7 +78,7 @@ Oznámení pomáhá i tomu, kdo nahrává. Rozhovor, který po něm pokračuje, 
 
 **Aplikace s konferenčním hovorem.** Většina aplikací na nahrávání hovorů pro iPhone funguje tak, že **zavolá na nahrávací linku firmy a spojí ji s hovorem do konference.** Nahrává se na serverech firmy, ne v telefonu; operátor musí podporovat konferenční hovory a většina takových služeb je placená. Apple upozorňuje, že takové aplikace třetích stran **mohou hovor nahrávat bez varování.**
 
-**Hlasitý odposlech nahrávaný druhým zařízením.** Nahrává se místnost, ne linka, takže to funguje všude. Za cenu horší kvality, šumu v pozadí a toho, že hovor slyší každý poblíž. Šum lze odstranit dodatečně; jak, popisuje [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/).
+**Hlasitý odposlech a nahrávání místnosti.** Nahrává se místnost, ne linka, takže to funguje všude. Za cenu horší kvality, šumu v pozadí a toho, že hovor slyší každý poblíž. Šum lze odstranit dodatečně; jak, popisuje [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/). Takto lze použít i TalkSafe. Když je hovor na hlasitém odposlechu, TalkSafe na stejném iPhonu slyší i hlas z reproduktoru a začne nahrávat, jakmile rozpozná vaše klíčové slovo.
 
 **Nástroj na právu nic nemění.** Na Slovensku je zvukový záznam podle § 12 občanského zákoníku možný jen se svolením, s uvedenými výjimkami, ať už ho pořídíte čímkoli; v Česku rozhoduje, k čemu záznam slouží.
 

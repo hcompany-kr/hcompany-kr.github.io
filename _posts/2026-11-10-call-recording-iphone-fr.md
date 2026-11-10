@@ -8,7 +8,7 @@ eyebrow: Pratique
 title: "Enregistrer un appel sur iPhone : pourquoi la fonction manque en France et en Belgique, et ce qui vaut en Suisse et au Québec"
 description: "Depuis iOS 18, l'app Téléphone de l'iPhone enregistre les appels, avec un avertissement audio pour les deux interlocuteurs et une sauvegarde dans le dossier « Enregistrements d'appel » de Notes. Apple ne propose pas la fonction dans l'Union européenne ; en Suisse et au Québec, si."
 image: /assets/img/og/call-recording-iphone-fr.png
-image_alt: "Comparaison de trois façons d'enregistrer un appel sur iPhone. L'enregistrement intégré ne demande aucune application et prévient l'autre personne, mais il n'est pas disponible dans l'UE. À côté, les applications à appel à trois et le haut-parleur enregistré avec un second appareil."
+image_alt: "Comparaison de trois façons d'enregistrer un appel sur iPhone. L'enregistrement intégré ne demande aucune application et prévient l'autre personne, mais il n'est pas disponible dans l'UE. À côté, les applications à appel à trois et le haut-parleur avec enregistrement de la pièce."
 app: true
 app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "L'iPhone fournit-il une transcription ou un résumé de l'appel enregistré ?"
     a: "Dans certaines régions et langues, l'app Notes affiche une transcription de l'appel avec l'indication de qui parle. Le français ne fait pas partie des langues qu'Apple cite pour la transcription des appels. Sur les iPhone avec Apple Intelligence (iPhone 15 Pro, iPhone 15 Pro Max et iPhone 16 ou ultérieur), un résumé de l'appel est aussi disponible."
   - q: "TalkSafe peut-il enregistrer les appels de l'iPhone ?"
-    a: "Non. TalkSafe n'est pas une application d'enregistrement d'appels. TalkSafe est une application d'enregistrement pour Android et iPhone qui démarre quand elle entend un mot choisi à l'avance, pensée pour les conversations en face à face, et qui conserve aussi les 30 secondes précédant le démarrage."
+    a: "TalkSafe n'est pas une application d'enregistrement d'appels et n'accède pas à la ligne. Avec un appel sur haut-parleur, en revanche, TalkSafe sur le même téléphone entend par le micro la voix qui sort du haut-parleur, et démarre l'enregistrement quand il détecte un mot-clé choisi. TalkSafe est une application d'enregistrement pour Android et iPhone qui démarre quand elle entend un mot choisi à l'avance et conserve aussi les 30 secondes précédant le démarrage. En France, enregistrer un appel sans le consentement de l'autre reste punissable (article 226-1 du Code pénal)."
 ---
 
 Au téléphone, quelqu'un commence à dire quelque chose d'important. Vous cherchez un bouton d'enregistrement sur l'iPhone et vous ne le trouvez pas, alors que des tutoriels en parlent.
@@ -51,7 +51,7 @@ La disponibilité correspond à la documentation d'Apple de novembre 2026 ; elle
 |---|---|---|---|
 | Enregistrement intégré (iOS 18 ou ultérieur) | La plupart des pays, dont la Suisse et le Canada ; pas l'UE ni 18 autres pays | Avertissement audio aux deux, répété régulièrement | Dossier « Enregistrements d'appel » de Notes |
 | Application à appel à trois | L'opérateur doit permettre l'appel à trois ; le plus souvent payante | Selon l'application | Les serveurs de l'éditeur |
-| Haut-parleur, enregistré avec un second appareil | Partout | Pas d'avertissement automatique | L'appareil qui enregistre |
+| Haut-parleur, en enregistrant la pièce (second appareil ou TalkSafe sur le même iPhone) | Partout | Pas d'avertissement automatique | L'appareil qui enregistre |
 
 ## Comment fonctionne l'enregistrement intégré
 
@@ -82,7 +82,7 @@ En Suisse, cela ne veut pas dire que tout enregistrement devient permis. Apple n
 
 **Applications à appel à trois.** La plupart des applications d'enregistrement d'appels sur iPhone **appellent une ligne d'enregistrement de l'éditeur et la fusionnent en appel à trois.** L'enregistrement se fait sur les serveurs de l'éditeur, pas sur le téléphone ; l'opérateur doit permettre l'appel à trois, et la plupart de ces services sont payants. Apple signale que ces applications tierces **peuvent enregistrer un appel sans avertissement.**
 
-**Haut-parleur, enregistré avec un second appareil.** On enregistre la pièce, pas la ligne : cela fonctionne partout. En contrepartie, la qualité baisse, le bruit de fond s'ajoute et les personnes à proximité entendent l'appel. Le bruit peut être retiré ensuite ; les méthodes sont dans [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/).
+**Haut-parleur, en enregistrant la pièce.** On enregistre la pièce, pas la ligne : cela fonctionne partout. En contrepartie, la qualité baisse, le bruit de fond s'ajoute et les personnes à proximité entendent l'appel. Le bruit peut être retiré ensuite ; les méthodes sont dans [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/). TalkSafe peut servir ainsi. Avec l'appel sur haut-parleur, TalkSafe sur le même iPhone entend aussi la voix qui sort du haut-parleur et démarre l'enregistrement quand il détecte votre mot-clé.
 
 **L'outil ne change rien au droit.** En France, enregistrer un appel sans le consentement de l'autre reste punissable au titre de l'article 226-1 du Code pénal, quel que soit l'appareil ou l'application. Demandez d'abord.
 

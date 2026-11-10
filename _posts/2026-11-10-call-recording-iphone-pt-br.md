@@ -8,7 +8,7 @@ eyebrow: Como fazer
 title: "Como gravar ligação no iPhone, e por que a outra pessoa ouve um aviso"
 description: "Desde o iOS 18 o app Telefone do iPhone grava ligações. Ao começar, os dois participantes ouvem um aviso de áudio, e a gravação fica na pasta Gravações de Ligações do app Notas, com transcrição em português do Brasil. Em Portugal, como no resto da União Europeia, a função não está disponível."
 image: /assets/img/og/call-recording-iphone-pt-br.png
-image_alt: "Comparação de três jeitos de gravar uma ligação no iPhone. A gravação embutida não precisa de app e avisa a outra pessoa, mas não está disponível na União Europeia. Ao lado, os apps de chamada a três e o viva-voz gravado com outro aparelho."
+image_alt: "Comparação de três jeitos de gravar uma ligação no iPhone. A gravação embutida não precisa de app e avisa a outra pessoa, mas não está disponível na União Europeia. Ao lado, os apps de chamada a três e o viva-voz gravando o ambiente."
 app: true
 app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "É legal gravar a própria ligação sem avisar no Brasil?"
     a: "Sim, para quem participa da conversa. O STF fixou no Tema 237 (RE 583.937) que é lícita a prova consistente em gravação feita por um dos interlocutores sem o conhecimento do outro, e a Lei 9.296/1996, no art. 10-A, diz que não há crime quando a captação é feita por um dos interlocutores. O que a lei pune é a interceptação de conversa alheia. Em Portugal, o artigo 199.º do Código Penal pune a gravação sem consentimento mesmo por quem participa."
   - q: "O TalkSafe grava ligações no iPhone?"
-    a: "Não. O TalkSafe não é um app de gravar ligação. O TalkSafe é um app de gravação de voz para Android e iPhone que começa a gravar quando ouve uma palavra escolhida por você, pensado para conversas presenciais, e salva também os 30 segundos anteriores ao início."
+    a: "O TalkSafe não é um app de gravar ligação e não acessa a linha. Mas com a ligação no viva-voz, o TalkSafe no mesmo celular ouve pelo microfone a voz que sai do alto-falante, então começa a gravar quando detecta a palavra-chave. O TalkSafe é um app de gravação de voz para Android e iPhone que começa a gravar quando ouve uma palavra escolhida por você e salva também os 30 segundos anteriores ao início."
 ---
 
 Do outro lado da linha, alguém começa a dizer uma coisa importante. Na tela do iPhone tem um botão para gravar. Bate a dúvida: pode apertar? A pessoa vai saber?
@@ -47,7 +47,7 @@ A disponibilidade segue a documentação da Apple de novembro de 2026 e pode mud
 |---|---|---|---|
 | Gravação embutida do iPhone (iOS 18 ou posterior) | A maior parte do mundo, Brasil incluído; não na União Europeia nem em outros 18 lugares | Aviso de áudio para os dois, repetido periodicamente | Pasta Gravações de Ligações do Notas |
 | App que grava com chamada a três | A operadora precisa permitir chamada em conferência; quase sempre pago | Depende do app | Os servidores da empresa do app |
-| Viva-voz gravado com outro aparelho | Em qualquer lugar | Sem aviso automático | O aparelho que gravou |
+| Viva-voz, gravando o ambiente (outro aparelho ou o TalkSafe no mesmo iPhone) | Em qualquer lugar | Sem aviso automático | O aparelho que gravou |
 
 ## Como usar a gravação embutida
 
@@ -92,7 +92,7 @@ Em novembro de 2026, a Apple diz que a gravação de chamadas não está dispon�
 
 **Apps que gravam com chamada a três.** A maioria dos apps de gravar ligação no iPhone funciona **ligando para uma linha de gravação da empresa e juntando tudo numa chamada a três.** A gravação acontece nos servidores da empresa, não no celular; a operadora precisa permitir chamada em conferência, e quase todos são pagos. A Apple avisa que esses apps de terceiros **podem gravar uma ligação sem dar aviso.**
 
-**Viva-voz gravado com outro aparelho.** Grava o som do ambiente, não a linha, então funciona em qualquer lugar. Em troca, a qualidade cai, entra ruído de fundo e quem está perto ouve a ligação. O ruído dá para tirar depois; os jeitos estão em [Como tirar o ruído de fundo de uma gravação de voz no Android](/blog/pt-br/remove-background-noise/).
+**Viva-voz, gravando o ambiente.** Grava o som do ambiente, não a linha, então funciona em qualquer lugar. Em troca, a qualidade cai, entra ruído de fundo e quem está perto ouve a ligação. O ruído dá para tirar depois; os jeitos estão em [Como tirar o ruído de fundo de uma gravação de voz no Android](/blog/pt-br/remove-background-noise/). O TalkSafe pode ser usado assim. Com a ligação no viva-voz, o TalkSafe no mesmo iPhone ouve também a voz que sai do alto-falante e começa a gravar quando detecta a sua palavra-chave.
 
 Em qualquer caso, **a lei não muda com a ferramenta.** No Brasil, quem participa da conversa pode gravar; o que a lei pune é a interceptação de conversa alheia. Em Portugal, gravar sem consentimento é crime mesmo para quem participa. O quadro completo está em [Gravar conversa sem a outra pessoa saber é crime? No Brasil e em Portugal, a resposta é oposta](/blog/pt-br/gravar-conversa/).
 

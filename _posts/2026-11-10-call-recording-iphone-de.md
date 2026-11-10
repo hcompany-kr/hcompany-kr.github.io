@@ -8,7 +8,7 @@ eyebrow: Anleitung
 title: "Anrufe auf dem iPhone aufnehmen: warum es in Deutschland und Österreich fehlt und was in der Schweiz gilt"
 description: "Seit iOS 18 nimmt die Telefon-App des iPhone Anrufe auf, mit einer Ansage für beide Seiten und Speicherung im Ordner „Anrufaufnahmen“ in Notizen. In der EU, also auch in Deutschland und Österreich, bietet Apple die Funktion nicht an; in der Schweiz schon."
 image: /assets/img/og/call-recording-iphone-de.png
-image_alt: "Vergleich von drei Wegen, auf dem iPhone ein Telefonat aufzunehmen. Die eingebaute Anrufaufnahme braucht keine App und kündigt sich beim Gegenüber an, ist aber in der EU nicht verfügbar. Daneben werden Apps mit Dreierkonferenz und Freisprechen mit einem zweiten Gerät verglichen."
+image_alt: "Vergleich von drei Wegen, auf dem iPhone ein Telefonat aufzunehmen. Die eingebaute Anrufaufnahme braucht keine App und kündigt sich beim Gegenüber an, ist aber in der EU nicht verfügbar. Daneben werden Apps mit Dreierkonferenz und Freisprechen mit Raumaufnahme verglichen."
 app: true
 app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "Gibt es auf dem iPhone ein Transkript oder eine Zusammenfassung der Anrufaufnahme?"
     a: "In ausgewählten Regionen und Sprachen zeigt die App „Notizen“ ein Transkript des aufgenommenen Anrufs mit Angabe, wer spricht. Deutsch gehört nicht zu den Sprachen, die Apple für die Anruftranskription nennt. Auf iPhones mit Apple Intelligence (iPhone 15 Pro, iPhone 15 Pro Max und iPhone 16 oder neuer) lässt sich außerdem eine Zusammenfassung des Anrufs lesen."
   - q: "Kann TalkSafe iPhone-Anrufe aufnehmen?"
-    a: "Nein. TalkSafe ist keine App zur Anrufaufnahme. TalkSafe ist eine Aufnahme-App für Android und iPhone, die bei einem vorher festgelegten Wort mit der Aufnahme beginnt, gedacht für Gespräche von Angesicht zu Angesicht, und beim Start auch die 30 Sekunden davor speichert."
+    a: "TalkSafe ist keine App zur Anrufaufnahme und greift nicht auf die Leitung zu. Läuft ein Anruf über den Lautsprecher, hört TalkSafe auf demselben Telefon die Stimme aus dem Lautsprecher aber über das Mikrofon mit und beginnt die Aufnahme, sobald es ein festgelegtes Schlüsselwort erkennt. TalkSafe ist eine Aufnahme-App für Android und iPhone, die bei einem vorher festgelegten Wort mit der Aufnahme beginnt und beim Start auch die 30 Sekunden davor speichert. In Deutschland ist die Aufnahme eines Telefonats ohne Einwilligung nach § 201 StGB strafbar."
 ---
 
 Am Telefon sagt jemand etwas Wichtiges. Sie suchen auf dem iPhone eine Aufnahmetaste und finden keine, obwohl Anleitungen im Netz sie beschreiben.
@@ -51,7 +51,7 @@ Stand der Verfügbarkeit ist Apples Dokumentation vom November 2026. Sie kann si
 |---|---|---|---|
 | Eingebaute Anrufaufnahme (ab iOS 18) | Großteil der Welt, Schweiz eingeschlossen; nicht in der EU und 18 weiteren Ländern | Ansage für beide, regelmäßig wiederholt | Ordner „Anrufaufnahmen“ in Notizen |
 | App mit Dreierkonferenz | Netzbetreiber muss Konferenzschaltung unterstützen; meist kostenpflichtig | Je nach App | Server des App-Anbieters |
-| Freisprechen, mit zweitem Gerät aufgenommen | Überall | Keine automatische Ansage | Das aufnehmende Gerät |
+| Freisprechen, Raum aufgenommen (zweites Gerät oder TalkSafe auf demselben iPhone) | Überall | Keine automatische Ansage | Das aufnehmende Gerät |
 
 ## So funktioniert die eingebaute Anrufaufnahme
 
@@ -82,7 +82,7 @@ Für die Schweiz heißt das nicht automatisch, dass jede Aufnahme erlaubt ist. O
 
 **Apps mit Dreierkonferenz.** Die meisten Apps zur Anrufaufnahme auf dem iPhone **rufen eine Aufnahmeleitung des Anbieters an und schalten sie zur Dreierkonferenz zusammen.** Aufgenommen wird auf den Servern des Anbieters, nicht auf dem Telefon; der Netzbetreiber muss Konferenzschaltungen unterstützen, und die meisten Dienste kosten Geld. Apple weist darauf hin, dass solche Drittanbieter-Apps **einen Anruf ohne Warnung aufnehmen können.**
 
-**Freisprechen, mit einem zweiten Gerät aufgenommen.** Hier wird der Raum aufgenommen, nicht die Leitung; das funktioniert überall. Dafür sinkt die Tonqualität, Hintergrundgeräusche kommen hinzu, und wer in der Nähe ist, hört mit. Geräusche lassen sich nachträglich entfernen; wie, steht in [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/).
+**Freisprechen und den Raum aufnehmen.** Hier wird der Raum aufgenommen, nicht die Leitung; das funktioniert überall. Dafür sinkt die Tonqualität, Hintergrundgeräusche kommen hinzu, und wer in der Nähe ist, hört mit. Geräusche lassen sich nachträglich entfernen; wie, steht in [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/). Auch TalkSafe lässt sich so nutzen. Läuft der Anruf über den Lautsprecher, hört TalkSafe auf demselben iPhone auch die Stimme aus dem Lautsprecher und beginnt die Aufnahme, sobald es Ihr Schlüsselwort erkennt.
 
 **An der Rechtslage ändert das Werkzeug nichts.** In Deutschland ist die Aufnahme eines Telefonats ohne Einwilligung nach § 201 StGB strafbar, gleich mit welchem Gerät oder welcher App. Fragen Sie also vorher – oder lassen Sie es.
 

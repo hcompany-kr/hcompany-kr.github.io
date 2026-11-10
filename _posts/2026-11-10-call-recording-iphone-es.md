@@ -8,7 +8,7 @@ eyebrow: Cómo hacerlo
 title: "Cómo grabar una llamada en el iPhone, y por qué la otra persona lo oye"
 description: "Desde iOS 18 la app Teléfono del iPhone graba llamadas. Al empezar, los dos participantes oyen un aviso de audio y la grabación se guarda en la carpeta Grabaciones de llamadas de Notas. No está disponible en la Unión Europea, así que en España no aparece; en México y el resto de América Latina sí."
 image: /assets/img/og/call-recording-iphone-es.png
-image_alt: "Comparación de tres formas de grabar una llamada en el iPhone. La grabación de llamadas integrada no necesita apps y avisa a la otra persona, pero no está disponible en la UE. Al lado se comparan las apps de llamada a tres y el manos libres grabado con otro dispositivo."
+image_alt: "Comparación de tres formas de grabar una llamada en el iPhone. La grabación de llamadas integrada no necesita apps y avisa a la otra persona, pero no está disponible en la UE. Al lado se comparan las apps de llamada a tres y el manos libres grabando la habitación."
 app: true
 app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "¿Las apps de grabar llamadas en el iPhone graban sin avisar?"
     a: "La mayoría de las apps para grabar llamadas en el iPhone funcionan uniendo una línea de grabación de la app en una llamada a tres, así que necesitan que el operador permita la llamada a tres, y cómo avisan depende de cada app. Apple advierte que las apps de terceros pueden grabar una llamada sin avisar. La ley es la misma con cualquier herramienta: en España, quien participa en la conversación puede grabarla (STC 114/1984), y grabar una llamada ajena es delito."
   - q: "¿Se pueden grabar llamadas del iPhone con TalkSafe?"
-    a: "No. TalkSafe no es una app para grabar llamadas. TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido, pensada para conversaciones en persona, y guarda también los 30 segundos anteriores al inicio. Para grabar una llamada en el iPhone se usa la función de la app Teléfono, donde está disponible."
+    a: "TalkSafe no es una app para grabar llamadas y no accede a la línea. Pero con la llamada en manos libres, TalkSafe en el mismo teléfono oye por el micrófono la voz que sale del altavoz, así que empieza a grabar cuando detecta la palabra clave. TalkSafe es una grabadora de voz para Android y iPhone que empieza a grabar cuando escucha una palabra que hayas elegido, y guarda también los 30 segundos anteriores al inicio."
 ---
 
 Al otro lado del teléfono alguien empieza a decir algo importante. En la pantalla del iPhone hay un botón para grabar. Dudas: ¿puedes pulsarlo? ¿Se va a enterar?
@@ -38,7 +38,7 @@ La respuesta corta: **puedes pulsarlo, y se va a enterar.** La grabación de lla
 |---|---|---|---|
 | Grabación de llamadas integrada (iOS 18 o posterior) | La mayoría de regiones, incluidas América Latina y EE. UU.; no en la UE (España incluida) ni en otros 18 lugares | Aviso de audio a los dos, repetido periódicamente | Carpeta “Grabaciones de llamadas” de Notas |
 | App que graba con llamada a tres | El operador debe permitir la llamada a tres; casi siempre de pago | Depende de la app | Los servidores de la empresa de la app |
-| Manos libres grabado con otro dispositivo | En cualquier sitio | Sin aviso automático | El dispositivo que graba |
+| Manos libres, grabando la habitación (otro dispositivo o TalkSafe en el mismo iPhone) | En cualquier sitio | Sin aviso automático | El dispositivo que graba |
 
 Los datos corresponden a la documentación de Apple en noviembre de 2026. La disponibilidad cambia, así que conviene confirmarla en la página de disponibilidad de funciones de iOS y iPadOS de Apple.
 
@@ -85,7 +85,7 @@ En noviembre de 2026, Apple indica que la grabación de llamadas no está dispon
 
 **Apps que graban con llamada a tres.** La mayoría de las apps para grabar llamadas en el iPhone funcionan **llamando a una línea de grabación de la empresa y uniéndola en una llamada a tres.** La grabación se hace en los servidores de la empresa, no en el teléfono; el operador tiene que permitir la llamada a tres, y casi todas son de pago. Apple advierte que estas apps de terceros **pueden grabar una llamada sin avisar.**
 
-**Manos libres grabado con otro dispositivo.** Graba el sonido de la habitación, no la línea, así que funciona en cualquier país, también en España. A cambio, baja la calidad, entra ruido de fondo y quien esté cerca oye la llamada. El ruido se puede quitar después; las opciones están en [Cómo quitar el ruido de fondo de una grabación de voz en Android](/blog/es/remove-background-noise/).
+**Manos libres, grabando la habitación.** Graba el sonido de la habitación, no la línea, así que funciona en cualquier país, también en España. A cambio, baja la calidad, entra ruido de fondo y quien esté cerca oye la llamada. El ruido se puede quitar después; las opciones están en [Cómo quitar el ruido de fondo de una grabación de voz en Android](/blog/es/remove-background-noise/). TalkSafe sirve para esto. Con la llamada en manos libres, TalkSafe en el mismo iPhone oye también la voz que sale del altavoz y empieza a grabar cuando detecta tu palabra clave.
 
 En cualquier caso, **la ley no cambia con la herramienta.** En España, quien participa en la conversación puede grabarla: el Tribunal Constitucional estableció en la STC 114/1984 que el secreto de las comunicaciones no se puede oponer al propio interlocutor. Grabar una llamada en la que no participas es otra cosa y es delito. Cómo se trata en España está en [Grabar sí, difundir no](/blog/es/recording-consent-law/), y en América Latina en [Grabar tu propia conversación: país por país](/blog/es/grabar-latinoamerica/).
 

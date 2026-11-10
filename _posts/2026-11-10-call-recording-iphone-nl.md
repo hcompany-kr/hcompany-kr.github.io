@@ -8,7 +8,7 @@ eyebrow: Handleiding
 title: "Gesprekken opnemen op de iPhone: waarom het in Nederland en België ontbreekt"
 description: "Sinds iOS 18 kan de Telefoon-app van de iPhone gesprekken opnemen: beide kanten horen een melding en de opname komt in de map Gespreksopnamen in Notities. Apple biedt de functie niet aan in de Europese Unie, dus niet in Nederland en België. Suriname staat niet op Apples lijst van uitzonderingen."
 image: /assets/img/og/call-recording-iphone-nl.png
-image_alt: "Vergelijking van drie manieren om een telefoongesprek op te nemen op de iPhone. De ingebouwde gespreksopname heeft geen app nodig en waarschuwt de ander, maar is niet beschikbaar in de EU. Ernaast worden apps met een drieweggesprek en de luidspreker met een tweede toestel vergeleken."
+image_alt: "Vergelijking van drie manieren om een telefoongesprek op te nemen op de iPhone. De ingebouwde gespreksopname heeft geen app nodig en waarschuwt de ander, maar is niet beschikbaar in de EU. Ernaast worden apps met een drieweggesprek en de luidspreker met een opname van de ruimte vergeleken."
 app: true
 app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "Geeft de iPhone een transcriptie of samenvatting van het opgenomen gesprek?"
     a: "In bepaalde regio's en talen toont de Notities-app een transcript van het opgenomen gesprek, met wie wat zei. Nederlands hoort niet bij de talen die Apple noemt voor gesprekstranscriptie. Op iPhones met Apple Intelligence (iPhone 15 Pro, iPhone 15 Pro Max en iPhone 16 of nieuwer) kun je ook een samenvatting van het gesprek lezen."
   - q: "Kan TalkSafe iPhone-gesprekken opnemen?"
-    a: "Nee. TalkSafe is geen app om telefoongesprekken op te nemen. TalkSafe is een opname-app voor Android en iPhone die begint met opnemen zodra hij een vooraf gekozen woord hoort, bedoeld voor gesprekken in persoon, en die ook de 30 seconden vóór de start bewaart."
+    a: "TalkSafe is geen app om telefoongesprekken op te nemen en heeft geen toegang tot de lijn. Staat een gesprek op de luidspreker, dan hoort TalkSafe op dezelfde telefoon de stem uit de luidspreker wel via de microfoon, en begint hij met opnemen zodra hij een ingesteld trefwoord herkent. TalkSafe is een opname-app voor Android en iPhone die begint met opnemen zodra hij een vooraf gekozen woord hoort, en die ook de 30 seconden vóór de start bewaart."
 ---
 
 Iemand zegt aan de telefoon iets belangrijks. Je zoekt op je iPhone een opnameknop en vindt er geen, terwijl handleidingen online hem beschrijven.
@@ -51,7 +51,7 @@ De beschikbaarheid volgt Apples documentatie van november 2026 en kan veranderen
 |---|---|---|---|
 | Ingebouwde gespreksopname (iOS 18 of nieuwer) | Het grootste deel van de wereld; niet in de EU en 18 andere plaatsen | Audiomelding voor beiden, regelmatig herhaald | Map 'Gespreksopnamen' in Notities |
 | App met drieweggesprek | Provider moet drieweggesprekken ondersteunen; meestal betaald | Verschilt per app | Servers van het app-bedrijf |
-| Luidspreker, opgenomen met een tweede toestel | Overal | Geen automatische melding | Het toestel dat opneemt |
+| Luidspreker, de ruimte opgenomen (tweede toestel of TalkSafe op dezelfde iPhone) | Overal | Geen automatische melding | Het toestel dat opneemt |
 
 ## Zo werkt de ingebouwde gespreksopname
 
@@ -82,7 +82,7 @@ De melding helpt ook wie opneemt. Een gesprek dat na de melding doorgaat, bevat 
 
 **Apps met een drieweggesprek.** De meeste apps om gesprekken op te nemen op de iPhone werken door **een opnamelijn van het bedrijf te bellen en die samen te voegen tot een drieweggesprek.** De opname gebeurt op de servers van het bedrijf, niet op de telefoon; je provider moet drieweggesprekken ondersteunen, en de meeste diensten zijn betaald. Apple waarschuwt dat zulke apps van derden **een gesprek zonder waarschuwing kunnen opnemen.**
 
-**Luidspreker, opgenomen met een tweede toestel.** Je neemt de ruimte op, niet de lijn, dus het werkt overal. De prijs: minder geluidskwaliteit, achtergrondgeluid, en wie in de buurt is hoort mee. Achtergrondgeluid kun je achteraf weghalen; hoe staat in [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/).
+**Luidspreker, met de ruimte opgenomen.** Je neemt de ruimte op, niet de lijn, dus het werkt overal. De prijs: minder geluidskwaliteit, achtergrondgeluid, en wie in de buurt is hoort mee. Achtergrondgeluid kun je achteraf weghalen; hoe staat in [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/). Ook TalkSafe kun je zo gebruiken. Staat het gesprek op de luidspreker, dan hoort TalkSafe op dezelfde iPhone ook de stem uit de luidspreker en begint met opnemen zodra hij je trefwoord herkent.
 
 **Het gereedschap verandert het recht niet.** In Nederland en België mag je je eigen gesprek opnemen; een gesprek van anderen opnemen waaraan je niet deelneemt is strafbaar, met welk toestel of welke app ook.
 
