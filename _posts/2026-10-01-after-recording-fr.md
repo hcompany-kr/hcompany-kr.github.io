@@ -112,7 +112,7 @@ Quatre choses après un enregistrement : **garder l'original**, **découper ce q
 
 Les trois premières rendent le fichier utilisable. La dernière évite qu'il se retourne contre vous.
 
-Comment enregistrer l'accord en même temps est expliqué dans [On dit d'abord quelque chose](/blog/fr/say-it-first/). Ce que dit la loi sur l'enregistrement lui-même, pays par pays, est dans [Pourquoi les applications d'enregistrement d'appels ne marchent plus sur Android, et ce qui fonctionne encore](/blog/fr/call-recording-android/).
+Comment enregistrer l'accord en même temps est expliqué dans [On dit d'abord quelque chose : lancer un enregistrement avec la voix](/blog/fr/say-it-first/). Ce que dit la loi sur l'enregistrement lui-même, pays par pays, est dans [Pourquoi les applications d'enregistrement d'appels ne marchent plus sur Android, et ce qui fonctionne encore](/blog/fr/call-recording-android/).
 
 Comment retirer le bruit de la rue d'un enregistrement sur le téléphone, et quels outils y parviennent, est expliqué dans [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/).
 

@@ -97,6 +97,6 @@ Anahtar kelime tam burada işe yarar. "Kayıt" kelimesiyle, "Kayıt alabilir miy
 - Sesle başlatmak konuşmayı bozmaz.
 - Günlük konuşmada nadir, ama önemli anda doğal olarak söylenen bir kelime seçin.
 
-Kendi anahtar kelimenizi nasıl bulacağınız [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.
+Kendi anahtar kelimenizi nasıl bulacağınız [Önce bir şey söylersiniz: kaydı sesle başlatmak](/blog/tr/say-it-first/) yazısında.
 
 Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.

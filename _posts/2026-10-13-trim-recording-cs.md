@@ -103,7 +103,7 @@ U hlučných úseků porovnává [Jak odstranit hluk v pozadí z hlasové nahrá
 
 Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník, trestní zákony a Ústavní soud, popisuje [Je legální nahrávat rozhovor bez souhlasu? V Česku rozhoduje účel, na Slovensku svolení](/blog/cs/nahravani-rozhovoru/).
 
-Pokud s TalkSafe teprve začínáte, jak zvolit klíčová slova, aby se lépe rozpoznávala, popisuje [Nejdřív něco řeknete](/blog/cs/say-it-first/).
+Pokud s TalkSafe teprve začínáte, jak zvolit klíčová slova, aby se lépe rozpoznávala, popisuje [Nejdřív něco řeknete: jak spustit nahrávání hlasem](/blog/cs/say-it-first/).
 
 Jak shrnout nahrávku pomocí AI a kam zvuk putuje, popisuje [Jak shrnout hlasovou nahrávku pomocí AI na Androidu](/blog/cs/summarize-recording/).
 

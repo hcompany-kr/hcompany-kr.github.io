@@ -75,7 +75,7 @@ Odpoví-li řemeslník „ano“ nebo nic nenamítne, máte datovaný doklad o t
 
 **Nahrávání**: v Česku lze podle **§ 88 občanského zákoníku** zvukový záznam bez svolení pořídit nebo použít **k ochraně vlastních práv**, ne však nepřiměřeně. Více v [Je legální nahrávat rozhovor bez souhlasu?](/blog/cs/nahravani-rozhovoru/)
 
-[TalkSafe](/talksafe/cs/) začne nahrávat po zaznění **předem zvoleného slova** a funguje při **zamčené obrazovce**. Zvolte slovo, kterým se domluva obvykle **uzavírá**, například **„domluveno“**. Když někdo řekne „takže domluveno?“, nahrávání začne – a **30 sekund předtím**, kdy padly podmínky, je už v souboru. Při stříhání **zůstane originál zachován**. Viz také [Nejdřív něco řeknete](/blog/cs/say-it-first/).
+[TalkSafe](/talksafe/cs/) začne nahrávat po zaznění **předem zvoleného slova** a funguje při **zamčené obrazovce**. Zvolte slovo, kterým se domluva obvykle **uzavírá**, například **„domluveno“**. Když někdo řekne „takže domluveno?“, nahrávání začne – a **30 sekund předtím**, kdy padly podmínky, je už v souboru. Při stříhání **zůstane originál zachován**. Viz také [Nejdřív něco řeknete: jak spustit nahrávání hlasem](/blog/cs/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-cs.jpg" alt="Úvodní obrazovka TalkSafe s tlačítky pro spuštění detekce v reálném čase a ručního nahrávání." width="540" height="960" loading="lazy"><figcaption>Úvodní obrazovka TalkSafe. Se zapnutou detekcí v reálném čase začne nahrávání, když je rozpoznáno nastavené slovo; tlačítkem lze nahrávat i hned.</figcaption></figure>
 

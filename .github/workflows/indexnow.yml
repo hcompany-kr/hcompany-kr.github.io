@@ -1,0 +1,34 @@
+# GitHub Pages 배포가 성공하면, 이전 배포 이후 추가·수정된 글과 페이지 주소를 IndexNow로 보냅니다.
+name: IndexNow
+
+on:
+  workflow_run:
+    workflows: ["pages build and deployment", "pages-build-deployment"]
+    types: [completed]
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  submit:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.workflow_run.head_sha }}
+
+      - name: Find the previous successful deployment
+        id: prev
+        env:
+          GH_TOKEN: ${{ github.token }}
+          WF_ID: ${{ github.event.workflow_run.workflow_id }}
+        run: |
+          prev=$(gh api "repos/${{ github.repository }}/actions/workflows/$WF_ID/runs?status=success&per_page=2" --jq '.workflow_runs[1].head_sha')
+          echo "previous deployment: $prev"
+          echo "sha=$prev" >> "$GITHUB_OUTPUT"
+
+      - name: Submit changed URLs
+        run: python3 _tools/indexnow.py --since "${{ steps.prev.outputs.sha }}"

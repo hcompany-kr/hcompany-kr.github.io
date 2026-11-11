@@ -4,9 +4,9 @@ ref: say-it-first
 categories: tr
 permalink: /blog/tr/say-it-first/
 date: 2026-09-29
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 eyebrow: Kayıt
-title: "Önce bir şey söylersiniz"
+title: "Önce bir şey söylersiniz: kaydı sesle başlatmak"
 description: "Bir konuşmanın kaydedilmesi gerektiğini fark ettiğiniz anda ağzınız ellerinizden önce hareket eder. Tetikleyici bu olduğunda ne olur."
 app: true
 app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."

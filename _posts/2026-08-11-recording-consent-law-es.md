@@ -4,8 +4,9 @@ ref: recording-law-es
 categories: es
 permalink: /blog/es/recording-consent-law/
 date: 2026-08-11
+last_modified_at: 2026-11-12
 eyebrow: Ley
-title: "Grabar sí, difundir no"
+title: "¿Es legal grabar una conversación en España? Grabar sí, difundir no"
 description: "En España grabar una conversación en la que participas es lícito y puede valer como prueba. Difundirla es un acto distinto, y ahí empiezan los problemas."
 app: true
 app_description: "Una grabadora de voz para Android y iPhone que empieza a grabar sola cuando escucha una palabra que hayas elegido. Al iniciarse, guarda también los 30 segundos anteriores."

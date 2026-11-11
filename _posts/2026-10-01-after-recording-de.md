@@ -110,7 +110,7 @@ Vier Dinge nach einer Aufnahme: **das Original behalten**, **auf das Wesentliche
 
 Die ersten drei machen die Datei brauchbar. Das letzte verhindert, dass sie sich gegen Sie wendet.
 
-Wie man die Einwilligung gleich mit aufnimmt, steht in [Zuerst sagt man etwas](/blog/de/say-it-first/). Was für Telefonate gilt und wie die Länder das Aufnehmen selbst regeln, steht in [Warum Anrufaufnahme-Apps auf Android nicht mehr funktionieren – und was noch geht](/blog/de/call-recording-android/).
+Wie man die Einwilligung gleich mit aufnimmt, steht in [Zuerst sagt man etwas: eine Aufnahme mit der Stimme starten](/blog/de/say-it-first/). Was für Telefonate gilt und wie die Länder das Aufnehmen selbst regeln, steht in [Warum Anrufaufnahme-Apps auf Android nicht mehr funktionieren – und was noch geht](/blog/de/call-recording-android/).
 
 Wie man Straßenlärm auf dem Telefon aus einer Aufnahme entfernt und welche Werkzeuge damit umgehen, steht in [Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android](/blog/de/remove-background-noise/).
 

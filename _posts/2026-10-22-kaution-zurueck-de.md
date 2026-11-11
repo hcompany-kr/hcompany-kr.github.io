@@ -85,7 +85,7 @@ In Deutschland ist die **heimliche Aufnahme** der Übergabe keine Option: **§ 2
 
 Mit Einwilligung ist es unproblematisch, und bei einer Übergabe lässt es sich gut begründen: „Damit wir beide dasselbe festhalten.“
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert — Sie haben die Hände frei für Fotos und Protokoll. Legen Sie das Schlüsselwort in Ihre eigene Frage, zum Beispiel **„aufnehmen“**. Wenn Sie fragen „Darf ich die Übergabe aufnehmen?“, beginnt die Aufnahme genau dann, und das „Ja“ ist in der Datei — zusammen mit allem, was danach über die Räume gesagt wird. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert — Sie haben die Hände frei für Fotos und Protokoll. Legen Sie das Schlüsselwort in Ihre eigene Frage, zum Beispiel **„aufnehmen“**. Wenn Sie fragen „Darf ich die Übergabe aufnehmen?“, beginnt die Aufnahme genau dann, und das „Ja“ ist in der Datei — zusammen mit allem, was danach über die Räume gesagt wird. Mehr in [Zuerst sagt man etwas: eine Aufnahme mit der Stimme starten](/blog/de/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-de.jpg" alt="Aufnahmeverlauf in TalkSafe. Jedes Mal, wenn ein Schlüsselwort erkannt wird, wird eine Aufnahme mit Datum und Uhrzeit gespeichert." width="540" height="960" loading="lazy"><figcaption>Aufnahmeverlauf. Jede Datei enthält auch die 30 Sekunden, bevor das Schlüsselwort erkannt wurde.</figcaption></figure>
 

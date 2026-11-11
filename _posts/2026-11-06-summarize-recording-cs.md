@@ -66,7 +66,7 @@ Na telefonech Galaxy s Galaxy AI funkce **Transcript Assist** v Diktafonu převe
 - **Funguje i na úsecích.** Vystřihněte potřebnou část – úsek se uloží jako nový soubor a originál zůstane – a shrnutí lze použít na tento úsek. Totéž platí pro úsek vyčištěný [odstraněním šumu pomocí AI v zařízení](/blog/cs/remove-background-noise/).
 - **Shrnutí vzniká na serveru.** Rozpoznávání klíčových slov v TalkSafe běží celé v telefonu, ale kvůli shrnutí se nahrávka posílá na server.
 
-Od ostatních dvou se TalkSafe liší tím, jak nahrávání začíná: **spustí se samo**, když zazní zvolené slovo, při **zamčené obrazovce**, a ponechá i **30 sekund před** tímto slovem. Shrnutí vám pak řekne, co je v souboru, který jste ani nemuseli spouštět. Víc v [Nejdřív něco řeknete](/blog/cs/say-it-first/).
+Od ostatních dvou se TalkSafe liší tím, jak nahrávání začíná: **spustí se samo**, když zazní zvolené slovo, při **zamčené obrazovce**, a ponechá i **30 sekund před** tímto slovem. Shrnutí vám pak řekne, co je v souboru, který jste ani nemuseli spouštět. Víc v [Nejdřív něco řeknete: jak spustit nahrávání hlasem](/blog/cs/say-it-first/).
 
 ## Kam zvuk putuje
 

@@ -3,9 +3,9 @@ lang: ko
 ref: say-it-first
 categories: ko
 date: 2026-08-03
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 eyebrow: 녹음
-title: "말이 먼저 나옵니다"
+title: "말이 먼저 나옵니다: 목소리로 녹음을 시작한다는 것"
 description: "녹음이 필요하다고 느낀 순간, 손보다 말이 먼저 움직입니다. 그 말을 시작 신호로 삼으면 어떻게 되는지에 대한 이야기."
 app: true
 app_description: "미리 정해둔 말이 들리면 자동으로 녹음을 시작하는 안드로이드·아이폰 녹음 앱입니다. 녹음이 시작되면 시작 직전 30초까지 함께 저장됩니다."

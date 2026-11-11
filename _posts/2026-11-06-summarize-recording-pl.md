@@ -66,7 +66,7 @@ Cztery rzeczy, które warto wiedzieć:
 - **Działa na fragmentach.** Przytnij potrzebną część – fragment zapisuje się jako nowy plik, a oryginał zostaje – i podsumowanie można zastosować do tego fragmentu. Tak samo dla fragmentu oczyszczonego [usuwaniem szumów AI na urządzeniu](/blog/pl/remove-background-noise/).
 - **Podsumowanie powstaje na serwerze.** Wykrywanie słów kluczowych w TalkSafe działa w całości w telefonie, ale żeby streścić nagranie, jest ono wysyłane na serwer.
 
-Od dwóch pozostałych TalkSafe różni się tym, jak zaczyna się nagranie: **startuje samo**, gdy usłyszy wybrane słowo, przy **zablokowanym ekranie**, i zachowuje **30 sekund sprzed** tego słowa. Podsumowanie mówi wtedy, co jest w pliku, którego nawet nie musiałeś włączać. Więcej w [Najpierw coś mówisz](/blog/pl/say-it-first/).
+Od dwóch pozostałych TalkSafe różni się tym, jak zaczyna się nagranie: **startuje samo**, gdy usłyszy wybrane słowo, przy **zablokowanym ekranie**, i zachowuje **30 sekund sprzed** tego słowa. Podsumowanie mówi wtedy, co jest w pliku, którego nawet nie musiałeś włączać. Więcej w [Najpierw coś mówisz: jak zacząć nagrywanie głosem](/blog/pl/say-it-first/).
 
 ## Dokąd trafia dźwięk
 

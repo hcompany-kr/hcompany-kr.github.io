@@ -4,9 +4,9 @@ ref: say-it-first
 categories: fr
 permalink: /blog/fr/say-it-first/
 date: 2026-09-29
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 eyebrow: Enregistrement
-title: "On dit d'abord quelque chose"
+title: "On dit d'abord quelque chose : lancer un enregistrement avec la voix"
 description: "Au moment où l'on comprend qu'une conversation mériterait d'être enregistrée, la bouche bouge avant les mains. Ce qui se passe quand c'est cela qui devient le déclencheur."
 app: true
 app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."

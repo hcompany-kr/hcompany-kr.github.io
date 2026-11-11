@@ -4,8 +4,9 @@ ref: recording-law-it
 categories: it
 permalink: /blog/it/registrare-conversazione/
 date: 2026-08-21
+last_modified_at: 2026-11-12
 eyebrow: Legge
-title: "Registrare sì, diffondere no"
+title: "È legale registrare una conversazione in Italia? Registrare sì, diffondere no"
 description: "In Italia registrare una conversazione a cui partecipi è lecito e vale come prova documentale. Diffonderla è un atto diverso, e registrare i colleghi \"per vedere cosa esce\" può costarti una sanzione disciplinare."
 app: true
 app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."

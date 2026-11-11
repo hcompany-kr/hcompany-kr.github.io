@@ -85,7 +85,7 @@ Einen Vertrag können Sie nicht nachträglich unterschreiben lassen. Aber Sie k�
 
 Mit Einwilligung ist die Aufnahme unproblematisch – und gerade bei Geld kann man sie gut begründen: „Damit wir beide später wissen, was wir abgemacht haben.“
 
-[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie das Schlüsselwort in Ihre eigene Frage, zum Beispiel **„aufnehmen“**. Wenn Sie fragen „Darf ich das aufnehmen?“, beginnt die Aufnahme genau dann, und das „Ja“ ist in der Datei – zusammen mit dem, was danach über Betrag und Termin gesagt wird. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+[TalkSafe](/talksafe/de/) ist eine Aufnahme-App für Android und iPhone, die bei einem **vorher festgelegten Wort** startet und bei **gesperrtem Bildschirm** funktioniert. Legen Sie das Schlüsselwort in Ihre eigene Frage, zum Beispiel **„aufnehmen“**. Wenn Sie fragen „Darf ich das aufnehmen?“, beginnt die Aufnahme genau dann, und das „Ja“ ist in der Datei – zusammen mit dem, was danach über Betrag und Termin gesagt wird. Mehr in [Zuerst sagt man etwas: eine Aufnahme mit der Stimme starten](/blog/de/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-de.jpg" alt="Startbildschirm von TalkSafe mit Tasten für die Echtzeit-Erkennung und für eine manuelle Aufnahme." width="540" height="960" loading="lazy"><figcaption>Startbildschirm von TalkSafe. Ist die Echtzeit-Erkennung an, beginnt die Aufnahme, wenn ein festgelegtes Wort erkannt wird; per Taste lässt sich auch sofort aufnehmen.</figcaption></figure>
 

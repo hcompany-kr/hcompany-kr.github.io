@@ -77,7 +77,7 @@ Zwei weitere Punkte helfen jedem, der Gespräche führt:
 
 **Die 30 Sekunden davor bleiben.** Die Datei beginnt 30 Sekunden vor dem Schlüsselwort, die Einleitung des Gesprächs ist also mit drin. Mehr in [Warum der Druck auf Aufnahme immer zu spät kommt](/blog/de/recording-delay/).
 
-**Das Schlüsselwort ist nicht an Ihre Stimme gebunden.** Wo alle Beteiligten zugestimmt haben – bei einem vereinbarten Interview oder einer Besprechung –, kann es auch ein Wort sein, das das Gegenüber sagen wird. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+**Das Schlüsselwort ist nicht an Ihre Stimme gebunden.** Wo alle Beteiligten zugestimmt haben – bei einem vereinbarten Interview oder einer Besprechung –, kann es auch ein Wort sein, das das Gegenüber sagen wird. Mehr in [Zuerst sagt man etwas: eine Aufnahme mit der Stimme starten](/blog/de/say-it-first/).
 
 ## Wenn die Aufnahme zum Beweis wird
 

@@ -93,7 +93,7 @@ Lo que puedes conservar:
 - **Una anotación de cada vez que apareció**: fecha, hora, lugar y lo que dijo, escrita el mismo día.
 - **Grabaciones de conversaciones y llamadas en las que participas.** Una amenaza, o un «solo quedamos una vez», queda tal cual.
 
-En España el Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor ([grabar sí, difundir no](https://hcompany-kr.github.io/blog/es/recording-consent-law/)); en Hispanoamérica la regla cambia según el país ([grabar tu propia conversación: país por país](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/)). Si tu móvil puede grabar llamadas depende del modelo ([grabar llamadas en Android](https://hcompany-kr.github.io/blog/es/call-recording-android/)).
+En España el Tribunal Constitucional estableció en la STC 114/1984 que no cabe invocar el secreto de las comunicaciones frente al propio interlocutor ([¿Es legal grabar una conversación en España? Grabar sí, difundir no](https://hcompany-kr.github.io/blog/es/recording-consent-law/)); en Hispanoamérica la regla cambia según el país ([grabar tu propia conversación: país por país](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/)). Si tu móvil puede grabar llamadas depende del modelo ([grabar llamadas en Android](https://hcompany-kr.github.io/blog/es/call-recording-android/)).
 
 **Lo que no se debe hacer está igual de claro.** Poner una grabadora o un localizador en el coche o el bolso de la otra persona, o grabar sus conversaciones con terceros, es grabar conversaciones en las que no participas o recoger su ubicación sin consentimiento. Eso puede ser delito aunque seas la víctima.
 

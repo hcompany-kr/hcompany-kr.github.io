@@ -4,9 +4,9 @@ ref: say-it-first
 categories: nl
 permalink: /blog/nl/say-it-first/
 date: 2026-10-08
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 eyebrow: Opnemen
-title: "Eerst zeg je iets"
+title: "Eerst zeg je iets: een opname starten met je stem"
 description: "Op het moment dat je beseft dat een gesprek opgenomen moet worden, is je mond sneller dan je handen. Wat er gebeurt als juist dat de trigger wordt."
 app: true
 app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."

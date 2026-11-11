@@ -4,9 +4,9 @@ ref: say-it-first
 categories: pl
 permalink: /blog/pl/say-it-first/
 date: 2026-10-08
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 eyebrow: Nagrywanie
-title: "Najpierw coś mówisz"
+title: "Najpierw coś mówisz: jak zacząć nagrywanie głosem"
 description: "W chwili, w której orientujesz się, że rozmowę warto nagrać, usta działają szybciej niż ręce. Co się dzieje, gdy właśnie to staje się wyzwalaczem."
 app: true
 app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."

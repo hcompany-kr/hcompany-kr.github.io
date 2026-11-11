@@ -4,9 +4,9 @@ ref: say-it-first
 categories: en
 permalink: /blog/en/say-it-first/
 date: 2026-08-03
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 eyebrow: Recording
-title: "You say something first"
+title: "You say something first: starting a recording with your voice"
 description: "The moment you realise a conversation should be recorded, your mouth moves before your hands do. What happens when that becomes the trigger."
 app: true
 app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."

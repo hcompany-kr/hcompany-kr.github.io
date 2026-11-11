@@ -63,7 +63,7 @@ La **Ley Orgánica 4/2015** de protección de la seguridad ciudadana incluyó en
 
 En **2020 el Tribunal Constitucional declaró inconstitucional la expresión «no autorizado»**, al entender que exigir autorización equivalía a una censura previa prohibida. Desde entonces, **grabar a los agentes no es sancionable en sí mismo**. Lo que sigue siéndolo es el uso de esas imágenes cuando pueda poner en peligro la seguridad de los agentes o de sus familias, las instalaciones o una operación.
 
-Grabar una conversación en la que tú participas tampoco vulnera el secreto de las comunicaciones: el Tribunal Constitucional lo estableció en la STC 114/1984 ([grabar sí, difundir no](https://hcompany-kr.github.io/blog/es/recording-consent-law/)).
+Grabar una conversación en la que tú participas tampoco vulnera el secreto de las comunicaciones: el Tribunal Constitucional lo estableció en la STC 114/1984 ([¿Es legal grabar una conversación en España? Grabar sí, difundir no](https://hcompany-kr.github.io/blog/es/recording-consent-law/)).
 
 ## México, Chile y Argentina: ninguna ley lo prohíbe
 

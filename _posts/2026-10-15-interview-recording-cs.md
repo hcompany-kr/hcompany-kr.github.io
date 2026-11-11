@@ -85,7 +85,7 @@ V TalkSafe **střih ponechá originál** a **odstranění šumu pomocí AI** vy�
 
 Ne každý rozhovor je stejný. Na Slovensku je svolení výchozím pravidlem, v interním šetření ho může vyžadovat předpis a někdy otázka prostě buduje důvěru. Pak se zeptejte.
 
-I tady pomůže klíčové slovo. Nastavte **„nahrát“** a zeptejte se **„Můžu to nahrát?“**. Nahrávání začne ve chvíli otázky, takže odpověď je v souboru — bez toho, abyste nejdřív viditelně zapínali diktafon. Víc v [Nejdřív něco řeknete](/blog/cs/say-it-first/).
+I tady pomůže klíčové slovo. Nastavte **„nahrát“** a zeptejte se **„Můžu to nahrát?“**. Nahrávání začne ve chvíli otázky, takže odpověď je v souboru — bez toho, abyste nejdřív viditelně zapínali diktafon. Víc v [Nejdřív něco řeknete: jak spustit nahrávání hlasem](/blog/cs/say-it-first/).
 
 ## Shrnutí
 

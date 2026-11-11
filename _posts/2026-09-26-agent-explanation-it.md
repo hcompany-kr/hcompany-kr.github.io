@@ -93,7 +93,7 @@ Tre cose aiutano.
 
 **Manda un messaggio lo stesso giorno.** «Solo per conferma di quanto mi ha detto oggi: la macchia sul soffitto è di quando hanno imbiancato e non ci sono infiltrazioni.» Anche senza risposta, resta traccia di cosa ti è stato detto e quando.
 
-**Registra la visita a cui partecipi.** Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è che a un agente non si chiede «le dispiace se registro?», e la spiegazione arriva a pezzi, passando da una stanza all'altra.
+**Registra la visita a cui partecipi.** Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([È legale registrare una conversazione in Italia? Registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è che a un agente non si chiede «le dispiace se registro?», e la spiegazione arriva a pezzi, passando da una stanza all'altra.
 
 TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi puoi scegliere quelle che usciranno nella spiegazione dell'agente, come «infiltrazioni», «condominio» o «garage». Funziona a schermo bloccato e, poiché salva i 30 secondi precedenti all'avvio, anche quello che è stato detto subito prima finisce nel file.
 

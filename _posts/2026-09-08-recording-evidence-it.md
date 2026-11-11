@@ -111,7 +111,7 @@ All'opposto, gli **Stati Uniti** trattano la copia come l'originale salvo contes
 - Deposita pure un estratto, ma mai sopra la fonte.
 - L'inizio non si aggiunge dopo. Lo decide il modo in cui la registrazione parte.
 
-Cosa fare del file una volta ottenuto è in [cosa fare con una registrazione, e cosa non farne](https://hcompany-kr.github.io/blog/it/after-recording/). Se la registrazione fosse lecita in partenza è trattato in [registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/).
+Cosa fare del file una volta ottenuto è in [cosa fare con una registrazione, e cosa non farne](https://hcompany-kr.github.io/blog/it/after-recording/). Se la registrazione fosse lecita in partenza è trattato in [È legale registrare una conversazione in Italia? Registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/).
 
 Se quello che devi provare è un patto verbale diverso dal contratto scritto, vedi [nel contratto non c'è, lo avete deciso in riunione](https://hcompany-kr.github.io/blog/it/verbal-contract/).
 

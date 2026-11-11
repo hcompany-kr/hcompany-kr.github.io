@@ -95,6 +95,6 @@ Genau hier hilft das Schlüsselwort. Mit ‚aufnehmen‘ als Wort beginnt die Au
 - Mit der Stimme zu starten, lässt das Gespräch unberührt.
 - Wählen Sie ein Wort, das im Alltag selten ist, aber in dem Moment, auf den es ankommt, ganz natürlich fällt.
 
-Wie man sein eigenes Schlüsselwort findet, steht in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+Wie man sein eigenes Schlüsselwort findet, steht in [Zuerst sagt man etwas: eine Aufnahme mit der Stimme starten](/blog/de/say-it-first/).
 
 Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).

@@ -66,7 +66,7 @@ Four things are worth knowing:
 - **It works on clips.** Trim the part you need — the trimmed section is saved as a new file and the original stays — and the summary can be used on that clip. The same goes for a clip cleaned with [on-device AI noise removal](/blog/en/remove-background-noise/).
 - **The summary is made on a server.** TalkSafe's keyword detection runs entirely on the phone, but to summarize, the recording is sent to a server.
 
-What makes TalkSafe different from the other two is how the recording begins: it **starts by itself** when it hears a word you set, with the **screen locked**, and keeps the **30 seconds before** the word. The summary then tells you what is in a file you never had to start. More in [You say something first](/blog/en/say-it-first/).
+What makes TalkSafe different from the other two is how the recording begins: it **starts by itself** when it hears a word you set, with the **screen locked**, and keeps the **30 seconds before** the word. The summary then tells you what is in a file you never had to start. More in [You say something first: starting a recording with your voice](/blog/en/say-it-first/).
 
 ## Where the audio goes
 

@@ -89,7 +89,7 @@ Cosa puoi conservare:
 - **Un diario di ogni volta che è comparsa**: data, ora, luogo e cosa ha detto, scritto lo stesso giorno.
 - **Registrazioni delle conversazioni e delle telefonate a cui partecipi.** Una minaccia, o un «vediamoci solo una volta», resta parola per parola.
 
-Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Se il tuo telefono può registrare le chiamate dipende dal modello ([registrare le chiamate su Android](https://hcompany-kr.github.io/blog/it/call-recording-android/)).
+Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([È legale registrare una conversazione in Italia? Registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Se il tuo telefono può registrare le chiamate dipende dal modello ([registrare le chiamate su Android](https://hcompany-kr.github.io/blog/it/call-recording-android/)).
 
 **Quello che non si deve fare è altrettanto chiaro.** Mettere un registratore o un localizzatore nell'auto o nella borsa dell'altra persona, o registrare le sue conversazioni con altri, significa registrare conversazioni a cui non partecipi o raccogliere la sua posizione senza consenso. Può essere reato anche se sei la vittima.
 

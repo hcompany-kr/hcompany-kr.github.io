@@ -70,7 +70,7 @@ Antwoordt de aannemer "klopt" of komt er geen tegenspraak, dan heb je een gedate
 
 **Opnemen** mag in Nederland als je **zelf deelneemt** aan het gesprek: **art. 139a Sr** stelt het opnemen van gesprekken waaraan je **niet** deelneemt strafbaar. Meer in [Mag je een gesprek stiekem opnemen?](/blog/nl/gesprek-opnemen/)
 
-[TalkSafe](/talksafe/nl/) begint met opnemen bij een **vooraf gekozen woord** en werkt met **vergrendeld scherm**. Kies een woord waarmee een afspraak meestal wordt **bevestigd**, bijvoorbeeld **"afgesproken"**. Zegt iemand "dus afgesproken?", dan start de opname – en de **30 seconden daarvoor**, waarin de voorwaarden werden genoemd, staan al in het bestand. Bij knippen **blijft het origineel bewaard**. Zie ook [Eerst zeg je iets](/blog/nl/say-it-first/).
+[TalkSafe](/talksafe/nl/) begint met opnemen bij een **vooraf gekozen woord** en werkt met **vergrendeld scherm**. Kies een woord waarmee een afspraak meestal wordt **bevestigd**, bijvoorbeeld **"afgesproken"**. Zegt iemand "dus afgesproken?", dan start de opname – en de **30 seconden daarvoor**, waarin de voorwaarden werden genoemd, staan al in het bestand. Bij knippen **blijft het origineel bewaard**. Zie ook [Eerst zeg je iets: een opname starten met je stem](/blog/nl/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-nl.jpg" alt="Startscherm van TalkSafe met knoppen om realtime detectie en een handmatige opname te starten." width="540" height="960" loading="lazy"><figcaption>Startscherm van TalkSafe. Met realtime detectie aan begint de opname zodra een gekozen woord herkend wordt; met de knop kun je ook meteen opnemen.</figcaption></figure>
 

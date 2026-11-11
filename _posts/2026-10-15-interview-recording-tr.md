@@ -73,7 +73,7 @@ Görüşme yapan herkese yarayan iki nokta daha:
 
 **Önceki 30 saniye kalır.** Dosya anahtar kelimeden 30 saniye önce başlar, görüşmenin girişi de içindedir. Ayrıntı: [Kayıt tuşuna neden hep geç basılır](/blog/tr/recording-delay/).
 
-**Anahtar kelime sesinize bağlı değildir.** Herkesin kayda razı olduğu bir görüşmede, karşı tarafın söyleyeceği bir kelime de olabilir. Ayrıntı: [Önce bir şey söylersiniz](/blog/tr/say-it-first/).
+**Anahtar kelime sesinize bağlı değildir.** Herkesin kayda razı olduğu bir görüşmede, karşı tarafın söyleyeceği bir kelime de olabilir. Ayrıntı: [Önce bir şey söylersiniz: kaydı sesle başlatmak](/blog/tr/say-it-first/).
 
 ## Kayıt delil olursa
 

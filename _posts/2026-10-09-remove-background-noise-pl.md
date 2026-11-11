@@ -104,7 +104,7 @@ Jak skrócić nagranie do tego, co ważne, nie tracąc oryginału, i czym różn
 
 Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy o nagrywaniu rozmów, opisuje [Czy można nagrywać rozmowę bez zgody? W Polsce uczestnik może, rozpowszechnianie to inna sprawa](/blog/pl/nagrywanie-rozmowy/).
 
-Jeśli dopiero zaczynasz z TalkSafe, jak wybrać słowa kluczowe, żeby były lepiej wykrywane, opisuje [Najpierw coś mówisz](/blog/pl/say-it-first/).
+Jeśli dopiero zaczynasz z TalkSafe, jak wybrać słowa kluczowe, żeby były lepiej wykrywane, opisuje [Najpierw coś mówisz: jak zacząć nagrywanie głosem](/blog/pl/say-it-first/).
 
 Jak streścić nagranie za pomocą AI i dokąd trafia dźwięk, opisuje [Jak streścić nagranie głosowe za pomocą AI na Androidzie](/blog/pl/summarize-recording/).
 

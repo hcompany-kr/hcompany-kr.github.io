@@ -63,7 +63,7 @@ Secondo il **Garante per la protezione dei dati personali**, i funzionari pubbli
 
 Il problema è la **diffusione**. Alle foto e ai video delle forze dell'ordine si applicano le consuete norme a tutela della privacy: riprendere il volto degli agenti o altri tratti idonei a identificarli e poi divulgare la ripresa non è libero. La diffusione non è un illecito se gli agenti hanno dato il consenso o se volti, voci e dati personali vengono oscurati.
 
-Per la conversazione durante un controllo vale la regola generale: la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il limite è non ostacolare lo svolgimento delle funzioni.
+Per la conversazione durante un controllo vale la regola generale: la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([È legale registrare una conversazione in Italia? Registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il limite è non ostacolare lo svolgimento delle funzioni.
 
 ## Spagna: la «legge bavaglio» e la Corte costituzionale
 

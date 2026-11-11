@@ -77,7 +77,7 @@ One thing is worth saying: a single word covers many sentences. Set `record` and
 
 Used for a while, both things happen. Sometimes a recording starts when you did not intend it, because something close enough went past. Sometimes it does not catch when you wanted it to. The first costs you one file you delete; the second cannot be undone. The two do not weigh the same.
 
-There is more on this in [You say something first](/blog/en/say-it-first/).
+There is more on this in [You say something first: starting a recording with your voice](/blog/en/say-it-first/).
 
 ## This is not a tool for recording people secretly
 

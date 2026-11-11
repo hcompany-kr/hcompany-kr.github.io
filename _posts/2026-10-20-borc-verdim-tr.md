@@ -85,7 +85,7 @@ Para konuşmaları mesajla değil, yüz yüze veya telefonda olur. Türkiye'de b
 
 Rızayla kayıt sorun değildir ve para konusunda gerekçesi kolay bulunur: "Ne konuştuğumuzu ikimiz de unutmayalım."
 
-[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan ve **ekran kilitliyken** çalışan Android ve iPhone için bir ses kayıt uygulamasıdır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedeyim"**. "Kaydedeyim mi?" diye sorduğunuzda kayıt o anda başlar; "olur" cevabı ve ardından tutar ve tarih hakkında söylenenler dosyadadır. Ayrıntı: [Önce bir şey söylersiniz](/blog/tr/say-it-first/).
+[TalkSafe](/talksafe/tr/), **önceden belirlediğiniz bir kelimeyi** duyduğunda kayda başlayan ve **ekran kilitliyken** çalışan Android ve iPhone için bir ses kayıt uygulamasıdır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedeyim"**. "Kaydedeyim mi?" diye sorduğunuzda kayıt o anda başlar; "olur" cevabı ve ardından tutar ve tarih hakkında söylenenler dosyadadır. Ayrıntı: [Önce bir şey söylersiniz: kaydı sesle başlatmak](/blog/tr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-tr.jpg" alt="TalkSafe başlangıç ekranı: gerçek zamanlı algılamayı ve manuel kaydı başlatma düğmeleri." width="540" height="960" loading="lazy"><figcaption>TalkSafe başlangıç ekranı. Gerçek zamanlı algılama açıkken belirlediğiniz kelime algılandığında kayıt başlar; düğmeyle hemen de kayıt alabilirsiniz.</figcaption></figure>
 

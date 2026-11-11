@@ -70,7 +70,7 @@ Co v žádné dokumentaci není: poznámka na konci návštěvy, to, jak lékař
 
 Vytáhnout telefon, odemknout, najít aplikaci, zmáčknout nahrávání – zrovna když lékařka začne vysvětlovat. To přeruší rozhovor a stojí první věty.
 
-[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší **předem zvolené slovo** – při **zamčené obrazovce**, bez odemykání telefonu a bez otevírání aplikace. Dejte slovo do své otázky: se slovem „nahrát“ začne nahrávání, když se zeptáte „Můžu si to nahrát, abych doma nic nezapomněl?“, a odpověď je v souboru spolu s **30 sekundami předtím**. Uložíte-li i druhé slovo ze stejné věty, například „nezapomněl“, rozpoznávání bude spolehlivější. Víc v [Nejdřív něco řeknete](/blog/cs/say-it-first/).
+[TalkSafe](/talksafe/cs/) je aplikace pro nahrávání na Android a iPhone, která začne nahrávat, když uslyší **předem zvolené slovo** – při **zamčené obrazovce**, bez odemykání telefonu a bez otevírání aplikace. Dejte slovo do své otázky: se slovem „nahrát“ začne nahrávání, když se zeptáte „Můžu si to nahrát, abych doma nic nezapomněl?“, a odpověď je v souboru spolu s **30 sekundami předtím**. Uložíte-li i druhé slovo ze stejné věty, například „nezapomněl“, rozpoznávání bude spolehlivější. Víc v [Nejdřív něco řeknete: jak spustit nahrávání hlasem](/blog/cs/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
 

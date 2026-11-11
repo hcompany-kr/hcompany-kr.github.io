@@ -85,7 +85,7 @@ Les conversations d'argent ont lieu à table ou au téléphone, pas par écrit. 
 
 Avec son accord, c'est simple — et pour une histoire d'argent, la raison se donne facilement : « pour qu'on se souvienne tous les deux de ce qu'on a convenu ».
 
-[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Mettez le mot-clé dans votre propre question, par exemple **« enregistrer »**. Quand vous demandez « Je peux enregistrer ? », l'enregistrement commence à ce moment-là, et le « oui » est dans le fichier — avec ce qui se dit ensuite sur le montant et la date. Voir [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+[TalkSafe](/talksafe/fr/) est une application d'enregistrement pour Android et iPhone qui démarre sur un **mot choisi à l'avance** et fonctionne **écran verrouillé**. Mettez le mot-clé dans votre propre question, par exemple **« enregistrer »**. Quand vous demandez « Je peux enregistrer ? », l'enregistrement commence à ce moment-là, et le « oui » est dans le fichier — avec ce qui se dit ensuite sur le montant et la date. Voir [On dit d'abord quelque chose : lancer un enregistrement avec la voix](/blog/fr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-fr.jpg" alt="Écran d'accueil de TalkSafe avec des boutons pour lancer la détection en temps réel et un enregistrement manuel." width="540" height="960" loading="lazy"><figcaption>Écran d'accueil de TalkSafe. Avec la détection en temps réel activée, l'enregistrement démarre quand un mot choisi est détecté ; le bouton permet aussi d'enregistrer tout de suite.</figcaption></figure>
 

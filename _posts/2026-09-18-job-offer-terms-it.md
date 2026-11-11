@@ -104,7 +104,7 @@ Tutte queste strade dipendono dalla stessa cosa: **poter mostrare che cosa ti è
 
 **Manda un messaggio lo stesso giorno.** «Confermo quanto ci siamo detti: X euro lordi, due giorni da remoto, inizio il 3. Resto in attesa di vederlo nel contratto.» Anche senza risposta, resta traccia di come l'offerta è stata intesa quando è stata fatta.
 
-**Se è stato tutto a voce, resta la registrazione.** Colloqui e telefonate di offerta non lasciano nulla di scritto. Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è che un candidato non può certo chiedere «le dispiace se registro?».
+**Se è stato tutto a voce, resta la registrazione.** Colloqui e telefonate di offerta non lasciano nulla di scritto. Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([È legale registrare una conversazione in Italia? Registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è che un candidato non può certo chiedere «le dispiace se registro?».
 
 TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. La parola viene riconosciuta chiunque la pronunci, quindi si possono scegliere quelle che ricorrono quando si parla di condizioni. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così il momento in cui esce la cifra non è la parte che manca.
 

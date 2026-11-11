@@ -108,7 +108,7 @@ Für verrauschte Abschnitte vergleicht [Hintergrundgeräusche aus einer Sprachau
 
 Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201 StGB, § 120 StGB, Art. 179ter StGB und die Gerichte –, steht in [Gespräch heimlich aufnehmen: In Deutschland strafbar, in Österreich nicht – und was das vor Gericht heißt](/blog/de/gespraech-aufnehmen/).
 
-Wenn Sie TalkSafe gerade erst einrichten: Wie Sie Schlüsselwörter wählen, damit sie zuverlässig erkannt werden, steht in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+Wenn Sie TalkSafe gerade erst einrichten: Wie Sie Schlüsselwörter wählen, damit sie zuverlässig erkannt werden, steht in [Zuerst sagt man etwas: eine Aufnahme mit der Stimme starten](/blog/de/say-it-first/).
 
 Wie man eine Aufnahme mit KI zusammenfasst und wohin der Ton geht: [Sprachaufnahme mit KI zusammenfassen – so geht es auf Android](/blog/de/summarize-recording/).
 

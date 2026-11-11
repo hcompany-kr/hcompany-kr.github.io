@@ -4,9 +4,9 @@ ref: say-it-first
 categories: cs
 permalink: /blog/cs/say-it-first/
 date: 2026-10-08
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 eyebrow: Nahrávání
-title: "Nejdřív něco řeknete"
+title: "Nejdřív něco řeknete: jak spustit nahrávání hlasem"
 description: "Ve chvíli, kdy si uvědomíte, že by se rozhovor měl nahrát, jsou ústa rychlejší než ruce. Co se stane, když se právě to stane spouštěčem."
 app: true
 app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."

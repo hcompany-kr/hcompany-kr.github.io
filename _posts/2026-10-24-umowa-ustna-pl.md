@@ -94,7 +94,7 @@ Jeśli wykonawca odpisze „tak” albo nie zaprzeczy, masz datowany dokument �
 
 **Nagrywanie**: w Polsce uczestnik rozmowy może ją co do zasady nagrać. **Art. 267 § 3 k.k.** dotyczy podsłuchu – zdobywania informacji, które nie są dla nas przeznaczone. Więcej w [Czy można nagrywać rozmowę bez zgody?](/blog/pl/nagrywanie-rozmowy/)
 
-[TalkSafe](/talksafe/pl/) zaczyna nagrywać po usłyszeniu **wybranego wcześniej słowa** i działa przy **zablokowanym ekranie**. Ustaw słowo, które zwykle **zamyka ustalenia**, np. **„umowa”**. Gdy pada „to umowa stoi?”, nagrywanie startuje – a **30 sekund wcześniej**, kiedy mówiono o warunkach, jest już w pliku. Przy wycinaniu fragmentu **oryginał zostaje**. Zobacz też [Najpierw coś mówisz](/blog/pl/say-it-first/).
+[TalkSafe](/talksafe/pl/) zaczyna nagrywać po usłyszeniu **wybranego wcześniej słowa** i działa przy **zablokowanym ekranie**. Ustaw słowo, które zwykle **zamyka ustalenia**, np. **„umowa”**. Gdy pada „to umowa stoi?”, nagrywanie startuje – a **30 sekund wcześniej**, kiedy mówiono o warunkach, jest już w pliku. Przy wycinaniu fragmentu **oryginał zostaje**. Zobacz też [Najpierw coś mówisz: jak zacząć nagrywanie głosem](/blog/pl/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-pl.jpg" alt="Ekran startowy TalkSafe z przyciskami do uruchomienia wykrywania na żywo i ręcznego nagrywania." width="540" height="960" loading="lazy"><figcaption>Ekran startowy TalkSafe. Przy włączonym wykrywaniu na żywo nagrywanie zaczyna się, gdy zostanie wykryte ustawione słowo; przyciskiem można też nagrać od razu.</figcaption></figure>
 

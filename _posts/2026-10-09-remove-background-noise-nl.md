@@ -104,7 +104,7 @@ Hoe je een opname terugbrengt tot wat ertoe doet zonder het origineel te verliez
 
 Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het opnemen van gesprekken, staat in [Mag je een gesprek stiekem opnemen? In Nederland en België wel, als je zelf meepraat](/blog/nl/gesprek-opnemen/).
 
-Begin je net met TalkSafe, dan staat in [Eerst zeg je iets](/blog/nl/say-it-first/) hoe je trefwoorden kiest die beter herkend worden.
+Begin je net met TalkSafe, dan staat in [Eerst zeg je iets: een opname starten met je stem](/blog/nl/say-it-first/) hoe je trefwoorden kiest die beter herkend worden.
 
 Hoe je een opname samenvat met AI en waar het geluid heen gaat, staat in [Een spraakopname samenvatten met AI op Android](/blog/nl/summarize-recording/).
 

@@ -107,7 +107,7 @@ Bir kayıttan sonra dört şey: **orijinali saklayın**, **önemli kısmı kırp
 
 İlk üçü dosyayı kullanılabilir yapar. Sonuncusu dosyanın size karşı dönmesini önler.
 
-Rızayı da kayda almanın yolu [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında. Kaydetmenin kendisi hakkında ülke ülke karşılaştırma [Android'de arama kaydı uygulamaları neden artık çalışmıyor, ve hâlâ ne çalışıyor](/blog/tr/call-recording-android/) yazısında.
+Rızayı da kayda almanın yolu [Önce bir şey söylersiniz: kaydı sesle başlatmak](/blog/tr/say-it-first/) yazısında. Kaydetmenin kendisi hakkında ülke ülke karşılaştırma [Android'de arama kaydı uygulamaları neden artık çalışmıyor, ve hâlâ ne çalışıyor](/blog/tr/call-recording-android/) yazısında.
 
 Bir kayıttaki sokak gürültüsünün telefonda nasıl giderileceği ve hangi araçların bunu yapabildiği [Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir](/blog/tr/remove-background-noise/) yazısında.
 

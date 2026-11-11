@@ -66,7 +66,7 @@ Quatre choses à savoir :
 - **Il fonctionne sur des extraits.** Découpez la partie utile — l'extrait est enregistré comme nouveau fichier et l'original est conservé — et le résumé peut être utilisé sur cet extrait. De même pour un extrait nettoyé avec la [suppression du bruit par IA sur l'appareil](/blog/fr/remove-background-noise/).
 - **Le résumé est fait sur un serveur.** La détection des mots-clés de TalkSafe fonctionne entièrement sur le téléphone, mais pour résumer, l'enregistrement est envoyé à un serveur.
 
-Ce qui distingue TalkSafe des deux autres, c'est la façon dont l'enregistrement commence : il **démarre tout seul** quand il entend un mot choisi, **écran verrouillé**, et garde les **30 secondes précédentes**. Le résumé vous dit ensuite ce que contient un fichier que vous n'avez même pas eu à lancer. Plus de détails dans [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+Ce qui distingue TalkSafe des deux autres, c'est la façon dont l'enregistrement commence : il **démarre tout seul** quand il entend un mot choisi, **écran verrouillé**, et garde les **30 secondes précédentes**. Le résumé vous dit ensuite ce que contient un fichier que vous n'avez même pas eu à lancer. Plus de détails dans [On dit d'abord quelque chose : lancer un enregistrement avec la voix](/blog/fr/say-it-first/).
 
 ## Où part l'audio
 

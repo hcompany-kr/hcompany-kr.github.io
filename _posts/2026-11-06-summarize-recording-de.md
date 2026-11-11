@@ -66,7 +66,7 @@ Vier Dinge sind gut zu wissen:
 - **Sie funktioniert auch für Ausschnitte.** Schneiden Sie den benötigten Teil zu – er wird als neue Datei gespeichert, das Original bleibt erhalten –, und die Zusammenfassung lässt sich auf diesen Ausschnitt anwenden. Ebenso für einen Ausschnitt, der mit der [KI-Rauschunterdrückung auf dem Gerät](/blog/de/remove-background-noise/) bereinigt wurde.
 - **Die Zusammenfassung entsteht auf einem Server.** Die Schlüsselwort-Erkennung von TalkSafe läuft vollständig auf dem Handy, aber für die Zusammenfassung wird die Aufnahme an einen Server geschickt.
 
-Was TalkSafe von den beiden anderen unterscheidet, ist der Start: Die Aufnahme **beginnt von selbst**, wenn ein festgelegtes Wort fällt, bei **gesperrtem Bildschirm**, und behält die **30 Sekunden davor**. Die Zusammenfassung sagt Ihnen dann, was in einer Datei steckt, die Sie nicht einmal starten mussten. Mehr in [Zuerst sagt man etwas](/blog/de/say-it-first/).
+Was TalkSafe von den beiden anderen unterscheidet, ist der Start: Die Aufnahme **beginnt von selbst**, wenn ein festgelegtes Wort fällt, bei **gesperrtem Bildschirm**, und behält die **30 Sekunden davor**. Die Zusammenfassung sagt Ihnen dann, was in einer Datei steckt, die Sie nicht einmal starten mussten. Mehr in [Zuerst sagt man etwas: eine Aufnahme mit der Stimme starten](/blog/de/say-it-first/).
 
 ## Wohin der Ton geht
 

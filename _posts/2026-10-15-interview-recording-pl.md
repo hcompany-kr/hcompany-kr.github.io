@@ -85,7 +85,7 @@ W TalkSafe **wycięcie fragmentu zostawia oryginał**, a **usuwanie szumów z AI
 
 Nie każda rozmowa jest taka sama. W dziennikarstwie pytanie o zgodę na nagrywanie wywiadu jest normą, w postępowaniu wewnętrznym może tego wymagać regulamin, a czasem pytanie po prostu buduje zaufanie. Wtedy pytaj.
 
-Tu też pomaga słowo kluczowe. Ustaw **„nagrać”** i zapytaj **„Mogę to nagrać?”**. Nagranie zaczyna się w chwili pytania, więc odpowiedź jest w pliku — bez wcześniejszego włączania dyktafonu na oczach rozmówcy. Więcej w [Najpierw coś mówisz](/blog/pl/say-it-first/).
+Tu też pomaga słowo kluczowe. Ustaw **„nagrać”** i zapytaj **„Mogę to nagrać?”**. Nagranie zaczyna się w chwili pytania, więc odpowiedź jest w pliku — bez wcześniejszego włączania dyktafonu na oczach rozmówcy. Więcej w [Najpierw coś mówisz: jak zacząć nagrywanie głosem](/blog/pl/say-it-first/).
 
 ## W skrócie
 

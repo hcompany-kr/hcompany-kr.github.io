@@ -81,7 +81,7 @@ Usta "evet" yazarsa ya da itiraz etmezse, tarihli bir yazılı belgeniz olur. Us
 
 **Kayıt** konusunda Türkiye'de dikkatli olmak gerekir: **TCK 133/2**, katıldığınız bir konuşmayı diğer tarafların **rızası olmadan** kaydetmeyi de suç sayar. Ayrıntısı: [Gizli ses kaydı almak suç mu?](/blog/tr/ses-kaydi-suc-mu/)
 
-Rızayla kaydetmek mümkündür. [TalkSafe](/talksafe/tr/), önceden belirlediğiniz **bir kelimeyle** başlayan ve **ekran kilitliyken** çalışan bir kayıt uygulamasıdır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedebilir"**: "Konuştuklarımızı kaydedebilir miyim, ikimizde de aynısı olsun?" dediğinizde kayıt başlar ve "evet" dosyada olur – **önceki 30 saniyeyle** birlikte. Ayrıca bkz. [Önce bir şey söylersiniz](/blog/tr/say-it-first/).
+Rızayla kaydetmek mümkündür. [TalkSafe](/talksafe/tr/), önceden belirlediğiniz **bir kelimeyle** başlayan ve **ekran kilitliyken** çalışan bir kayıt uygulamasıdır. Anahtar kelimeyi kendi sorunuza koyun, örneğin **"kaydedebilir"**: "Konuştuklarımızı kaydedebilir miyim, ikimizde de aynısı olsun?" dediğinizde kayıt başlar ve "evet" dosyada olur – **önceki 30 saniyeyle** birlikte. Ayrıca bkz. [Önce bir şey söylersiniz: kaydı sesle başlatmak](/blog/tr/say-it-first/).
 
 <figure class="shot"><img src="/assets/img/screens/start-tr.jpg" alt="TalkSafe başlangıç ekranı: gerçek zamanlı algılamayı ve manuel kaydı başlatma düğmeleri." width="540" height="960" loading="lazy"><figcaption>TalkSafe başlangıç ekranı. Gerçek zamanlı algılama açıkken belirlediğiniz kelime algılandığında kayıt başlar; düğmeyle hemen de kayıt alabilirsiniz.</figcaption></figure>
 

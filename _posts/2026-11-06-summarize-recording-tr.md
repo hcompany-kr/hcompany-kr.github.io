@@ -66,7 +66,7 @@ Bilmeye değer dört şey:
 - **Kırpılmış bölümlerde de çalışır.** İhtiyacınız olan kısmı kırpın — bölüm yeni bir dosya olarak kaydedilir, orijinal korunur — ve özet bu bölüme uygulanabilir. [Cihaz üzerindeki yapay zekâ gürültü giderme](/blog/tr/remove-background-noise/) ile temizlenmiş bir bölüm için de aynısı geçerli.
 - **Özet bir sunucuda yapılır.** TalkSafe'in anahtar kelime algılaması tamamen telefonda çalışır, ama özet için kayıt bir sunucuya gönderilir.
 
-TalkSafe'i diğer ikisinden ayıran, kaydın nasıl başladığıdır: belirlediğiniz bir kelimeyi duyunca **ekran kilitliyken kendiliğinden başlar** ve kelimeden **önceki 30 saniyeyi** saklar. Özet de size, başlatmanız bile gerekmeyen bir dosyada ne olduğunu söyler. Daha fazlası [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.
+TalkSafe'i diğer ikisinden ayıran, kaydın nasıl başladığıdır: belirlediğiniz bir kelimeyi duyunca **ekran kilitliyken kendiliğinden başlar** ve kelimeden **önceki 30 saniyeyi** saklar. Özet de size, başlatmanız bile gerekmeyen bir dosyada ne olduğunu söyler. Daha fazlası [Önce bir şey söylersiniz: kaydı sesle başlatmak](/blog/tr/say-it-first/) yazısında.
 
 ## Ses nereye gidiyor
 

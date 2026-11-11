@@ -4,8 +4,9 @@ ref: elder-care
 categories: ja
 permalink: /blog/ja/elder-care/
 date: 2026-08-14
+last_modified_at: 2026-11-12
 eyebrow: 介護
-title: "通報した人は法律で守られます"
+title: "高齢者虐待の通報、通報した人は法律で守られます"
 description: "高齢者虐待防止法が定める通報の仕組み、通報者が守られる根拠、市町村の対応、そして何を根拠に通報するのかという問題について。"
 app: true
 app_description: "あらかじめ決めておいた言葉が聞こえると自動で録音を開始するAndroid・iPhoneアプリです。録音が始まると、その直前30秒もあわせて保存されます。"

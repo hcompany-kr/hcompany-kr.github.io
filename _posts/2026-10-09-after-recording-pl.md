@@ -106,7 +106,7 @@ Cztery rzeczy po nagraniu: **zachowaj oryginał**, **wytnij to, co ważne**, **t
 
 Pierwsze trzy sprawiają, że plik jest użyteczny. Ostatnia sprawia, że nie obróci się przeciwko tobie.
 
-Jak nagrać od razu także zgodę, opisuje [Najpierw coś mówisz](/blog/pl/say-it-first/). Co obowiązuje przy rozmowach telefonicznych, opisuje [Dlaczego aplikacje do nagrywania rozmów na Androidzie przestały działać i co nadal działa](/blog/pl/call-recording-android/).
+Jak nagrać od razu także zgodę, opisuje [Najpierw coś mówisz: jak zacząć nagrywanie głosem](/blog/pl/say-it-first/). Co obowiązuje przy rozmowach telefonicznych, opisuje [Dlaczego aplikacje do nagrywania rozmów na Androidzie przestały działać i co nadal działa](/blog/pl/call-recording-android/).
 
 Jak usunąć hałas ulicy z nagrania na telefonie i które narzędzia sobie z tym radzą, opisuje [Jak usunąć hałas w tle z nagrania głosu na Androidzie](/blog/pl/remove-background-noise/).
 

@@ -75,7 +75,7 @@ In **Italia**, secondo l'orientamento consolidato della **Cassazione**, la regis
 
 Una conversazione a cui non partecipi è un'altra cosa. Captare ciò che dicono altri senza esservi presenti o legittimamente ammessi configura l'**interferenza illecita nella vita privata dell'art. 615-bis c.p.** o l'**intercettazione abusiva dell'art. 617 c.p.**, con pene che arrivano a **quattro anni di reclusione**. Lasciare un registratore acceso in una stanza e uscire, nasconderlo nell'auto di qualcuno, installare un'app sul telefono di un'altra persona: nulla di questo è una conversazione a cui partecipi, e nessuna licenza da investigatore lo cambia. L'app non è fatta per questo.
 
-Nella **Svizzera italiana** la regola è diversa: l'art. 179ter del Codice penale svizzero punisce, a querela di parte, chi registra senza consenso una conversazione non pubblica anche se vi partecipa. Il quadro italiano completo è in [Registrare sì, diffondere no](/blog/it/registrare-conversazione/).
+Nella **Svizzera italiana** la regola è diversa: l'art. 179ter del Codice penale svizzero punisce, a querela di parte, chi registra senza consenso una conversazione non pubblica anche se vi partecipa. Il quadro italiano completo è in [È legale registrare una conversazione in Italia? Registrare sì, diffondere no](/blog/it/registrare-conversazione/).
 
 ## Se diventa una prova, l'originale è tutto
 

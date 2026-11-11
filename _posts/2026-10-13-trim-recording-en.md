@@ -100,7 +100,7 @@ The share button does two different jobs. Sending a file to your own email or dr
 
 For noisy clips, [How to remove background noise from a voice recording on Android](/blog/en/remove-background-noise/) compares the tools that can and cannot handle street noise.
 
-If you are new to TalkSafe, how to choose keywords so they are detected reliably is in [You say something first](/blog/en/say-it-first/).
+If you are new to TalkSafe, how to choose keywords so they are detected reliably is in [You say something first: starting a recording with your voice](/blog/en/say-it-first/).
 
 How to get an AI summary of a recording, and where the audio goes: [How to get an AI summary of a voice recording on Android](/blog/en/summarize-recording/).
 

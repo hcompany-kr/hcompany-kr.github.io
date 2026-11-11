@@ -66,7 +66,7 @@ Vier dingen om te weten:
 - **Het werkt op fragmenten.** Knip het deel dat je nodig hebt – het fragment wordt als nieuw bestand bewaard en het origineel blijft – en de samenvatting kun je op dat fragment gebruiken. Hetzelfde geldt voor een fragment dat is opgeschoond met de [AI-ruisonderdrukking op het toestel](/blog/nl/remove-background-noise/).
 - **De samenvatting wordt op een server gemaakt.** De trefwoordherkenning van TalkSafe werkt volledig op de telefoon, maar om samen te vatten wordt de opname naar een server gestuurd.
 
-Wat TalkSafe onderscheidt van de andere twee, is hoe de opname begint: hij **start vanzelf** zodra hij een gekozen woord hoort, met een **vergrendeld scherm**, en bewaart de **30 seconden daarvoor**. De samenvatting vertelt je dan wat er staat in een bestand dat je niet eens hoefde te starten. Meer in [Eerst zeg je iets](/blog/nl/say-it-first/).
+Wat TalkSafe onderscheidt van de andere twee, is hoe de opname begint: hij **start vanzelf** zodra hij een gekozen woord hoort, met een **vergrendeld scherm**, en bewaart de **30 seconden daarvoor**. De samenvatting vertelt je dan wat er staat in een bestand dat je niet eens hoefde te starten. Meer in [Eerst zeg je iets: een opname starten met je stem](/blog/nl/say-it-first/).
 
 ## Waar het geluid heen gaat
 

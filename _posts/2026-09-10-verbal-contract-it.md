@@ -137,7 +137,7 @@ Due cose funzionano.
 
 **Mandare un messaggio lo stesso giorno.** «Come concordato oggi, includiamo X e consegniamo entro Y.» Anche se l'altra parte non risponde, resta traccia di come l'accordo è stato inteso quando è stato fatto. Se la fattura è già emessa, cosa dà la legge in interessi e risarcimenti è in [sono 40 euro per ogni fattura, e quasi nessuno li chiede](https://hcompany-kr.github.io/blog/it/fattura-non-pagata/).
 
-**Registrare la riunione a cui partecipi.** Per la Cassazione, la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è un altro: quando sei la parte piccola al tavolo, «posso registrare?» non è una cosa facile da dire.
+**Registrare la riunione a cui partecipi.** Per la Cassazione, la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([È legale registrare una conversazione in Italia? Registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Il problema pratico è un altro: quando sei la parte piccola al tavolo, «posso registrare?» non è una cosa facile da dire.
 
 TalkSafe è un registratore vocale per Android e iPhone che inizia a registrare quando sente una parola scelta in anticipo. Funziona a schermo bloccato e salva i 30 secondi precedenti all'avvio, così non serve interrompere la riunione per chiedere o prendere in mano il telefono.
 

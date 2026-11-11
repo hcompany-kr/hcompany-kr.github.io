@@ -94,7 +94,7 @@ In TalkSafe, **trimming keeps the original** and saves the section as a new file
 
 Not every interview is the same. In an all-party consent state, under a company policy that requires notice, or simply where asking will earn more trust, ask.
 
-The keyword helps here too. Set **"record"** as the keyword and ask **"Do you mind if I record this?"** Recording starts at the moment you ask, so the answer is in the file. No switching the recorder on first and then asking. More in [You say something first](/blog/en/say-it-first/).
+The keyword helps here too. Set **"record"** as the keyword and ask **"Do you mind if I record this?"** Recording starts at the moment you ask, so the answer is in the file. No switching the recorder on first and then asking. More in [You say something first: starting a recording with your voice](/blog/en/say-it-first/).
 
 ## In short
 

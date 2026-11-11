@@ -77,7 +77,7 @@ Deux autres points aident quiconque mène des entretiens :
 
 **Les 30 secondes précédentes sont conservées.** Le fichier commence 30 secondes avant le mot-clé, le début de l'échange y figure donc aussi. Voir [Pourquoi on appuie toujours trop tard sur enregistrer](/blog/fr/recording-delay/).
 
-**Le mot-clé n'est pas lié à votre voix.** Là où chacun a accepté l'enregistrement — un entretien convenu, une réunion —, ce peut être un mot que l'interlocuteur prononcera. Voir [On dit d'abord quelque chose](/blog/fr/say-it-first/).
+**Le mot-clé n'est pas lié à votre voix.** Là où chacun a accepté l'enregistrement — un entretien convenu, une réunion —, ce peut être un mot que l'interlocuteur prononcera. Voir [On dit d'abord quelque chose : lancer un enregistrement avec la voix](/blog/fr/say-it-first/).
 
 ## Si l'enregistrement devient une preuve
 

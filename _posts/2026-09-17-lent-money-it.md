@@ -102,7 +102,7 @@ Non si può tornare indietro e far firmare una scrittura. Si può però, adesso,
 
 **Chiedi per iscritto.** «Senti, per i soldi che ti ho prestato, quando pensi di potermeli ridare?» Se risponde «il mese prossimo te li ridò», hai sia un elemento per provare il titolo della restituzione sia, in Italia, un riconoscimento che interrompe la prescrizione. È anche il genere di documento che può servire per un decreto ingiuntivo.
 
-**Se risponde solo a voce, resta la registrazione.** Dei soldi si parla di persona o al telefono, raramente per messaggio. Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Una registrazione del riconoscimento è esattamente ciò che manca quando i testimoni non bastano, anche se il modo in cui il giudice la valuterà dipende dal caso.
+**Se risponde solo a voce, resta la registrazione.** Dei soldi si parla di persona o al telefono, raramente per messaggio. Per la Cassazione la registrazione fatta da chi partecipa alla conversazione non è un'intercettazione ([È legale registrare una conversazione in Italia? Registrare sì, diffondere no](https://hcompany-kr.github.io/blog/it/registrare-conversazione/)). Una registrazione del riconoscimento è esattamente ciò che manca quando i testimoni non bastano, anche se il modo in cui il giudice la valuterà dipende dal caso.
 
 Il problema pratico è un altro: a un amico di lunga data non si dice «ti dispiace se registro?». Nel momento in cui lo dici, la conversazione è già un'altra.
 

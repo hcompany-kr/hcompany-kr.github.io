@@ -104,7 +104,7 @@ Bir kaydı orijinali kaybetmeden önemli kısmına nasıl indireceğiniz ve uygu
 
 Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın istisnası ve yurt dışındaki kurallar — [Gizli ses kaydı almak suç mu? Türkiye'de kendi konuşmanızı kaydetmek de suç](/blog/tr/ses-kaydi-suc-mu/) yazısında.
 
-TalkSafe'i yeni kullanmaya başladıysanız, anahtar kelimeleri daha iyi algılanacak şekilde nasıl seçeceğiniz [Önce bir şey söylersiniz](/blog/tr/say-it-first/) yazısında.
+TalkSafe'i yeni kullanmaya başladıysanız, anahtar kelimeleri daha iyi algılanacak şekilde nasıl seçeceğiniz [Önce bir şey söylersiniz: kaydı sesle başlatmak](/blog/tr/say-it-first/) yazısında.
 
 Bir kaydı yapay zekâ ile özetlemek ve sesin nereye gittiği: [Android'de ses kaydı yapay zekâ ile nasıl özetlenir](/blog/tr/summarize-recording/).
 

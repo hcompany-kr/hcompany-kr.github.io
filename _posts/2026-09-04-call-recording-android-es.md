@@ -72,7 +72,7 @@ Donde todos los participantes en una llamada tienen que aceptar antes de que se 
 
 Fíjate en cómo resuelve Google el mismo problema donde sí existe: la aplicación Phone **reproduce un aviso audible de que la llamada se está grabando**, y lo oyen todos. Ese aviso no es cortesía. Es el mecanismo que satisface el consentimiento de todas las partes.
 
-Cómo se trata en España y en América Latina grabar una conversación en la que participas está en [Grabar sí, difundir no](/blog/es/recording-consent-law/) y en [Grabar tu propia conversación: país por país](/blog/es/grabar-latinoamerica/).
+Cómo se trata en España y en América Latina grabar una conversación en la que participas está en [¿Es legal grabar una conversación en España? Grabar sí, difundir no](/blog/es/recording-consent-law/) y en [Grabar tu propia conversación: país por país](/blog/es/grabar-latinoamerica/).
 
 ## Lo que queda es la sala, no la línea
 

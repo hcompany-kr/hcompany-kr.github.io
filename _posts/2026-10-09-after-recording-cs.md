@@ -107,7 +107,7 @@ Předložit nahrávku soudu nebo úřadu není šíření. Ústavní soud v nál
 
 První tři dělají soubor použitelným. Ta poslední brání tomu, aby se obrátil proti vám.
 
-Jak nahrát rovnou i souhlas, popisuje [Nejdřív něco řeknete](/blog/cs/say-it-first/). Co platí pro telefonní hovory a pro samotné nahrávání, popisuje [Proč aplikace na nahrávání hovorů na Androidu přestaly fungovat a co funguje dál](/blog/cs/call-recording-android/).
+Jak nahrát rovnou i souhlas, popisuje [Nejdřív něco řeknete: jak spustit nahrávání hlasem](/blog/cs/say-it-first/). Co platí pro telefonní hovory a pro samotné nahrávání, popisuje [Proč aplikace na nahrávání hovorů na Androidu přestaly fungovat a co funguje dál](/blog/cs/call-recording-android/).
 
 Jak odstranit z nahrávky hluk ulice přímo v telefonu a které nástroje to zvládnou, popisuje [Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu](/blog/cs/remove-background-noise/).
 

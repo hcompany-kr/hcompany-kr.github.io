@@ -83,7 +83,7 @@ In TalkSafe **laat knippen het origineel staan**, en **AI-ruisverwijdering** sch
 
 Niet elk gesprek is hetzelfde. In de journalistiek is vragen gebruikelijk, bij een intern onderzoek kan een reglement het eisen, en soms wekt vragen gewoon meer vertrouwen. Vraag het dan.
 
-Ook hier helpt het trefwoord. Stel **„opnemen”** in en vraag **„Mag ik dit opnemen?”**. De opname begint op het moment dat je het vraagt, dus het antwoord staat in het bestand — zonder eerst zichtbaar een recorder aan te zetten. Meer in [Eerst zeg je iets](/blog/nl/say-it-first/).
+Ook hier helpt het trefwoord. Stel **„opnemen”** in en vraag **„Mag ik dit opnemen?”**. De opname begint op het moment dat je het vraagt, dus het antwoord staat in het bestand — zonder eerst zichtbaar een recorder aan te zetten. Meer in [Eerst zeg je iets: een opname starten met je stem](/blog/nl/say-it-first/).
 
 ## Kort gezegd
 

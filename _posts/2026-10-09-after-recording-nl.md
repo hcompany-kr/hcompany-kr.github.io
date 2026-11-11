@@ -109,7 +109,7 @@ Vier dingen na een opname: **het origineel bewaren**, **inkorten tot wat ertoe d
 
 De eerste drie maken het bestand bruikbaar. De laatste voorkomt dat het zich tegen je keert.
 
-Hoe je de toestemming meteen mee opneemt, staat in [Eerst zeg je iets](/blog/nl/say-it-first/). Wat er geldt bij telefoongesprekken en voor het opnemen zelf, staat in [Waarom apps om gesprekken op te nemen op Android niet meer werken, en wat nog wel werkt](/blog/nl/call-recording-android/).
+Hoe je de toestemming meteen mee opneemt, staat in [Eerst zeg je iets: een opname starten met je stem](/blog/nl/say-it-first/). Wat er geldt bij telefoongesprekken en voor het opnemen zelf, staat in [Waarom apps om gesprekken op te nemen op Android niet meer werken, en wat nog wel werkt](/blog/nl/call-recording-android/).
 
 Hoe je straatlawaai op de telefoon uit een opname haalt, en welke hulpmiddelen dat aankunnen, staat in [Achtergrondgeluid uit een spraakopname halen op Android](/blog/nl/remove-background-noise/).
 
