@@ -93,6 +93,8 @@ Pravidla o formě smlouvy jsme pro Slovensko v tomto článku neověřovali. Pro
 
 Jde-li o půjčené peníze bez smlouvy: [Půjčil jsem peníze bez smlouvy](/blog/cs/pujcka-bez-smlouvy/). Co s nahrávkou potom: [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/after-recording/).
 
+Když se rozpor netýká rozpočtu, ale pracovní smlouvy: [Pracovní smlouva jinak, než se domluvilo na pohovoru: co platí v Česku a na Slovensku](/blog/cs/pracovni-smlouva-jinak-nez-na-pohovoru/).
+
 ## Zdroje
 
 - [Zákon č. 89/2012 Sb., občanský zákoník (Zákony pro lidi)](https://www.zakonyprolidi.cz/cs/2012-89)

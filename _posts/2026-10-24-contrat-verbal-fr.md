@@ -114,6 +114,8 @@ Avec [TalkSafe](/talksafe/fr/), la question peut elle-même lancer l'enregistrem
 
 Pour une somme prêtée sans reconnaissance de dette : [Prêt d'argent entre particuliers sans reconnaissance de dette](/blog/fr/pret-entre-particuliers/). Pour ce qu'il faut faire d'un enregistrement : [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
 
+Quand l'écart ne concerne pas un devis mais un contrat de travail : [Le contrat de travail ne reprend pas ce qui a été promis à l'entretien : France, Belgique, Suisse et Québec](/blog/fr/contrat-different-entretien-embauche/).
+
 ## Sources
 
 - [Code suisse des obligations, art. 11 à 16 (Fedlex)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/fr#art_11)

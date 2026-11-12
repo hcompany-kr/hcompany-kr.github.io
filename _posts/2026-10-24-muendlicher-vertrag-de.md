@@ -112,6 +112,8 @@ Mit [TalkSafe](/talksafe/de/) lässt sich die Frage selbst zum Start machen. Die
 
 Wenn es um geliehenes Geld ohne Vertrag geht: [Geld verliehen ohne Vertrag – und jetzt war es angeblich ein Geschenk](/blog/de/geld-verliehen/). Was man mit einer Aufnahme danach tut: [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
 
+Wenn die Abweichung nicht ein Angebot, sondern den Arbeitsvertrag betrifft: [Arbeitsvertrag anders als im Vorstellungsgespräch besprochen: was in Deutschland, Österreich und der Schweiz gilt](/blog/de/arbeitsvertrag-anders-als-besprochen/).
+
 ## Quellen
 
 - [§ 125 BGB – Nichtigkeit wegen Formmangels (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/bgb/__125.html)

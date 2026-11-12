@@ -145,6 +145,8 @@ Was nach einem Verkehrsunfall zu tun ist und was mit dem gesprochenen Wort passi
 
 Ob man das Arztgespräch aufnehmen darf und was man schriftlich bekommt: [Arztgespräch aufnehmen: Darf man das – und was man sonst schriftlich bekommt](/blog/de/arztgespraech-aufnehmen/).
 
+Was im Vorstellungsgespräch zugesagt wurde und im Arbeitsvertrag fehlt – Nachweisgesetz, Dienstzettel, Art. 330b OR –, steht in [Arbeitsvertrag anders als im Vorstellungsgespräch besprochen: was in Deutschland, Österreich und der Schweiz gilt](/blog/de/arbeitsvertrag-anders-als-besprochen/).
+
 ## Quellen
 
 - [§ 201 StGB – Verletzung der Vertraulichkeit des Wortes (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/stgb/__201.html)

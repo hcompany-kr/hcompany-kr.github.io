@@ -127,4 +127,6 @@ Co dělat po dopravní nehodě a kdy volat policii: [Dopravní nehoda – co dě
 
 Kdy lze nahrávat lékaře a co říká návrh metodiky ministerstva: [Nahrávání lékaře pacientem: kdy to jde bez souhlasu a co říká návrh metodiky ministerstva](/blog/cs/nahravani-lekare/).
 
+Co zaznělo na pohovoru a chybí v pracovní smlouvě — § 34 a § 37 zákoníku práce — popisuje [Pracovní smlouva jinak, než se domluvilo na pohovoru: co platí v Česku a na Slovensku](/blog/cs/pracovni-smlouva-jinak-nez-na-pohovoru/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Uvedená rozhodnutí a předpisy byly ověřeny ke dni zveřejnění; judikatura se vyvíjí. V konkrétní věci se obraťte na advokáta.</p>

@@ -142,4 +142,6 @@ O que fazer depois de um acidente de trânsito e o que acontece com o que foi di
 
 Se gravar consulta médica é crime e o que pedir por escrito: [Gravar consulta médica é crime? O que a lei diz, o que os conselhos dizem e o que você pode pedir por escrito](/blog/pt-br/gravar-consulta-medica/).
 
+O que foi combinado na entrevista de emprego e não aparece no contrato — CTPS, promessa frustrada e Código do Trabalho — está em [Contrato de trabalho diferente do combinado na entrevista: o que vale no Brasil e em Portugal](/blog/pt-br/contrato-diferente-do-combinado/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. As decisões citadas foram verificadas na data de publicação; a jurisprudência muda. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

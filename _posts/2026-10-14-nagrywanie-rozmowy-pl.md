@@ -123,4 +123,6 @@ Co robić po stłuczce i dlaczego oświadczenie sprawcy nie zamyka sprawy: [Stł
 
 Czy można nagrać wizytę u lekarza i co dostać na piśmie: [Nagrywanie wizyty u lekarza: czy wolno, czy trzeba pytać i co dostaniesz na piśmie](/blog/pl/nagrywanie-wizyty-u-lekarza/).
 
+Co z ustaleniami z rozmowy kwalifikacyjnej, których nie ma w umowie o pracę — art. 29 i 281 Kodeksu pracy — opisuje [Umowa o pracę inna niż ustalenia z rozmowy kwalifikacyjnej: co mówi prawo w Polsce](/blog/pl/umowa-o-prace-inna-niz-ustalenia/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

@@ -132,4 +132,6 @@ Trafik kazasından sonra tutanak, kusur ve olay yerinde söylenenler: [Trafik ka
 
 Doktor muayenesini kaydetmek ve izin yoksa ne yapılacağı: [Doktor muayenesini ses kaydına almak: İzin şart mı, ve unuttuklarınızı nasıl geri alırsınız?](/blog/tr/doktor-gorusmesi-ses-kaydi/).
 
+Mülakatta söylenip iş sözleşmesine girmeyen koşullar ve İş Kanunu'nun 8. maddesi için: [İş sözleşmesi mülakatta söylenenden farklıysa: Türkiye'de yazılı belge, ispat ve ses kaydı](/blog/tr/is-sozlesmesi-mulakattan-farkli/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Yargıtay'ın istisnası somut olaya göre değerlendirilir; somut bir durum için bir avukata danışın.</p>

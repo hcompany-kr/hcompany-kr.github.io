@@ -114,6 +114,8 @@ Jeśli wykonawca odpisze „tak” albo nie zaprzeczy, masz datowany dokument �
 
 Jeśli chodzi o pożyczone pieniądze bez umowy: [Pożyczyłem pieniądze bez umowy](/blog/pl/pozyczka-bez-umowy/). Co zrobić z nagraniem: [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
 
+Gdy rozbieżność dotyczy nie kosztorysu, lecz umowy o pracę: [Umowa o pracę inna niż ustalenia z rozmowy kwalifikacyjnej: co mówi prawo w Polsce](/blog/pl/umowa-o-prace-inna-niz-ustalenia/).
+
 ## Źródła
 
 - [Kodeks cywilny (ISAP, Sejm RP)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093)

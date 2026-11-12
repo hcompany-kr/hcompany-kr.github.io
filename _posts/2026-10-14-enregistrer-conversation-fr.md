@@ -148,4 +148,6 @@ Après un accident de voiture, ce qu'il faut faire et dire : [Accident de voitur
 
 Enregistrer une consultation chez le médecin, et ce qu'on peut obtenir par écrit : [Enregistrer une consultation chez le médecin : a-t-on le droit, et que peut-on obtenir par écrit ?](/blog/fr/enregistrer-consultation-medecin/).
 
+Ce qui a été promis à l'entretien d'embauche et ne figure pas dans le contrat — offre ou promesse, informations écrites — est traité dans [Le contrat de travail ne reprend pas ce qui a été promis à l'entretien : France, Belgique, Suisse et Québec](/blog/fr/contrat-different-entretien-embauche/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Les décisions citées ont été vérifiées à la date de publication ; la jurisprudence évolue. Pour un cas précis, consultez un avocat.</p>

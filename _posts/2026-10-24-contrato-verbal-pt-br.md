@@ -100,6 +100,8 @@ O [TalkSafe](/talksafe/pt-br/) começa a gravar quando ouve uma **palavra escolh
 
 Se for dinheiro emprestado sem contrato: [Emprestei dinheiro e a pessoa não pagou](/blog/pt-br/emprestei-dinheiro/). O que fazer com uma gravação depois: [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/).
 
+Quando a diferença não está num orçamento, mas no contrato de trabalho: [Contrato de trabalho diferente do combinado na entrevista: o que vale no Brasil e em Portugal](/blog/pt-br/contrato-diferente-do-combinado/).
+
 ## Fontes
 
 - [Código Civil, Lei nº 10.406/2002 (Planalto)](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)

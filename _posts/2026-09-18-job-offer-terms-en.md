@@ -54,7 +54,7 @@ You start, and the contract comes through. The salary is right. There is nothing
 | Argentina | No, freedom of form. Fixed-term contracts in writing | — |
 | Italy | Yes, in writing | Before work starts (the rest within 7 days) |
 
-These are the countries we checked. Ireland, Germany, France and Brazil are not included. The US sets these rules state by state, and Canada and Australia by province or state, so we have used representative jurisdictions.
+These are the countries we checked. Ireland is not included; Germany, France and Brazil have their own editions, linked at the end. The US sets these rules state by state, and Canada and Australia by province or state, so we have used representative jurisdictions.
 
 The deadlines differ. **What none of these systems requires is a record of what was said at the interview.**
 
@@ -121,5 +121,7 @@ Why the original file and the opening seconds matter once a recording is used as
 - Ontario now regulates pay in the advert; South Korea prohibits worsening advertised conditions after hiring.
 - Chile presumes the worker's version when no written contract is produced in 15 days.
 - Screenshot the advert, confirm the terms by message the same day, and where it is lawful, record the conversation you are part of.
+
+Germany, Austria and Switzerland are covered in [the German edition](/blog/de/arbeitsvertrag-anders-als-besprochen/), France, Belgium, Switzerland and Quebec in [the French edition](/blog/fr/contrat-different-entretien-embauche/), Brazil and Portugal in [the Portuguese edition](/blog/pt-br/contrato-diferente-do-combinado/), and India in [the Hindi edition](/blog/hi/offer-letter-salary-alag/).
 
 This article is general information, not legal advice. Speak to a lawyer about your own situation.

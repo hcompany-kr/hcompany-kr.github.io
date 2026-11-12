@@ -91,6 +91,8 @@ Antwoordt de aannemer "klopt" of komt er geen tegenspraak, dan heb je een gedate
 
 Gaat het om geleend geld zonder contract: [Geld geleend aan een vriend en niet terugbetaald](/blog/nl/geld-geleend/). Wat je daarna met een opname doet: [Wat je met een opname doet, en wat je er niet mee doet](/blog/nl/after-recording/).
 
+Gaat het niet om een offerte maar om een arbeidsovereenkomst: [Arbeidsovereenkomst anders dan afgesproken in het sollicitatiegesprek: wat geldt in Nederland en België](/blog/nl/arbeidsovereenkomst-anders-dan-afgesproken/).
+
 ## Bronnen
 
 - [Burgerlijk Wetboek Boek 3, art. 3:37 (wetten.overheid.nl)](https://wetten.overheid.nl/BWBR0005291/)

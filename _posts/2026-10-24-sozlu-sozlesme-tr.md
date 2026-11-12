@@ -95,6 +95,8 @@ Rızayla kaydetmek mümkündür. [TalkSafe](/talksafe/tr/), önceden belirlediğ
 
 Kayıtla sonra ne yapılacağı: [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/).
 
+Çelişki bir teklifte değil de iş sözleşmesindeyse: [İş sözleşmesi mülakatta söylenenden farklıysa: Türkiye'de yazılı belge, ispat ve ses kaydı](/blog/tr/is-sozlesmesi-mulakattan-farkli/).
+
 ## Kaynaklar
 
 - [6098 sayılı Türk Borçlar Kanunu (Mevzuat Bilgi Sistemi)](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6098.pdf)

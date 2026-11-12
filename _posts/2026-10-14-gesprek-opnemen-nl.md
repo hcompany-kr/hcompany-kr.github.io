@@ -128,4 +128,6 @@ Wat je doet na een aanrijding en wat er met het gesprokene gebeurt: [Aanrijding 
 
 Of je een gesprek met je arts of bedrijfsarts mag opnemen: [Gesprek met je arts opnemen: mag dat zonder toestemming, ook bij de bedrijfsarts?](/blog/nl/gesprek-met-arts-opnemen/).
 
+Wat in het sollicitatiegesprek is toegezegd en niet in het contract staat — art. 7:655 BW en de Belgische wet van 2022 — lees je in [Arbeidsovereenkomst anders dan afgesproken in het sollicitatiegesprek: wat geldt in Nederland en België](/blog/nl/arbeidsovereenkomst-anders-dan-afgesproken/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>
