@@ -95,6 +95,8 @@ Jde-li o půjčené peníze bez smlouvy: [Půjčil jsem peníze bez smlouvy](/bl
 
 Když se rozpor netýká rozpočtu, ale pracovní smlouvy: [Pracovní smlouva jinak, než se domluvilo na pohovoru: co platí v Česku a na Slovensku](/blog/cs/pracovni-smlouva-jinak-nez-na-pohovoru/).
 
+Když jde o ojeté auto, které není takové, jak se slibovalo: [Skrytá vada ojetého auta: autobazar nebo soukromý prodejce, lhůty a co prodávající slíbil ústně](/blog/cs/skryta-vada-auta/).
+
 ## Zdroje
 
 - [Zákon č. 89/2012 Sb., občanský zákoník (Zákony pro lidi)](https://www.zakonyprolidi.cz/cs/2012-89)

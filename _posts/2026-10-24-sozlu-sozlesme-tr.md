@@ -97,6 +97,8 @@ Kayıtla sonra ne yapılacağı: [Bir kayıtla ne yapmalı, ne yapmamalı](/blog
 
 Çelişki bir teklifte değil de iş sözleşmesindeyse: [İş sözleşmesi mülakatta söylenenden farklıysa: Türkiye'de yazılı belge, ispat ve ses kaydı](/blog/tr/is-sozlesmesi-mulakattan-farkli/).
 
+Söz konusu, söylendiği gibi çıkmayan bir ikinci el araçsa: [İkinci el araçta gizli ayıp: galeriden ya da sahibinden, 'olduğu gibi satılmıştır' ve sözlü verilen sözler](/blog/tr/ikinci-el-arac-ayip/).
+
 ## Kaynaklar
 
 - [6098 sayılı Türk Borçlar Kanunu (Mevzuat Bilgi Sistemi)](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6098.pdf)

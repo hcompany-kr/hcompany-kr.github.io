@@ -88,4 +88,6 @@ The words do not have to be ones you say. Set what a salesperson tends to say â€
 
 
 
+Germany, Austria and Switzerland are covered in [the German edition](/blog/de/gebrauchtwagen-mangel/), France, Belgium, Switzerland and Quebec in [the French edition](/blog/fr/vice-cache-voiture-occasion/), Brazil and Portugal in [the Portuguese edition](/blog/pt-br/carro-usado-com-defeito/), and India in [the Hindi edition](/blog/hi/second-hand-car-kharidna/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. For a specific situation, consult a lawyer in your state.</p>

@@ -116,6 +116,8 @@ Jeśli chodzi o pożyczone pieniądze bez umowy: [Pożyczyłem pieniądze bez um
 
 Gdy rozbieżność dotyczy nie kosztorysu, lecz umowy o pracę: [Umowa o pracę inna niż ustalenia z rozmowy kwalifikacyjnej: co mówi prawo w Polsce](/blog/pl/umowa-o-prace-inna-niz-ustalenia/).
 
+Gdy chodzi o używany samochód, który nie jest taki, jak zapewniano: [Wada ukryta samochodu: od osoby prywatnej czy od handlarza, wyłączenie rękojmi i ustne zapewnienia sprzedającego](/blog/pl/wada-ukryta-samochodu/).
+
 ## Źródła
 
 - [Kodeks cywilny (ISAP, Sejm RP)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093)

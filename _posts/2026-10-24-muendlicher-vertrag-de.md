@@ -114,6 +114,8 @@ Wenn es um geliehenes Geld ohne Vertrag geht: [Geld verliehen ohne Vertrag – u
 
 Wenn die Abweichung nicht ein Angebot, sondern den Arbeitsvertrag betrifft: [Arbeitsvertrag anders als im Vorstellungsgespräch besprochen: was in Deutschland, Österreich und der Schweiz gilt](/blog/de/arbeitsvertrag-anders-als-besprochen/).
 
+Wenn es um ein gebrauchtes Auto geht, dessen Zustand anders ist als zugesagt: [Gebrauchtwagen mit Mangel: Händler oder privat, „gekauft wie gesehen“ und was mündlich zugesagt wurde](/blog/de/gebrauchtwagen-mangel/).
+
 ## Quellen
 
 - [§ 125 BGB – Nichtigkeit wegen Formmangels (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/bgb/__125.html)

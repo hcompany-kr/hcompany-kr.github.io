@@ -116,6 +116,8 @@ Pour une somme prêtée sans reconnaissance de dette : [Prêt d'argent entre par
 
 Quand l'écart ne concerne pas un devis mais un contrat de travail : [Le contrat de travail ne reprend pas ce qui a été promis à l'entretien : France, Belgique, Suisse et Québec](/blog/fr/contrat-different-entretien-embauche/).
 
+Quand il s'agit d'une voiture d'occasion qui n'est pas dans l'état promis : [Vice caché sur une voiture d'occasion : garage ou particulier, délais, « vendu en l'état » et promesses orales](/blog/fr/vice-cache-voiture-occasion/).
+
 ## Sources
 
 - [Code suisse des obligations, art. 11 à 16 (Fedlex)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/fr#art_11)

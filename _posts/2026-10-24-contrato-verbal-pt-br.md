@@ -102,6 +102,8 @@ Se for dinheiro emprestado sem contrato: [Emprestei dinheiro e a pessoa não pag
 
 Quando a diferença não está num orçamento, mas no contrato de trabalho: [Contrato de trabalho diferente do combinado na entrevista: o que vale no Brasil e em Portugal](/blog/pt-br/contrato-diferente-do-combinado/).
 
+Quando o problema é um carro usado que não estava como prometido: [Comprei carro usado com defeito: loja ou particular, prazos e o que o vendedor prometeu de boca](/blog/pt-br/carro-usado-com-defeito/).
+
 ## Fontes
 
 - [Código Civil, Lei nº 10.406/2002 (Planalto)](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)

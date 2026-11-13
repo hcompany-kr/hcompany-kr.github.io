@@ -93,6 +93,8 @@ Gaat het om geleend geld zonder contract: [Geld geleend aan een vriend en niet t
 
 Gaat het niet om een offerte maar om een arbeidsovereenkomst: [Arbeidsovereenkomst anders dan afgesproken in het sollicitatiegesprek: wat geldt in Nederland en België](/blog/nl/arbeidsovereenkomst-anders-dan-afgesproken/).
 
+Gaat het om een tweedehands auto die niet is zoals beloofd: [Verborgen gebreken aan een tweedehands auto: particulier of autobedrijf, bewijsvermoeden en mondelinge toezeggingen](/blog/nl/verborgen-gebreken-auto/).
+
 ## Bronnen
 
 - [Burgerlijk Wetboek Boek 3, art. 3:37 (wetten.overheid.nl)](https://wetten.overheid.nl/BWBR0005291/)
