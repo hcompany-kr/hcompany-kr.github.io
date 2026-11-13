@@ -116,7 +116,7 @@ Comment enregistrer l'accord en même temps est expliqué dans [On dit d'abord q
 
 Comment retirer le bruit de la rue d'un enregistrement sur le téléphone, et quels outils y parviennent, est expliqué dans [Comment retirer le bruit de fond d'un enregistrement vocal sur Android](/blog/fr/remove-background-noise/).
 
-Comment réduire un enregistrement à ce qui compte sans perdre l'original, et en quoi les applications diffèrent : [Couper un enregistrement vocal sur Android sans perdre l'original](/blog/fr/trim-recording/).
+Comment réduire un enregistrement à ce qui compte sans perdre l'original, et en quoi les applications diffèrent : [Comment couper un enregistrement audio sur Android sans perdre l'original](/blog/fr/trim-recording/).
 
 Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
 

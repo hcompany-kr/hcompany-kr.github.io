@@ -85,7 +85,7 @@ Les enregistrements d'entretiens finissent souvent devant quelqu'un d'autre : un
 
 Au civil, l'assemblée plénière de la Cour de cassation a admis le **22 décembre 2023** qu'une preuve obtenue de façon déloyale peut être recevable si elle est **indispensable à l'exercice du droit à la preuve** et si l'atteinte est **strictement proportionnée**. Recevable ne veut pas dire licite : l'article 226-1 s'applique toujours à l'enregistrement lui-même.
 
-Dans TalkSafe, **la découpe conserve l'original** et enregistre le passage comme nouveau fichier ; la **suppression du bruit par IA** nettoie une copie sur l'appareil. Voir [Couper un enregistrement vocal sur Android sans perdre l'original](/blog/fr/trim-recording/).
+Dans TalkSafe, **la découpe conserve l'original** et enregistre le passage comme nouveau fichier ; la **suppression du bruit par IA** nettoie une copie sur l'appareil. Voir [Comment couper un enregistrement audio sur Android sans perdre l'original](/blog/fr/trim-recording/).
 
 ## En bref
 

@@ -115,7 +115,7 @@ En France, en Suisse, au Luxembourg et à Monaco, l'usage qui compte le plus est
 
 **Le début ne manque pas.** Les 30 secondes précédentes couvrent le moment entre le déclic et la réaction. Voir [Pourquoi on appuie toujours trop tard sur enregistrer](/blog/fr/recording-delay/).
 
-**L'original reste intact.** La découpe et la suppression du bruit par IA créent chacune un nouveau fichier. Voir [Couper un enregistrement vocal sur Android sans perdre l'original](/blog/fr/trim-recording/).
+**L'original reste intact.** La découpe et la suppression du bruit par IA créent chacune un nouveau fichier. Voir [Comment couper un enregistrement audio sur Android sans perdre l'original](/blog/fr/trim-recording/).
 
 ## En bref
 

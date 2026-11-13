@@ -100,7 +100,7 @@ Aucun outil ne rend ce que le micro n'a jamais capté. Quelques habitudes facili
 
 Comment les enregistreurs dédiés se comparent aux téléphones en qualité sonore est détaillé dans [Ce qui distingue les enregistreurs, c'est le moment où ils démarrent](/blog/fr/choosing-a-recorder/).
 
-Comment réduire un enregistrement à ce qui compte sans perdre l'original, et en quoi les applications diffèrent : [Couper un enregistrement vocal sur Android sans perdre l'original](/blog/fr/trim-recording/).
+Comment réduire un enregistrement à ce qui compte sans perdre l'original, et en quoi les applications diffèrent : [Comment couper un enregistrement audio sur Android sans perdre l'original](/blog/fr/trim-recording/).
 
 Ce que disent les textes et les juges sur l'enregistrement d'une conversation en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec : [Enregistrer une conversation à l'insu de quelqu'un : interdit en France, permis en Belgique et au Québec](/blog/fr/enregistrer-conversation/).
 

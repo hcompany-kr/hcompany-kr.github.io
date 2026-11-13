@@ -4,15 +4,16 @@ ref: trim-recording
 categories: fr
 permalink: /blog/fr/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-13
 eyebrow: Guide
-title: "Couper un enregistrement vocal sur Android sans perdre l'original"
-description: "Réduire un long enregistrement aux deux minutes qui comptent prend quelques secondes. Que le fichier complet survive à la coupe dépend de l'application. Comment les plus courantes s'y prennent, et pourquoi c'est l'original qu'on garde."
+title: "Comment couper un enregistrement audio sur Android sans perdre l'original"
+description: "Pour couper un enregistrement audio ou un mémo vocal sur Android, on sélectionne le passage voulu dans l'outil de découpe de l'application et on l'enregistre comme nouveau fichier. Que l'original survive dépend de l'application : comment l'Enregistreur de Google, l'enregistreur vocal de Samsung et TalkSafe s'y prennent, et pourquoi c'est l'original qu'on garde."
 image: /assets/img/og/trim-recording-fr.png
 image_alt: "La forme d'onde d'un long enregistrement avec un passage de deux minutes sélectionné. Dans TalkSafe, le passage est enregistré comme un nouveau fichier et l'original complet reste tel quel."
 app: true
 app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
-  - q: "Comment couper un enregistrement vocal sur Android ?"
+  - q: "Comment couper un enregistrement audio sur Android ?"
     a: "La plupart des applications d'enregistrement ont une fonction de découpe : on fait glisser deux poignées pour choisir le passage, puis on enregistre. Sur les Pixel, l'Enregistreur de Google propose Rogner et supprimer (Crop & Remove), qui fonctionne sur l'audio ou sur la transcription et se termine par Enregistrer une copie. L'enregistreur vocal de Samsung permet de couper et, à l'enregistrement, de choisir entre remplacer le fichier et en créer un nouveau. TalkSafe enregistre le passage coupé comme un nouveau fichier et laisse l'original intact."
   - q: "Couper un enregistrement efface-t-il l'original ?"
     a: "Cela dépend de l'application. L'Enregistreur de Google enregistre la modification comme une copie. L'enregistreur vocal de Samsung demande s'il faut remplacer le fichier ou en créer un nouveau ; choisir remplacer écrase l'original. Dans TalkSafe, l'original est toujours conservé et le passage coupé devient un fichier à part."
