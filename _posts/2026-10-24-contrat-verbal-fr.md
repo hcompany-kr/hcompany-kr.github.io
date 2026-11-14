@@ -118,6 +118,8 @@ Quand l'écart ne concerne pas un devis mais un contrat de travail : [Le contrat
 
 Quand il s'agit d'une voiture d'occasion qui n'est pas dans l'état promis : [Vice caché sur une voiture d'occasion : garage ou particulier, délais, « vendu en l'état » et promesses orales](/blog/fr/vice-cache-voiture-occasion/).
 
+Quand le travail convenu à l’oral est livré et que la facture reste impayée : [Facture impayée : délais de paiement, pénalités, 40 € par facture et ce qui a été convenu à l'oral](/blog/fr/facture-impayee/).
+
 ## Sources
 
 - [Code suisse des obligations, art. 11 à 16 (Fedlex)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/fr#art_11)

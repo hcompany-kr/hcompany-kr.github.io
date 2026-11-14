@@ -99,6 +99,8 @@ Kayıtla sonra ne yapılacağı: [Bir kayıtla ne yapmalı, ne yapmamalı](/blog
 
 Söz konusu, söylendiği gibi çıkmayan bir ikinci el araçsa: [İkinci el araçta gizli ayıp: galeriden ya da sahibinden, 'olduğu gibi satılmıştır' ve sözlü verilen sözler](/blog/tr/ikinci-el-arac-ayip/).
 
+Sözlü kararlaştırılan iş teslim edildi ama fatura ödenmiyorsa: [Fatura ödenmedi: TTK 1530'a göre 30 gün, temerrüt faizi, asgari giderim ve ilk görüşmede konuşulanlar](/blog/tr/fatura-odenmedi/).
+
 ## Kaynaklar
 
 - [6098 sayılı Türk Borçlar Kanunu (Mevzuat Bilgi Sistemi)](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6098.pdf)

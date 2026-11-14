@@ -104,6 +104,8 @@ Quando a diferença não está num orçamento, mas no contrato de trabalho: [Con
 
 Quando o problema é um carro usado que não estava como prometido: [Comprei carro usado com defeito: loja ou particular, prazos e o que o vendedor prometeu de boca](/blog/pt-br/carro-usado-com-defeito/).
 
+Quando o serviço combinado de boca foi entregue e o cliente não pagou: [Cliente não pagou o serviço: o que fazer sem contrato, como cobrar com prints de WhatsApp e o que foi combinado de boca](/blog/pt-br/cliente-nao-pagou/).
+
 ## Fontes
 
 - [Código Civil, Lei nº 10.406/2002 (Planalto)](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)

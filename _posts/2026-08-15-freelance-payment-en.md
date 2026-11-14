@@ -126,4 +126,6 @@ A short contract, or a two-line email after a call, removes the dispute itself. 
 
 When there is a contract but something different was agreed in a meeting, how thirteen countries treat it is in [it is not in the contract, it was agreed in the meeting](https://hcompany-kr.github.io/blog/en/verbal-contract/).
 
+Germany, Austria and Switzerland are covered in [the German edition](/blog/de/rechnung-nicht-bezahlt/), France, Belgium, Switzerland and Quebec in [the French edition](/blog/fr/facture-impayee/), Brazil and Portugal in [the Portuguese edition](/blog/pt-br/cliente-nao-pagou/), and India, with the MSMED Act 45-day rule, in [the Hindi edition](/blog/hi/msme-45-days-payment/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Freelance protection laws exist only in some states and cities and the details differ; for a specific situation, consult a lawyer in your jurisdiction.</p>

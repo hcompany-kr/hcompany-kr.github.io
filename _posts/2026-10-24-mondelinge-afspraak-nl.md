@@ -95,6 +95,8 @@ Gaat het niet om een offerte maar om een arbeidsovereenkomst: [Arbeidsovereenkom
 
 Gaat het om een tweedehands auto die niet is zoals beloofd: [Verborgen gebreken aan een tweedehands auto: particulier of autobedrijf, bewijsvermoeden en mondelinge toezeggingen](/blog/nl/verborgen-gebreken-auto/).
 
+Is het mondeling afgesproken werk geleverd en blijft de factuur open: [Factuur niet betaald als zzp'er: betalingstermijn, wettelijke handelsrente, € 40 en wat er in het eerste gesprek is afgesproken](/blog/nl/factuur-niet-betaald/).
+
 ## Bronnen
 
 - [Burgerlijk Wetboek Boek 3, art. 3:37 (wetten.overheid.nl)](https://wetten.overheid.nl/BWBR0005291/)

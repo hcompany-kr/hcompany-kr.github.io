@@ -116,6 +116,8 @@ Wenn die Abweichung nicht ein Angebot, sondern den Arbeitsvertrag betrifft: [Arb
 
 Wenn es um ein gebrauchtes Auto geht, dessen Zustand anders ist als zugesagt: [Gebrauchtwagen mit Mangel: Händler oder privat, „gekauft wie gesehen“ und was mündlich zugesagt wurde](/blog/de/gebrauchtwagen-mangel/).
 
+Wenn die mündlich vereinbarte Arbeit erledigt ist und die Rechnung offen bleibt: [Rechnung nicht bezahlt: Verzugszinsen, 40 Euro Pauschale und was im ersten Gespräch vereinbart wurde](/blog/de/rechnung-nicht-bezahlt/).
+
 ## Quellen
 
 - [§ 125 BGB – Nichtigkeit wegen Formmangels (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/bgb/__125.html)

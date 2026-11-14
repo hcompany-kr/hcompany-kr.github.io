@@ -118,6 +118,8 @@ Gdy rozbieżność dotyczy nie kosztorysu, lecz umowy o pracę: [Umowa o pracę 
 
 Gdy chodzi o używany samochód, który nie jest taki, jak zapewniano: [Wada ukryta samochodu: od osoby prywatnej czy od handlarza, wyłączenie rękojmi i ustne zapewnienia sprzedającego](/blog/pl/wada-ukryta-samochodu/).
 
+Gdy praca ustalona ustnie jest oddana, a faktura nie jest opłacona: [Rekompensata 40 euro i odsetki: co należy się freelancerowi, gdy klient nie płaci faktury, i co ustalono na pierwszym spotkaniu](/blog/pl/rekompensata-40-euro/).
+
 ## Źródła
 
 - [Kodeks cywilny (ISAP, Sejm RP)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093)
