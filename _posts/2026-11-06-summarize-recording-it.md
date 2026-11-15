@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: it
 permalink: /blog/it/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Guida
 title: "Come riassumere una registrazione vocale con l'IA su Android"
 description: "Per riassumere una registrazione vocale su Android si usa un'app di registrazione con riassunto IA: il Registratore di Google sui Pixel riassume sul dispositivo, il Registratore vocale Samsung offre trascrizione e riassunto con Galaxy AI, e TalkSafe riassume ogni registrazione nella lingua in cui è stata fatta. Dove va l'audio, cosa lascia fuori un riassunto e perché l'originale resta."
@@ -24,6 +25,8 @@ faq:
     a: "Sì, in TalkSafe. Taglia prima il tratto che ti serve, che viene salvato come nuovo file mentre l'originale resta, e il riassunto si può usare su quel tratto. Funziona anche su un tratto ripulito con la rimozione del rumore con IA di TalkSafe, elaborata sul dispositivo."
   - q: "Un riassunto IA può servire come prova?"
     a: "Il documento non è il riassunto, è la registrazione. Un riassunto IA può tralasciare cose o sbagliare, quindi usalo come guida per capire quale parte ascoltare e conserva la registrazione originale senza modifiche se un giorno potrà contare."
+  - q: "Si può riassumere una registrazione con l'IA su iPhone?"
+    a: "Sì. TalkSafe è un registratore vocale per Android e iPhone, e il riassunto con IA funziona allo stesso modo su iPhone: ogni registrazione riceve un riassunto a punti nella lingua in cui è stata registrata."
 ---
 
 La riunione è durata quaranta minuti. La visita medica, dodici. La telefonata con il padrone di casa, otto. Sono tutte e tre nel telefono.

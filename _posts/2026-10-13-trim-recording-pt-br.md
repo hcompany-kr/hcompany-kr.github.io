@@ -4,6 +4,7 @@ ref: trim-recording
 categories: pt-br
 permalink: /blog/pt-br/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-15
 eyebrow: Guia
 title: "Como cortar uma gravação de voz no Android sem perder o original"
 description: "Reduzir uma gravação longa aos dois minutos que importam leva segundos. Se o arquivo completo sobrevive ao corte depende do app. Como os mais usados fazem isso, e por que o original é o que se guarda."
@@ -17,13 +18,15 @@ faq:
   - q: "Cortar uma gravação apaga o original?"
     a: "Depende do app. O Gravador do Google salva a edição como cópia. O gravador de voz da Samsung pergunta se você quer substituir o arquivo ou criar um novo; escolher substituir sobrescreve o original. No TalkSafe o original sempre fica e o trecho cortado vira um arquivo separado."
   - q: "Existe um app Android que corta uma gravação e guarda o original automaticamente?"
-    a: "Sim. O TalkSafe é um app de gravação de voz para Android e iPhone cuja função de corte sempre salva o trecho escolhido como um arquivo novo, então não existe uma opção de sobrescrever para escolher por engano. No trecho cortado dá para aplicar a remoção de ruído com IA do TalkSafe, processada no aparelho, e enviá-lo pelo menu de compartilhamento do Android."
+    a: "Sim. O TalkSafe é um app de gravação de voz para Android e iPhone cuja função de corte sempre salva o trecho escolhido como um arquivo novo, então não existe uma opção de sobrescrever para escolher por engano. No trecho cortado dá para aplicar a remoção de ruído com IA do TalkSafe, processada no aparelho, e enviá-lo pelo menu de compartilhamento do Android ou do iPhone."
   - q: "Posso apresentar só uma parte da gravação como prova?"
     a: "Pode apresentar um trecho, mas guarde o original completo. No Brasil, o STF fixou em 2009, no Tema 237 de repercussão geral (RE 583.937), que é lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro. Ser lícita não dispensa mostrar que o arquivo é autêntico e completo, e é o original que mostra isso. Em Portugal é diferente: o artigo 199.º do Código Penal pune gravar sem consentimento e também usar a gravação sem consentimento."
   - q: "Dá para tirar o ruído de fundo só do trecho cortado?"
     a: "Sim. No TalkSafe, corte primeiro o trecho e depois aplique a remoção de ruído com IA a esse arquivo. As duas etapas salvam arquivos novos, então você fica com o original, o trecho cortado e o trecho limpo lado a lado."
   - q: "Como envio uma gravação cortada?"
-    a: "O TalkSafe usa o menu de compartilhamento do Android, então um trecho cortado pode ir para qualquer app que aceite arquivos — seu e-mail, uma nuvem, um app de mensagens ou o computador. Mandar um arquivo para você mesmo é guardá-lo; mandar para outras pessoas é divulgá-lo, e no Brasil isso pode gerar dever de indenizar se houver dano."
+    a: "O TalkSafe usa o menu de compartilhamento do Android ou do iPhone, então um trecho cortado pode ir para qualquer app que aceite arquivos — seu e-mail, uma nuvem, um app de mensagens ou o computador. Mandar um arquivo para você mesmo é guardá-lo; mandar para outras pessoas é divulgá-lo, e no Brasil isso pode gerar dever de indenizar se houver dano."
+  - q: "Dá para cortar uma gravação no iPhone sem perder o original?"
+    a: "Dá. O TalkSafe é um app de gravação de voz para Android e iPhone, e o corte funciona do mesmo jeito no iPhone: o trecho escolhido é salvo como um arquivo novo e a gravação original fica como estava."
 ---
 
 A gravação tem uma hora e quarenta minutos. O que você precisa são dois minutos em algum ponto depois da primeira hora.
@@ -71,7 +74,7 @@ Daí saem três coisas.
 
 - **O começo quem escolhe é você.** O TalkSafe começa a gravar com uma palavra escolhida antes e salva **os 30 segundos anteriores** ao momento em que ela foi ouvida, então o arquivo começa um pouco antes do momento. Com o corte você define exatamente onde o trecho começa, e tudo o que vem antes fica no original.
 - **O trecho pode ser limpo sozinho.** A **remoção de ruído com IA** do TalkSafe funciona num trecho cortado. Corte primeiro os dois minutos e limpe só eles: o processamento é feito no aparelho e o resultado é salvo como mais um arquivo novo.
-- **O trecho pode ir para qualquer lugar.** O envio usa o **menu de compartilhamento do Android**, então o trecho vai para qualquer app que aceite arquivos: seu e-mail, uma nuvem, o computador.
+- **O trecho pode ir para qualquer lugar.** O envio usa o **menu de compartilhamento do Android ou do iPhone**, então o trecho vai para qualquer app que aceite arquivos: seu e-mail, uma nuvem, o computador.
 
 ## Por que o que se guarda é o original
 

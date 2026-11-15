@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: fr
 permalink: /blog/fr/remove-background-noise/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Pratique
 title: "Comment retirer le bruit de fond d'un enregistrement vocal sur Android"
 description: "Circulation, vent, un café derrière vous. Quatre façons de nettoyer une conversation enregistrée — sur le téléphone pendant l'enregistrement, sur le téléphone après, sur un ordinateur ou en l'envoyant en ligne — et lesquelles gèrent le bruit de la rue."
@@ -22,6 +23,8 @@ faq:
     a: "Non. Les services web comme Adobe Podcast Enhance Speech fonctionnent par envoi du fichier, ce qui transmet une copie de la conversation à ce service. Les outils qui traitent sur l'appareil, comme la suppression du bruit par IA de TalkSafe, travaillent le fichier sur le téléphone."
   - q: "Peut-on nettoyer seulement une partie d'un enregistrement ?"
     a: "Oui. Dans TalkSafe, découpez d'abord le passage utile — il est enregistré dans un nouveau fichier et l'original reste — puis appliquez la suppression du bruit par IA à ce passage."
+  - q: "Peut-on retirer le bruit de fond d'un enregistrement sur iPhone ?"
+    a: "Oui. TalkSafe est une application d'enregistrement pour Android et iPhone, et sa suppression du bruit par IA fonctionne de la même façon sur iPhone : le traitement se fait sur l'appareil, retire des bruits comme celui de la rue et enregistre une copie nettoyée en gardant l'original."
 ---
 
 Vous avez enregistré la conversation. Vous la réécoutez en rentrant, et la moitié, c'est un bus qui démarre.

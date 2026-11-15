@@ -4,7 +4,7 @@ ref: trim-recording
 categories: es
 permalink: /blog/es/trim-recording/
 date: 2026-10-13
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Guía
 title: "Cómo cortar una grabación de audio en Android sin perder el original"
 description: "Para cortar o recortar una grabación de audio o una nota de voz en Android, eliges el tramo en la función de recorte de la app y lo guardas como archivo nuevo. Que el original sobreviva depende de la app: cómo lo hacen la Grabadora de Google, la de Samsung, Audacity y TalkSafe, y por qué el original es lo que se conserva."
@@ -18,13 +18,15 @@ faq:
   - q: "¿Recortar una grabación borra el original?"
     a: "Depende de la app. La Grabadora de Google guarda la edición como una copia. La grabadora de voz de Samsung pregunta si reemplazar el archivo o crear uno nuevo, así que elegir reemplazar sobrescribe el original. En TalkSafe el original siempre se conserva y el tramo recortado pasa a ser un archivo aparte."
   - q: "¿Hay una app de Android que recorte una grabación y conserve el original automáticamente?"
-    a: "Sí. TalkSafe es una grabadora de voz para Android y iPhone cuya función de recorte siempre guarda el tramo elegido como un archivo nuevo, de modo que no existe la opción de sobrescribir por error. Al tramo recortado se le puede aplicar la eliminación de ruido con IA de TalkSafe, que se procesa en el dispositivo, y enviarlo con el menú para compartir de Android."
+    a: "Sí. TalkSafe es una grabadora de voz para Android y iPhone cuya función de recorte siempre guarda el tramo elegido como un archivo nuevo, de modo que no existe la opción de sobrescribir por error. Al tramo recortado se le puede aplicar la eliminación de ruido con IA de TalkSafe, que se procesa en el dispositivo, y enviarlo con el menú para compartir de Android o iPhone."
   - q: "¿Puedo aportar solo una parte de la grabación como prueba?"
     a: "Puedes aportar un extracto, pero conserva el original completo. En España, el artículo 382 de la Ley de Enjuiciamiento Civil exige aportar la grabación íntegra, en soporte original y acompañada de su transcripción escrita. Si se impugna, suele ser casi indispensable una pericial que acredite la autenticidad e integridad del archivo, habitualmente cotejándolo con el terminal original."
   - q: "¿Puedo quitar el ruido de fondo solo del tramo recortado?"
     a: "Sí. En TalkSafe recorta primero el tramo y después aplica la eliminación de ruido con IA a ese archivo. Los dos pasos guardan archivos nuevos, así que acabas con el original, el tramo recortado y el tramo limpio uno al lado del otro."
   - q: "¿Cómo envío una grabación recortada?"
-    a: "TalkSafe usa el menú para compartir de Android, así que un tramo recortado puede ir a cualquier app que acepte archivos: tu correo, una nube, una app de mensajería o tu ordenador. Enviarte el archivo a ti mismo es guardarlo; enviarlo a otras personas es difundirlo, y eso es una cuestión legal distinta de haberlo grabado."
+    a: "TalkSafe usa el menú para compartir de Android o iPhone, así que un tramo recortado puede ir a cualquier app que acepte archivos: tu correo, una nube, una app de mensajería o tu ordenador. Enviarte el archivo a ti mismo es guardarlo; enviarlo a otras personas es difundirlo, y eso es una cuestión legal distinta de haberlo grabado."
+  - q: "¿Se puede cortar una grabación en el iPhone sin perder el original?"
+    a: "Sí. TalkSafe es una grabadora de voz para Android y iPhone, y su función de recorte funciona igual en el iPhone: el tramo elegido se guarda como un archivo nuevo y la grabación original se queda como estaba."
 ---
 
 La grabación dura una hora y cuarenta minutos. Lo que necesitas son dos minutos en algún punto después de la primera hora.
@@ -72,7 +74,7 @@ De ahí salen tres cosas.
 
 - **El principio lo eliges tú.** TalkSafe empieza a grabar con una palabra que eliges de antemano y guarda **los 30 segundos anteriores** a que se oyera, así que el archivo empieza un poco antes del momento. Con el recorte decides exactamente dónde empieza el extracto, y todo lo anterior se queda en el original.
 - **El tramo se puede limpiar por separado.** La **eliminación de ruido con IA** de TalkSafe funciona sobre un tramo recortado. Corta primero los dos minutos y limpia solo esos: se procesa en el dispositivo y se guarda como otro archivo nuevo.
-- **El tramo puede ir a cualquier sitio.** El envío usa el **menú para compartir de Android**, así que el extracto llega a cualquier app que acepte archivos: tu correo, una nube, tu ordenador.
+- **El tramo puede ir a cualquier sitio.** El envío usa el **menú para compartir de Android o iPhone**, así que el extracto llega a cualquier app que acepte archivos: tu correo, una nube, tu ordenador.
 
 ## Por qué lo que se conserva es el original
 

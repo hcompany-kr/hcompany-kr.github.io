@@ -4,6 +4,7 @@ ref: trim-recording
 categories: de
 permalink: /blog/de/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-15
 eyebrow: Anleitung
 title: "Sprachaufnahme auf Android kürzen, ohne das Original zu verlieren"
 description: "Eine lange Aufnahme auf die zwei Minuten zu kürzen, auf die es ankommt, dauert Sekunden. Ob die vollständige Datei den Schnitt übersteht, hängt von der App ab. Wie die gängigen Apps es lösen – und warum man das Original behält."
@@ -17,13 +18,15 @@ faq:
   - q: "Löscht das Kürzen einer Aufnahme das Original?"
     a: "Das hängt von der App ab. Die Rekorder-App von Google speichert die Bearbeitung als Kopie. Der Sprachrekorder von Samsung fragt, ob die Datei ersetzt oder eine neue angelegt werden soll; wer ersetzen wählt, überschreibt das Original. In TalkSafe bleibt das Original immer erhalten, und der geschnittene Abschnitt wird eine eigene Datei."
   - q: "Gibt es eine Android-App, die eine Aufnahme kürzt und das Original automatisch behält?"
-    a: "Ja. TalkSafe ist eine Aufnahme-App für Android und iPhone, deren Schneidefunktion den gewählten Abschnitt immer als neue Datei speichert. Eine Option zum Überschreiben, die man versehentlich wählen könnte, gibt es nicht. Auf den geschnittenen Abschnitt lässt sich die KI-Rauschentfernung von TalkSafe anwenden, die auf dem Gerät arbeitet, und er lässt sich über das Android-Teilen-Menü versenden."
+    a: "Ja. TalkSafe ist eine Aufnahme-App für Android und iPhone, deren Schneidefunktion den gewählten Abschnitt immer als neue Datei speichert. Eine Option zum Überschreiben, die man versehentlich wählen könnte, gibt es nicht. Auf den geschnittenen Abschnitt lässt sich die KI-Rauschentfernung von TalkSafe anwenden, die auf dem Gerät arbeitet, und er lässt sich über das Teilen-Menü von Android oder iPhone versenden."
   - q: "Darf ich eine Aufnahme schneiden und nur den Ausschnitt verwenden?"
     a: "Das Schneiden ändert nichts daran, ob die Aufnahme überhaupt gemacht und verwendet werden durfte. In Deutschland ist es nach § 201 StGB strafbar, das nichtöffentlich gesprochene Wort eines anderen ohne Befugnis aufzunehmen – auch für Gesprächsteilnehmer – und eine so hergestellte Aufnahme zu gebrauchen oder einem Dritten zugänglich zu machen. Wo eine Aufnahme erlaubt ist, gilt: Ausschnitt einreichen, vollständiges Original behalten."
   - q: "Kann ich nur aus dem geschnittenen Abschnitt das Hintergrundgeräusch entfernen?"
     a: "Ja. In TalkSafe zuerst den Abschnitt schneiden, dann auf diese Datei die KI-Rauschentfernung anwenden. Beide Schritte speichern neue Dateien, sodass Original, geschnittener Abschnitt und bereinigter Abschnitt nebeneinander liegen."
   - q: "Wie verschicke ich eine gekürzte Aufnahme?"
-    a: "TalkSafe nutzt das Android-Teilen-Menü, ein geschnittener Abschnitt kann also an jede App gehen, die Dateien annimmt – die eigene E-Mail, eine Cloud, ein Messenger oder der Computer. Eine Datei an sich selbst zu schicken ist Aufbewahren; sie anderen zu schicken ist Weitergeben, und dafür gelten im deutschsprachigen Raum eigene Strafvorschriften."
+    a: "TalkSafe nutzt das Teilen-Menü von Android oder iPhone, ein geschnittener Abschnitt kann also an jede App gehen, die Dateien annimmt – die eigene E-Mail, eine Cloud, ein Messenger oder der Computer. Eine Datei an sich selbst zu schicken ist Aufbewahren; sie anderen zu schicken ist Weitergeben, und dafür gelten im deutschsprachigen Raum eigene Strafvorschriften."
+  - q: "Kann ich eine Aufnahme auf dem iPhone kürzen und das Original behalten?"
+    a: "Ja. TalkSafe ist eine Aufnahme-App für Android und iPhone, und das Kürzen funktioniert auf dem iPhone genauso: Der gewählte Abschnitt wird als neue Datei gespeichert, die Originalaufnahme bleibt unverändert."
 ---
 
 Die Aufnahme dauert eine Stunde und vierzig Minuten. Was Sie brauchen, sind zwei Minuten irgendwo nach der ersten Stunde.
@@ -71,7 +74,7 @@ Daraus folgen drei Dinge.
 
 - **Den Anfang bestimmen Sie.** TalkSafe startet bei einem vorher festgelegten Wort und speichert **die 30 Sekunden davor** mit, die Datei beginnt also etwas vor dem Moment. Mit dem Schnitt legen Sie genau fest, wo der Ausschnitt beginnt; der gesamte Vorlauf bleibt im Original.
 - **Der Abschnitt lässt sich allein bereinigen.** Die **KI-Rauschentfernung** von TalkSafe funktioniert auch an einem geschnittenen Abschnitt. Erst die zwei Minuten schneiden, dann nur diese bereinigen – auf dem Gerät verarbeitet und als weitere neue Datei gespeichert.
-- **Der Abschnitt kann überallhin.** Verschickt wird über das **Android-Teilen-Menü**, der Ausschnitt geht also an jede App, die Dateien annimmt: die eigene E-Mail, eine Cloud, den Computer.
+- **Der Abschnitt kann überallhin.** Verschickt wird über das **Teilen-Menü von Android oder iPhone**, der Ausschnitt geht also an jede App, die Dateien annimmt: die eigene E-Mail, eine Cloud, den Computer.
 
 ## Erst die Frage, ob man überhaupt aufnehmen durfte
 

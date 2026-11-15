@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: de
 permalink: /blog/de/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Anleitung
 title: "Sprachaufnahme mit KI zusammenfassen – so geht es auf Android"
 description: "Um eine Sprachaufnahme auf Android zusammenzufassen, nutzt man eine Aufnahme-App mit KI-Zusammenfassung: Googles Rekorder auf Pixel fasst auf dem Gerät zusammen, der Samsung-Sprachrekorder bietet mit Galaxy AI Transkript und Zusammenfassung, und TalkSafe fasst jede Aufnahme in der Sprache zusammen, in der sie aufgenommen wurde. Wohin der Ton geht, was eine Zusammenfassung weglässt und warum das Original bleibt."
@@ -24,6 +25,8 @@ faq:
     a: "Ja, in TalkSafe. Schneiden Sie zuerst den benötigten Abschnitt zu; er wird als neue Datei gespeichert, das Original bleibt erhalten, und die Zusammenfassung lässt sich auf diesen Abschnitt anwenden. Das gilt auch für einen Abschnitt, der mit der KI-Rauschunterdrückung von TalkSafe auf dem Gerät bereinigt wurde."
   - q: "Taugt eine KI-Zusammenfassung als Beweis?"
     a: "Maßgeblich ist nicht die Zusammenfassung, sondern die Aufnahme. Eine KI-Zusammenfassung kann Dinge weglassen oder falsch wiedergeben. Nutzen Sie sie als Wegweiser, welche Stelle Sie anhören sollten, und bewahren Sie die Originalaufnahme unverändert auf, wenn sie einmal wichtig werden könnte."
+  - q: "Kann ich eine Aufnahme auf dem iPhone mit KI zusammenfassen?"
+    a: "Ja. TalkSafe ist eine Aufnahme-App für Android und iPhone, und die KI-Zusammenfassung funktioniert auf dem iPhone genauso: Jede Aufnahme erhält eine Zusammenfassung in Stichpunkten, in der Sprache, in der aufgenommen wurde."
 ---
 
 Die Besprechung dauerte vierzig Minuten. Der Arzttermin zwölf. Das Telefonat mit dem Vermieter acht. Alle drei sind auf dem Handy.

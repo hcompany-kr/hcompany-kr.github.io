@@ -4,6 +4,7 @@ ref: trim-recording
 categories: nl
 permalink: /blog/nl/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-15
 eyebrow: Handleiding
 title: "Een spraakopname inkorten op Android zonder het origineel te verliezen"
 description: "Een lange opname terugbrengen tot de twee minuten die ertoe doen, kost een paar seconden. Of het volledige bestand de knip overleeft, hangt af van de app. Hoe de gangbare apps het doen, en waarom je het origineel bewaart."
@@ -17,13 +18,15 @@ faq:
   - q: "Wist het inkorten van een opname het origineel?"
     a: "Dat hangt af van de app. De Recorder-app van Google slaat de bewerking op als kopie. De spraakrecorder van Samsung vraagt of je het bestand wilt vervangen of een nieuw bestand wilt maken; kies je vervangen, dan wordt het origineel overschreven. In TalkSafe blijft het origineel altijd bestaan en wordt het geknipte stuk een apart bestand."
   - q: "Is er een Android-app die een opname inkort en het origineel automatisch bewaart?"
-    a: "Ja. TalkSafe is een opname-app voor Android en iPhone waarvan de knipfunctie het gekozen stuk altijd als nieuw bestand opslaat, dus er is geen optie om per ongeluk te overschrijven. Op het geknipte stuk kun je de AI-ruisverwijdering van TalkSafe toepassen, die op het toestel werkt, en het versturen via het deelmenu van Android."
+    a: "Ja. TalkSafe is een opname-app voor Android en iPhone waarvan de knipfunctie het gekozen stuk altijd als nieuw bestand opslaat, dus er is geen optie om per ongeluk te overschrijven. Op het geknipte stuk kun je de AI-ruisverwijdering van TalkSafe toepassen, die op het toestel werkt, en het versturen via het deelmenu van Android of iPhone."
   - q: "Mag ik maar een deel van de opname als bewijs indienen?"
     a: "Je kunt een fragment indienen, maar bewaar het volledige origineel. In Nederland mag je volgens artikel 139a van het Wetboek van Strafrecht een gesprek opnemen waaraan je zelf deelneemt; of de rechter de opname als bewijs gebruikt, beoordeelt hij per geval. Wordt de echtheid betwist, dan is het onaangeroerde origineel wat laat zien dat het fragment gewoon een uitsnede is."
   - q: "Kan ik het achtergrondgeluid alleen uit het geknipte stuk halen?"
     a: "Ja. Knip in TalkSafe eerst het stuk en pas daarna de AI-ruisverwijdering op dat bestand toe. Beide stappen slaan nieuwe bestanden op, dus je houdt het origineel, het geknipte stuk en het opgeschoonde stuk naast elkaar."
   - q: "Hoe verstuur ik een ingekorte opname?"
-    a: "TalkSafe gebruikt het deelmenu van Android, dus een geknipt stuk kan naar elke app die bestanden aanneemt — je eigen e-mail, een cloud, een berichtenapp of je computer. Een bestand naar jezelf sturen is bewaren; het naar anderen sturen is verspreiden, en daarvoor gelden in Nederland, België, Suriname en de Caribische landen eigen regels."
+    a: "TalkSafe gebruikt het deelmenu van Android of iPhone, dus een geknipt stuk kan naar elke app die bestanden aanneemt — je eigen e-mail, een cloud, een berichtenapp of je computer. Een bestand naar jezelf sturen is bewaren; het naar anderen sturen is verspreiden, en daarvoor gelden in Nederland, België, Suriname en de Caribische landen eigen regels."
+  - q: "Kan ik op de iPhone een opname inkorten en het origineel bewaren?"
+    a: "Ja. TalkSafe is een opname-app voor Android en iPhone, en het inkorten werkt op de iPhone op dezelfde manier: het gekozen stuk wordt als nieuw bestand bewaard en de originele opname blijft zoals hij was."
 ---
 
 De opname duurt een uur en veertig minuten. Wat je nodig hebt, zijn twee minuten ergens na het eerste uur.
@@ -71,7 +74,7 @@ Daar volgen drie dingen uit.
 
 - **Het begin kies je zelf.** TalkSafe begint op een vooraf gekozen woord en bewaart ook **de 30 seconden daarvoor**, dus het bestand begint iets vóór het moment. Met knippen bepaal je precies waar het fragment begint; de hele aanloop blijft in het origineel.
 - **Het stuk kan apart worden opgeschoond.** De **AI-ruisverwijdering** van TalkSafe werkt op een geknipt stuk. Knip eerst de twee minuten en schoon alleen die op: verwerkt op het toestel en opgeslagen als nog een nieuw bestand.
-- **Het stuk kan overal heen.** Versturen gaat via het **deelmenu van Android**, dus het fragment gaat naar elke app die bestanden aanneemt: je eigen e-mail, een cloud, je computer.
+- **Het stuk kan overal heen.** Versturen gaat via het **deelmenu van Android of iPhone**, dus het fragment gaat naar elke app die bestanden aanneemt: je eigen e-mail, een cloud, je computer.
 
 ## Waarom je het origineel bewaart
 

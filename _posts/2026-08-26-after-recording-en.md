@@ -4,7 +4,7 @@ ref: after-recording
 categories: en
 permalink: /blog/en/after-recording/
 date: 2026-08-26
-last_modified_at: 2026-10-08
+last_modified_at: 2026-11-15
 eyebrow: How to
 title: "What to do with a recording, and what not to do with it"
 description: "How to keep the file, how to cut it down to the part that matters, and where to submit it. Most of the trouble people run into comes after the recording, not during it."
@@ -20,7 +20,7 @@ faq:
   - q: "Where do I submit a recording?"
     a: "It depends on the matter — a labour agency or court for employment disputes, a consumer body or civil court for contract disputes, law enforcement for criminal matters. In every case it helps to submit the relevant section together with a note of what it contains."
   - q: "Should I back up the file?"
-    a: "A file that exists only on one phone disappears with that phone. Keeping one copy off the device is worth the two minutes. TalkSafe uses the Android share function, so a file can be sent to any app that accepts it — email to yourself, cloud storage, a computer."
+    a: "A file that exists only on one phone disappears with that phone. Keeping one copy off the device is worth the two minutes. TalkSafe uses the Android or iPhone share function, so a file can be sent to any app that accepts it — email to yourself, cloud storage, a computer."
   - q: "Does trimming weaken the recording as evidence?"
     a: "Not if the original is preserved. Submitting a full two-hour file is usually worse, because the person reading it has to find the relevant part themselves. A short excerpt plus the untouched original is the stronger combination."
   - q: "What if a recording is full of background noise?"
@@ -69,7 +69,7 @@ The sequence worth following:
 
 A phone gets lost, breaks, or gets wiped, and everything on it goes at once. That matters most for files you won't need until months later.
 
-TalkSafe uses the **Android share function**, so a recording can be sent to any app that accepts a file — emailed to yourself, pushed to cloud storage, moved to a computer.
+TalkSafe uses the **Android or iPhone share function**, so a recording can be sent to any app that accepts a file — emailed to yourself, pushed to cloud storage, moved to a computer.
 
 And this connects back to the first point. **Sending a file to yourself is storage. Sending it to someone else is distribution.** Same button, different act.
 

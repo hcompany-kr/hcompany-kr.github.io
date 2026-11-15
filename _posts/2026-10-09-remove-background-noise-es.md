@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: es
 permalink: /blog/es/remove-background-noise/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Cómo hacerlo
 title: "Cómo quitar el ruido de fondo de una grabación de voz en Android"
 description: "Tráfico, viento, una cafetería detrás. Cuatro formas de limpiar una conversación grabada — en el móvil mientras grabas, en el móvil después, en un ordenador o subiéndola — y cuáles sirven para el ruido de la calle."
@@ -22,6 +23,8 @@ faq:
     a: "No. Servicios web como Adobe Podcast Enhance Speech funcionan subiendo el archivo, lo que envía una copia de la conversación a ese servicio. Las herramientas que procesan en el dispositivo, como la eliminación de ruido con IA de TalkSafe, trabajan el archivo en el móvil."
   - q: "¿Puedo limpiar solo una parte de la grabación?"
     a: "Sí. En TalkSafe puedes recortar primero el fragmento que necesitas — el recorte se guarda como archivo nuevo y el original se conserva — y después aplicar la eliminación de ruido con IA a ese fragmento."
+  - q: "¿Se puede quitar el ruido de fondo de una grabación en el iPhone?"
+    a: "Sí. TalkSafe es una grabadora de voz para Android y iPhone, y su eliminación de ruido con IA funciona igual en el iPhone: se procesa en el dispositivo, quita ruidos como el de la calle y guarda una copia limpia sin tocar el original."
 ---
 
 Grabaste la conversación. La escuchas de vuelta a casa y la mitad es un autobús arrancando.

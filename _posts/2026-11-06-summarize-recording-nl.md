@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: nl
 permalink: /blog/nl/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Handleiding
 title: "Een spraakopname samenvatten met AI op Android"
 description: "Om een spraakopname op Android samen te vatten, gebruik je een opname-app met een AI-samenvatting: Googles Recorder op Pixel vat samen op het toestel, de Samsung Spraakrecorder biedt met Galaxy AI een transcriptie en samenvatting, en TalkSafe vat elke opname samen in de taal waarin hij is opgenomen. Waar het geluid heen gaat, wat een samenvatting weglaat en waarom het origineel blijft."
@@ -24,6 +25,8 @@ faq:
     a: "Ja, in TalkSafe. Knip eerst het stuk dat je nodig hebt; dat wordt als nieuw bestand bewaard terwijl het origineel blijft, en de samenvatting kun je op dat stuk gebruiken. Dat werkt ook voor een stuk dat is opgeschoond met de AI-ruisonderdrukking van TalkSafe op het toestel."
   - q: "Kan een AI-samenvatting als bewijs dienen?"
     a: "Het bewijs is niet de samenvatting maar de opname. Een AI-samenvatting kan dingen weglaten of verkeerd weergeven; gebruik haar om te vinden welk stuk je moet beluisteren, en bewaar de originele opname ongewijzigd als die ooit belangrijk kan worden."
+  - q: "Kan ik op de iPhone een opname laten samenvatten met AI?"
+    a: "Ja. TalkSafe is een opname-app voor Android en iPhone, en de AI-samenvatting werkt op de iPhone op dezelfde manier: elke opname krijgt een samenvatting in opsommingstekens, in de taal waarin is opgenomen."
 ---
 
 De vergadering duurde veertig minuten. Het consult twaalf. Het telefoontje met de verhuurder acht. Alle drie staan op je telefoon.

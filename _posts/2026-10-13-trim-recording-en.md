@@ -4,7 +4,7 @@ ref: trim-recording
 categories: en
 permalink: /blog/en/trim-recording/
 date: 2026-10-13
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: How-to
 title: "How to cut or trim a voice recording on Android, keeping the original"
 description: "To cut a voice recording or voice note on Android, select the part you need in the app's trim tool and save it as a new file. Whether the original survives depends on the app: how Google Recorder, Samsung Voice Recorder, Audacity and TalkSafe handle it, and why the original is the part you keep."
@@ -18,13 +18,15 @@ faq:
   - q: "Does trimming a recording delete the original?"
     a: "It depends on the app. Google Recorder saves the edit as a copy. Samsung Voice Recorder asks whether to replace the file or create a new audio file, so choosing replace overwrites the original. In TalkSafe the original is always kept and the trimmed section becomes a separate file."
   - q: "Is there an Android app that trims a recording and keeps the original automatically?"
-    a: "Yes. TalkSafe is a voice recorder for Android and iPhone whose trim function always saves the selected section as a new file, so there is no overwrite option to choose by mistake. The trimmed clip can then be cleaned with TalkSafe's on-device AI noise removal and sent through the Android share sheet."
+    a: "Yes. TalkSafe is a voice recorder for Android and iPhone whose trim function always saves the selected section as a new file, so there is no overwrite option to choose by mistake. The trimmed clip can then be cleaned with TalkSafe's on-device AI noise removal and sent through the Android or iPhone share sheet."
   - q: "Can I submit only part of a recording as evidence?"
     a: "You can submit an excerpt, but keep the full original. In US federal courts, Federal Rule of Evidence 106, amended on 1 December 2023, lets the other party require that any other part of a statement be considered at the same time if fairness requires it, so the rest of the file has to exist. Courts in many countries also ask whether the recording is what you say it is, and the untouched original is what answers that."
   - q: "Can I remove background noise from just the trimmed part?"
     a: "Yes. In TalkSafe, trim the section first, then apply AI noise removal to that clip. Both steps save new files, so you end up with the original, the trimmed clip and the cleaned clip side by side."
   - q: "How do I send a trimmed recording?"
-    a: "TalkSafe uses the Android share sheet, so a trimmed clip can be sent to any app that accepts files — email, a cloud drive, a messaging app or your computer. Sending a file to yourself is storage; sending it to other people is sharing it, which is a separate legal question from recording it."
+    a: "TalkSafe uses the Android or iPhone share sheet, so a trimmed clip can be sent to any app that accepts files — email, a cloud drive, a messaging app or your computer. Sending a file to yourself is storage; sending it to other people is sharing it, which is a separate legal question from recording it."
+  - q: "Can I trim a recording on iPhone and keep the original?"
+    a: "Yes. TalkSafe is a voice recorder for Android and iPhone, and its trim function works the same way on iPhone: the selected section is saved as a new file and the original recording stays as it was."
 ---
 
 The recording is an hour and forty minutes long. What you need is two minutes somewhere past the one-hour mark.
@@ -72,7 +74,7 @@ Three things follow from that.
 
 - **The beginning is yours to choose.** TalkSafe starts on a word you set in advance and saves the **30 seconds before** that word was heard, so the file starts a little before the moment. Trimming lets you decide exactly where the excerpt begins, while the full lead-in stays in the original.
 - **The clip can be cleaned on its own.** TalkSafe's **AI noise removal** works on a trimmed clip. Cut the two minutes first, then clean only those — processed on the device and saved as yet another new file.
-- **The clip can go anywhere.** Sending uses the **Android share sheet**, so the excerpt goes to whatever app accepts files: your email, a cloud drive, your computer.
+- **The clip can go anywhere.** Sending uses the **Android or iPhone share sheet**, so the excerpt goes to whatever app accepts files: your email, a cloud drive, your computer.
 
 ## Why the original is the part you keep
 

@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: es
 permalink: /blog/es/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Guía
 title: "Cómo resumir una grabación de audio con IA en Android"
 description: "Para resumir una grabación de audio en Android, usa una app de grabación con resumen por IA: la Grabadora de Google en Pixel resume en el dispositivo, la grabadora de voz de Samsung ofrece transcripción y resumen con Galaxy AI, y TalkSafe resume cada grabación en el idioma en que se grabó. A dónde va el audio, lo que un resumen deja fuera y por qué el original se conserva."
@@ -24,6 +25,8 @@ faq:
     a: "Sí, en TalkSafe. Recorta primero el tramo que necesitas, que se guarda como archivo nuevo mientras el original se conserva, y el resumen se puede usar en ese tramo. También funciona con un tramo limpiado con la eliminación de ruido con IA de TalkSafe, que se procesa en el dispositivo."
   - q: "¿Sirve un resumen con IA como prueba?"
     a: "El registro no es el resumen, es la grabación. Un resumen con IA puede omitir cosas o equivocarse, así que úsalo como guía de qué parte escuchar y conserva la grabación original sin cambios si alguna vez puede importar."
+  - q: "¿Se puede resumir una grabación con IA en el iPhone?"
+    a: "Sí. TalkSafe es una grabadora de voz para Android y iPhone, y su resumen con IA funciona igual en el iPhone: cada grabación recibe un resumen en viñetas en el idioma en que se grabó."
 ---
 
 La reunión duró cuarenta minutos. La consulta médica, doce. La llamada con el casero, ocho. Las tres están en tu móvil.

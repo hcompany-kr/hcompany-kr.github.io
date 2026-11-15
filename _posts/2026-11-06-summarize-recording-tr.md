@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: tr
 permalink: /blog/tr/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Rehber
 title: "Android'de ses kaydı yapay zekâ ile nasıl özetlenir"
 description: "Android'de bir ses kaydını özetlemek için yapay zekâ özeti olan bir kayıt uygulaması kullanılır: Pixel'deki Google Kaydedici cihaz üzerinde özetler, Samsung Ses Kaydedici Galaxy AI ile döküm ve özet sunar, TalkSafe ise her kaydı kaydedildiği dilde özetler. Sesin nereye gittiği, bir özetin neleri dışarıda bıraktığı ve orijinalin neden saklandığı."
@@ -24,6 +25,8 @@ faq:
     a: "Evet, TalkSafe'te. Önce ihtiyacınız olan bölümü kırpın; bölüm yeni bir dosya olarak kaydedilir ve orijinal korunur, özet de bu bölüme uygulanabilir. TalkSafe'in cihaz üzerinde çalışan yapay zekâ gürültü giderme özelliğiyle temizlenmiş bir bölüm için de geçerlidir."
   - q: "Yapay zekâ özeti delil olarak kullanılabilir mi?"
     a: "Asıl kayıt özet değil, ses kaydıdır. Yapay zekâ özeti bazı şeyleri atlayabilir ya da yanlış aktarabilir; bu yüzden onu hangi bölümü dinleyeceğinizi bulmak için kullanın ve bir gün önemli olabilecek kaydın orijinalini değiştirmeden saklayın."
+  - q: "iPhone'da bir kaydı yapay zekâ ile özetleyebilir miyim?"
+    a: "Evet. TalkSafe, Android ve iPhone için bir ses kayıt uygulamasıdır ve yapay zekâ özeti iPhone'da da aynı şekilde çalışır: her kayıt için, kaydedildiği dilde madde işaretli bir özet oluşturulur."
 ---
 
 Toplantı kırk dakika sürdü. Doktor muayenesi on iki. Ev sahibiyle telefon görüşmesi sekiz. Üçü de telefonunuzda.

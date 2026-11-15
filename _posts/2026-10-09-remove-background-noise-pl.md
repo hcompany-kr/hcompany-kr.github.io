@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: pl
 permalink: /blog/pl/remove-background-noise/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Poradnik
 title: "Jak usunąć hałas w tle z nagrania głosu na Androidzie"
 description: "Ruch uliczny, wiatr, kawiarnia za plecami. Cztery sposoby na oczyszczenie nagranej rozmowy — na telefonie podczas nagrywania, na telefonie potem, na komputerze albo przez wysłanie pliku — i które z nich radzą sobie z hałasem ulicy."
@@ -22,6 +23,8 @@ faq:
     a: "Nie. Usługi internetowe, takie jak Adobe Podcast Enhance Speech, działają przez wysłanie pliku, co przekazuje kopię rozmowy tej usłudze. Narzędzia działające na urządzeniu, jak usuwanie szumów z AI w TalkSafe, przetwarzają plik na telefonie."
   - q: "Czy można oczyścić tylko część nagrania?"
     a: "Tak. W TalkSafe najpierw wycinasz potrzebny fragment — jest zapisywany jako nowy plik, a oryginał zostaje — a potem stosujesz do niego usuwanie szumów z AI."
+  - q: "Czy na iPhonie da się usunąć hałas w tle z nagrania?"
+    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, a usuwanie szumów przez AI działa na iPhonie tak samo: przetwarzanie odbywa się na urządzeniu, usuwa hałas taki jak uliczny i zapisuje oczyszczoną kopię, zostawiając oryginał."
 ---
 
 Nagrałeś rozmowę. Odsłuchujesz ją w drodze do domu, a połowa to odjeżdżający autobus.

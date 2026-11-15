@@ -4,6 +4,7 @@ ref: trim-recording
 categories: it
 permalink: /blog/it/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-15
 eyebrow: Guida
 title: "Come tagliare una registrazione vocale su Android senza perdere l'originale"
 description: "Ridurre una registrazione lunga ai due minuti che contano richiede pochi secondi. Che il file completo sopravviva al taglio dipende dall'app. Come lo gestiscono le più usate, e perché l'originale è la parte da tenere."
@@ -17,13 +18,15 @@ faq:
   - q: "Tagliare una registrazione cancella l'originale?"
     a: "Dipende dall'app. Il Registratore di Google salva la modifica come copia. Il registratore vocale di Samsung chiede se sostituire il file o crearne uno nuovo, quindi scegliere sostituisci sovrascrive l'originale. In TalkSafe l'originale resta sempre e il tratto tagliato diventa un file separato."
   - q: "Esiste un'app Android che taglia una registrazione e conserva l'originale in automatico?"
-    a: "Sì. TalkSafe è un registratore vocale per Android e iPhone la cui funzione di taglio salva sempre il tratto scelto come nuovo file, quindi non esiste un'opzione di sovrascrittura da scegliere per sbaglio. Al tratto tagliato si può applicare la rimozione del rumore con IA di TalkSafe, elaborata sul dispositivo, e inviarlo con il menu di condivisione di Android."
+    a: "Sì. TalkSafe è un registratore vocale per Android e iPhone la cui funzione di taglio salva sempre il tratto scelto come nuovo file, quindi non esiste un'opzione di sovrascrittura da scegliere per sbaglio. Al tratto tagliato si può applicare la rimozione del rumore con IA di TalkSafe, elaborata sul dispositivo, e inviarlo con il menu di condivisione di Android o iPhone."
   - q: "Posso depositare solo una parte della registrazione come prova?"
     a: "Puoi depositare un estratto, ma conserva l'originale completo. In sede civile la registrazione rientra tra le riproduzioni meccaniche dell'articolo 2712 del codice civile, che fanno piena prova se la parte contro cui sono prodotte non ne disconosce la conformità ai fatti. Se la conformità viene disconosciuta, la questione diventa l'integrità del file, e a dimostrarla serve l'originale."
   - q: "Posso togliere il rumore di fondo solo dal tratto tagliato?"
     a: "Sì. In TalkSafe taglia prima il tratto, poi applica la rimozione del rumore con IA a quel file. Entrambi i passaggi salvano file nuovi, quindi ti ritrovi con l'originale, il tratto tagliato e il tratto ripulito uno accanto all'altro."
   - q: "Come invio una registrazione tagliata?"
-    a: "TalkSafe usa il menu di condivisione di Android, quindi un tratto tagliato può andare in qualsiasi app che accetta file: la tua email, un cloud, un'app di messaggi o il computer. Inviare un file a te stesso è conservarlo; inviarlo ad altri è diffonderlo, ed è una questione legale diversa dall'averlo registrato."
+    a: "TalkSafe usa il menu di condivisione di Android o iPhone, quindi un tratto tagliato può andare in qualsiasi app che accetta file: la tua email, un cloud, un'app di messaggi o il computer. Inviare un file a te stesso è conservarlo; inviarlo ad altri è diffonderlo, ed è una questione legale diversa dall'averlo registrato."
+  - q: "Si può tagliare una registrazione su iPhone senza perdere l'originale?"
+    a: "Sì. TalkSafe è un registratore vocale per Android e iPhone, e la funzione di taglio funziona allo stesso modo su iPhone: il tratto scelto viene salvato come nuovo file e la registrazione originale resta com'era."
 ---
 
 La registrazione dura un'ora e quaranta. Quello che ti serve sono due minuti da qualche parte dopo la prima ora.
@@ -71,7 +74,7 @@ Ne seguono tre cose.
 
 - **L'inizio lo scegli tu.** TalkSafe inizia a registrare con una parola scelta in anticipo e salva **i 30 secondi precedenti** al momento in cui è stata sentita, quindi il file comincia un po' prima del momento. Con il taglio decidi esattamente dove inizia l'estratto, e tutto ciò che viene prima resta nell'originale.
 - **Il tratto si può ripulire da solo.** La **rimozione del rumore con IA** di TalkSafe funziona su un tratto tagliato. Taglia prima i due minuti e ripulisci solo quelli: l'elaborazione avviene sul dispositivo e il risultato viene salvato come un altro file nuovo.
-- **Il tratto può andare ovunque.** L'invio usa il **menu di condivisione di Android**, quindi l'estratto arriva a qualsiasi app che accetta file: la tua email, un cloud, il computer.
+- **Il tratto può andare ovunque.** L'invio usa il **menu di condivisione di Android o iPhone**, quindi l'estratto arriva a qualsiasi app che accetta file: la tua email, un cloud, il computer.
 
 ## Perché l'originale è la parte da tenere
 

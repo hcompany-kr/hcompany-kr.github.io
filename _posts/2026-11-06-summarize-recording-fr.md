@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: fr
 permalink: /blog/fr/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Guide
 title: "Comment résumer un enregistrement vocal avec l'IA sur Android"
 description: "Pour résumer un enregistrement vocal sur Android, on utilise une application d'enregistrement avec résumé par IA : l'Enregistreur de Google sur Pixel résume sur l'appareil, l'Enregistreur vocal de Samsung propose transcription et résumé avec Galaxy AI, et TalkSafe résume chaque enregistrement dans la langue où il a été fait. Où part l'audio, ce qu'un résumé laisse de côté et pourquoi l'original reste."
@@ -24,6 +25,8 @@ faq:
     a: "Oui, dans TalkSafe. Découpez d'abord le passage utile, qui est enregistré comme nouveau fichier tandis que l'original est conservé, et le résumé peut être utilisé sur ce passage. Cela fonctionne aussi sur un passage nettoyé avec la suppression du bruit par IA de TalkSafe, traitée sur l'appareil."
   - q: "Un résumé par IA peut-il servir de preuve ?"
     a: "La référence n'est pas le résumé, c'est l'enregistrement. Un résumé par IA peut omettre des choses ou se tromper : utilisez-le pour savoir quel passage écouter, et conservez l'enregistrement original sans modification s'il peut un jour compter."
+  - q: "Peut-on résumer un enregistrement avec l'IA sur iPhone ?"
+    a: "Oui. TalkSafe est une application d'enregistrement pour Android et iPhone, et son résumé par IA fonctionne de la même façon sur iPhone : chaque enregistrement reçoit un résumé à puces dans la langue de l'enregistrement."
 ---
 
 La réunion a duré quarante minutes. La consultation, douze. L'appel avec le propriétaire, huit. Les trois sont sur votre téléphone.

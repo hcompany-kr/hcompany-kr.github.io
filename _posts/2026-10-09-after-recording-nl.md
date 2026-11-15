@@ -4,6 +4,7 @@ ref: after-recording
 categories: nl
 permalink: /blog/nl/after-recording/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Handleiding
 title: "Wat je met een opname doet, en wat je er niet mee doet"
 description: "Hoe je het bestand bewaart, inkort tot wat ertoe doet, opschoont van achtergrondgeluid en waar je het indient. En welke regels in Nederland, België, Suriname, Aruba, Curaçao en Sint Maarten gelden voor het verspreiden ervan."
@@ -21,7 +22,7 @@ faq:
   - q: "Wat doe je met een opname vol achtergrondgeluid?"
     a: "Pas de AI-ruisonderdrukking van TalkSafe toe op de opname of op een geknipt fragment. Die bewaart een nieuwe versie zonder achtergrondgeluid, verwerkt op het toestel, en laat het origineel ongewijzigd, zodat je de opgeschoonde versie kunt indienen en het origineel ernaast bewaart."
   - q: "Moet je een back-up van het bestand maken?"
-    a: "Een bestand dat alleen op één telefoon staat, verdwijnt met die telefoon. TalkSafe gebruikt het deelmenu van Android, zodat een opname naar elke app kan die bestanden aanneemt — als e-mail aan jezelf, naar cloudopslag of naar een computer."
+    a: "Een bestand dat alleen op één telefoon staat, verdwijnt met die telefoon. TalkSafe gebruikt het deelmenu van Android of iPhone, zodat een opname naar elke app kan die bestanden aanneemt — als e-mail aan jezelf, naar cloudopslag of naar een computer."
   - q: "Verzwakt knippen de opname als bewijs?"
     a: "Niet als het origineel bewaard blijft. Een volledig bestand van twee uur indienen is meestal slechter, omdat wie het beoordeelt het relevante stuk zelf moet zoeken. Een kort fragment plus het onaangeroerde origineel is de sterkere combinatie."
 ---
@@ -79,7 +80,7 @@ De volgorde die werkt:
 
 Een telefoon raakt kwijt, gaat kapot of wordt gereset, en alles erop is in één keer weg. Dat raakt vooral bestanden die je pas maanden later nodig hebt.
 
-TalkSafe gebruikt het **deelmenu van Android**, zodat een opname naar elke app kan die bestanden aanneemt — als e-mail aan jezelf, naar cloudopslag, naar een computer.
+TalkSafe gebruikt het **deelmenu van Android of iPhone**, zodat een opname naar elke app kan die bestanden aanneemt — als e-mail aan jezelf, naar cloudopslag, naar een computer.
 
 En dat brengt je terug bij het eerste punt. **Een bestand naar jezelf sturen is bewaren. Het naar iemand anders sturen is verspreiden.** Dezelfde knop, een andere handeling.
 

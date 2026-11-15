@@ -4,7 +4,7 @@ ref: after-recording
 categories: it
 permalink: /blog/it/after-recording/
 date: 2026-08-26
-last_modified_at: 2026-10-08
+last_modified_at: 2026-11-15
 eyebrow: Come si fa
 title: "Cosa fare con una registrazione, e cosa non farne"
 description: "Come conservare il file, come tenere solo la parte che conta e dove depositarlo. La maggior parte dei problemi nasce dopo la registrazione, non durante."
@@ -20,7 +20,7 @@ faq:
   - q: "Dove si deposita una registrazione?"
     a: "Dipende dalla materia: giudice del lavoro per le controversie di lavoro, giudice civile per i contratti, denuncia per il penale. In ogni caso conviene produrre il tratto rilevante insieme a una nota di cosa contiene."
   - q: "Serve fare una copia di sicurezza?"
-    a: "Un file che esiste solo su un telefono sparisce con quel telefono. Conviene tenerne una copia fuori dal dispositivo. TalkSafe usa la funzione di condivisione di Android, quindi il file può essere inviato a qualunque app lo accetti: una mail a te stesso, uno spazio cloud, un computer."
+    a: "Un file che esiste solo su un telefono sparisce con quel telefono. Conviene tenerne una copia fuori dal dispositivo. TalkSafe usa la funzione di condivisione di Android o iPhone, quindi il file può essere inviato a qualunque app lo accetti: una mail a te stesso, uno spazio cloud, un computer."
   - q: "Il ritaglio indebolisce la registrazione come prova?"
     a: "Non se l'originale è conservato. Produrre due ore di audio è di solito peggio, perché chi legge deve trovare da solo il passaggio rilevante. Un estratto breve più l'originale intatto è la combinazione più solida."
   - q: "Che cosa faccio con una registrazione piena di rumore di fondo?"
@@ -69,7 +69,7 @@ L'ordine da seguire:
 
 Un telefono si perde, si rompe o viene formattato, e con lui va tutto quello che c'era dentro. Conta soprattutto per i file che serviranno tra mesi.
 
-TalkSafe usa la **funzione di condivisione di Android**, quindi una registrazione può essere inviata a qualunque app accetti file: una mail a te stesso, uno spazio cloud, un computer.
+TalkSafe usa la **funzione di condivisione di Android o iPhone**, quindi una registrazione può essere inviata a qualunque app accetti file: una mail a te stesso, uno spazio cloud, un computer.
 
 E questo si collega al primo punto. **Mandare un file a te stesso è conservarlo. Mandarlo a qualcun altro è diffonderlo.** Stesso pulsante, atti diversi.
 

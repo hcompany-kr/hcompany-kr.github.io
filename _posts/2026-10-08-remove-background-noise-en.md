@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: en
 permalink: /blog/en/remove-background-noise/
 date: 2026-10-08
+last_modified_at: 2026-11-15
 eyebrow: How to
 title: "How to remove background noise from a voice recording on Android"
 description: "Traffic, wind, a café behind you. Four ways to clean up a recorded conversation — on the phone while recording, on the phone afterwards, on a computer, or by uploading it — and which ones handle street noise."
@@ -24,6 +25,8 @@ faq:
     a: "No. Web services such as Adobe Podcast Enhance Speech work by uploading the file, which sends a copy of the conversation to that service. On-device tools such as TalkSafe's AI noise removal process the file on the phone instead."
   - q: "Can I clean only part of a recording?"
     a: "Yes. In TalkSafe you can trim the section you need first — the trim is saved as a new file and the original stays — and then apply AI noise removal to that clip."
+  - q: "Can I remove background noise from a recording on iPhone?"
+    a: "Yes. TalkSafe is a voice recorder for Android and iPhone, and its AI noise removal works the same way on iPhone: it runs on the device, removes background noise such as street sound, and saves a cleaned copy while keeping the original."
 ---
 
 You recorded the conversation. You play it back on the way home, and half of it is a bus pulling away.

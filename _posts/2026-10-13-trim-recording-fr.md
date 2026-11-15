@@ -4,7 +4,7 @@ ref: trim-recording
 categories: fr
 permalink: /blog/fr/trim-recording/
 date: 2026-10-13
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-15
 eyebrow: Guide
 title: "Comment couper un enregistrement audio sur Android sans perdre l'original"
 description: "Pour couper un enregistrement audio ou un mémo vocal sur Android, on sélectionne le passage voulu dans l'outil de découpe de l'application et on l'enregistre comme nouveau fichier. Que l'original survive dépend de l'application : comment l'Enregistreur de Google, l'enregistreur vocal de Samsung et TalkSafe s'y prennent, et pourquoi c'est l'original qu'on garde."
@@ -18,13 +18,15 @@ faq:
   - q: "Couper un enregistrement efface-t-il l'original ?"
     a: "Cela dépend de l'application. L'Enregistreur de Google enregistre la modification comme une copie. L'enregistreur vocal de Samsung demande s'il faut remplacer le fichier ou en créer un nouveau ; choisir remplacer écrase l'original. Dans TalkSafe, l'original est toujours conservé et le passage coupé devient un fichier à part."
   - q: "Existe-t-il une application Android qui coupe un enregistrement et garde l'original automatiquement ?"
-    a: "Oui. TalkSafe est une application d'enregistrement pour Android et iPhone dont la fonction de découpe enregistre toujours le passage choisi comme un nouveau fichier : il n'existe pas d'option d'écrasement à choisir par erreur. Le passage coupé peut ensuite être nettoyé par la suppression du bruit par IA de TalkSafe, traitée sur l'appareil, et envoyé via le menu de partage d'Android."
+    a: "Oui. TalkSafe est une application d'enregistrement pour Android et iPhone dont la fonction de découpe enregistre toujours le passage choisi comme un nouveau fichier : il n'existe pas d'option d'écrasement à choisir par erreur. Le passage coupé peut ensuite être nettoyé par la suppression du bruit par IA de TalkSafe, traitée sur l'appareil, et envoyé via le menu de partage d'Android ou d'iPhone."
   - q: "Puis-je ne produire qu'une partie de l'enregistrement en justice ?"
     a: "On peut produire un extrait, mais il faut garder l'original complet. En France, l'assemblée plénière de la Cour de cassation a admis le 22 décembre 2023 qu'une preuve obtenue de façon déloyale peut être recevable au civil si elle est indispensable à l'exercice d'un droit et que l'atteinte est proportionnée. Cela ne dispense pas de prouver que le fichier est authentique et complet, et c'est l'original qui le montre. Enregistrer des paroles privées sans consentement reste puni par l'article 226-1 du Code pénal, même pour un participant."
   - q: "Puis-je retirer le bruit de fond seulement du passage coupé ?"
     a: "Oui. Dans TalkSafe, coupez d'abord le passage, puis appliquez la suppression du bruit par IA à ce fichier. Les deux étapes créent de nouveaux fichiers : vous gardez côte à côte l'original, le passage coupé et le passage nettoyé."
   - q: "Comment envoyer un enregistrement coupé ?"
-    a: "TalkSafe utilise le menu de partage d'Android : un passage coupé peut aller vers toute application qui accepte des fichiers — votre courriel, un cloud, une messagerie ou votre ordinateur. S'envoyer un fichier à soi-même, c'est le conserver ; l'envoyer à d'autres, c'est le diffuser, et la diffusion obéit à ses propres règles en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec."
+    a: "TalkSafe utilise le menu de partage d'Android ou d'iPhone : un passage coupé peut aller vers toute application qui accepte des fichiers — votre courriel, un cloud, une messagerie ou votre ordinateur. S'envoyer un fichier à soi-même, c'est le conserver ; l'envoyer à d'autres, c'est le diffuser, et la diffusion obéit à ses propres règles en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec."
+  - q: "Peut-on couper un enregistrement sur iPhone sans perdre l'original ?"
+    a: "Oui. TalkSafe est une application d'enregistrement pour Android et iPhone, et sa fonction de découpe fonctionne de la même façon sur iPhone : le passage choisi est enregistré comme un nouveau fichier et l'enregistrement original reste tel quel."
 ---
 
 L'enregistrement dure une heure quarante. Ce dont vous avez besoin, ce sont deux minutes quelque part après la première heure.
@@ -72,7 +74,7 @@ Trois choses en découlent.
 
 - **Le début, c'est vous qui le choisissez.** TalkSafe démarre sur un mot choisi à l'avance et conserve **les 30 secondes précédentes**, le fichier commence donc un peu avant le moment. La découpe permet de fixer exactement le début de l'extrait, tandis que tout ce qui précède reste dans l'original.
 - **Le passage peut être nettoyé seul.** La **suppression du bruit par IA** de TalkSafe fonctionne sur un passage coupé. Coupez d'abord les deux minutes, puis nettoyez seulement celles-ci : le traitement se fait sur l'appareil et le résultat est enregistré comme un autre nouveau fichier.
-- **Le passage peut aller partout.** L'envoi passe par le **menu de partage d'Android** : l'extrait part vers toute application qui accepte des fichiers — votre courriel, un cloud, votre ordinateur.
+- **Le passage peut aller partout.** L'envoi passe par le **menu de partage d'Android ou d'iPhone** : l'extrait part vers toute application qui accepte des fichiers — votre courriel, un cloud, votre ordinateur.
 
 ## D'abord : aviez-vous le droit d'enregistrer ?
 

@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: en
 permalink: /blog/en/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: How-to
 title: "How to get an AI summary of a voice recording on Android"
 description: "To summarize a voice recording on Android, use a recorder app with an AI summary: Google's Recorder on Pixel summarizes on the device, Samsung's Voice Recorder adds transcripts and summaries with Galaxy AI, and TalkSafe summarizes every recording in the language it was recorded in. Where the audio goes, what a summary leaves out, and why the original stays."
@@ -24,6 +25,8 @@ faq:
     a: "Yes, in TalkSafe. Trim the section you need first, which saves it as a new file while the original stays, and the summary can be used on the trimmed clip. It also works on a clip cleaned with TalkSafe's on-device AI noise removal."
   - q: "Can an AI summary be used as evidence?"
     a: "The summary is not the record; the recording is. An AI summary can leave things out or get them wrong, so treat it as a guide to which part to listen to, and keep the original recording unchanged if it may ever matter."
+  - q: "Can I get an AI summary of a recording on iPhone?"
+    a: "Yes. TalkSafe is a voice recorder for Android and iPhone, and its AI summary works the same way on iPhone: each recording gets a bullet-point summary in the language it was recorded in."
 ---
 
 The meeting ran forty minutes. The doctor's appointment, twelve. The call with the landlord, eight. All three are on your phone.

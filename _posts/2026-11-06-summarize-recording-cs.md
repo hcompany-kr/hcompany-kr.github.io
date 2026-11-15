@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: cs
 permalink: /blog/cs/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Návod
 title: "Jak shrnout hlasovou nahrávku pomocí AI na Androidu"
 description: "Ke shrnutí hlasové nahrávky na Androidu slouží aplikace na nahrávání se shrnutím od AI: Diktafon Google na Pixelu shrnuje přímo v zařízení, Diktafon Samsung nabízí s Galaxy AI přepis a shrnutí a TalkSafe shrne každou nahrávku v jazyce, ve kterém vznikla. Kam zvuk putuje, co shrnutí vynechá a proč originál zůstává."
@@ -24,6 +25,8 @@ faq:
     a: "Ano, v TalkSafe. Nejdřív si vystřihněte potřebný úsek; uloží se jako nový soubor a originál zůstane, a shrnutí lze použít na tento úsek. Funguje to i u úseku vyčištěného odstraněním šumu pomocí AI v TalkSafe, které běží v zařízení."
   - q: "Může shrnutí od AI sloužit jako důkaz?"
     a: "Záznamem není shrnutí, ale nahrávka. Shrnutí od AI může něco vynechat nebo zkreslit, proto ho používejte k nalezení místa, které si poslechnout, a původní nahrávku, která může jednou být důležitá, uchovejte beze změn."
+  - q: "Dá se na iPhonu nahrávka shrnout pomocí AI?"
+    a: "Ano. TalkSafe je aplikace pro nahrávání na Android a iPhone a shrnutí od AI funguje na iPhonu stejně: ke každé nahrávce vznikne shrnutí v bodech v jazyce, ve kterém byla nahrána."
 ---
 
 Porada trvala čtyřicet minut. Návštěva u lékaře dvanáct. Telefonát s pronajímatelem osm. Všechny tři máte v telefonu.

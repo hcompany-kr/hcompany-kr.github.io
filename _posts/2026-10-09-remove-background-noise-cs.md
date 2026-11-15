@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: cs
 permalink: /blog/cs/remove-background-noise/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Návod
 title: "Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu"
 description: "Doprava, vítr, kavárna za zády. Čtyři způsoby, jak vyčistit nahraný rozhovor — v telefonu během nahrávání, v telefonu potom, v počítači, nebo nahráním na web — a které z nich si poradí s hlukem ulice."
@@ -22,6 +23,8 @@ faq:
     a: "Ne. Webové služby jako Adobe Podcast Enhance Speech pracují tak, že soubor nahrajete, čímž se kopie rozhovoru dostane k té službě. Nástroje, které pracují v zařízení, jako odstranění šumu pomocí AI v TalkSafe, zpracují soubor v telefonu."
   - q: "Můžu vyčistit jen část nahrávky?"
     a: "Ano. V TalkSafe nejdřív vystřihnete potřebný úsek — uloží se jako nový soubor a originál zůstane — a potom na něj použijete odstranění šumu pomocí AI."
+  - q: "Dá se na iPhonu odstranit hluk v pozadí z nahrávky?"
+    a: "Ano. TalkSafe je aplikace pro nahrávání na Android a iPhone a odstranění šumu pomocí AI funguje na iPhonu stejně: zpracování probíhá v zařízení, odstraní hluk, jako je hluk ulice, a uloží vyčištěnou kopii, přičemž originál zůstane."
 ---
 
 Rozhovor jste nahráli. Cestou domů si ho pustíte a polovina je rozjíždějící se autobus.

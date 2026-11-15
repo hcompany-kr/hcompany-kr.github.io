@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: it
 permalink: /blog/it/remove-background-noise/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Come si fa
 title: "Come togliere il rumore di fondo da una registrazione vocale su Android"
 description: "Traffico, vento, un bar alle spalle. Quattro modi per ripulire una conversazione registrata — sul telefono mentre registri, sul telefono dopo, al computer o caricandola — e quali gestiscono il rumore della strada."
@@ -22,6 +23,8 @@ faq:
     a: "No. I servizi web come Adobe Podcast Enhance Speech funzionano caricando il file, il che invia una copia della conversazione a quel servizio. Gli strumenti che elaborano sul dispositivo, come la rimozione del rumore con IA di TalkSafe, lavorano invece il file sul telefono."
   - q: "Posso ripulire solo una parte della registrazione?"
     a: "Sì. In TalkSafe puoi ritagliare prima il tratto che ti serve — il ritaglio viene salvato come nuovo file e l'originale resta — e poi applicare a quel tratto la rimozione del rumore con IA."
+  - q: "Si può togliere il rumore di fondo da una registrazione su iPhone?"
+    a: "Sì. TalkSafe è un registratore vocale per Android e iPhone, e la rimozione del rumore con IA funziona allo stesso modo su iPhone: l'elaborazione avviene sul dispositivo, toglie rumori come quello della strada e salva una copia pulita lasciando intatto l'originale."
 ---
 
 Hai registrato la conversazione. La riascolti tornando a casa, e metà è un autobus che riparte.

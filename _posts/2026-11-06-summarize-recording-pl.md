@@ -4,6 +4,7 @@ ref: summarize-recording
 categories: pl
 permalink: /blog/pl/summarize-recording/
 date: 2026-11-06
+last_modified_at: 2026-11-15
 eyebrow: Poradnik
 title: "Jak streścić nagranie głosowe za pomocą AI na Androidzie"
 description: "Aby streścić nagranie głosowe na Androidzie, używa się aplikacji do nagrywania z podsumowaniem AI: Dyktafon Google na Pixelu streszcza na urządzeniu, Dyktafon Samsunga oferuje transkrypcję i podsumowanie z Galaxy AI, a TalkSafe streszcza każde nagranie w języku, w którym je nagrano. Dokąd trafia dźwięk, co pomija podsumowanie i dlaczego oryginał zostaje."
@@ -24,6 +25,8 @@ faq:
     a: "Tak, w TalkSafe. Najpierw przytnij potrzebny fragment, który zapisuje się jako nowy plik, a oryginał zostaje, i podsumowanie można zastosować do tego fragmentu. Działa to też dla fragmentu oczyszczonego funkcją usuwania szumów AI w TalkSafe, działającą na urządzeniu."
   - q: "Czy podsumowanie AI może być dowodem?"
     a: "Zapisem nie jest podsumowanie, tylko nagranie. Podsumowanie AI może coś pominąć albo przekręcić, więc używaj go, żeby znaleźć fragment do odsłuchania, a oryginalne nagranie, które może kiedyś mieć znaczenie, przechowuj bez zmian."
+  - q: "Czy na iPhonie da się streścić nagranie za pomocą AI?"
+    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, a streszczenie AI działa na iPhonie tak samo: każde nagranie dostaje streszczenie w punktach w języku, w którym je nagrano."
 ---
 
 Zebranie trwało czterdzieści minut. Wizyta u lekarza dwanaście. Rozmowa z właścicielem mieszkania osiem. Wszystkie trzy są w telefonie.

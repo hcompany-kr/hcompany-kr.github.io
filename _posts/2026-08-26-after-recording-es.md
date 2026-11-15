@@ -4,7 +4,7 @@ ref: after-recording
 categories: es
 permalink: /blog/es/after-recording/
 date: 2026-08-26
-last_modified_at: 2026-10-08
+last_modified_at: 2026-11-15
 eyebrow: Cómo hacerlo
 title: "Qué hacer con una grabación, y qué no hacer con ella"
 description: "Cómo conservar el archivo, cómo dejar solo la parte que importa y dónde presentarlo. La mayoría de los problemas aparecen después de grabar, no mientras se graba."
@@ -20,7 +20,7 @@ faq:
   - q: "¿Dónde se aporta una grabación?"
     a: "Depende del asunto: la jurisdicción social en materia laboral, las juntas arbitrales de consumo o la vía civil en conflictos contractuales, y la vía penal cuando corresponda. En todos los casos conviene aportar el fragmento relevante junto con una nota de qué contiene."
   - q: "¿Hace falta hacer copia de seguridad?"
-    a: "Un archivo que solo existe en un teléfono desaparece con ese teléfono. Conviene dejar una copia fuera del dispositivo. TalkSafe utiliza la función de compartir de Android, así que el archivo puede enviarse a cualquier aplicación que lo acepte: correo a ti mismo, almacenamiento en la nube, un ordenador."
+    a: "Un archivo que solo existe en un teléfono desaparece con ese teléfono. Conviene dejar una copia fuera del dispositivo. TalkSafe utiliza la función de compartir de Android o iPhone, así que el archivo puede enviarse a cualquier aplicación que lo acepte: correo a ti mismo, almacenamiento en la nube, un ordenador."
   - q: "¿Recortar debilita la grabación como prueba?"
     a: "No si se conserva el original. Aportar dos horas de audio suele ser peor, porque quien lo revisa tiene que localizar la parte relevante. Un extracto breve más el original sin tocar es la combinación más sólida."
   - q: "¿Qué hago con una grabación llena de ruido de fondo?"
@@ -67,7 +67,7 @@ El orden que conviene seguir:
 
 Un móvil se pierde, se rompe o se formatea, y con él se va todo lo que había dentro. Importa sobre todo con archivos que no vas a necesitar hasta dentro de meses.
 
-TalkSafe usa la **función de compartir de Android**, así que una grabación puede enviarse a cualquier aplicación que acepte archivos: por correo a ti mismo, a un almacenamiento en la nube, a un ordenador.
+TalkSafe usa la **función de compartir de Android o iPhone**, así que una grabación puede enviarse a cualquier aplicación que acepte archivos: por correo a ti mismo, a un almacenamiento en la nube, a un ordenador.
 
 Y esto enlaza con lo primero. **Enviarte un archivo a ti mismo es conservarlo. Enviárselo a otra persona es difundirlo.** Mismo botón, actos distintos.
 

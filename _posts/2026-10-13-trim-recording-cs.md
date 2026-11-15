@@ -4,6 +4,7 @@ ref: trim-recording
 categories: cs
 permalink: /blog/cs/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-15
 eyebrow: Návod
 title: "Jak na Androidu zkrátit hlasovou nahrávku a nepřijít o originál"
 description: "Zkrátit dlouhou nahrávku na dvě minuty, na kterých záleží, trvá pár sekund. Jestli celý soubor střih přežije, záleží na aplikaci. Jak to řeší běžné aplikace a proč se uchovává originál."
@@ -17,13 +18,15 @@ faq:
   - q: "Smaže zkrácení nahrávky originál?"
     a: "Záleží na aplikaci. Záznamník Google ukládá úpravu jako kopii. Hlasový záznamník Samsung se ptá, zda soubor nahradit, nebo vytvořit nový; volba nahradit originál přepíše. V TalkSafe originál vždy zůstane a vystřižený úsek se stane samostatným souborem."
   - q: "Existuje aplikace pro Android, která nahrávku zkrátí a originál zachová automaticky?"
-    a: "Ano. TalkSafe je aplikace pro nahrávání na Android a iPhone, jejíž funkce střihu vždy uloží vybraný úsek jako nový soubor, takže neexistuje možnost přepsání, kterou by šlo omylem zvolit. Na vystřižený úsek lze použít odstranění šumu pomocí AI v TalkSafe, které probíhá v zařízení, a poslat ho přes nabídku sdílení Androidu."
+    a: "Ano. TalkSafe je aplikace pro nahrávání na Android a iPhone, jejíž funkce střihu vždy uloží vybraný úsek jako nový soubor, takže neexistuje možnost přepsání, kterou by šlo omylem zvolit. Na vystřižený úsek lze použít odstranění šumu pomocí AI v TalkSafe, které probíhá v zařízení, a poslat ho přes nabídku sdílení Androidu nebo iPhonu."
   - q: "Mohu jako důkaz předložit jen část nahrávky?"
     a: "Můžete předložit úsek, ale uchovejte celý originál. Ústavní soud v nálezu II. ÚS 1774/14 rozhodl, že tajně pořízený záznam nelze jako důkaz odmítnout jen proto, že obsahuje projevy osobní povahy. Pokud ale druhá strana zpochybní pravost, je to právě nedotčený originál, co ukáže, že úsek je jen výřez."
   - q: "Mohu odstranit hluk v pozadí jen z vystřiženého úseku?"
     a: "Ano. V TalkSafe nejdřív vystřihněte úsek a pak na tento soubor použijte odstranění šumu pomocí AI. Oba kroky ukládají nové soubory, takže vedle sebe máte originál, vystřižený úsek i vyčištěný úsek."
   - q: "Jak poslat zkrácenou nahrávku?"
-    a: "TalkSafe používá nabídku sdílení Androidu, takže vystřižený úsek může jít do jakékoli aplikace, která přijímá soubory — na váš e-mail, do cloudu, do chatovací aplikace nebo do počítače. Poslat soubor sobě znamená uschovat ho; poslat ho jiným znamená šířit ho, a pro to platí v Česku § 86 až 90 občanského zákoníku."
+    a: "TalkSafe používá nabídku sdílení Androidu nebo iPhonu, takže vystřižený úsek může jít do jakékoli aplikace, která přijímá soubory — na váš e-mail, do cloudu, do chatovací aplikace nebo do počítače. Poslat soubor sobě znamená uschovat ho; poslat ho jiným znamená šířit ho, a pro to platí v Česku § 86 až 90 občanského zákoníku."
+  - q: "Dá se na iPhonu nahrávka zkrátit a zachovat originál?"
+    a: "Ano. TalkSafe je aplikace pro nahrávání na Android a iPhone a zkracování funguje na iPhonu stejně: vybraný úsek se uloží jako nový soubor a původní nahrávka zůstane beze změny."
 ---
 
 Nahrávka trvá hodinu a čtyřicet minut. Potřebujete dvě minuty někde po první hodině.
@@ -71,7 +74,7 @@ Z toho plynou tři věci.
 
 - **Začátek si určíte sami.** TalkSafe začne nahrávat na předem zvolené slovo a uloží i **30 sekund předtím**, než zaznělo, takže soubor začíná o kousek dřív než daný okamžik. Střihem přesně určíte, kde výřez začíná, a celý úvod zůstane v originálu.
 - **Úsek lze vyčistit samostatně.** **Odstranění šumu pomocí AI** v TalkSafe funguje i na vystřiženém úseku. Nejdřív vystřihněte dvě minuty a vyčistěte jen ty: zpracování probíhá v zařízení a výsledek se uloží jako další nový soubor.
-- **Úsek může jít kamkoli.** Odesílání využívá **nabídku sdílení Androidu**, takže výřez jde do každé aplikace, která přijímá soubory: na váš e-mail, do cloudu, do počítače.
+- **Úsek může jít kamkoli.** Odesílání využívá **nabídku sdílení Androidu nebo iPhonu**, takže výřez jde do každé aplikace, která přijímá soubory: na váš e-mail, do cloudu, do počítače.
 
 ## Proč se uchovává originál
 

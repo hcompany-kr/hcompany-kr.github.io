@@ -4,6 +4,7 @@ ref: after-recording
 categories: cs
 permalink: /blog/cs/after-recording/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Návod
 title: "Co s nahrávkou dělat, a co s ní nedělat"
 description: "Jak soubor uchovat, zkrátit na to podstatné, vyčistit od hluku a kam ho předložit. A proč šíření nahrávky má v Česku i na Slovensku vlastní pravidla."
@@ -21,7 +22,7 @@ faq:
   - q: "Co dělat s nahrávkou plnou hluku v pozadí?"
     a: "Použijte na nahrávku nebo vystřižený úsek odstranění šumu pomocí AI v TalkSafe. Uloží novou verzi bez hluku v pozadí, zpracovanou v zařízení, a originál ponechá beze změny, takže můžete předložit vyčištěnou verzi a originál si ponechat vedle ní."
   - q: "Mám si soubor zálohovat?"
-    a: "Soubor, který je jen v jednom telefonu, zmizí spolu s ním. TalkSafe používá nabídku sdílení v Androidu, takže nahrávku lze poslat do jakékoli aplikace, která přijímá soubory — e-mailem sobě, do cloudu, do počítače."
+    a: "Soubor, který je jen v jednom telefonu, zmizí spolu s ním. TalkSafe používá nabídku sdílení v Androidu nebo iPhonu, takže nahrávku lze poslat do jakékoli aplikace, která přijímá soubory — e-mailem sobě, do cloudu, do počítače."
   - q: "Oslabí vystřižení nahrávku jako důkaz?"
     a: "Ne, pokud originál zůstane zachován. Předložit celý dvouhodinový soubor bývá horší, protože ten, kdo ho posuzuje, musí podstatnou část hledat sám. Krátký výňatek a nedotčený originál jsou silnější kombinace."
 ---
@@ -75,7 +76,7 @@ Postup, který se osvědčuje:
 
 Telefon se ztratí, rozbije nebo resetuje a všechno, co na něm bylo, zmizí naráz. Nejvíc to postihne soubory, které budete potřebovat až za několik měsíců.
 
-TalkSafe používá **nabídku sdílení v Androidu**, takže nahrávku lze poslat do jakékoli aplikace, která přijímá soubory — e-mailem sobě, do cloudu, do počítače.
+TalkSafe používá **nabídku sdílení v Androidu nebo iPhonu**, takže nahrávku lze poslat do jakékoli aplikace, která přijímá soubory — e-mailem sobě, do cloudu, do počítače.
 
 <figure class="shot"><img src="/assets/img/screens/before30-cs.jpg" alt="Historie nahrávek v TalkSafe. Pokaždé, když je rozpoznáno klíčové slovo, uloží se nahrávka s datem a časem." width="540" height="960" loading="lazy"><figcaption>Historie nahrávek. Každý soubor obsahuje i 30 sekund před rozpoznáním klíčového slova.</figcaption></figure>
 

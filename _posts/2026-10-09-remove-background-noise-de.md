@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: de
 permalink: /blog/de/remove-background-noise/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Anleitung
 title: "Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android"
 description: "Verkehr, Wind, ein Café im Rücken. Vier Wege, ein aufgenommenes Gespräch zu bereinigen – auf dem Telefon beim Aufnehmen, auf dem Telefon danach, am Computer oder per Upload – und welche davon mit Straßenlärm umgehen."
@@ -22,6 +23,8 @@ faq:
     a: "Nein. Webdienste wie Adobe Podcast Enhance Speech arbeiten per Upload, wodurch eine Kopie des Gesprächs an diesen Dienst geht. Werkzeuge, die auf dem Gerät arbeiten, wie die KI-Rauschentfernung von TalkSafe, verarbeiten die Datei stattdessen auf dem Telefon."
   - q: "Kann ich nur einen Teil der Aufnahme bereinigen?"
     a: "Ja. In TalkSafe schneiden Sie zuerst den benötigten Abschnitt aus – er wird als neue Datei gespeichert, das Original bleibt – und wenden dann die KI-Rauschentfernung auf diesen Abschnitt an."
+  - q: "Kann ich auf dem iPhone Hintergrundgeräusche aus einer Aufnahme entfernen?"
+    a: "Ja. TalkSafe ist eine Aufnahme-App für Android und iPhone, und die KI-Rauschentfernung funktioniert auf dem iPhone genauso: Sie läuft auf dem Gerät, entfernt Geräusche wie Straßenlärm und speichert eine bereinigte Kopie, das Original bleibt erhalten."
 ---
 
 Sie haben das Gespräch aufgenommen. Auf dem Heimweg hören Sie es an, und die Hälfte ist ein anfahrender Bus.

@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: nl
 permalink: /blog/nl/remove-background-noise/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Handleiding
 title: "Achtergrondgeluid uit een spraakopname halen op Android"
 description: "Verkeer, wind, een café achter je. Vier manieren om een opgenomen gesprek op te schonen — op de telefoon tijdens het opnemen, op de telefoon achteraf, op een computer of door het te uploaden — en welke daarvan straatlawaai aankunnen."
@@ -22,6 +23,8 @@ faq:
     a: "Nee. Webdiensten zoals Adobe Podcast Enhance Speech werken door het bestand te uploaden, waardoor een kopie van het gesprek naar die dienst gaat. Hulpmiddelen die op het toestel werken, zoals de AI-ruisonderdrukking van TalkSafe, verwerken het bestand op de telefoon."
   - q: "Kan ik maar een deel van een opname opschonen?"
     a: "Ja. In TalkSafe knip je eerst het stuk dat je nodig hebt — dat wordt als nieuw bestand bewaard en het origineel blijft — en pas je daarna de AI-ruisonderdrukking op dat fragment toe."
+  - q: "Kan ik op de iPhone achtergrondgeluid uit een opname halen?"
+    a: "Ja. TalkSafe is een opname-app voor Android en iPhone, en de ruisverwijdering met AI werkt op de iPhone op dezelfde manier: de verwerking gebeurt op het toestel, haalt geluid zoals straatlawaai weg en bewaart een opgeschoonde kopie naast het origineel."
 ---
 
 Je hebt het gesprek opgenomen. Je luistert het terug op weg naar huis, en de helft is een optrekkende bus.

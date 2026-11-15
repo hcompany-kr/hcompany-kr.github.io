@@ -4,6 +4,7 @@ ref: remove-background-noise
 categories: tr
 permalink: /blog/tr/remove-background-noise/
 date: 2026-10-09
+last_modified_at: 2026-11-15
 eyebrow: Nasıl yapılır
 title: "Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir"
 description: "Trafik, rüzgâr, arkada bir kafe. Kaydedilmiş bir konuşmayı temizlemenin dört yolu — kayıt sırasında telefonda, sonradan telefonda, bilgisayarda ya da yükleyerek — ve hangilerinin sokak gürültüsüyle başa çıktığı."
@@ -22,6 +23,8 @@ faq:
     a: "Hayır. Adobe Podcast Enhance Speech gibi web hizmetleri dosyayı yükleyerek çalışır; bu, konuşmanın bir kopyasını o hizmete gönderir. TalkSafe'in yapay zekâ ile gürültü giderme özelliği gibi cihazda çalışan araçlar ise dosyayı telefonda işler."
   - q: "Kaydın yalnızca bir kısmını temizleyebilir miyim?"
     a: "Evet. TalkSafe'te önce gereken bölümü kırpabilirsiniz — kırpılan bölüm yeni bir dosya olarak kaydedilir, orijinal kalır — ve sonra o bölüme yapay zekâ ile gürültü giderme uygularsınız."
+  - q: "iPhone'da bir kayıttaki arka plan gürültüsünü giderebilir miyim?"
+    a: "Evet. TalkSafe, Android ve iPhone için bir ses kayıt uygulamasıdır ve yapay zekâ gürültü giderme özelliği iPhone'da da aynı şekilde çalışır: işlem cihazda yapılır, sokak gürültüsü gibi sesleri temizler ve orijinali koruyarak temizlenmiş bir kopya kaydeder."
 ---
 
 Konuşmayı kaydettiniz. Eve dönerken dinliyorsunuz ve yarısı kalkan bir otobüsün sesi.

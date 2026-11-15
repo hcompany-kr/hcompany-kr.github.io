@@ -4,7 +4,7 @@ ref: after-recording
 categories: tr
 permalink: /blog/tr/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-10-08
+last_modified_at: 2026-11-15
 eyebrow: Nasıl yapılır
 title: "Bir kayıtla ne yapmalı, ne yapmamalı"
 description: "Dosyayı nasıl saklamalı, önemli kısma nasıl indirmeli ve nereye sunmalı. Ve Türkiye'de kaydı yaymanın neden kaydetmekten ayrı bir suç olduğu."
@@ -20,7 +20,7 @@ faq:
   - q: "Kaydı nereye sunmalıyım?"
     a: "Konuya göre değişir: işçilik alacaklarında iş mahkemesine gitmeden önce zorunlu arabuluculuğa, tüketici uyuşmazlıklarında tüketici hakem heyetine ya da tüketici mahkemesine, suç teşkil eden durumlarda savcılığa ya da kolluğa. Her durumda ilgili bölümü, içinde ne olduğunu anlatan bir notla birlikte sunmak işi kolaylaştırır."
   - q: "Dosyanın yedeğini almalı mıyım?"
-    a: "Yalnızca bir telefonda duran dosya o telefonla birlikte kaybolur. TalkSafe Android'in paylaşım menüsünü kullanır; kayıt, dosya kabul eden her uygulamaya gönderilebilir: kendinize e-posta, bulut depolama, bir bilgisayar."
+    a: "Yalnızca bir telefonda duran dosya o telefonla birlikte kaybolur. TalkSafe Android'in veya iPhone'un paylaşım menüsünü kullanır; kayıt, dosya kabul eden her uygulamaya gönderilebilir: kendinize e-posta, bulut depolama, bir bilgisayar."
   - q: "Kırpmak kaydı delil olarak zayıflatır mı?"
     a: "Orijinal korunuyorsa hayır. İki saatlik tam bir dosya sunmak genellikle daha kötüdür, çünkü inceleyen kişi ilgili kısmı kendisi bulmak zorunda kalır. Kısa bir kesit ile dokunulmamış orijinal en güçlü birleşimdir."
   - q: "Arka plan gürültüsüyle dolu bir kayıtla ne yapmalı?"
@@ -77,7 +77,7 @@ Aynısı **yapay zekâ ile gürültü giderme** için de geçerlidir. Kayıt sok
 
 Telefon kaybolur, bozulur ya da sıfırlanır ve içindeki her şey bir anda gider. Bu en çok aylar sonra ihtiyaç duyulacak dosyaları etkiler.
 
-TalkSafe **Android'in paylaşım menüsünü** kullanır; kayıt, dosya kabul eden her uygulamaya gönderilebilir: kendinize e-posta, bulut depolama, bir bilgisayar.
+TalkSafe **Android'in veya iPhone'un paylaşım menüsünü** kullanır; kayıt, dosya kabul eden her uygulamaya gönderilebilir: kendinize e-posta, bulut depolama, bir bilgisayar.
 
 Ve bu ilk maddeye geri bağlanır. **Dosyayı kendinize göndermek saklamaktır. Başkasına göndermek yaymaktır.** Aynı düğme, farklı fiil.
 

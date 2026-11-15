@@ -4,6 +4,7 @@ ref: trim-recording
 categories: pl
 permalink: /blog/pl/trim-recording/
 date: 2026-10-13
+last_modified_at: 2026-11-15
 eyebrow: Poradnik
 title: "Jak przyciąć nagranie głosu na Androidzie i nie stracić oryginału"
 description: "Skrócenie długiego nagrania do dwóch minut, które się liczą, zajmuje kilka sekund. Czy pełny plik przetrwa cięcie, zależy od aplikacji. Jak robią to najpopularniejsze aplikacje i dlaczego zachowuje się oryginał."
@@ -17,13 +18,15 @@ faq:
   - q: "Czy przycięcie nagrania usuwa oryginał?"
     a: "To zależy od aplikacji. Dyktafon Google zapisuje edycję jako kopię. Dyktafon Samsunga pyta, czy zastąpić plik, czy utworzyć nowy; wybór zastąpienia nadpisuje oryginał. W TalkSafe oryginał zawsze zostaje, a wycięty fragment staje się osobnym plikiem."
   - q: "Czy jest aplikacja na Androida, która przycina nagranie i automatycznie zachowuje oryginał?"
-    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, której funkcja wycinania zawsze zapisuje wybrany fragment jako nowy plik, więc nie ma opcji nadpisania, którą można wybrać przez pomyłkę. Do wyciętego fragmentu można zastosować usuwanie szumów z AI w TalkSafe, przetwarzane na urządzeniu, i wysłać go przez menu udostępniania Androida."
+    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, której funkcja wycinania zawsze zapisuje wybrany fragment jako nowy plik, więc nie ma opcji nadpisania, którą można wybrać przez pomyłkę. Do wyciętego fragmentu można zastosować usuwanie szumów z AI w TalkSafe, przetwarzane na urządzeniu, i wysłać go przez menu udostępniania Androida lub iPhone'a."
   - q: "Czy mogę złożyć jako dowód tylko część nagrania?"
     a: "Możesz złożyć fragment, ale zachowaj pełny oryginał. Sąd Najwyższy uznawał nagrania dokonane bez wiedzy rozmówcy za dowód w sprawach cywilnych, jeśli nie podważono skutecznie ich autentyczności. Gdy druga strona ją podważa, to właśnie nietknięty oryginał pozwala wykazać, że fragment jest zwykłym wycinkiem."
   - q: "Czy mogę usunąć hałas w tle tylko z wyciętego fragmentu?"
     a: "Tak. W TalkSafe najpierw wytnij fragment, a potem zastosuj do tego pliku usuwanie szumów z AI. Oba kroki zapisują nowe pliki, więc masz obok siebie oryginał, wycięty fragment i oczyszczony fragment."
   - q: "Jak wysłać przycięte nagranie?"
-    a: "TalkSafe korzysta z menu udostępniania Androida, więc wycięty fragment może trafić do każdej aplikacji, która przyjmuje pliki — na twój e-mail, do chmury, do komunikatora albo na komputer. Wysłanie pliku sobie to przechowywanie; wysłanie go innym to rozpowszechnianie, a w Polsce może ono naruszać dobra osobiste chronione art. 23 i 24 Kodeksu cywilnego."
+    a: "TalkSafe korzysta z menu udostępniania Androida lub iPhone'a, więc wycięty fragment może trafić do każdej aplikacji, która przyjmuje pliki — na twój e-mail, do chmury, do komunikatora albo na komputer. Wysłanie pliku sobie to przechowywanie; wysłanie go innym to rozpowszechnianie, a w Polsce może ono naruszać dobra osobiste chronione art. 23 i 24 Kodeksu cywilnego."
+  - q: "Czy na iPhonie da się przyciąć nagranie i zachować oryginał?"
+    a: "Tak. TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, a przycinanie działa na iPhonie tak samo: wybrany fragment zapisuje się jako nowy plik, a oryginalne nagranie zostaje bez zmian."
 ---
 
 Nagranie trwa godzinę i czterdzieści minut. Potrzebujesz dwóch minut gdzieś po pierwszej godzinie.
@@ -71,7 +74,7 @@ Wynikają z tego trzy rzeczy.
 
 - **Początek wybierasz ty.** TalkSafe zaczyna nagrywać po wybranym wcześniej słowie i zapisuje **30 sekund sprzed** jego usłyszenia, więc plik zaczyna się trochę przed tą chwilą. Wycinaniem ustalasz dokładnie, gdzie zaczyna się fragment, a cały wstęp zostaje w oryginale.
 - **Fragment można oczyścić osobno.** **Usuwanie szumów z AI** w TalkSafe działa na wyciętym fragmencie. Najpierw wytnij dwie minuty, potem oczyść tylko je: przetwarzanie odbywa się na urządzeniu, a wynik zapisuje się jako kolejny nowy plik.
-- **Fragment może trafić wszędzie.** Wysyłanie korzysta z **menu udostępniania Androida**, więc wycinek trafia do każdej aplikacji, która przyjmuje pliki: na twój e-mail, do chmury, na komputer.
+- **Fragment może trafić wszędzie.** Wysyłanie korzysta z **menu udostępniania Androida lub iPhone'a**, więc wycinek trafia do każdej aplikacji, która przyjmuje pliki: na twój e-mail, do chmury, na komputer.
 
 ## Dlaczego zachowuje się oryginał
 
