@@ -125,4 +125,6 @@ Czy można nagrać wizytę u lekarza i co dostać na piśmie: [Nagrywanie wizyty
 
 Co z ustaleniami z rozmowy kwalifikacyjnej, których nie ma w umowie o pracę — art. 29 i 281 Kodeksu pracy — opisuje [Umowa o pracę inna niż ustalenia z rozmowy kwalifikacyjnej: co mówi prawo w Polsce](/blog/pl/umowa-o-prace-inna-niz-ustalenia/).
 
+Co ustalono przed rozwodem i co trafia do porozumienia i wyroku: [Rozwód za porozumieniem stron: to, co ustaliliście przy stole, liczy się dopiero w porozumieniu i w wyroku](/blog/pl/rozwod-za-porozumieniem-stron/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna. Orzecznictwo i przepisy sprawdzono w dniu publikacji; mogą się zmienić. W konkretnej sprawie skonsultuj się z adwokatem lub radcą prawnym.</p>

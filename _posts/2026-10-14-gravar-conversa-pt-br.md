@@ -144,4 +144,6 @@ Se gravar consulta médica é crime e o que pedir por escrito: [Gravar consulta 
 
 O que foi combinado na entrevista de emprego e não aparece no contrato — CTPS, promessa frustrada e Código do Trabalho — está em [Contrato de trabalho diferente do combinado na entrevista: o que vale no Brasil e em Portugal](/blog/pt-br/contrato-diferente-do-combinado/).
 
+O que foi combinado antes do divórcio consensual e por que só vale o que entra na escritura ou no acordo: [Divórcio consensual: o que foi combinado na conversa só vale se entrar na escritura ou no acordo](/blog/pt-br/divorcio-consensual/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não aconselhamento jurídico. As decisões citadas foram verificadas na data de publicação; a jurisprudência muda. Para um caso concreto, consulte um advogado no Brasil ou em Portugal.</p>

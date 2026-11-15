@@ -147,6 +147,8 @@ Ob man das Arztgespräch aufnehmen darf und was man schriftlich bekommt: [Arztge
 
 Was im Vorstellungsgespräch zugesagt wurde und im Arbeitsvertrag fehlt – Nachweisgesetz, Dienstzettel, Art. 330b OR –, steht in [Arbeitsvertrag anders als im Vorstellungsgespräch besprochen: was in Deutschland, Österreich und der Schweiz gilt](/blog/de/arbeitsvertrag-anders-als-besprochen/).
 
+Was am Küchentisch über Unterhalt, Haus und Rente gesagt wurde und warum es vor der Scheidung den Notar oder das Gericht braucht: [Einvernehmliche Scheidung: Was am Küchentisch vereinbart wurde, gilt erst beim Notar oder vor Gericht – Deutschland, Österreich, Schweiz](/blog/de/einvernehmliche-scheidung/).
+
 ## Quellen
 
 - [§ 201 StGB – Verletzung der Vertraulichkeit des Wortes (Gesetze im Internet, BMJ)](https://www.gesetze-im-internet.de/stgb/__201.html)

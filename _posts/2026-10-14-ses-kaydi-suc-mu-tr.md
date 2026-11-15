@@ -134,4 +134,6 @@ Doktor muayenesini kaydetmek ve izin yoksa ne yapılacağı: [Doktor muayenesini
 
 Mülakatta söylenip iş sözleşmesine girmeyen koşullar ve İş Kanunu'nun 8. maddesi için: [İş sözleşmesi mülakatta söylenenden farklıysa: Türkiye'de yazılı belge, ispat ve ses kaydı](/blog/tr/is-sozlesmesi-mulakattan-farkli/).
 
+Anlaşmalı boşanmada protokol, hâkimin onayı ve önceden konuşulanlar: [Anlaşmalı boşanma: Mutfak masasında konuşulanlar protokole yazılmadıkça geçerli değil](/blog/tr/anlasmali-bosanma/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir. Yargıtay'ın istisnası somut olaya göre değerlendirilir; somut bir durum için bir avukata danışın.</p>

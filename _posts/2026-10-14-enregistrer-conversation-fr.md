@@ -150,4 +150,6 @@ Enregistrer une consultation chez le médecin, et ce qu'on peut obtenir par écr
 
 Ce qui a été promis à l'entretien d'embauche et ne figure pas dans le contrat — offre ou promesse, informations écrites — est traité dans [Le contrat de travail ne reprend pas ce qui a été promis à l'entretien : France, Belgique, Suisse et Québec](/blog/fr/contrat-different-entretien-embauche/).
 
+Ce qui a été dit sur l'argent et les enfants avant un divorce par consentement mutuel, et pourquoi seule la convention compte : [Divorce par consentement mutuel : ce qui a été dit à la table de la cuisine ne compte que dans la convention](/blog/fr/divorce-par-consentement-mutuel/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Les décisions citées ont été vérifiées à la date de publication ; la jurisprudence évolue. Pour un cas précis, consultez un avocat.</p>

@@ -128,4 +128,6 @@ What to do with a recording afterwards is covered [separately](/blog/en/after-re
 
 **And record only rooms you are in.** Past that line it stops being evidence and becomes a case against you.
 
+Germany, Austria and Switzerland are covered in [the German edition](/blog/de/einvernehmliche-scheidung/), France, Belgium, Switzerland and Quebec in [the French edition](/blog/fr/divorce-par-consentement-mutuel/), Turkey in [the Turkish edition](/blog/tr/anlasmali-bosanma/), Brazil and Portugal in [the Portuguese edition](/blog/pt-br/divorcio-consensual/), Poland in [the Polish edition](/blog/pl/rozwod-za-porozumieniem-stron/), the Netherlands and Belgium in [the Dutch edition](/blog/nl/echtscheidingsconvenant/), the Czech Republic, with the 2026 agreed-divorce reform, and Slovakia in [the Czech edition](/blog/cs/rozvod-dohodou/), and India, with section 13B mutual-consent divorce, in [the Hindi edition](/blog/hi/mutual-divorce/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. Family law differs by jurisdiction and by state or province. For a specific situation, consult a family lawyer where you live.</p>

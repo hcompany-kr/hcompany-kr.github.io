@@ -130,4 +130,6 @@ Of je een gesprek met je arts of bedrijfsarts mag opnemen: [Gesprek met je arts 
 
 Wat in het sollicitatiegesprek is toegezegd en niet in het contract staat — art. 7:655 BW en de Belgische wet van 2022 — lees je in [Arbeidsovereenkomst anders dan afgesproken in het sollicitatiegesprek: wat geldt in Nederland en België](/blog/nl/arbeidsovereenkomst-anders-dan-afgesproken/).
 
+Wat er vóór de scheiding is afgesproken en waarom alleen het convenant telt: [Echtscheidingsconvenant: wat aan de keukentafel is afgesproken, telt pas als het in het convenant staat](/blog/nl/echtscheidingsconvenant/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. De genoemde uitspraken zijn gecontroleerd op de datum van publicatie; de rechtspraak ontwikkelt zich. Raadpleeg voor een concreet geval een advocaat.</p>

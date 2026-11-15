@@ -129,4 +129,6 @@ Kdy lze nahrávat lékaře a co říká návrh metodiky ministerstva: [Nahrává
 
 Co zaznělo na pohovoru a chybí v pracovní smlouvě — § 34 a § 37 zákoníku práce — popisuje [Pracovní smlouva jinak, než se domluvilo na pohovoru: co platí v Česku a na Slovensku](/blog/cs/pracovni-smlouva-jinak-nez-na-pohovoru/).
 
+Co zaznělo před rozvodem a proč platí jen dohody — smluvený rozvod od roku 2026: [Rozvod dohodou (smluvený rozvod): co jste si řekli u stolu, platí až v dohodě s ověřenými podpisy](/blog/cs/rozvod-dohodou/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. Uvedená rozhodnutí a předpisy byly ověřeny ke dni zveřejnění; judikatura se vyvíjí. V konkrétní věci se obraťte na advokáta.</p>
