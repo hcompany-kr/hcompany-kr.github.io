@@ -4,6 +4,7 @@ ref: call-recording-android
 categories: it
 permalink: /blog/it/call-recording-android/
 date: 2026-09-04
+last_modified_at: 2026-11-16
 eyebrow: Come si fa
 title: "Perché le app per registrare le chiamate non funzionano più su Android"
 description: "Android ha tolto l'API nel 2015, chiuso la via del microfono nel 2019 e a maggio 2022 Google ha tappato l'ultima scorciatoia. Il dialer di serie non è mai rientrato nel divieto, ed è per questo che ad alcuni funziona e ad altri no."
@@ -15,7 +16,7 @@ faq:
   - q: "Allora perché sul telefono di un'altra persona funziona?"
     a: "La policy del 2022 riguarda le app di terze parti, non il dialer preinstallato sul telefono. La registrazione integrata è documentata su dispositivi specifici di Samsung, Vivo, Xiaomi, OnePlus e Motorola, e su alcuni modelli Pixel tramite Google Phone. Nulla di tutto questo è stato toccato dalla policy, e continua a funzionare dove viene offerta."
   - q: "In quali paesi e su quali telefoni è disponibile?"
-    a: "Dipende dal produttore, dal modello e dalla regione, e cambia nel tempo. Viene documentato un funzionamento stabile in mercati come India, Indonesia, Sudafrica e parte dell'America Latina. Google la offre su Pixel 6 e successivi negli Stati Uniti, nel Regno Unito e in altri paesi, e Pixel 9 e successivi, escluso il 9a, aggiungono Call Notes con trascrizione negli Stati Uniti, Regno Unito, Canada, Irlanda, Australia e Giappone."
+    a: "Dipende dal produttore, dal modello e dalla regione, e cambia nel tempo. Viene documentato un funzionamento stabile in mercati come India, Indonesia, Sudafrica e parte dell'America Latina. Google l'ha portata all'inizio del 2026 nell'app Telefono dei Pixel 6 e successivi in tutti i mercati in cui Pixel è venduto, con un avviso vocale per tutti i partecipanti, anche se può variare per paese o regione; i Pixel 9 e successivi, esclusa la serie A, aggiungono Call Notes con trascrizione e riassunto negli Stati Uniti, in Australia, Canada, India, Irlanda e Giappone."
   - q: "Perché in alcuni paesi non c'è?"
     a: "Per le leggi che richiedono il consenso di tutti i partecipanti e per le politiche degli operatori. Dove serve che tutti acconsentano prima di registrare, un produttore che includa di serie una registrazione silenziosa si espone in quel mercato, quindi la funzione viene disattivata o non c'è affatto."
   - q: "La registrazione integrata avvisa l'altra persona?"
@@ -58,7 +59,7 @@ Dipende da produttore, modello e regione, e si muove. Da leggere come una fotogr
 
 Viene documentato un funzionamento stabile in mercati come **India, Indonesia, Sudafrica e parte dell'America Latina.**
 
-**Google** la offre su **Pixel 6 e successivi** negli Stati Uniti, nel Regno Unito e in altri paesi. **Pixel 9 e successivi**, escluso il 9a, aggiungono **Call Notes** con trascrizione negli Stati Uniti, Regno Unito, Canada, Irlanda, Australia e Giappone.
+**Google** l'ha portata all'inizio del 2026 nell'app Telefono dei **Pixel 6 e successivi** in tutti i mercati in cui Pixel è venduto; tutti i partecipanti sentono un avviso vocale, e può variare per paese o regione. I **Pixel 9 e successivi**, esclusa la serie A, aggiungono **Call Notes** con trascrizione e riassunto negli Stati Uniti, in Australia, Canada, India, Irlanda e Giappone.
 
 **Samsung** ha aggiunto la registrazione delle chiamate negli **Stati Uniti** con un aggiornamento One UI, sui Galaxy S25, S24, S23, Z Fold e Flip 5 e 6 e su alcuni modelli della serie A.
 

@@ -4,6 +4,7 @@ ref: call-recording-android
 categories: en
 permalink: /blog/en/call-recording-android/
 date: 2026-09-04
+last_modified_at: 2026-11-16
 eyebrow: How to
 title: "Why call recording stopped working on your Android, and what still does"
 description: "Android removed the API in 2015, blocked the microphone route in 2019, and Google closed the accessibility loophole in May 2022. Built-in dialers were never affected — whether yours has it depends on the phone and the country."
@@ -17,7 +18,7 @@ faq:
   - q: "Why does my friend's phone still record calls then?"
     a: "The 2022 policy applies to third-party apps, not to the dialer that came with the phone. Built-in call recording is reported on select devices from Samsung, Vivo, Xiaomi, OnePlus and Motorola, as well as certain Pixel models through Google Phone. None of it was affected by the policy, and it continues to work where it is offered."
   - q: "Which phones and countries have built-in call recording?"
-    a: "It varies by manufacturer, model and region, and it changes. Reporting places reliable native call recording in markets including India, Indonesia, South Africa and parts of Latin America. Google has offered it on Pixel 6 and later in the US, the UK and several other countries, with Call Notes and transcription on Pixel 9 and later excluding the 9a in the US, UK, Canada, Ireland, Australia and Japan. Samsung added call recording in the US through a One UI update on the Galaxy S25, S24, S23, Z Fold and Flip 5 and 6, and selected A-series devices."
+    a: "It varies by manufacturer, model and region, and it changes. Reporting places reliable native call recording in markets including India, Indonesia, South Africa and parts of Latin America. Google says call recording in the Phone app on Pixel 6 and later reached all markets where Pixel is sold by early 2026, with a spoken notice to everyone on the call, though it can still vary by country or region; Call Notes with transcription and summaries runs on Pixel 9 and later, excluding the A-series, in the US, Australia, Canada, India, Ireland and Japan. Samsung added call recording in the US through a One UI update on the Galaxy S25, S24, S23, Z Fold and Flip 5 and 6, and selected A-series devices."
   - q: "Why is it missing in some countries?"
     a: "Two-party consent laws and carrier policies. In places where every participant must agree before a call can be recorded, shipping a silent recorder by default creates a legal problem for the manufacturer, so the feature is disabled or absent."
   - q: "Does built-in recording announce itself?"
@@ -60,7 +61,7 @@ This varies by manufacturer, model and region, and it moves. Treat the following
 
 Native call recording is reported as working reliably in markets including **India, Indonesia, South Africa and parts of Latin America.**
 
-**Google** has offered it on **Pixel 6 and later** in the US, the UK and several other countries. **Pixel 9 and later**, excluding the 9a, add **Call Notes** with transcription, currently in the US, UK, Canada, Ireland, Australia and Japan.
+**Google** brought call recording in the Phone app to **Pixel 6 and later** in all markets where Pixel is sold by early 2026; everyone on the call hears a spoken notice, and availability can still vary by country or region. **Pixel 9 and later**, excluding the A-series, add **Call Notes** with transcription and summaries in the US, Australia, Canada, India, Ireland and Japan.
 
 **Samsung** added call recording in the **US** through a One UI update, on the **Galaxy S25, S24, S23, Z Fold and Flip 5 and 6**, and selected A-series devices.
 

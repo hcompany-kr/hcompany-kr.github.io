@@ -4,18 +4,19 @@ ref: workplace-harassment
 categories: pl
 permalink: /blog/pl/mobbing/
 date: 2026-10-18
+last_modified_at: 2026-11-16
 eyebrow: Praca
 title: "Jak udowodnić mobbing w pracy? Nagrywanie, świadkowie i nowa definicja od 5 listopada 2026"
-description: "Art. 94³ Kodeksu pracy wymaga dziś wykazania uporczywego i długotrwałego nękania. Od 5 listopada 2026 r. definicja się zmienia: wystarczy uporczywe nękanie, a minimalne zadośćuczynienie rośnie. Nagranie własnej rozmowy jest w Polsce dozwolone i może być dowodem."
+description: "Od 5 listopada 2026 r. art. 94³ Kodeksu pracy opiera definicję mobbingu na uporczywym nękaniu, bez wymogu długotrwałości, a minimalne zadośćuczynienie wzrosło do sześciokrotności minimalnego wynagrodzenia. Nagranie własnej rozmowy jest w Polsce dozwolone i może być dowodem."
 image: /assets/img/og/mobbing-pl.png
 image_alt: "Mobbing w Polsce: od 5 listopada 2026 r. nowa definicja w art. 94³ k.p. bez wymogu długotrwałości; nagranie własnej rozmowy z przełożonym jest dozwolone i może być dowodem; zgłoszenie do pracodawcy, PIP lub sądu pracy."
 app: true
 app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Czym jest mobbing według Kodeksu pracy?"
-    a: "Do 4 listopada 2026 r. art. 94³ § 2 Kodeksu pracy definiuje mobbing jako działania lub zachowania dotyczące pracownika lub skierowane przeciwko niemu, polegające na uporczywym i długotrwałym nękaniu lub zastraszaniu, wywołujące zaniżoną ocenę przydatności zawodowej, powodujące lub mające na celu poniżenie lub ośmieszenie pracownika, izolowanie go lub wyeliminowanie z zespołu. Pracodawca jest obowiązany przeciwdziałać mobbingowi (art. 94³ § 1)."
-  - q: "Co zmienia się od 5 listopada 2026 r.?"
-    a: "Nowelizacja ogłoszona w Dzienniku Ustaw 4 sierpnia 2026 r. (poz. 1046) wchodzi w życie 5 listopada 2026 r. Według opisów ustawy definicja opiera się na uporczywym nękaniu, czyli powtarzalnym, nawracającym lub stałym, bez odrębnego wymogu długotrwałości; minimalne zadośćuczynienie ma wynosić sześciokrotność minimalnego wynagrodzenia, a pracodawcy zatrudniający co najmniej 10 osób mają określić zasady przeciwdziałania mobbingowi, z czasem na dostosowanie do 5 maja 2027 r."
+    a: "Od 5 listopada 2026 r. art. 94³ § 2 Kodeksu pracy opiera definicję mobbingu na uporczywym nękaniu pracownika, czyli zachowaniach powtarzalnych, nawracających lub stałych, bez odrębnego wymogu długotrwałości. Do 4 listopada 2026 r. definiował go jako działania lub zachowania dotyczące pracownika lub skierowane przeciwko niemu, polegające na uporczywym i długotrwałym nękaniu lub zastraszaniu, wywołujące zaniżoną ocenę przydatności zawodowej, powodujące lub mające na celu poniżenie lub ośmieszenie pracownika, izolowanie go lub wyeliminowanie z zespołu. Pracodawca jest obowiązany przeciwdziałać mobbingowi (art. 94³ § 1)."
+  - q: "Co zmieniło się 5 listopada 2026 r.?"
+    a: "Nowelizacja ogłoszona w Dzienniku Ustaw 4 sierpnia 2026 r. (poz. 1046) weszła w życie 5 listopada 2026 r. Według opisów ustawy definicja opiera się na uporczywym nękaniu, czyli powtarzalnym, nawracającym lub stałym, bez odrębnego wymogu długotrwałości; minimalne zadośćuczynienie wynosi sześciokrotność minimalnego wynagrodzenia, a pracodawcy zatrudniający co najmniej 10 osób mają określić zasady przeciwdziałania mobbingowi, z czasem na dostosowanie do 5 maja 2027 r."
   - q: "Czy mogę nagrać przełożonego, żeby udowodnić mobbing?"
     a: "Rozmowę, w której uczestniczysz, co do zasady tak. Art. 267 § 3 Kodeksu karnego dotyczy posługiwania się urządzeniem podsłuchowym w celu uzyskania informacji, do której nie jest się uprawnionym, a uczestnik rozmowy jest uprawniony do tego, co mówi się do niego. Sąd Najwyższy uznawał nagrania dokonane bez wiedzy rozmówcy za dowód w sprawach cywilnych, jeśli nie podważono skutecznie ich autentyczności."
   - q: "Jakie roszczenia przysługują ofierze mobbingu?"
@@ -39,28 +40,28 @@ Wieczorem zostaje jedno pytanie: jak ja to udowodnię?
 | Obowiązki pracodawcy | Przeciwdziałać mobbingowi (§ 1) | Pracodawcy od 10 osób: zasady i procedury antymobbingowe (do 5 maja 2027 r.) |
 | Nagranie własnej rozmowy | Dozwolone (art. 267 § 3 k.k.) | Bez zmian |
 
-## Co mówi Kodeks pracy dziś
+## Co mówił Kodeks pracy do 4 listopada 2026 r.
 
 **Art. 94³ § 1 Kodeksu pracy:** pracodawca jest obowiązany **przeciwdziałać mobbingowi**.
 
-**§ 2** definiuje mobbing jako działania lub zachowania dotyczące pracownika lub skierowane przeciwko niemu, polegające na **uporczywym i długotrwałym nękaniu lub zastraszaniu**, wywołujące zaniżoną ocenę przydatności zawodowej, powodujące lub mające na celu poniżenie lub ośmieszenie pracownika, izolowanie go lub wyeliminowanie z zespołu.
+**§ 2** definiował mobbing jako działania lub zachowania dotyczące pracownika lub skierowane przeciwko niemu, polegające na **uporczywym i długotrwałym nękaniu lub zastraszaniu**, wywołujące zaniżoną ocenę przydatności zawodowej, powodujące lub mające na celu poniżenie lub ośmieszenie pracownika, izolowanie go lub wyeliminowanie z zespołu.
 
-Roszczenia:
+Roszczenia według dawnego brzmienia:
 
 - **§ 3 — zadośćuczynienie** dla pracownika, u którego mobbing wywołał **rozstrój zdrowia**.
 - **§ 4 — odszkodowanie** w wysokości **nie niższej niż minimalne wynagrodzenie** dla pracownika, który z powodu mobbingu **rozwiązał umowę**.
 
 Przez lata najtrudniejsze było wykazanie wszystkich elementów naraz — uporczywości, długotrwałości, celu i skutku.
 
-## Co zmienia się 5 listopada 2026 r.
+## Co zmieniło się 5 listopada 2026 r.
 
-Sejm uchwalił nowelizację **19 czerwca 2026 r.**, prezydent podpisał ją **30 lipca**, a ustawa została ogłoszona **4 sierpnia 2026 r. (Dz.U. poz. 1046)**. Przepisy wchodzą w życie **5 listopada 2026 r.**
+Sejm uchwalił nowelizację **19 czerwca 2026 r.**, prezydent podpisał ją **30 lipca**, a ustawa została ogłoszona **4 sierpnia 2026 r. (Dz.U. poz. 1046)**. Przepisy weszły w życie **5 listopada 2026 r.**
 
 Według opisów ustawy:
 
 - definicja opiera się na **uporczywym nękaniu**, czyli **powtarzalnym, nawracającym lub stałym** — **bez odrębnego wymogu długotrwałości**;
 - zachowania mogą pochodzić od przełożonego, współpracownika, podwładnego lub innej osoby wykonującej pracę;
-- **minimalne zadośćuczynienie** ma wynosić **sześciokrotność minimalnego wynagrodzenia**;
+- **minimalne zadośćuczynienie** wynosi **sześciokrotność minimalnego wynagrodzenia**;
 - pracodawcy zatrudniający **co najmniej 10 osób** muszą określić zasady i procedury przeciwdziałania mobbingowi, dyskryminacji i naruszaniu godności; na dostosowanie mają czas **do 5 maja 2027 r.**
 
 Opisy pochodzą z komentarzy do ustawy; przed powołaniem się na szczegóły sprawdź tekst Dz.U. 2026 poz. 1046.
