@@ -4,6 +4,7 @@ ref: divorce-agreement
 categories: es
 permalink: /blog/es/convenio-divorcio/
 date: 2026-08-28
+last_modified_at: 2026-11-17
 eyebrow: Familia
 title: "Lo que se pacta en el divorcio no se ejecuta hasta que alguien lo aprueba"
 description: "El convenio regulador solo puede hacerse efectivo por la vía de apremio desde su aprobación judicial o desde la escritura pública. Cómo funciona en España, México, Argentina y Chile, y qué pasa con lo que se habló y no se firmó."
@@ -20,8 +21,8 @@ faq:
     a: "Sí, cuando cambian las circunstancias del obligado o las necesidades del hijo, mediante una nueva solicitud ante el tribunal competente. En México la Suprema Corte ha señalado que la modificación de lo pactado no queda a discreción de quien la pide, sino que debe atender al contexto de ambas partes y a las reglas de proporcionalidad alimentaria."
   - q: "¿Los acuerdos sobre los hijos tienen el mismo margen que los patrimoniales?"
     a: "No. En materias que afectan a menores la autoridad revisa el contenido y puede rechazarlo. En España el juez aprueba salvo que los acuerdos sean dañosos para los hijos o gravemente perjudiciales para uno de los cónyuges, y con menores interviene el Ministerio Fiscal."
-  - q: "¿Puedo instalar una grabadora en el móvil de mi pareja para conseguir pruebas?"
-    a: "No. Lo que se capta así son en su mayoría conversaciones en las que no participas, y eso es captación ajena, no grabación propia. Es delito en todos los países de este artículo, la prueba se excluye, y que la otra persona se entere o no es irrelevante: la infracción se consuma al captar."
+  - q: "¿Puedo grabar una conversación con mi pareja?"
+    a: "Grabar una conversación en la que participas es lícito en España y en buena parte de Hispanoamérica, con matices que cambian según el país. Una conversación cara a cara o una llamada con tu pareja es una conversación en la que participas. Una grabación se aporta a un procedimiento, no se enseña a la familia."
 ---
 
 En los divorcios de mutuo acuerdo hay un momento que casi nadie identifica bien: **el momento en que lo hablado pasa a ser exigible.**
@@ -90,15 +91,9 @@ Como también se guardan los **30 segundos anteriores**, una frase que registras
 
 Después escribes el mensaje sabiendo qué poner. **Lo que vincula es lo escrito; la grabación sirve para escribirlo con precisión.**
 
-## La línea que no hay que cruzar
-
-La búsqueda más frecuente antes de un divorcio es cómo conseguir pruebas, y aquí hay un límite claro.
+## Grabar tus propias conversaciones con tu pareja
 
 **Grabar una conversación en la que participas** es lícito en España y en buena parte de Hispanoamérica, aunque con matices que cambian según el país — está desglosado en [el repaso país por país](https://hcompany-kr.github.io/blog/es/grabar-latinoamerica/) y, para España, en [este artículo](https://hcompany-kr.github.io/blog/es/recording-consent-law/).
-
-**Grabar conversaciones en las que no estás es otra cosa.** Instalar una grabadora en el móvil de tu pareja, dejar un dispositivo en su coche, esconder un aparato en una habitación de la que sales: lo que se capta así son conversaciones ajenas. Eso es delito en todos los países de esta página, la prueba se excluye, y además contamina la credibilidad de todo lo demás que aportes.
-
-**Que la otra persona se entere o no es irrelevante.** La infracción se consuma al captar.
 
 Sobre qué hacer con el archivo después hay [una guía aparte](https://hcompany-kr.github.io/blog/es/after-recording/), y en asuntos de familia una regla importa más que ninguna: **una grabación se aporta a un procedimiento, no se enseña a la familia.**
 

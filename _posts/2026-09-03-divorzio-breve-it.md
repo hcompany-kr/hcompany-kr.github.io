@@ -4,6 +4,7 @@ ref: divorce-agreement
 categories: it
 permalink: /blog/it/divorzio-breve/
 date: 2026-09-03
+last_modified_at: 2026-11-17
 eyebrow: Famiglia
 title: "I tempi si sono accorciati. Gli accordi no."
 description: "Sei mesi dalla separazione consensuale, negoziazione assistita, separazione e divorzio in un solo atto. La procedura è diventata rapida, ma cosa vi siete detti su soldi e figli resta la parte lenta."
@@ -23,7 +24,7 @@ faq:
   - q: "Gli accordi presi a voce durante la trattativa contano?"
     a: "Contano per costruire l'intesa, ma ciò che produce effetti è il testo che viene depositato e omologato o approvato. Quello che è stato promesso in una conversazione e non è finito nell'accordo non è azionabile allo stesso modo."
   - q: "Posso registrare le conversazioni con l'altro coniuge?"
-    a: "Registrare una conversazione a cui si partecipa è lecito e la registrazione ha valore di prova documentale. È invece illecito registrare una conversazione tra altri, alla quale non si prende parte, e installare un dispositivo per farlo non diventa lecito perché si tratta del coniuge."
+    a: "Registrare una conversazione a cui si partecipa è lecito e la registrazione ha valore di prova documentale."
 ---
 
 Fino al 2015 servivano tre anni. Oggi ne bastano sei mesi, e in certi casi non serve nemmeno andare davanti a un giudice.
@@ -91,8 +92,6 @@ Il problema è sempre lo stesso — capisci che quella frase andava tenuta solo 
 [TalkSafe](https://hcompany-kr.github.io/talksafe/) parte da una parola scelta in anticipo, **funziona a schermo bloccato**, e salva anche i **30 secondi precedenti** all'avvio.
 
 <figure class="shot"><img src="/assets/img/screens/keywords-it.jpg" alt="Schermata delle parole chiave di TalkSafe. Le parole si aggiungono con il pulsante del microfono e compaiono in un elenco." width="540" height="960" loading="lazy"><figcaption>Impostazioni delle parole chiave. Puoi registrarne diverse; basta che ne venga rilevata una perché la registrazione parta.</figcaption></figure>
-
-Una precisazione che qui è necessaria. Registrare una conversazione a cui **partecipi** è lecito. Lasciare un dispositivo a registrare l'altro coniuge quando tu non ci sei **non lo è**, e non diventa lecito per il fatto che si tratta del coniuge. Le due cose vengono confuse spesso proprio in questa materia, ed è una confusione che costa cara.
 
 ## In sintesi
 

@@ -4,6 +4,7 @@ ref: divorce-agreement
 categories: en
 permalink: /blog/en/divorce-agreement/
 date: 2026-08-28
+last_modified_at: 2026-11-17
 eyebrow: Family
 title: "The divorce ends the marriage. It does not end the money."
 description: "In England and Wales a claim was allowed 19 years after the divorce because no financial order was ever made. What turns a settlement conversation into something enforceable, in the US, the UK and Canada."
@@ -20,8 +21,8 @@ faq:
     a: "Provincial law governs. In Ontario the Family Law Act requires the agreement to be in writing, signed by both parties and witnessed, with full financial disclosure. Independent legal advice is not strictly required but its absence makes an agreement far more vulnerable to being set aside. Support terms can be filed with the court and enforced like an order."
   - q: "Can we agree to waive child support?"
     a: "No. In Canada the amount agreed has to be reasonable against the federal Child Support Guidelines, and a court will compare it to what it would have ordered. Across all three countries child support is treated as the child's entitlement rather than something the parents can trade away."
-  - q: "Can I put a recording app on my spouse's phone to gather evidence?"
-    a: "No. What that captures is mostly conversations you are not part of, which is interception rather than recording, and it is a serious criminal offence in all three countries. Whether the other person notices makes no difference — the offence is complete at the moment of capture."
+  - q: "Can I record a conversation with my spouse?"
+    a: "Recording a conversation you are part of is lawful in most of the US, though some states require everyone's consent. A face-to-face talk or a call with your spouse is a conversation you are part of. A recording is submitted to a proceeding, not played to relatives."
 ---
 
 There is one sentence that surprises people in every one of these countries, and it is the same sentence.
@@ -106,15 +107,9 @@ Because the **30 seconds before** the trigger are saved too, a sentence you regi
 
 Then you write the follow-up message knowing what to put in it. **The writing is what binds; the recording is how you get the writing right.**
 
-## The line you should not cross
-
-Evidence gathering is the most searched part of divorce, and there is a clear boundary running through it.
+## Recording your own conversations with your spouse
 
 **Recording a conversation you are part of** is lawful in most of the US, though a dozen or so states require everyone's consent — that is set out in [the state-by-state breakdown](/blog/en/state-recording-consent/) and [how to handle consent where it is required](/blog/en/recording-with-consent/).
-
-**Recording conversations you are not part of is different.** Putting a recording app on your spouse's phone, leaving a device in their car, planting a recorder in a room you then leave — what that captures is other people's conversations. That is interception, and it is a serious criminal offence under federal law in the US and equally so in the UK and Canada. It also tends to be worthless: courts exclude it, and it damages the credibility of everything else you bring.
-
-**Whether the other person notices makes no difference.** The offence is complete at the moment of capture.
 
 What to do with a recording afterwards is covered [separately](/blog/en/after-recording/) — and in family matters one rule matters more than any other: **a recording is submitted to a proceeding, not played to relatives.**
 
