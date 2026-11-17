@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: nl
 permalink: /blog/nl/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Handleiding
 title: "Een spraakopname samenvatten met AI op Android"
-description: "Om een spraakopname op Android samen te vatten, gebruik je een opname-app met een AI-samenvatting: Googles Recorder op Pixel vat samen op het toestel, de Samsung Spraakrecorder biedt met Galaxy AI een transcriptie en samenvatting, en TalkSafe vat elke opname samen in de taal waarin hij is opgenomen. Waar het geluid heen gaat, wat een samenvatting weglaat en waarom het origineel blijft."
+description: "Om een spraakopname op Android samen te vatten, gebruik je een opname-app met een AI-samenvatting: Googles Recorder op Pixel 8 en nieuwer vat de transcriptie samen, de Samsung Spraakrecorder biedt met Galaxy AI een transcriptie en samenvatting, en TalkSafe vat elke opname samen in de taal waarin hij is opgenomen. Waar het geluid heen gaat, wat een samenvatting weglaat en waarom het origineel blijft."
 image: /assets/img/og/summarize-recording-nl.png
 image_alt: "Googles Recorder op Pixel, de Samsung Spraakrecorder op Galaxy en TalkSafe vergeleken: alle drie bieden een AI-samenvatting, alleen Pixel en Galaxy een volledige transcriptie, en alleen TalkSafe start zelf met opnemen op een gekozen woord."
 app: true
 app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Hoe vat ik een spraakopname samen met AI op Android?"
-    a: "Met een opname-app die een AI-samenvatting heeft. Op Pixel-telefoons kan Googles Recorder de transcriptie van een opname op het toestel samenvatten met Gemini Nano. De Samsung Spraakrecorder biedt met Transcript Assist van Galaxy AI een transcriptie en samenvatting en vraagt een Samsung-account. TalkSafe, een opname-app voor Android en iPhone, maakt van elke opname een AI-samenvatting en toont die onder de speler in het detailscherm."
+    a: "Met een opname-app die een AI-samenvatting heeft. Op Pixel 8 en nieuwer kan Googles Recorder de transcriptie van een opname samenvatten. De Samsung Spraakrecorder biedt met Transcript Assist van Galaxy AI een transcriptie en samenvatting en vraagt een Samsung-account. TalkSafe, een opname-app voor Android en iPhone, maakt van elke opname een AI-samenvatting en toont die onder de speler in het detailscherm."
   - q: "Gaat het geluid naar een server als een opname wordt samengevat?"
-    a: "Dat hangt af van de app. De samenvattingen van Googles Recorder op Pixel worden op het toestel gemaakt met Gemini Nano. TalkSafe stuurt de opname naar een server voor de AI-samenvatting, terwijl de trefwoordherkenning volledig op de telefoon werkt. Deden er andere mensen mee aan het gesprek, dan staan hun stemmen in het bestand dat je verstuurt."
+    a: "Dat hangt af van de app. Volgens Google worden de samenvattingen van Googles Recorder op Pixel gemaakt in een beveiligde, afgeschermde omgeving in de cloud. TalkSafe stuurt de opname naar een server voor de AI-samenvatting, terwijl de trefwoordherkenning volledig op de telefoon werkt. Deden er andere mensen mee aan het gesprek, dan staan hun stemmen in het bestand dat je verstuurt."
   - q: "In welke taal is de samenvatting van TalkSafe?"
     a: "In dezelfde taal als de opname. Een gesprek dat in het Duits is opgenomen, wordt in het Duits samengevat, een gesprek in het Japans in het Japans."
   - q: "Geeft TalkSafe een volledige transcriptie?"
@@ -41,16 +41,16 @@ Nu vraagt iemand wat er over de borg is afgesproken. Je weet dat het erin zit, e
 |---|---|---|---|
 | Samenvatting | Ja | Ja, met Transcript Assist | Ja, van elke opname |
 | Volledige transcriptie | Ja | Ja | Nee, alleen samenvatting |
-| Waar de samenvatting wordt gemaakt | Op het toestel (Gemini Nano) | Hier niet geverifieerd | Op een server |
-| Taal | Bij de lancering alleen Engels; check op je telefoon | Verschilt per regio | De taal van de opname |
-| Andere voorwaarden | Ondersteunde Pixel-modellen | Samsung-account; heel korte opnamen worden niet samengevat | Android |
+| Waar de samenvatting wordt gemaakt | In de cloud (beveiligde, afgeschermde omgeving) | Hier niet geverifieerd | Op een server |
+| Taal | Engels, Chinees (Mandarijn), Hindi, Italiaans, Frans, Duits, Japans | Verschilt per regio | De taal van de opname |
+| Andere voorwaarden | Pixel 8 of nieuwer; opnamen van 5 minuten tot 1 uur | Samsung-account; heel korte opnamen worden niet samengevat | Android en iPhone |
 | Begint zelf met opnemen | Nee | Nee | Ja, op een gekozen woord, met de 30 seconden daarvoor |
 
 De gegevens hieronder komen uit de documentatie van de bedrijven en berichtgeving op het moment van schrijven, en kunnen veranderen.
 
 ## Googles Recorder op Pixel
 
-Googles Recorder maakt tijdens het opnemen een transcriptie en kan op ondersteunde Pixel-telefoons **die transcriptie op het toestel samenvatten** met **Gemini Nano**. Het ontwikkelteam van Google beschreef het resultaat als **drie opsommingstekens** met de namen van de sprekers, de kernpunten en de thema's. Bij de lancering waren de samenvattingen **alleen in het Engels**; de transcriptie zelf ondersteunt veel meer talen.
+Googles Recorder maakt tijdens het opnemen een transcriptie en kan op **Pixel 8 en nieuwer** die transcriptie **samenvatten**. Volgens de helppagina van Google worden samenvattingen gemaakt in **een beveiligde, afgeschermde omgeving in de cloud**, zijn ze beschikbaar in het Engels, Chinees (Mandarijn), Hindi, Italiaans, Frans, Duits en Japans en gaan ze over opnamen **van 5 minuten tot 1 uur**. De transcriptie zelf ondersteunt veel meer talen.
 
 ## De Samsung Spraakrecorder met Galaxy AI
 

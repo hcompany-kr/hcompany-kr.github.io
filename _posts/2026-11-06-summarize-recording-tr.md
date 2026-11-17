@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: tr
 permalink: /blog/tr/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Rehber
 title: "Android'de ses kaydı yapay zekâ ile nasıl özetlenir"
-description: "Android'de bir ses kaydını özetlemek için yapay zekâ özeti olan bir kayıt uygulaması kullanılır: Pixel'deki Google Kaydedici cihaz üzerinde özetler, Samsung Ses Kaydedici Galaxy AI ile döküm ve özet sunar, TalkSafe ise her kaydı kaydedildiği dilde özetler. Sesin nereye gittiği, bir özetin neleri dışarıda bıraktığı ve orijinalin neden saklandığı."
+description: "Android'de bir ses kaydını özetlemek için yapay zekâ özeti olan bir kayıt uygulaması kullanılır: Pixel 8 ve sonrasındaki Google Kaydedici dökümü özetler, Samsung Ses Kaydedici Galaxy AI ile döküm ve özet sunar, TalkSafe ise her kaydı kaydedildiği dilde özetler. Sesin nereye gittiği, bir özetin neleri dışarıda bıraktığı ve orijinalin neden saklandığı."
 image: /assets/img/og/summarize-recording-tr.png
 image_alt: "Pixel’deki Google Kaydedici, Galaxy’deki Samsung Ses Kaydedici ve TalkSafe karşılaştırması: üçünde de yapay zekâ özeti var, tam döküm yalnızca Pixel ve Galaxy’de, belirlenen bir kelimeyle kaydı kendiliğinden başlatan yalnızca TalkSafe."
 app: true
 app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Android'de bir ses kaydını yapay zekâ ile nasıl özetlerim?"
-    a: "Yapay zekâ özeti olan bir kayıt uygulamasıyla. Pixel telefonlarda Google Kaydedici, bir kaydın dökümünü cihaz üzerinde Gemini Nano ile özetleyebilir. Samsung Ses Kaydedici, Galaxy AI'ın Transcript Assist özelliğiyle döküm ve özet sunar ve Samsung hesabı gerektirir. Android ve iPhone için bir ses kayıt uygulaması olan TalkSafe, her kayıt için bir yapay zekâ özeti oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında gösterir."
+    a: "Yapay zekâ özeti olan bir kayıt uygulamasıyla. Pixel 8 ve sonrasında Google Kaydedici, bir kaydın dökümünü özetleyebilir. Samsung Ses Kaydedici, Galaxy AI'ın Transcript Assist özelliğiyle döküm ve özet sunar ve Samsung hesabı gerektirir. Android ve iPhone için bir ses kayıt uygulaması olan TalkSafe, her kayıt için bir yapay zekâ özeti oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında gösterir."
   - q: "Bir kayıt özetlenirken ses bir sunucuya gönderilir mi?"
-    a: "Uygulamaya göre değişir. Pixel'deki Google Kaydedici özetleri cihaz üzerinde Gemini Nano ile yapılır. TalkSafe, yapay zekâ özeti için kaydı bir sunucuya gönderir; anahtar kelime algılama ise tamamen telefonda çalışır. Konuşmada başka kişiler varsa, gönderdiğiniz dosyada onların sesleri de bulunur."
+    a: "Uygulamaya göre değişir. Google'a göre Pixel'deki Google Kaydedici özetleri bulutta güvenli ve yalıtılmış bir ortamda işlenir. TalkSafe, yapay zekâ özeti için kaydı bir sunucuya gönderir; anahtar kelime algılama ise tamamen telefonda çalışır. Konuşmada başka kişiler varsa, gönderdiğiniz dosyada onların sesleri de bulunur."
   - q: "TalkSafe özeti hangi dilde çıkar?"
     a: "Kaydın diliyle aynı dilde. Almanca kaydedilmiş bir konuşma Almanca, Japonca kaydedilmiş bir konuşma Japonca özetlenir."
   - q: "TalkSafe tam döküm verir mi?"
@@ -41,16 +41,16 @@ Toplantı kırk dakika sürdü. Doktor muayenesi on iki. Ev sahibiyle telefon g�
 |---|---|---|---|
 | Özet | Var | Var, Transcript Assist ile | Var, her kayıt için |
 | Tam döküm | Var | Var | Yok, yalnızca özet |
-| Özetin yapıldığı yer | Cihaz üzerinde (Gemini Nano) | Burada doğrulanmadı | Bir sunucuda |
-| Dil | Çıkışta yalnızca İngilizce; telefonunuzda kontrol edin | Bölgeye göre değişir | Kaydın dili |
-| Diğer koşullar | Desteklenen Pixel modelleri | Samsung hesabı; çok kısa kayıtlar özetlenmez | Android |
+| Özetin yapıldığı yer | Bulutta (güvenli, yalıtılmış ortam) | Burada doğrulanmadı | Bir sunucuda |
+| Dil | İngilizce, Çince (Mandarin), Hintçe, İtalyanca, Fransızca, Almanca, Japonca | Bölgeye göre değişir | Kaydın dili |
+| Diğer koşullar | Pixel 8 ve sonrası; 5 dakika ile 1 saat arası kayıtlar | Samsung hesabı; çok kısa kayıtlar özetlenmez | Android ve iPhone |
 | Kaydı kendisi başlatır mı | Hayır | Hayır | Evet, belirlediğiniz bir kelimeyle, önceki 30 saniyeyle birlikte |
 
 Aşağıdaki bilgiler, yazıldığı tarihteki şirket belgelerine ve haberlere dayanır ve değişebilir.
 
 ## Pixel'de Google Kaydedici
 
-Google Kaydedici kayıt yaparken döküm çıkarır ve desteklenen Pixel telefonlarda bu dökümü **cihaz üzerinde Gemini Nano ile özetleyebilir**. Google'ın geliştirici ekibi sonucu, konuşanların adlarını, ana noktaları ve konuları içeren **üç madde** olarak tanımladı. Çıkışta özetler **yalnızca İngilizceydi**; dökümün kendisi çok daha fazla dili destekler.
+Google Kaydedici kayıt yaparken döküm çıkarır ve **Pixel 8 ve sonrasında** bu dökümü **özetleyebilir**. Google'ın yardım sayfasına göre özetler **bulutta güvenli ve yalıtılmış bir ortamda** işlenir; İngilizce, Çince (Mandarin), Hintçe, İtalyanca, Fransızca, Almanca ve Japonca için kullanılabilir ve **5 dakika ile 1 saat** arası kayıtları kapsar. Dökümün kendisi çok daha fazla dili destekler.
 
 ## Galaxy AI ile Samsung Ses Kaydedici
 

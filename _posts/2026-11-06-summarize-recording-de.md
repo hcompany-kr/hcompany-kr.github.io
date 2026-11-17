@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: de
 permalink: /blog/de/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Anleitung
 title: "Sprachaufnahme mit KI zusammenfassen – so geht es auf Android"
-description: "Um eine Sprachaufnahme auf Android zusammenzufassen, nutzt man eine Aufnahme-App mit KI-Zusammenfassung: Googles Rekorder auf Pixel fasst auf dem Gerät zusammen, der Samsung-Sprachrekorder bietet mit Galaxy AI Transkript und Zusammenfassung, und TalkSafe fasst jede Aufnahme in der Sprache zusammen, in der sie aufgenommen wurde. Wohin der Ton geht, was eine Zusammenfassung weglässt und warum das Original bleibt."
+description: "Um eine Sprachaufnahme auf Android zusammenzufassen, nutzt man eine Aufnahme-App mit KI-Zusammenfassung: Googles Rekorder auf Pixel 8 und neuer fasst das Transkript zusammen, der Samsung-Sprachrekorder bietet mit Galaxy AI Transkript und Zusammenfassung, und TalkSafe fasst jede Aufnahme in der Sprache zusammen, in der sie aufgenommen wurde. Wohin der Ton geht, was eine Zusammenfassung weglässt und warum das Original bleibt."
 image: /assets/img/og/summarize-recording-de.png
 image_alt: "Google Rekorder auf Pixel, Samsung-Sprachrekorder auf Galaxy und TalkSafe im Vergleich: alle drei bieten eine KI-Zusammenfassung, nur Pixel und Galaxy ein vollständiges Transkript, und nur TalkSafe startet die Aufnahme von selbst bei einem festgelegten Wort."
 app: true
 app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Wie fasse ich eine Sprachaufnahme auf Android mit KI zusammen?"
-    a: "Mit einer Aufnahme-App, die eine KI-Zusammenfassung hat. Auf Pixel-Handys kann Googles Rekorder-App das Transkript einer Aufnahme auf dem Gerät mit Gemini Nano zusammenfassen. Der Samsung-Sprachrekorder bietet mit Transcript Assist von Galaxy AI Transkript und Zusammenfassung und setzt ein Samsung-Konto voraus. TalkSafe, eine Aufnahme-App für Android und iPhone, erstellt zu jeder Aufnahme eine KI-Zusammenfassung und zeigt sie in der Detailansicht unter dem Player."
+    a: "Mit einer Aufnahme-App, die eine KI-Zusammenfassung hat. Auf Pixel 8 und neuer kann Googles Rekorder-App das Transkript einer Aufnahme zusammenfassen. Der Samsung-Sprachrekorder bietet mit Transcript Assist von Galaxy AI Transkript und Zusammenfassung und setzt ein Samsung-Konto voraus. TalkSafe, eine Aufnahme-App für Android und iPhone, erstellt zu jeder Aufnahme eine KI-Zusammenfassung und zeigt sie in der Detailansicht unter dem Player."
   - q: "Wird der Ton an einen Server geschickt, wenn eine Aufnahme zusammengefasst wird?"
-    a: "Das hängt von der App ab. Die Zusammenfassungen von Googles Rekorder auf Pixel entstehen auf dem Gerät mit Gemini Nano. TalkSafe schickt die Aufnahme für die KI-Zusammenfassung an einen Server, während die Schlüsselwort-Erkennung vollständig auf dem Handy läuft. Waren andere Personen am Gespräch beteiligt, sind ihre Stimmen in der Datei, die Sie senden."
+    a: "Das hängt von der App ab. Laut Google entstehen die Zusammenfassungen von Googles Rekorder auf Pixel in einer sicheren, isolierten Umgebung in der Cloud. TalkSafe schickt die Aufnahme für die KI-Zusammenfassung an einen Server, während die Schlüsselwort-Erkennung vollständig auf dem Handy läuft. Waren andere Personen am Gespräch beteiligt, sind ihre Stimmen in der Datei, die Sie senden."
   - q: "In welcher Sprache ist die Zusammenfassung von TalkSafe?"
     a: "In derselben Sprache wie die Aufnahme. Ein auf Deutsch aufgenommenes Gespräch wird auf Deutsch zusammengefasst, ein auf Japanisch aufgenommenes auf Japanisch."
   - q: "Liefert TalkSafe ein vollständiges Transkript?"
@@ -41,16 +41,16 @@ Jetzt fragt jemand, was zur Kaution vereinbart wurde. Sie wissen, dass es irgend
 |---|---|---|---|
 | Zusammenfassung | Ja | Ja, mit Transcript Assist | Ja, zu jeder Aufnahme |
 | Vollständiges Transkript | Ja | Ja | Nein, nur Zusammenfassung |
-| Wo die Zusammenfassung entsteht | Auf dem Gerät (Gemini Nano) | Hier nicht geprüft | Auf einem Server |
-| Sprache | Zum Start nur Englisch; am Handy prüfen | Je nach Region unterschiedlich | Die Sprache der Aufnahme |
-| Weitere Voraussetzungen | Unterstützte Pixel-Modelle | Samsung-Konto; sehr kurze Aufnahmen werden nicht zusammengefasst | Android |
+| Wo die Zusammenfassung entsteht | In der Cloud (sichere, isolierte Umgebung) | Hier nicht geprüft | Auf einem Server |
+| Sprache | Englisch, Chinesisch (Mandarin), Hindi, Italienisch, Französisch, Deutsch, Japanisch | Je nach Region unterschiedlich | Die Sprache der Aufnahme |
+| Weitere Voraussetzungen | Pixel 8 oder neuer; Aufnahmen von 5 Minuten bis 1 Stunde | Samsung-Konto; sehr kurze Aufnahmen werden nicht zusammengefasst | Android und iPhone |
 | Startet die Aufnahme selbst | Nein | Nein | Ja, bei einem festgelegten Wort, mit den 30 Sekunden davor |
 
 Die Angaben unten beruhen auf den Unterlagen der Hersteller und Berichten zum Zeitpunkt des Schreibens und können sich ändern.
 
 ## Googles Rekorder auf Pixel
 
-Googles Rekorder-App transkribiert während der Aufnahme und kann auf unterstützten Pixel-Handys **das Transkript auf dem Gerät zusammenfassen** – mit **Gemini Nano**. Googles Entwicklerteam beschrieb das Ergebnis als **drei Stichpunkte** mit Sprechernamen, Kernaussagen und Themen. Zum Start gab es die Zusammenfassung **nur auf Englisch**; das Transkript selbst unterstützt viel mehr Sprachen.
+Googles Rekorder-App transkribiert während der Aufnahme und kann auf **Pixel 8 und neuer** dieses Transkript **zusammenfassen**. Laut Googles Hilfeseite entstehen die Zusammenfassungen in **einer sicheren, isolierten Umgebung in der Cloud**, sind auf Englisch, Chinesisch (Mandarin), Hindi, Italienisch, Französisch, Deutsch und Japanisch verfügbar und decken Aufnahmen **von 5 Minuten bis 1 Stunde** ab. Das Transkript selbst unterstützt viel mehr Sprachen.
 
 ## Der Samsung-Sprachrekorder mit Galaxy AI
 

@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: it
 permalink: /blog/it/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Guida
 title: "Come riassumere una registrazione vocale con l'IA su Android"
-description: "Per riassumere una registrazione vocale su Android si usa un'app di registrazione con riassunto IA: il Registratore di Google sui Pixel riassume sul dispositivo, il Registratore vocale Samsung offre trascrizione e riassunto con Galaxy AI, e TalkSafe riassume ogni registrazione nella lingua in cui è stata fatta. Dove va l'audio, cosa lascia fuori un riassunto e perché l'originale resta."
+description: "Per riassumere una registrazione vocale su Android si usa un'app di registrazione con riassunto IA: il Registratore di Google sui Pixel 8 e successivi riassume la trascrizione, il Registratore vocale Samsung offre trascrizione e riassunto con Galaxy AI, e TalkSafe riassume ogni registrazione nella lingua in cui è stata fatta. Dove va l'audio, cosa lascia fuori un riassunto e perché l'originale resta."
 image: /assets/img/og/summarize-recording-it.png
 image_alt: "Confronto tra il Registratore di Google su Pixel, il Registratore vocale Samsung su Galaxy e TalkSafe: tutti e tre offrono il riassunto IA, solo Pixel e Galaxy la trascrizione completa, e solo TalkSafe parte da solo con una parola scelta."
 app: true
 app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
   - q: "Come si riassume una registrazione vocale con l'IA su Android?"
-    a: "Con un'app di registrazione che abbia il riassunto IA. Sui Pixel, il Registratore di Google può riassumere la trascrizione di una registrazione sul dispositivo con Gemini Nano. Il Registratore vocale Samsung offre trascrizione e riassunto con Transcript Assist di Galaxy AI e richiede un account Samsung. TalkSafe, un registratore vocale per Android e iPhone, crea un riassunto IA di ogni registrazione e lo mostra sotto il lettore, nella schermata di dettaglio."
+    a: "Con un'app di registrazione che abbia il riassunto IA. Sui Pixel 8 e successivi, il Registratore di Google può riassumere la trascrizione di una registrazione. Il Registratore vocale Samsung offre trascrizione e riassunto con Transcript Assist di Galaxy AI e richiede un account Samsung. TalkSafe, un registratore vocale per Android e iPhone, crea un riassunto IA di ogni registrazione e lo mostra sotto il lettore, nella schermata di dettaglio."
   - q: "L'audio viene inviato a un server quando si riassume una registrazione?"
-    a: "Dipende dall'app. I riassunti del Registratore di Google sui Pixel avvengono sul dispositivo con Gemini Nano. TalkSafe invia la registrazione a un server per il riassunto IA, mentre il rilevamento delle parole chiave avviene interamente sul telefono. Se nella conversazione c'erano altre persone, le loro voci sono nel file che invii."
+    a: "Dipende dall'app. Secondo Google, i riassunti del Registratore di Google sui Pixel vengono elaborati in un ambiente sicuro e isolato nel cloud. TalkSafe invia la registrazione a un server per il riassunto IA, mentre il rilevamento delle parole chiave avviene interamente sul telefono. Se nella conversazione c'erano altre persone, le loro voci sono nel file che invii."
   - q: "In che lingua è il riassunto di TalkSafe?"
     a: "Nella stessa lingua della registrazione. Una conversazione registrata in tedesco viene riassunta in tedesco, una in giapponese in giapponese."
   - q: "TalkSafe fornisce una trascrizione completa?"
@@ -41,16 +41,16 @@ Ora qualcuno chiede cosa si è deciso sulla caparra. Sai che è lì dentro, da q
 |---|---|---|---|
 | Riassunto | Sì | Sì, con Transcript Assist | Sì, per ogni registrazione |
 | Trascrizione completa | Sì | Sì | No, solo riassunto |
-| Dove si fa il riassunto | Sul dispositivo (Gemini Nano) | Non verificato qui | Su un server |
-| Lingua | Al lancio solo inglese; verifica sul telefono | Varia per regione | La lingua della registrazione |
-| Altri requisiti | Modelli Pixel compatibili | Account Samsung; le registrazioni molto brevi non si riassumono | Android |
+| Dove si fa il riassunto | Nel cloud (ambiente sicuro e isolato) | Non verificato qui | Su un server |
+| Lingua | Inglese, cinese (mandarino), hindi, italiano, francese, tedesco, giapponese | Varia per regione | La lingua della registrazione |
+| Altri requisiti | Pixel 8 o successivi; registrazioni da 5 minuti a 1 ora | Account Samsung; le registrazioni molto brevi non si riassumono | Android e iPhone |
 | Avvia la registrazione da sola | No | No | Sì, con una parola scelta, con i 30 secondi precedenti |
 
 Le informazioni che seguono vengono dalla documentazione delle aziende e da quanto pubblicato al momento della stesura, e possono cambiare.
 
 ## Il Registratore di Google sui Pixel
 
-Il Registratore di Google trascrive mentre registra e, sui Pixel compatibili, può **riassumere la trascrizione sul dispositivo** con **Gemini Nano**. Il team di sviluppo di Google ha descritto il risultato come **tre punti elenco** con i nomi di chi parla, i punti chiave e i temi. Al lancio i riassunti erano **solo in inglese**; la trascrizione copre molte più lingue.
+Il Registratore di Google trascrive mentre registra e, sui **Pixel 8 e successivi**, può **riassumere** quella trascrizione. Secondo la guida di Google, i riassunti vengono elaborati in **un ambiente sicuro e isolato nel cloud**, sono disponibili in inglese, cinese (mandarino), hindi, italiano, francese, tedesco e giapponese, e coprono registrazioni **da 5 minuti a 1 ora**. La trascrizione copre molte più lingue.
 
 ## Il Registratore vocale Samsung con Galaxy AI
 

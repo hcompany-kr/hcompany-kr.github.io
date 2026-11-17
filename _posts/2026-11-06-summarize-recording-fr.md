@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: fr
 permalink: /blog/fr/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Guide
 title: "Comment résumer un enregistrement vocal avec l'IA sur Android"
-description: "Pour résumer un enregistrement vocal sur Android, on utilise une application d'enregistrement avec résumé par IA : l'Enregistreur de Google sur Pixel résume sur l'appareil, l'Enregistreur vocal de Samsung propose transcription et résumé avec Galaxy AI, et TalkSafe résume chaque enregistrement dans la langue où il a été fait. Où part l'audio, ce qu'un résumé laisse de côté et pourquoi l'original reste."
+description: "Pour résumer un enregistrement vocal sur Android, on utilise une application d'enregistrement avec résumé par IA : l'Enregistreur de Google sur Pixel 8 et ultérieurs résume la transcription, l'Enregistreur vocal de Samsung propose transcription et résumé avec Galaxy AI, et TalkSafe résume chaque enregistrement dans la langue où il a été fait. Où part l'audio, ce qu'un résumé laisse de côté et pourquoi l'original reste."
 image: /assets/img/og/summarize-recording-fr.png
 image_alt: "Comparaison de l’Enregistreur de Google sur Pixel, de l’Enregistreur vocal Samsung sur Galaxy et de TalkSafe : les trois proposent un résumé par IA, seuls Pixel et Galaxy une transcription complète, et seul TalkSafe démarre tout seul sur un mot choisi."
 app: true
 app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
   - q: "Comment résumer un enregistrement vocal avec l'IA sur Android ?"
-    a: "Avec une application d'enregistrement qui propose un résumé par IA. Sur les Pixel, l'Enregistreur de Google peut résumer la transcription d'un enregistrement sur l'appareil avec Gemini Nano. L'Enregistreur vocal de Samsung propose transcription et résumé avec Transcript Assist de Galaxy AI et nécessite un compte Samsung. TalkSafe, une application d'enregistrement pour Android et iPhone, crée un résumé par IA de chaque enregistrement et l'affiche sous le lecteur, dans l'écran de détail."
+    a: "Avec une application d'enregistrement qui propose un résumé par IA. Sur les Pixel 8 et ultérieurs, l'Enregistreur de Google peut résumer la transcription d'un enregistrement. L'Enregistreur vocal de Samsung propose transcription et résumé avec Transcript Assist de Galaxy AI et nécessite un compte Samsung. TalkSafe, une application d'enregistrement pour Android et iPhone, crée un résumé par IA de chaque enregistrement et l'affiche sous le lecteur, dans l'écran de détail."
   - q: "L'audio est-il envoyé à un serveur quand on résume un enregistrement ?"
-    a: "Cela dépend de l'application. Les résumés de l'Enregistreur de Google sur Pixel se font sur l'appareil avec Gemini Nano. TalkSafe envoie l'enregistrement à un serveur pour le résumé par IA, tandis que sa détection des mots-clés fonctionne entièrement sur le téléphone. Si d'autres personnes participaient à la conversation, leurs voix sont dans le fichier envoyé."
+    a: "Cela dépend de l'application. Selon Google, les résumés de l'Enregistreur de Google sur Pixel sont traités dans un environnement sécurisé et isolé dans le cloud. TalkSafe envoie l'enregistrement à un serveur pour le résumé par IA, tandis que sa détection des mots-clés fonctionne entièrement sur le téléphone. Si d'autres personnes participaient à la conversation, leurs voix sont dans le fichier envoyé."
   - q: "Dans quelle langue est le résumé de TalkSafe ?"
     a: "Dans la même langue que l'enregistrement. Une conversation enregistrée en allemand est résumée en allemand, une conversation en japonais en japonais."
   - q: "TalkSafe fournit-il une transcription complète ?"
@@ -41,16 +41,16 @@ Quelqu'un demande maintenant ce qui a été convenu pour la caution. Vous savez 
 |---|---|---|---|
 | Résumé | Oui | Oui, avec Transcript Assist | Oui, pour chaque enregistrement |
 | Transcription complète | Oui | Oui | Non, résumé seulement |
-| Où le résumé est fait | Sur l'appareil (Gemini Nano) | Non vérifié ici | Sur un serveur |
-| Langue | Anglais seulement au lancement ; à vérifier sur le téléphone | Variable selon la région | La langue de l'enregistrement |
-| Autres conditions | Modèles Pixel compatibles | Compte Samsung ; les enregistrements très courts ne sont pas résumés | Android |
+| Où le résumé est fait | Dans le cloud (environnement sécurisé et isolé) | Non vérifié ici | Sur un serveur |
+| Langue | Anglais, chinois (mandarin), hindi, italien, français, allemand, japonais | Variable selon la région | La langue de l'enregistrement |
+| Autres conditions | Pixel 8 ou ultérieur ; enregistrements de 5 minutes à 1 heure | Compte Samsung ; les enregistrements très courts ne sont pas résumés | Android et iPhone |
 | Démarre l'enregistrement seul | Non | Non | Oui, sur un mot choisi, avec les 30 secondes précédentes |
 
 Les informations ci-dessous proviennent de la documentation des éditeurs et de ce qui était publié au moment de la rédaction ; elles peuvent changer.
 
 ## L'Enregistreur de Google sur Pixel
 
-L'Enregistreur de Google transcrit pendant l'enregistrement et, sur les Pixel compatibles, peut **résumer la transcription sur l'appareil** avec **Gemini Nano**. L'équipe de développement de Google a décrit le résultat comme **trois puces** reprenant les noms des personnes qui parlent, les points clés et les thèmes. Au lancement, les résumés étaient **en anglais seulement** ; la transcription couvre beaucoup plus de langues.
+L'Enregistreur de Google transcrit pendant l'enregistrement et, sur les **Pixel 8 et ultérieurs**, peut **résumer** cette transcription. Selon l'aide de Google, les résumés sont traités dans **un environnement sécurisé et isolé dans le cloud**, sont disponibles en anglais, chinois (mandarin), hindi, italien, français, allemand et japonais, et portent sur des enregistrements **de 5 minutes à 1 heure**. La transcription couvre beaucoup plus de langues.
 
 ## L'Enregistreur vocal de Samsung avec Galaxy AI
 

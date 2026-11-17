@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: cs
 permalink: /blog/cs/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Návod
 title: "Jak shrnout hlasovou nahrávku pomocí AI na Androidu"
-description: "Ke shrnutí hlasové nahrávky na Androidu slouží aplikace na nahrávání se shrnutím od AI: Diktafon Google na Pixelu shrnuje přímo v zařízení, Diktafon Samsung nabízí s Galaxy AI přepis a shrnutí a TalkSafe shrne každou nahrávku v jazyce, ve kterém vznikla. Kam zvuk putuje, co shrnutí vynechá a proč originál zůstává."
+description: "Ke shrnutí hlasové nahrávky na Androidu slouží aplikace na nahrávání se shrnutím od AI: Diktafon Google na Pixelu 8 a novějších shrnuje přepis, Diktafon Samsung nabízí s Galaxy AI přepis a shrnutí a TalkSafe shrne každou nahrávku v jazyce, ve kterém vznikla. Kam zvuk putuje, co shrnutí vynechá a proč originál zůstává."
 image: /assets/img/og/summarize-recording-cs.png
 image_alt: "Srovnání Diktafonu Google na Pixelu, Diktafonu Samsung na Galaxy a TalkSafe: všechny tři mají shrnutí od AI, úplný přepis jen Pixel a Galaxy a nahrávání samo na zvolené slovo spouští jen TalkSafe."
 app: true
 app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
   - q: "Jak shrnout hlasovou nahrávku pomocí AI na Androidu?"
-    a: "Pomocí aplikace na nahrávání, která má shrnutí od AI. Na telefonech Pixel umí Diktafon Google shrnout přepis nahrávky přímo v zařízení pomocí Gemini Nano. Diktafon Samsung nabízí přepis a shrnutí díky funkci Transcript Assist v Galaxy AI a vyžaduje účet Samsung. TalkSafe, aplikace pro nahrávání na Android a iPhone, vytvoří ke každé nahrávce shrnutí od AI a zobrazí ho pod přehrávačem na obrazovce detailu."
+    a: "Pomocí aplikace na nahrávání, která má shrnutí od AI. Na Pixelu 8 a novějších umí Diktafon Google shrnout přepis nahrávky. Diktafon Samsung nabízí přepis a shrnutí díky funkci Transcript Assist v Galaxy AI a vyžaduje účet Samsung. TalkSafe, aplikace pro nahrávání na Android a iPhone, vytvoří ke každé nahrávce shrnutí od AI a zobrazí ho pod přehrávačem na obrazovce detailu."
   - q: "Posílá se při shrnutí nahrávka na server?"
-    a: "Záleží na aplikaci. Shrnutí v Diktafonu Google na Pixelu vznikají v zařízení pomocí Gemini Nano. TalkSafe kvůli shrnutí od AI posílá nahrávku na server, zatímco rozpoznávání klíčových slov běží celé v telefonu. Pokud se rozhovoru účastnili další lidé, jejich hlasy jsou v souboru, který posíláte."
+    a: "Záleží na aplikaci. Podle Googlu vznikají shrnutí v Diktafonu Google na Pixelu v zabezpečeném, izolovaném prostředí v cloudu. TalkSafe kvůli shrnutí od AI posílá nahrávku na server, zatímco rozpoznávání klíčových slov běží celé v telefonu. Pokud se rozhovoru účastnili další lidé, jejich hlasy jsou v souboru, který posíláte."
   - q: "V jakém jazyce je shrnutí TalkSafe?"
     a: "Ve stejném jazyce jako nahrávka. Rozhovor nahraný v němčině se shrne v němčině, rozhovor nahraný v japonštině v japonštině."
   - q: "Nabízí TalkSafe úplný přepis?"
@@ -41,16 +41,16 @@ Teď se někdo ptá, co se domluvilo ohledně kauce. Víte, že to tam někde je
 |---|---|---|---|
 | Shrnutí | Ano | Ano, s Transcript Assist | Ano, ke každé nahrávce |
 | Úplný přepis | Ano | Ano | Ne, jen shrnutí |
-| Kde shrnutí vzniká | V zařízení (Gemini Nano) | Zde neověřeno | Na serveru |
-| Jazyk | Při spuštění jen angličtina; ověřte v telefonu | Liší se podle regionu | Jazyk nahrávky |
-| Další podmínky | Podporované modely Pixel | Účet Samsung; velmi krátké nahrávky se neshrnou | Android |
+| Kde shrnutí vzniká | V cloudu (zabezpečené, izolované prostředí) | Zde neověřeno | Na serveru |
+| Jazyk | Angličtina, čínština (mandarínská), hindština, italština, francouzština, němčina, japonština | Liší se podle regionu | Jazyk nahrávky |
+| Další podmínky | Pixel 8 a novější; nahrávky od 5 minut do 1 hodiny | Účet Samsung; velmi krátké nahrávky se neshrnou | Android a iPhone |
 | Spustí nahrávání sám | Ne | Ne | Ano, na zvolené slovo, s 30 sekundami předtím |
 
 Údaje níže vycházejí z dokumentace výrobců a zpráv v době psaní a mohou se změnit.
 
 ## Diktafon Google na Pixelu
 
-Diktafon Google během nahrávání vytváří přepis a na podporovaných telefonech Pixel ho umí **shrnout přímo v zařízení** pomocí **Gemini Nano**. Vývojový tým Googlu popsal výsledek jako **tři odrážky** se jmény mluvčích, hlavními body a tématy. Při spuštění byla shrnutí **jen v angličtině**; samotný přepis podporuje mnohem více jazyků.
+Diktafon Google během nahrávání vytváří přepis a na **Pixelu 8 a novějších** ho umí **shrnout**. Podle nápovědy Googlu vznikají shrnutí v **zabezpečeném, izolovaném prostředí v cloudu**, jsou k dispozici v angličtině, čínštině (mandarínské), hindštině, italštině, francouzštině, němčině a japonštině a týkají se nahrávek **od 5 minut do 1 hodiny**. Samotný přepis podporuje mnohem více jazyků.
 
 ## Diktafon Samsung s Galaxy AI
 

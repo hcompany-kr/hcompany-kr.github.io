@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: pl
 permalink: /blog/pl/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Poradnik
 title: "Jak streścić nagranie głosowe za pomocą AI na Androidzie"
-description: "Aby streścić nagranie głosowe na Androidzie, używa się aplikacji do nagrywania z podsumowaniem AI: Dyktafon Google na Pixelu streszcza na urządzeniu, Dyktafon Samsunga oferuje transkrypcję i podsumowanie z Galaxy AI, a TalkSafe streszcza każde nagranie w języku, w którym je nagrano. Dokąd trafia dźwięk, co pomija podsumowanie i dlaczego oryginał zostaje."
+description: "Aby streścić nagranie głosowe na Androidzie, używa się aplikacji do nagrywania z podsumowaniem AI: Dyktafon Google na Pixelu 8 i nowszych streszcza transkrypcję, Dyktafon Samsunga oferuje transkrypcję i podsumowanie z Galaxy AI, a TalkSafe streszcza każde nagranie w języku, w którym je nagrano. Dokąd trafia dźwięk, co pomija podsumowanie i dlaczego oryginał zostaje."
 image: /assets/img/og/summarize-recording-pl.png
 image_alt: "Porównanie Dyktafonu Google na Pixelu, Dyktafonu Samsunga na Galaxy i TalkSafe: wszystkie trzy mają podsumowanie AI, pełną transkrypcję tylko Pixel i Galaxy, a samo zaczyna nagrywać po wybranym słowie tylko TalkSafe."
 app: true
 app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
   - q: "Jak streścić nagranie głosowe za pomocą AI na Androidzie?"
-    a: "Za pomocą aplikacji do nagrywania z podsumowaniem AI. Na telefonach Pixel Dyktafon Google może streścić transkrypcję nagrania na urządzeniu za pomocą Gemini Nano. Dyktafon Samsunga oferuje transkrypcję i podsumowanie dzięki funkcji Transcript Assist w Galaxy AI i wymaga konta Samsung. TalkSafe, aplikacja do nagrywania na Androida i iPhone'a, tworzy podsumowanie AI każdego nagrania i pokazuje je pod odtwarzaczem na ekranie szczegółów."
+    a: "Za pomocą aplikacji do nagrywania z podsumowaniem AI. Na Pixelu 8 i nowszych Dyktafon Google może streścić transkrypcję nagrania. Dyktafon Samsunga oferuje transkrypcję i podsumowanie dzięki funkcji Transcript Assist w Galaxy AI i wymaga konta Samsung. TalkSafe, aplikacja do nagrywania na Androida i iPhone'a, tworzy podsumowanie AI każdego nagrania i pokazuje je pod odtwarzaczem na ekranie szczegółów."
   - q: "Czy przy streszczaniu nagranie trafia na serwer?"
-    a: "To zależy od aplikacji. Podsumowania Dyktafonu Google na Pixelu powstają na urządzeniu za pomocą Gemini Nano. TalkSafe wysyła nagranie na serwer, aby utworzyć podsumowanie AI, a wykrywanie słów kluczowych działa w całości w telefonie. Jeśli w rozmowie brały udział inne osoby, ich głosy są w wysyłanym pliku."
+    a: "To zależy od aplikacji. Według Google podsumowania Dyktafonu Google na Pixelu powstają w bezpiecznym, odizolowanym środowisku w chmurze. TalkSafe wysyła nagranie na serwer, aby utworzyć podsumowanie AI, a wykrywanie słów kluczowych działa w całości w telefonie. Jeśli w rozmowie brały udział inne osoby, ich głosy są w wysyłanym pliku."
   - q: "W jakim języku jest podsumowanie TalkSafe?"
     a: "W tym samym języku co nagranie. Rozmowa nagrana po niemiecku jest streszczana po niemiecku, a nagrana po japońsku – po japońsku."
   - q: "Czy TalkSafe tworzy pełną transkrypcję?"
@@ -41,16 +41,16 @@ Teraz ktoś pyta, co ustalono w sprawie kaucji. Wiesz, że to gdzieś tam jest.
 |---|---|---|---|
 | Podsumowanie | Tak | Tak, z Transcript Assist | Tak, dla każdego nagrania |
 | Pełna transkrypcja | Tak | Tak | Nie, tylko podsumowanie |
-| Gdzie powstaje podsumowanie | Na urządzeniu (Gemini Nano) | Nie sprawdzono tutaj | Na serwerze |
-| Język | Na start tylko angielski; sprawdź w telefonie | Zależy od regionu | Język nagrania |
-| Inne wymagania | Obsługiwane modele Pixel | Konto Samsung; bardzo krótkie nagrania nie są streszczane | Android |
+| Gdzie powstaje podsumowanie | W chmurze (bezpieczne, odizolowane środowisko) | Nie sprawdzono tutaj | Na serwerze |
+| Język | Angielski, chiński (mandaryński), hindi, włoski, francuski, niemiecki, japoński | Zależy od regionu | Język nagrania |
+| Inne wymagania | Pixel 8 lub nowszy; nagrania od 5 minut do 1 godziny | Konto Samsung; bardzo krótkie nagrania nie są streszczane | Android i iPhone |
 | Sam zaczyna nagrywać | Nie | Nie | Tak, po wybranym słowie, z 30 sekundami wcześniej |
 
 Poniższe informacje pochodzą z dokumentacji producentów i publikacji z chwili pisania i mogą się zmienić.
 
 ## Dyktafon Google na Pixelu
 
-Dyktafon Google tworzy transkrypcję w trakcie nagrywania, a na obsługiwanych telefonach Pixel potrafi **streścić transkrypcję na urządzeniu** za pomocą **Gemini Nano**. Zespół programistów Google opisał wynik jako **trzy punkty** z imionami mówiących, najważniejszymi wnioskami i tematami. Na starcie podsumowania były **tylko po angielsku**; sama transkrypcja obsługuje znacznie więcej języków.
+Dyktafon Google tworzy transkrypcję w trakcie nagrywania, a na **Pixelu 8 i nowszych** potrafi ją **streścić**. Według pomocy Google podsumowania powstają w **bezpiecznym, odizolowanym środowisku w chmurze**, są dostępne po angielsku, chińsku (mandaryńskim), w hindi, po włosku, francusku, niemiecku i japońsku i obejmują nagrania **od 5 minut do 1 godziny**. Sama transkrypcja obsługuje znacznie więcej języków.
 
 ## Dyktafon Samsunga z Galaxy AI
 

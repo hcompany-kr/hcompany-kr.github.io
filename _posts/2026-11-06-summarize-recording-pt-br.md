@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: pt-br
 permalink: /blog/pt-br/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Guia
 title: "Como resumir um áudio gravado com IA no Android"
-description: "Para resumir uma gravação de voz no Android, use um app de gravação com resumo por IA: o Gravador do Google no Pixel resume no aparelho, o Gravador de Voz da Samsung oferece transcrição e resumo com Galaxy AI, e o TalkSafe resume cada gravação no idioma em que foi gravada. Para onde vai o áudio, o que um resumo deixa de fora e por que o original fica."
+description: "Para resumir uma gravação de voz no Android, use um app de gravação com resumo por IA: o Gravador do Google no Pixel 8 ou mais recente resume a transcrição, o Gravador de Voz da Samsung oferece transcrição e resumo com Galaxy AI, e o TalkSafe resume cada gravação no idioma em que foi gravada. Para onde vai o áudio, o que um resumo deixa de fora e por que o original fica."
 image: /assets/img/og/summarize-recording-pt-br.png
 image_alt: "Comparação entre o Gravador do Google no Pixel, o Gravador de Voz da Samsung no Galaxy e o TalkSafe: os três têm resumo com IA, só Pixel e Galaxy têm transcrição completa, e só o TalkSafe começa a gravar sozinho com uma palavra escolhida."
 app: true
 app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
   - q: "Como resumir uma gravação de voz com IA no Android?"
-    a: "Com um app de gravação que tenha resumo por IA. Nos Pixel, o Gravador do Google pode resumir a transcrição de uma gravação no próprio aparelho com o Gemini Nano. O Gravador de Voz da Samsung oferece transcrição e resumo com o Transcript Assist do Galaxy AI e exige uma conta Samsung. O TalkSafe, um app de gravação de voz para Android e iPhone, cria um resumo por IA de cada gravação e o mostra abaixo do player, na tela de detalhes."
+    a: "Com um app de gravação que tenha resumo por IA. Nos Pixel 8 ou mais recentes, o Gravador do Google pode resumir a transcrição de uma gravação. O Gravador de Voz da Samsung oferece transcrição e resumo com o Transcript Assist do Galaxy AI e exige uma conta Samsung. O TalkSafe, um app de gravação de voz para Android e iPhone, cria um resumo por IA de cada gravação e o mostra abaixo do player, na tela de detalhes."
   - q: "O áudio vai para um servidor quando a gravação é resumida?"
-    a: "Depende do app. Os resumos do Gravador do Google no Pixel são feitos no aparelho com o Gemini Nano. O TalkSafe envia a gravação a um servidor para o resumo por IA, enquanto a detecção de palavras-chave funciona totalmente no celular. Se havia outras pessoas na conversa, a voz delas está no arquivo que você envia."
+    a: "Depende do app. Segundo o Google, os resumos do Gravador do Google no Pixel são processados em um ambiente seguro e isolado na nuvem. O TalkSafe envia a gravação a um servidor para o resumo por IA, enquanto a detecção de palavras-chave funciona totalmente no celular. Se havia outras pessoas na conversa, a voz delas está no arquivo que você envia."
   - q: "Em que idioma sai o resumo do TalkSafe?"
     a: "No mesmo idioma da gravação. Uma conversa gravada em alemão é resumida em alemão, e uma gravada em japonês, em japonês."
   - q: "O TalkSafe mostra uma transcrição completa?"
@@ -41,16 +41,16 @@ Agora alguém pergunta o que ficou combinado sobre a caução. Você sabe que es
 |---|---|---|---|
 | Resumo | Sim | Sim, com Transcript Assist | Sim, de cada gravação |
 | Transcrição completa | Sim | Sim | Não, só resumo |
-| Onde o resumo é feito | No aparelho (Gemini Nano) | Não verificado aqui | Em um servidor |
-| Idioma | No lançamento, só inglês; confira no celular | Varia por região | O idioma da gravação |
-| Outros requisitos | Modelos Pixel compatíveis | Conta Samsung; gravações muito curtas não são resumidas | Android |
+| Onde o resumo é feito | Na nuvem (ambiente seguro e isolado) | Não verificado aqui | Em um servidor |
+| Idioma | Inglês, chinês (mandarim), hindi, italiano, francês, alemão, japonês | Varia por região | O idioma da gravação |
+| Outros requisitos | Pixel 8 ou mais recente; gravações de 5 minutos a 1 hora | Conta Samsung; gravações muito curtas não são resumidas | Android e iPhone |
 | Começa a gravar sozinho | Não | Não | Sim, com uma palavra escolhida, com os 30 segundos anteriores |
 
 As informações abaixo vêm da documentação de cada empresa e do que foi publicado até a data deste texto, e podem mudar.
 
 ## O Gravador do Google no Pixel
 
-O Gravador do Google transcreve enquanto grava e, nos Pixel compatíveis, pode **resumir a transcrição no próprio aparelho** com o **Gemini Nano**. A equipe de desenvolvimento do Google descreveu o resultado como **três tópicos** com os nomes de quem fala, os pontos principais e os temas. No lançamento, os resumos eram **só em inglês**; a transcrição cobre muito mais idiomas.
+O Gravador do Google transcreve enquanto grava e, nos **Pixel 8 ou mais recentes**, pode **resumir** essa transcrição. Segundo a ajuda do Google, os resumos são processados em **um ambiente seguro e isolado na nuvem**, estão disponíveis em inglês, chinês (mandarim), hindi, italiano, francês, alemão e japonês, e abrangem gravações **de 5 minutos a 1 hora**. A transcrição cobre muito mais idiomas.
 
 ## O Gravador de Voz da Samsung com Galaxy AI
 
