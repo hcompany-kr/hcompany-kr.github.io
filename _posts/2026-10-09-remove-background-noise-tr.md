@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: tr
 permalink: /blog/tr/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Nasıl yapılır
 title: "Android'de bir ses kaydındaki arka plan gürültüsü nasıl giderilir"
 description: "Trafik, rüzgâr, arkada bir kafe. Kaydedilmiş bir konuşmayı temizlemenin dört yolu — kayıt sırasında telefonda, sonradan telefonda, bilgisayarda ya da yükleyerek — ve hangilerinin sokak gürültüsüyle başa çıktığı."
@@ -110,5 +110,7 @@ Türkiye'de ses kaydı almanın hukuku — TCK 133, HMK 189/2, Yargıtay'ın ist
 TalkSafe'i yeni kullanmaya başladıysanız, anahtar kelimeleri daha iyi algılanacak şekilde nasıl seçeceğiniz [Önce bir şey söylersiniz: kaydı sesle başlatmak](/blog/tr/say-it-first/) yazısında.
 
 Bir kaydı yapay zekâ ile özetlemek ve sesin nereye gittiği: [Android'de ses kaydı yapay zekâ ile nasıl özetlenir](/blog/tr/summarize-recording/).
+
+Yüz yüze bir toplantıyı ilk cümlelerden özete kadar nasıl kaydedeceğiniz [Toplantı telefonla nasıl kaydedilir: ilk cümlelerden özete](/blog/tr/meeting-recording/) yazısında.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Üçüncü taraf araçların özellikleri, yazıldığı tarihteki belgelerine ve haberlere dayanır ve değişebilir. Yukarıda belirtildiği gibi biz de bir kayıt uygulaması geliştiriyoruz.</p>

@@ -96,4 +96,6 @@ Então use o resumo para achar **qual gravação e qual trecho**. Depois, ouça.
 5. Leia o resumo do trecho e **ouça** a parte que importa.
 6. Guarde o original.
 
+Como gravar uma reunião presencial das primeiras palavras ao resumo está em [Como gravar uma reunião pelo celular, das primeiras palavras ao resumo](/blog/pt-br/meeting-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">As funções de apps de terceiros refletem a documentação e o que foi publicado até a data deste texto, e podem mudar. Nós fazemos um app de gravação, o TalkSafe.</p>

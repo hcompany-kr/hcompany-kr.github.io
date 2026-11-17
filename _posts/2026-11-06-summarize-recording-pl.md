@@ -94,4 +94,6 @@ Używaj więc podsumowania, by znaleźć **które nagranie i który fragment**. 
 5. Przeczytaj podsumowanie fragmentu i **odsłuchaj** to, co ważne.
 6. Zachowaj oryginał.
 
+Jak nagrać spotkanie na żywo od pierwszych słów do podsumowania, opisujemy w [Jak nagrać spotkanie telefonem: od pierwszych słów do podsumowania](/blog/pl/meeting-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkcje aplikacji innych firm opisano na podstawie ich dokumentacji i publikacji z chwili pisania; mogą się zmienić. Tworzymy aplikację do nagrywania TalkSafe.</p>

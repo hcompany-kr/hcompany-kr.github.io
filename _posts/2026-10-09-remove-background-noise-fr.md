@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: fr
 permalink: /blog/fr/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Pratique
 title: "Comment retirer le bruit de fond d'un enregistrement vocal sur Android"
 description: "Circulation, vent, un café derrière vous. Quatre façons de nettoyer une conversation enregistrée — sur le téléphone pendant l'enregistrement, sur le téléphone après, sur un ordinateur ou en l'envoyant en ligne — et lesquelles gèrent le bruit de la rue."
@@ -110,5 +110,7 @@ Ce que disent les textes et les juges sur l'enregistrement d'une conversation en
 Si vous débutez avec TalkSafe, la façon de choisir les mots-clés pour qu'ils soient mieux détectés est expliquée dans [On dit d'abord quelque chose : lancer un enregistrement avec la voix](/blog/fr/say-it-first/).
 
 Comment résumer un enregistrement avec l'IA, et où part l'audio : [Comment résumer un enregistrement vocal avec l'IA sur Android](/blog/fr/summarize-recording/).
+
+Comment enregistrer une réunion en présentiel, des premiers mots au résumé, est expliqué dans [Comment enregistrer une réunion avec son téléphone, des premiers mots au résumé](/blog/fr/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les fonctions des outils tiers reflètent leur documentation et les articles publiés au moment de la rédaction, et peuvent changer. Nous développons nous-mêmes une application d'enregistrement, comme indiqué plus haut.</p>

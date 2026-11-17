@@ -96,4 +96,6 @@ Bu yüzden özeti **hangi kayıt ve hangi bölüm** olduğunu bulmak için kulla
 5. Bölümün özetini okuyun ve önemli kısmı **dinleyin**.
 6. Orijinali saklayın.
 
+Yüz yüze bir toplantıyı ilk cümlelerden özete kadar nasıl kaydedeceğiniz [Toplantı telefonla nasıl kaydedilir: ilk cümlelerden özete](/blog/tr/meeting-recording/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Diğer uygulamaların özellikleri yazıldığı tarihteki belgelerine ve haberlere dayanır ve değişebilir. Biz TalkSafe adlı bir kayıt uygulaması geliştiriyoruz.</p>

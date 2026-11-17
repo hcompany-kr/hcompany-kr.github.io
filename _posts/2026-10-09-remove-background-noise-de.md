@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: de
 permalink: /blog/de/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Anleitung
 title: "Hintergrundgeräusche aus einer Sprachaufnahme entfernen – so geht es auf Android"
 description: "Verkehr, Wind, ein Café im Rücken. Vier Wege, ein aufgenommenes Gespräch zu bereinigen – auf dem Telefon beim Aufnehmen, auf dem Telefon danach, am Computer oder per Upload – und welche davon mit Straßenlärm umgehen."
@@ -110,5 +110,7 @@ Was im deutschsprachigen Raum für das Aufnehmen von Gesprächen gilt – § 201
 Wenn Sie TalkSafe gerade erst einrichten: Wie Sie Schlüsselwörter wählen, damit sie zuverlässig erkannt werden, steht in [Zuerst sagt man etwas: eine Aufnahme mit der Stimme starten](/blog/de/say-it-first/).
 
 Wie man eine Aufnahme mit KI zusammenfasst und wohin der Ton geht: [Sprachaufnahme mit KI zusammenfassen – so geht es auf Android](/blog/de/summarize-recording/).
+
+Wie man eine Besprechung vor Ort von den ersten Sätzen bis zur Zusammenfassung aufnimmt, steht in [Besprechung mit dem Handy aufnehmen: von den ersten Sätzen bis zur Zusammenfassung](/blog/de/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Werkzeugen anderer Anbieter beruhen auf deren Dokumentation und Berichten zum Zeitpunkt des Schreibens und können sich ändern. Wir entwickeln selbst eine Aufnahme-App, wie oben offengelegt.</p>

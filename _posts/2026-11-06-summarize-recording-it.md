@@ -94,4 +94,6 @@ Quindi usa il riassunto per trovare **quale registrazione e quale parte**. Poi a
 5. Leggi il riassunto del tratto e **ascolta** la parte che conta.
 6. Conserva l'originale.
 
+Come registrare una riunione in presenza dalle prime parole al riassunto è spiegato in [Come registrare una riunione con il telefono, dalle prime parole al riassunto](/blog/it/meeting-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le funzioni delle app di terzi riflettono la loro documentazione e quanto pubblicato al momento della stesura, e possono cambiare. Noi realizziamo un'app di registrazione, TalkSafe.</p>

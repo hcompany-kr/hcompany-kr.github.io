@@ -94,4 +94,6 @@ Gebruik de samenvatting dus om te vinden **welke opname en welk stuk**. Luister 
 5. Lees de samenvatting van het fragment en **luister** naar het stuk dat telt.
 6. Bewaar het origineel.
 
+Hoe je een vergadering op locatie opneemt, van de eerste zinnen tot de samenvatting, staat in [Een vergadering opnemen met je telefoon: van de eerste zinnen tot de samenvatting](/blog/nl/meeting-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De functies van apps van anderen zijn gebaseerd op hun documentatie en berichtgeving op het moment van schrijven en kunnen veranderen. Wij maken de opname-app TalkSafe.</p>

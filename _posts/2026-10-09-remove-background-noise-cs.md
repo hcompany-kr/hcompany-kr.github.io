@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: cs
 permalink: /blog/cs/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Návod
 title: "Jak odstranit hluk v pozadí z hlasové nahrávky na Androidu"
 description: "Doprava, vítr, kavárna za zády. Čtyři způsoby, jak vyčistit nahraný rozhovor — v telefonu během nahrávání, v telefonu potom, v počítači, nebo nahráním na web — a které z nich si poradí s hlukem ulice."
@@ -110,5 +110,7 @@ Co o nahrávání rozhovorů říkají český a slovenský občanský zákoník
 Pokud s TalkSafe teprve začínáte, jak zvolit klíčová slova, aby se lépe rozpoznávala, popisuje [Nejdřív něco řeknete: jak spustit nahrávání hlasem](/blog/cs/say-it-first/).
 
 Jak shrnout nahrávku pomocí AI a kam zvuk putuje, popisuje [Jak shrnout hlasovou nahrávku pomocí AI na Androidu](/blog/cs/summarize-recording/).
+
+Jak nahrát osobní poradu od prvních slov po shrnutí, popisujeme v [Jak nahrát poradu na telefon: od prvních slov po shrnutí](/blog/cs/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkce nástrojů třetích stran jsou popsány podle jejich dokumentace a zpráv v době psaní a mohou se změnit. Sami vyvíjíme aplikaci na nahrávání, jak je uvedeno výše.</p>

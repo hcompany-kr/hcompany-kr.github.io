@@ -96,4 +96,6 @@ Utilisez donc le résumé pour trouver **quel enregistrement, et quel passage**.
 5. Lisez le résumé de l'extrait et **écoutez** le passage qui compte.
 6. Gardez l'original.
 
+Comment enregistrer une réunion en présentiel, des premiers mots au résumé, est expliqué dans [Comment enregistrer une réunion avec son téléphone, des premiers mots au résumé](/blog/fr/meeting-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les fonctions des applications tierces reflètent leur documentation et ce qui était publié au moment de la rédaction, et peuvent changer. Nous développons une application d'enregistrement, TalkSafe.</p>

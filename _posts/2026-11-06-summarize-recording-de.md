@@ -96,4 +96,6 @@ Nutzen Sie die Zusammenfassung also, um **die richtige Aufnahme und die richtige
 5. Die Zusammenfassung des Ausschnitts lesen und die wichtige Stelle **anhören**.
 6. Das Original behalten.
 
+Wie man eine Besprechung vor Ort von den ersten Sätzen bis zur Zusammenfassung aufnimmt, steht in [Besprechung mit dem Handy aufnehmen: von den ersten Sätzen bis zur Zusammenfassung](/blog/de/meeting-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Angaben zu Apps anderer Anbieter beruhen auf deren Unterlagen und Berichten zum Zeitpunkt des Schreibens und können sich ändern. Wir entwickeln die Aufnahme-App TalkSafe.</p>

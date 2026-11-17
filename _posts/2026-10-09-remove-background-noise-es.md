@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: es
 permalink: /blog/es/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Cómo hacerlo
 title: "Cómo quitar el ruido de fondo de una grabación de voz en Android"
 description: "Tráfico, viento, una cafetería detrás. Cuatro formas de limpiar una conversación grabada — en el móvil mientras grabas, en el móvil después, en un ordenador o subiéndola — y cuáles sirven para el ruido de la calle."
@@ -108,5 +108,7 @@ Cómo recortar una grabación hasta lo que importa sin perder el original, y en 
 Si acabas de empezar con TalkSafe, cómo elegir las palabras clave para que se detecten mejor está en [Lo primero que se mueve no es la mano](/blog/es/say-it-first/).
 
 Cómo resumir una grabación con IA y a dónde va el audio: [Cómo resumir una grabación de audio con IA en Android](/blog/es/summarize-recording/).
+
+Cómo grabar una reunión presencial desde las primeras palabras hasta el resumen está en [Cómo grabar una reunión con el celular o el móvil, desde las primeras palabras hasta el resumen](/blog/es/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las funciones de herramientas de terceros reflejan su documentación y lo publicado al momento de escribir, y pueden cambiar. Hacemos una app de grabación, como se indica arriba.</p>

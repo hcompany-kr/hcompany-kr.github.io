@@ -94,4 +94,6 @@ Así que usa el resumen para encontrar **qué grabación y qué parte**. Luego e
 5. Lee el resumen del tramo y **escucha** la parte que importa.
 6. Conserva el original.
 
+Cómo grabar una reunión presencial desde las primeras palabras hasta el resumen está en [Cómo grabar una reunión con el celular o el móvil, desde las primeras palabras hasta el resumen](/blog/es/meeting-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las funciones de apps de terceros reflejan su documentación y lo publicado al momento de escribir, y pueden cambiar. Nosotros hacemos una app de grabación, TalkSafe.</p>

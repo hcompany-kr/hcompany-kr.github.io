@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: ja
 permalink: /blog/ja/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: 使い方
 title: "録音の雑音を消す方法、Androidでできる4つのやり方"
 description: "車の音、風、カフェのざわめき。録音した会話を整える4つの方法 — 録音しながらスマホで、録音後にスマホで、パソコンで、アップロードして — と、そのうち街の雑音を扱えるもの。"
@@ -108,5 +108,7 @@ Audacityは無料で、**ノイズ低減（Noise Reduction）**エフェクト�
 初めて使う方へ。キーワードをどう決めると検知されやすいかは[先に出るのは、手ではなく言葉です](/blog/ja/say-it-first/)にまとめています。
 
 録音をAIで要約する方法と、音声がどこへ送られるかは[録音をAIで要約する方法、Androidで使えるアプリ](/blog/ja/summarize-recording/)にあります。
+
+会議を最初から最後まで録音して整理する方法は[スマホで会議を録音する方法：始まる前の言葉から要約まで](/blog/ja/meeting-recording/)にまとめました。
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">ほかのツールの機能は執筆時点の公式資料と報道にもとづいており、変わることがあります。私たちは録音アプリを作っており、そのことは上で明らかにしています。</p>

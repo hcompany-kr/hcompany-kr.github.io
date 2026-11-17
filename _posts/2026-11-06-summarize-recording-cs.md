@@ -96,4 +96,6 @@ Používejte proto shrnutí k nalezení **které nahrávky a kterého místa**. 
 5. Přečtěte si shrnutí úseku a důležité místo si **poslechněte**.
 6. Originál si nechte.
 
+Jak nahrát osobní poradu od prvních slov po shrnutí, popisujeme v [Jak nahrát poradu na telefon: od prvních slov po shrnutí](/blog/cs/meeting-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkce aplikací jiných firem vycházejí z jejich dokumentace a zpráv v době psaní a mohou se změnit. Vyvíjíme aplikaci pro nahrávání TalkSafe.</p>

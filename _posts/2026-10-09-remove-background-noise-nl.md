@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: nl
 permalink: /blog/nl/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Handleiding
 title: "Achtergrondgeluid uit een spraakopname halen op Android"
 description: "Verkeer, wind, een café achter je. Vier manieren om een opgenomen gesprek op te schonen — op de telefoon tijdens het opnemen, op de telefoon achteraf, op een computer of door het te uploaden — en welke daarvan straatlawaai aankunnen."
@@ -110,5 +110,7 @@ Wat artikel 139a Sr, artikel 314bis Sw. en de hoogste rechters zeggen over het o
 Begin je net met TalkSafe, dan staat in [Eerst zeg je iets: een opname starten met je stem](/blog/nl/say-it-first/) hoe je trefwoorden kiest die beter herkend worden.
 
 Hoe je een opname samenvat met AI en waar het geluid heen gaat, staat in [Een spraakopname samenvatten met AI op Android](/blog/nl/summarize-recording/).
+
+Hoe je een vergadering op locatie opneemt, van de eerste zinnen tot de samenvatting, staat in [Een vergadering opnemen met je telefoon: van de eerste zinnen tot de samenvatting](/blog/nl/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De functies van hulpmiddelen van derden zijn beschreven op basis van hun documentatie en berichtgeving op het moment van schrijven en kunnen veranderen. Wij maken zelf een opname-app, zoals hierboven vermeld.</p>

@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: it
 permalink: /blog/it/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Come si fa
 title: "Come togliere il rumore di fondo da una registrazione vocale su Android"
 description: "Traffico, vento, un bar alle spalle. Quattro modi per ripulire una conversazione registrata — sul telefono mentre registri, sul telefono dopo, al computer o caricandola — e quali gestiscono il rumore della strada."
@@ -108,5 +108,7 @@ Come ridurre una registrazione alla parte che conta senza perdere l'originale, e
 Se hai appena iniziato con TalkSafe, come scegliere le parole chiave perché vengano rilevate meglio è in [Prima della mano si muove la voce](/blog/it/say-it-first/).
 
 Come riassumere una registrazione con l'IA e dove va l'audio: [Come riassumere una registrazione vocale con l'IA su Android](/blog/it/summarize-recording/).
+
+Come registrare una riunione in presenza dalle prime parole al riassunto è spiegato in [Come registrare una riunione con il telefono, dalle prime parole al riassunto](/blog/it/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le funzioni degli strumenti di terzi riflettono la loro documentazione e quanto riportato al momento della scrittura, e possono cambiare. Realizziamo un'app di registrazione, come indicato sopra.</p>

@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: pl
 permalink: /blog/pl/remove-background-noise/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Poradnik
 title: "Jak usunąć hałas w tle z nagrania głosu na Androidzie"
 description: "Ruch uliczny, wiatr, kawiarnia za plecami. Cztery sposoby na oczyszczenie nagranej rozmowy — na telefonie podczas nagrywania, na telefonie potem, na komputerze albo przez wysłanie pliku — i które z nich radzą sobie z hałasem ulicy."
@@ -110,5 +110,7 @@ Co mówią art. 267 k.k., art. 23 i 24 k.c., art. 168a k.p.k. i Sąd Najwyższy 
 Jeśli dopiero zaczynasz z TalkSafe, jak wybrać słowa kluczowe, żeby były lepiej wykrywane, opisuje [Najpierw coś mówisz: jak zacząć nagrywanie głosem](/blog/pl/say-it-first/).
 
 Jak streścić nagranie za pomocą AI i dokąd trafia dźwięk, opisuje [Jak streścić nagranie głosowe za pomocą AI na Androidzie](/blog/pl/summarize-recording/).
+
+Jak nagrać spotkanie na żywo od pierwszych słów do podsumowania, opisujemy w [Jak nagrać spotkanie telefonem: od pierwszych słów do podsumowania](/blog/pl/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkcje narzędzi innych firm opisano na podstawie ich dokumentacji i doniesień z chwili pisania i mogą się zmienić. Sami tworzymy aplikację do nagrywania, jak zaznaczono wyżej.</p>
