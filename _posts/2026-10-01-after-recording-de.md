@@ -4,7 +4,7 @@ ref: after-recording
 categories: de
 permalink: /blog/de/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Anleitung
 title: "Was man mit einer Aufnahme tun sollte – und was nicht"
 description: "Wie man die Datei aufbewahrt, auf das Wesentliche kürzt und wo man sie einreicht. Und warum das Weitergeben in Deutschland, Österreich, der Schweiz, Liechtenstein, Luxemburg und Belgien eigene Regeln hat."
@@ -20,7 +20,7 @@ faq:
   - q: "Wo reicht man eine Aufnahme ein?"
     a: "Das hängt von der Sache ab: bei Streit im Arbeitsverhältnis beim Arbeitsgericht, bei Vertrags- oder Verbraucherstreit bei einer Schlichtungsstelle oder dem Zivilgericht, bei Straftaten bei Polizei oder Staatsanwaltschaft. Es hilft immer, den relevanten Abschnitt mit einer Notiz einzureichen, was darin zu hören ist."
   - q: "Sollte man die Datei sichern?"
-    a: "Eine Datei, die nur auf einem Telefon liegt, verschwindet mit diesem Telefon. TalkSafe nutzt das Teilen-Menü von Android oder iPhone, sodass eine Aufnahme an jede App geschickt werden kann, die Dateien annimmt – als E-Mail an sich selbst, in einen Cloud-Speicher oder auf einen Computer."
+    a: "Eine Datei, die nur auf einem Telefon liegt, verschwindet mit diesem Telefon. TalkSafe nutzt das Teilen-Menü von Android oder iPhone, sodass eine Aufnahme an jede App geschickt werden kann, die Dateien annimmt – als E-Mail an sich selbst, in einen Cloud-Speicher oder auf einen Computer. Aufnahmen, die im Cloud-Backup von TalkSafe gesichert sind, lassen sich wiederherstellen, wenn sie versehentlich auf dem Telefon gelöscht werden, oder auf einem neuen Telefon, wenn das alte verloren geht."
   - q: "Schwächt das Schneiden die Aufnahme als Beweis?"
     a: "Nicht, wenn das Original erhalten bleibt. Eine vollständige Zwei-Stunden-Datei einzureichen ist meist schlechter, weil die Person, die sie prüft, die relevante Stelle selbst suchen muss. Ein kurzer Ausschnitt plus unverändertes Original ist die stärkere Kombination."
   - q: "Was tun mit einer Aufnahme voller Hintergrundgeräusche?"
@@ -79,6 +79,8 @@ Die Reihenfolge, die sich bewährt:
 ## Nicht nur auf einem Gerät lassen
 
 Ein Telefon geht verloren, geht kaputt oder wird zurückgesetzt, und alles darauf ist auf einmal weg. Das trifft vor allem Dateien, die man erst Monate später braucht.
+
+Aufnahmen, die im **Cloud-Backup** von TalkSafe gesichert sind, verschwinden nicht mit dem Telefon. Wird eine versehentlich auf dem Telefon gelöscht, lässt sie sich wiederherstellen, und geht das Telefon verloren und Sie wechseln das Gerät, lassen sich die Aufnahmen auf dem neuen Telefon aus der Cloud wiederherstellen.
 
 TalkSafe nutzt das **Teilen-Menü von Android oder iPhone**, sodass eine Aufnahme an jede App geschickt werden kann, die Dateien annimmt – als E-Mail an sich selbst, in einen Cloud-Speicher, auf einen Computer.
 

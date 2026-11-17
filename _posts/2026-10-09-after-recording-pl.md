@@ -4,7 +4,7 @@ ref: after-recording
 categories: pl
 permalink: /blog/pl/after-recording/
 date: 2026-10-09
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Poradnik
 title: "Co zrobić z nagraniem, a czego z nim nie robić"
 description: "Jak przechowywać plik, jak skrócić go do tego, co ważne, jak oczyścić z hałasu i gdzie go złożyć. I dlaczego w Polsce rozpowszechnianie nagrania to osobna sprawa, nawet gdy samo nagrywanie było dozwolone."
@@ -22,7 +22,7 @@ faq:
   - q: "Co zrobić z nagraniem pełnym hałasu w tle?"
     a: "Zastosuj do nagrania albo wyciętego fragmentu usuwanie szumów z AI w TalkSafe. Zapisuje ono nową wersję bez hałasu w tle, przetworzoną na urządzeniu, i zostawia oryginał bez zmian, więc możesz złożyć oczyszczoną wersję i zachować oryginał obok."
   - q: "Czy trzeba robić kopię zapasową pliku?"
-    a: "Plik, który jest tylko na jednym telefonie, znika razem z nim. TalkSafe korzysta z menu udostępniania Androida lub iPhone'a, więc nagranie można wysłać do każdej aplikacji, która przyjmuje pliki — e-mailem do siebie, do chmury, na komputer."
+    a: "Plik, który jest tylko na jednym telefonie, znika razem z nim. TalkSafe korzysta z menu udostępniania Androida lub iPhone'a, więc nagranie można wysłać do każdej aplikacji, która przyjmuje pliki — e-mailem do siebie, do chmury, na komputer. Nagrania zapisane w kopii zapasowej w chmurze TalkSafe można przywrócić, jeśli zostaną usunięte z telefonu przez pomyłkę, albo na nowym telefonie, jeśli stary zginie."
   - q: "Czy wycięcie fragmentu osłabia nagranie jako dowód?"
     a: "Nie, jeśli oryginał jest zachowany. Złożenie całego dwugodzinnego pliku jest zwykle gorsze, bo osoba, która go ocenia, musi sama znaleźć istotny fragment. Krótki wycinek plus nietknięty oryginał to mocniejsze połączenie."
 ---
@@ -74,6 +74,8 @@ Kolejność, której warto się trzymać:
 ## Nie trzymaj go na jednym urządzeniu
 
 Telefon się gubi, psuje albo zostaje zresetowany, a wszystko, co na nim było, znika naraz. Najbardziej dotyczy to plików, których będziesz potrzebować dopiero za kilka miesięcy.
+
+Nagrania zapisane w **kopii zapasowej w chmurze** TalkSafe nie znikają razem z telefonem. Nagranie usunięte z telefonu przez pomyłkę można przywrócić, a jeśli zgubisz telefon i zmienisz go na nowy, nagrania można przywrócić z chmury na nowym telefonie.
 
 TalkSafe korzysta z **menu udostępniania Androida lub iPhone'a**, więc nagranie można wysłać do każdej aplikacji, która przyjmuje pliki — e-mailem do siebie, do chmury, na komputer.
 

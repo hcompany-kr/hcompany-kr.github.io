@@ -4,7 +4,7 @@ ref: after-recording
 categories: en
 permalink: /blog/en/after-recording/
 date: 2026-08-26
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: How to
 title: "What to do with a recording, and what not to do with it"
 description: "How to keep the file, how to cut it down to the part that matters, and where to submit it. Most of the trouble people run into comes after the recording, not during it."
@@ -20,7 +20,7 @@ faq:
   - q: "Where do I submit a recording?"
     a: "It depends on the matter — a labour agency or court for employment disputes, a consumer body or civil court for contract disputes, law enforcement for criminal matters. In every case it helps to submit the relevant section together with a note of what it contains."
   - q: "Should I back up the file?"
-    a: "A file that exists only on one phone disappears with that phone. Keeping one copy off the device is worth the two minutes. TalkSafe uses the Android or iPhone share function, so a file can be sent to any app that accepts it — email to yourself, cloud storage, a computer."
+    a: "A file that exists only on one phone disappears with that phone. Keeping one copy off the device is worth the two minutes. TalkSafe uses the Android or iPhone share function, so a file can be sent to any app that accepts it — email to yourself, cloud storage, a computer. Recordings backed up with TalkSafe's cloud backup can be restored if they are deleted from the phone by mistake, or on a new phone if the old one is lost."
   - q: "Does trimming weaken the recording as evidence?"
     a: "Not if the original is preserved. Submitting a full two-hour file is usually worse, because the person reading it has to find the relevant part themselves. A short excerpt plus the untouched original is the stronger combination."
   - q: "What if a recording is full of background noise?"
@@ -68,6 +68,8 @@ The sequence worth following:
 ## Don't leave it on one device
 
 A phone gets lost, breaks, or gets wiped, and everything on it goes at once. That matters most for files you won't need until months later.
+
+Recordings backed up with TalkSafe's **cloud backup** don't go with the phone. One deleted from the phone by mistake can be restored, and if the phone is lost and replaced, they can be restored from the cloud on the new phone.
 
 TalkSafe uses the **Android or iPhone share function**, so a recording can be sent to any app that accepts a file — emailed to yourself, pushed to cloud storage, moved to a computer.
 

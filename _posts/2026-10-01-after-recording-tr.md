@@ -4,7 +4,7 @@ ref: after-recording
 categories: tr
 permalink: /blog/tr/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: Nasıl yapılır
 title: "Bir kayıtla ne yapmalı, ne yapmamalı"
 description: "Dosyayı nasıl saklamalı, önemli kısma nasıl indirmeli ve nereye sunmalı. Ve Türkiye'de kaydı yaymanın neden kaydetmekten ayrı bir suç olduğu."
@@ -20,7 +20,7 @@ faq:
   - q: "Kaydı nereye sunmalıyım?"
     a: "Konuya göre değişir: işçilik alacaklarında iş mahkemesine gitmeden önce zorunlu arabuluculuğa, tüketici uyuşmazlıklarında tüketici hakem heyetine ya da tüketici mahkemesine, suç teşkil eden durumlarda savcılığa ya da kolluğa. Her durumda ilgili bölümü, içinde ne olduğunu anlatan bir notla birlikte sunmak işi kolaylaştırır."
   - q: "Dosyanın yedeğini almalı mıyım?"
-    a: "Yalnızca bir telefonda duran dosya o telefonla birlikte kaybolur. TalkSafe Android'in veya iPhone'un paylaşım menüsünü kullanır; kayıt, dosya kabul eden her uygulamaya gönderilebilir: kendinize e-posta, bulut depolama, bir bilgisayar."
+    a: "Yalnızca bir telefonda duran dosya o telefonla birlikte kaybolur. TalkSafe Android'in veya iPhone'un paylaşım menüsünü kullanır; kayıt, dosya kabul eden her uygulamaya gönderilebilir: kendinize e-posta, bulut depolama, bir bilgisayar. TalkSafe'in bulut yedeklemesiyle yedeklenen kayıtlar, telefondan yanlışlıkla silinse de, telefon kaybolup yenisi alınsa da buluttan geri yüklenebilir."
   - q: "Kırpmak kaydı delil olarak zayıflatır mı?"
     a: "Orijinal korunuyorsa hayır. İki saatlik tam bir dosya sunmak genellikle daha kötüdür, çünkü inceleyen kişi ilgili kısmı kendisi bulmak zorunda kalır. Kısa bir kesit ile dokunulmamış orijinal en güçlü birleşimdir."
   - q: "Arka plan gürültüsüyle dolu bir kayıtla ne yapmalı?"
@@ -76,6 +76,8 @@ Aynısı **yapay zekâ ile gürültü giderme** için de geçerlidir. Kayıt sok
 ## Tek bir cihazda bırakmayın
 
 Telefon kaybolur, bozulur ya da sıfırlanır ve içindeki her şey bir anda gider. Bu en çok aylar sonra ihtiyaç duyulacak dosyaları etkiler.
+
+TalkSafe'in **bulut yedekleme** özelliğiyle yedeklenen kayıtlar telefonla birlikte kaybolmaz. Telefondan yanlışlıkla silinen bir kayıt geri yüklenebilir; telefon kaybolup değiştirildiğinde de kayıtlar yeni telefonda buluttan geri yüklenebilir.
 
 TalkSafe **Android'in veya iPhone'un paylaşım menüsünü** kullanır; kayıt, dosya kabul eden her uygulamaya gönderilebilir: kendinize e-posta, bulut depolama, bir bilgisayar.
 
