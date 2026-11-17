@@ -4,7 +4,7 @@ ref: remove-background-noise
 categories: en
 permalink: /blog/en/remove-background-noise/
 date: 2026-10-08
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: How to
 title: "How to remove background noise from a voice recording on Android"
 description: "Traffic, wind, a café behind you. Four ways to clean up a recorded conversation — on the phone while recording, on the phone afterwards, on a computer, or by uploading it — and which ones handle street noise."
@@ -108,5 +108,7 @@ How dedicated recorders compare with phones on sound quality is in [The thing th
 If you are new to TalkSafe, how to choose keywords so they are detected reliably is in [You say something first: starting a recording with your voice](/blog/en/say-it-first/).
 
 How to get an AI summary of a recording, and where the audio goes: [How to get an AI summary of a voice recording on Android](/blog/en/summarize-recording/).
+
+How to record an in-person meeting from the first words to the summary is in [How to record a meeting on your phone, from the first words to the summary](/blog/en/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Feature availability for third-party tools reflects their documentation and reporting at the time of writing and can change. We make a recording app, as disclosed above.</p>

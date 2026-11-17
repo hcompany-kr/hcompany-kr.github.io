@@ -4,19 +4,19 @@ ref: summarize-recording
 categories: en
 permalink: /blog/en/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: How-to
 title: "How to get an AI summary of a voice recording on Android"
-description: "To summarize a voice recording on Android, use a recorder app with an AI summary: Google's Recorder on Pixel summarizes on the device, Samsung's Voice Recorder adds transcripts and summaries with Galaxy AI, and TalkSafe summarizes every recording in the language it was recorded in. Where the audio goes, what a summary leaves out, and why the original stays."
+description: "To summarize a voice recording on Android, use a recorder app with an AI summary: Google's Recorder on Pixel 8 and later summarizes the transcript, Samsung's Voice Recorder adds transcripts and summaries with Galaxy AI, and TalkSafe summarizes every recording in the language it was recorded in. Where the audio goes, what a summary leaves out, and why the original stays."
 image: /assets/img/og/summarize-recording-en.png
 image_alt: "Google Recorder on Pixel, Samsung Voice Recorder on Galaxy and TalkSafe compared: all three offer an AI summary, only Pixel and Galaxy give a full transcript, and only TalkSafe starts recording by itself on a word you set."
 app: true
 app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "How do I get an AI summary of a voice recording on Android?"
-    a: "Use a recorder app that has an AI summary. On Pixel phones, Google's Recorder app can summarize a recording's transcript on the device with Gemini Nano. Samsung's Voice Recorder offers transcripts and summaries through Galaxy AI's Transcript Assist, which requires a Samsung account. TalkSafe, a voice recorder for Android and iPhone, creates an AI summary for each recording and shows it under the player in the recording's detail screen."
+    a: "Use a recorder app that has an AI summary. On Pixel 8 and later, Google's Recorder app can summarize a recording's transcript. Samsung's Voice Recorder offers transcripts and summaries through Galaxy AI's Transcript Assist, which requires a Samsung account. TalkSafe, a voice recorder for Android and iPhone, creates an AI summary for each recording and shows it under the player in the recording's detail screen."
   - q: "Is the audio sent to a server when a recording is summarized?"
-    a: "It depends on the app. Google's Recorder summaries on Pixel run on the device with Gemini Nano. TalkSafe sends the recording to a server for the AI summary, while its keyword detection runs entirely on the phone. If a conversation includes other people, their voices are part of whatever you send."
+    a: "It depends on the app. According to Google, Recorder summaries on Pixel run in a secure, isolated environment in the cloud. TalkSafe sends the recording to a server for the AI summary, while its keyword detection runs entirely on the phone. If a conversation includes other people, their voices are part of whatever you send."
   - q: "What language is a TalkSafe summary in?"
     a: "The same language the recording is in. A conversation recorded in German is summarized in German, and one recorded in Japanese is summarized in Japanese."
   - q: "Does TalkSafe give a full transcript?"
@@ -41,16 +41,16 @@ Now someone asks what was agreed about the deposit. You know it is in there some
 |---|---|---|---|
 | Summary | Yes | Yes, with Transcript Assist | Yes, for each recording |
 | Full transcript | Yes | Yes | No, summary only |
-| Where the summary is made | On the device (Gemini Nano) | Not verified here | On a server |
-| Language | Launched English-only; check your phone | Supported languages vary by region | The language the recording is in |
-| Other requirements | Supported Pixel models | Samsung account; very short recordings cannot be summarized | Android |
+| Where the summary is made | In the cloud (secure, isolated environment) | Not verified here | On a server |
+| Language | English, Chinese (Mandarin), Hindi, Italian, French, German, Japanese | Supported languages vary by region | The language the recording is in |
+| Other requirements | Pixel 8 or later; recordings of 5 minutes to 1 hour | Samsung account; very short recordings cannot be summarized | Android and iPhone |
 | Starts recording by itself | No | No | Yes, on a word you set, with the 30 seconds before |
 
 The details below are from each company's documentation and reporting at the time of writing and can change.
 
 ## Google Recorder on Pixel
 
-Google's Recorder app transcribes as it records, and on supported Pixel phones it can **summarize the transcript on the device** with **Gemini Nano**. Google's developer team described the output as **three bullet points** covering speaker names, key takeaways and themes. When the feature launched, summaries were **English-only**; transcription itself covers many more languages.
+Google's Recorder app transcribes as it records, and on **Pixel 8 and later** it can **summarize** that transcript. According to Google's help page, summaries are processed in **a secure, isolated environment in the cloud**, are available for English, Chinese (Mandarin), Hindi, Italian, French, German and Japanese, and cover recordings of **5 minutes to 1 hour** of speech. Transcription itself covers many more languages.
 
 ## Samsung Voice Recorder with Galaxy AI
 
@@ -93,5 +93,7 @@ So use the summary to find **which recording, and which part**. Then listen. And
 4. If it is noisy, run **noise removal** on the clip.
 5. Read the summary of the clip, then **listen** to the part that matters.
 6. Keep the original.
+
+How to record an in-person meeting from the first words to the summary is in [How to record a meeting on your phone, from the first words to the summary](/blog/en/meeting-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Feature availability for third-party apps reflects their documentation and reporting at the time of writing and can change. We make a recording app, TalkSafe.</p>

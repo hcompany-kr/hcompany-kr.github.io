@@ -3,7 +3,7 @@ lang: ko
 ref: remove-background-noise
 categories: ko
 date: 2026-10-08
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 eyebrow: 사용법
 title: "녹음 파일 잡음 제거, 안드로이드에서 하는 네 가지 방법"
 description: "차 소리, 바람, 카페 소음. 녹음한 대화를 정리하는 네 가지 방법 — 녹음하면서 휴대폰에서, 녹음한 뒤 휴대폰에서, 컴퓨터에서, 업로드해서 — 그리고 그중 길거리 소음을 다룰 수 있는 것."
@@ -107,5 +107,7 @@ Audacity는 무료이고, **노이즈 감소(Noise Reduction)** 효과가 이 �
 처음 쓰신다면, 키워드를 어떻게 정해야 더 잘 감지되는지는 [말이 먼저 나옵니다: 목소리로 녹음을 시작한다는 것](/blog/ko/say-it-first/)에 정리해 두었습니다.
 
 녹음을 AI로 요약하는 방법과, 녹음이 어디로 가는지는 [녹음 요약 AI, 안드로이드에서 쓰는 방법](/blog/ko/summarize-recording/)에 있습니다.
+
+회의를 처음부터 끝까지 녹음하고 정리하는 방법은 [회의 녹음, 휴대폰으로 하는 법: 시작 전의 말부터 요약까지](/blog/ko/meeting-recording/)에 정리했습니다.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">다른 도구의 기능은 작성 시점의 공식 문서와 보도를 기준으로 했으며 바뀔 수 있습니다. 저희는 녹음 앱을 만들고 있으며, 위에서 밝혔습니다.</p>
