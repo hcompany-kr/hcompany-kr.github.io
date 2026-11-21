@@ -132,4 +132,6 @@ Hoe je belaging (stalking) bewijst, staat in [Stalking (belaging) bewijzen: wat 
 
 Of een mondelinge afspraak geldig is en wat telt als de offerte iets anders zegt: [Is een mondelinge afspraak geldig? Ja, maar wat als de offerte iets anders zegt?](/blog/nl/mondelinge-afspraak/).
 
+Is een opname per ongeluk verwijderd, dan staat in [Een verwijderde spraakopname terugzetten op Android: waar je eerst kijkt](/blog/nl/recover-deleted-recording/) waar je kijkt.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen en verspreiden verschillen per land.</p>

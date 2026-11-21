@@ -132,4 +132,6 @@ Wie man Stalking beweist und ein Stalking-Tagebuch führt: [Stalking beweisen: W
 
 Ob ein mündlicher Vertrag gilt und was zählt, wenn er vom schriftlichen Angebot abweicht: [Mündlicher Vertrag: Er gilt – aber was zählt, wenn er vom schriftlichen Angebot abweicht?](/blog/de/muendlicher-vertrag/).
 
+Wenn eine Aufnahme versehentlich gelöscht wurde, steht in [Gelöschte Sprachaufnahme wiederherstellen: wo man auf Android zuerst nachsieht](/blog/de/recover-deleted-recording/), wo man nachsieht.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung – das Recht zum Aufnehmen und Weitergeben unterscheidet sich von Land zu Land.</p>

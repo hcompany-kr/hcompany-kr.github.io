@@ -130,4 +130,6 @@ Jak sbírat důkazy nebezpečného pronásledování (stalkingu), popisuje [Stal
 
 Zda platí ústní smlouva a jak dokázat domluvu, když rozpočet říká něco jiného: [Ústní smlouva platí. Jak ale dokázat, co se domluvilo, když v rozpočtu stojí něco jiného?](/blog/cs/ustni-smlouva/).
 
+Pokud se nahrávka smazala omylem, kde ji hledat, popisujeme v [Jak obnovit smazanou nahrávku na Androidu: kde hledat nejdřív](/blog/cs/recover-deleted-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání a šíření se v jednotlivých zemích liší.</p>

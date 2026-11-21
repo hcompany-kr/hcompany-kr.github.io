@@ -108,3 +108,5 @@ Even a carefully kept file can fail to get in. What courts actually check is in 
 How to strip street and traffic noise from a recording on the phone, and which tools handle it, is in [How to remove background noise from a voice recording on Android](/blog/en/remove-background-noise/).
 
 How to cut a recording down to the part that matters while keeping the original, and how the common apps differ, is in [How to cut or trim a voice recording on Android, keeping the original](/blog/en/trim-recording/).
+
+If a recording was deleted by mistake, where to look is in [How to recover deleted voice recordings on Android: where to look first](/blog/en/recover-deleted-recording/).

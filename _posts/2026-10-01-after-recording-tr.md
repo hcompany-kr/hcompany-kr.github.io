@@ -129,4 +129,6 @@ Israrlı takip suçunun nasıl ispatlanacağı ve şikâyet süresi [Israrlı ta
 
 Sözlü sözleşmenin geçerliliği ve yazılı teklifle çeliştiğinde ne olduğu: [Sözlü sözleşme geçerli mi? Geçerli, ama yazılı teklifle çelişince ne olur?](/blog/tr/sozlu-sozlesme/).
 
+Yanlışlıkla silinen bir kaydı nerede arayacağınız [Silinen ses kaydı geri getirme: Android'de önce nereye bakılır](/blog/tr/recover-deleted-recording/) yazısında.
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

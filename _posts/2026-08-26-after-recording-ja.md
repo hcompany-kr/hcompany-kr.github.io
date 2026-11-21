@@ -106,3 +106,5 @@ TalkSafeは**Android・iPhoneの共有機能**を使うので、受け取れる�
 録音から街の雑音をスマホで取り除く方法と、ツールごとの違いは[録音の雑音を消す方法、Androidでできる4つのやり方](/blog/ja/remove-background-noise/)にまとめています。
 
 原本を残したまま必要な区間だけを切り取る方法と、アプリごとの違いは[録音の切り取り方：Androidで必要な部分だけ切り取り、原本は残す方法](/blog/ja/trim-recording/)にあります。
+
+誤って削除した録音を戻す方法は[削除した録音を復元する方法：Androidでまず確認する場所](/blog/ja/recover-deleted-recording/)にまとめました。

@@ -106,3 +106,5 @@ Aun conservando bien el archivo, puede no llegar a usarse. Qué miran los tribun
 Cómo quitar el ruido de la calle de una grabación en el móvil, y qué herramientas sirven para eso, está en [Cómo quitar el ruido de fondo de una grabación de voz en Android](/blog/es/remove-background-noise/).
 
 Cómo recortar una grabación hasta lo que importa sin perder el original, y en qué se diferencian las apps, está en [Cómo cortar una grabación de audio en Android sin perder el original](/blog/es/trim-recording/).
+
+Si borraste una grabación por error, dónde buscar está en [Cómo recuperar grabaciones de voz borradas del celular: dónde mirar primero en Android](/blog/es/recover-deleted-recording/).

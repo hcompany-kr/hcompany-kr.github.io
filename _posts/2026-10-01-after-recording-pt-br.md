@@ -128,4 +128,6 @@ Como juntar provas do crime de perseguição (stalking) está em [Crime de perse
 
 Se contrato verbal vale e o que acontece quando o orçamento diz outra coisa: [Contrato verbal tem validade? Tem, mas e quando o orçamento diz outra coisa?](/blog/pt-br/contrato-verbal/).
 
+Se uma gravação foi apagada sem querer, onde procurar está em [Como recuperar gravação de voz apagada do celular: onde olhar primeiro no Android](/blog/pt-br/recover-deleted-recording/).
+
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não é aconselhamento jurídico — as regras sobre gravar e divulgar mudam de país para país.</p>

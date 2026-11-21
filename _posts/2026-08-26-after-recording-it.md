@@ -108,3 +108,5 @@ Anche un file conservato bene può non entrare in giudizio. Cosa guarda il giudi
 Come togliere il rumore della strada da una registrazione sul telefono, e quali strumenti lo gestiscono, è in [Come togliere il rumore di fondo da una registrazione vocale su Android](/blog/it/remove-background-noise/).
 
 Come ridurre una registrazione alla parte che conta senza perdere l'originale, e come cambiano le app, è in [Come tagliare una registrazione vocale su Android senza perdere l'originale](/blog/it/trim-recording/).
+
+Se hai cancellato una registrazione per errore, dove cercarla è spiegato in [Come recuperare registrazioni vocali cancellate su Android: dove guardare prima](/blog/it/recover-deleted-recording/).
