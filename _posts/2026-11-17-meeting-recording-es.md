@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: es
 permalink: /blog/es/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Guía
 title: "Cómo grabar una reunión con el celular o el móvil, desde las primeras palabras hasta el resumen"
 description: "Al grabar una reunión presencial con el teléfono, lo que más se pierde es lo que se dijo antes de pulsar grabar. Dónde poner el teléfono, cómo hacer que la grabación empiece con las primeras palabras de quien dirige la reunión, cómo limpiar el ruido de una reunión en una cafetería, y el resumen con IA y la copia en la nube cuando termina."
@@ -25,7 +26,7 @@ faq:
   - q: "¿Puedo tener toda la reunión en texto?"
     a: "TalkSafe no tiene transcripción completa, solo resumen. Usa el resumen para encontrar dónde se tomó una decisión y escucha esa parte para comprobar las palabras exactas. Si necesitas una transcripción palabra por palabra, usa además una app con función de transcripción."
   - q: "Si pierdo el teléfono, ¿pierdo también las grabaciones de las reuniones?"
-    a: "No si estaban en la copia en la nube de TalkSafe. Una grabación guardada en la nube se puede recuperar si se borra del teléfono por error, y si el teléfono se pierde y se cambia, se puede recuperar desde la nube en el nuevo."
+    a: "No si estaban en la copia en la nube de TalkSafe. Una grabación guardada en la nube se puede recuperar si se borra del teléfono por error, y si el teléfono se pierde y se cambia, se puede recuperar desde la nube en el nuevo. La copia no es automática: la haces tú."
 ---
 
 Una semana después de la reunión, llega un mensaje al grupo del equipo: "¿No habíamos quedado en eso?"
@@ -88,7 +89,7 @@ Lo que compartes después de una reunión no suele ser la hora entera, sino los 
 
 Una grabación de reunión a menudo solo hace falta meses después. Mientras tanto puedes cambiar de teléfono, o borrar el archivo al hacer espacio.
 
-Las grabaciones guardadas en la **copia en la nube** de TalkSafe se pueden recuperar si se borran del teléfono por error, y si el teléfono se pierde y se cambia, se pueden recuperar desde la nube en el nuevo. Qué más conviene hacer después de grabar está en [Qué hacer con una grabación, y qué no hacer con ella](/blog/es/after-recording/).
+Las grabaciones guardadas en la **copia en la nube** de TalkSafe se pueden recuperar si se borran del teléfono por error, y si el teléfono se pierde y se cambia, se pueden recuperar desde la nube en el nuevo. La copia no es automática: la haces tú. Qué más conviene hacer después de grabar está en [Qué hacer con una grabación, y qué no hacer con ella](/blog/es/after-recording/).
 
 ## Grabar una reunión en la que participas
 

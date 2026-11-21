@@ -4,7 +4,7 @@ ref: after-recording
 categories: pt-br
 permalink: /blog/pt-br/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Como fazer
 title: "O que fazer com uma gravação, e o que não fazer"
 description: "Como guardar o arquivo, como cortar só a parte que importa e onde apresentar. E por que divulgar uma gravação tem regras próprias no Brasil e em Portugal, mesmo quando gravar era permitido."
@@ -20,7 +20,7 @@ faq:
   - q: "Onde apresentar uma gravação?"
     a: "Depende do caso. No Brasil: Justiça do Trabalho para questões de trabalho, Procon ou Juizado Especial Cível para consumo e contratos, delegacia ou Ministério Público para crimes. Em Portugal: Autoridade para as Condições do Trabalho ou tribunal do trabalho, Julgados de Paz ou tribunal cível, PSP, GNR ou Ministério Público. Em todos os casos ajuda apresentar o trecho relevante com uma nota do que ele contém."
   - q: "Preciso fazer backup do arquivo?"
-    a: "Um arquivo que só existe num celular some junto com ele. O TalkSafe usa o menu de compartilhamento do Android ou do iPhone, então a gravação pode ser enviada para qualquer app que aceite arquivos: um e-mail para você mesmo, um armazenamento na nuvem, um computador. As gravações salvas no backup na nuvem do TalkSafe podem ser recuperadas se forem apagadas do celular por engano, ou num celular novo se você perder o antigo."
+    a: "Um arquivo que só existe num celular some junto com ele. O TalkSafe usa o menu de compartilhamento do Android ou do iPhone, então a gravação pode ser enviada para qualquer app que aceite arquivos: um e-mail para você mesmo, um armazenamento na nuvem, um computador. As gravações salvas no backup na nuvem do TalkSafe podem ser recuperadas se forem apagadas do celular por engano, ou num celular novo se você perder o antigo. O backup não é automático: é você quem faz."
   - q: "Cortar a gravação enfraquece a prova?"
     a: "Não, se o original estiver guardado. Apresentar um arquivo inteiro de duas horas costuma ser pior, porque quem analisa precisa achar sozinho a parte relevante. Um trecho curto mais o original intacto é a combinação mais forte."
   - q: "O que fazer com uma gravação cheia de ruído de fundo?"
@@ -76,7 +76,7 @@ A sequência que vale seguir:
 
 O celular se perde, quebra ou é resetado, e tudo que está nele vai embora de uma vez. Isso pesa mais para arquivos que você só vai precisar meses depois.
 
-As gravações salvas no **backup na nuvem** do TalkSafe não somem junto com o celular. Se você apagar uma do celular por engano, dá para recuperá-la, e se perder o celular e trocar de aparelho, dá para recuperá-las da nuvem no novo.
+As gravações salvas no **backup na nuvem** do TalkSafe não somem junto com o celular. Se você apagar uma do celular por engano, dá para recuperá-la, e se perder o celular e trocar de aparelho, dá para recuperá-las da nuvem no novo. O backup não é automático: é você quem faz.
 
 O TalkSafe usa o **menu de compartilhamento do Android ou do iPhone**, então a gravação pode ser enviada para qualquer app que aceite arquivos — um e-mail para você mesmo, um armazenamento na nuvem, um computador.
 

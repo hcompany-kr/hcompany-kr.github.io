@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: cs
 permalink: /blog/cs/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Návod
 title: "Jak nahrát poradu na telefon: od prvních slov po shrnutí"
 description: "Když nahráváte osobní poradu na telefon, nejčastěji se ztratí to, co zaznělo před stisknutím tlačítka nahrávání. Kam položit telefon, jak spustit nahrávání prvními slovy toho, kdo poradu vede, jak odstranit hluk ze schůzky v kavárně, shrnutí od AI a záloha do cloudu po poradě a co říká zákon v Česku a na Slovensku."
@@ -25,7 +26,7 @@ faq:
   - q: "Můžu dostat celou poradu jako text?"
     a: "TalkSafe nemá úplný přepis, jen shrnutí. Podle shrnutí najděte místo, kde padlo rozhodnutí, a poslechněte si ho kvůli přesnému znění. Pokud potřebujete přepis slovo od slova, použijte k tomu navíc aplikaci s funkcí přepisu."
   - q: "Když ztratím telefon, přijdu i o nahrávky porad?"
-    a: "Ne, pokud byly zálohované do cloudu v TalkSafe. Nahrávku zálohovanou do cloudu lze obnovit, když ji omylem smažete z telefonu, a když telefon ztratíte a vyměníte, lze ji obnovit z cloudu v novém telefonu."
+    a: "Ne, pokud byly zálohované do cloudu v TalkSafe. Nahrávku zálohovanou do cloudu lze obnovit, když ji omylem smažete z telefonu, a když telefon ztratíte a vyměníte, lze ji obnovit z cloudu v novém telefonu. Záloha neprobíhá automaticky, spouštíte ji sami."
 ---
 
 Týden po poradě přijde do týmového chatu zpráva: „Nedohodli jsme se na tom takhle?“
@@ -88,7 +89,7 @@ Po poradě se obvykle nesdílí celá hodina, ale pár minut, kdy padlo rozhodnu
 
 Nahrávka porady je často potřeba až za několik měsíců. Mezitím můžete vyměnit telefon nebo soubor smazat, když uvolňujete místo.
 
-Nahrávky **zálohované do cloudu** v TalkSafe lze obnovit, když je omylem smažete z telefonu, a když telefon ztratíte a vyměníte, lze je obnovit z cloudu v novém telefonu. Co dalšího udělat po nahrání, popisujeme v [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/after-recording/).
+Nahrávky **zálohované do cloudu** v TalkSafe lze obnovit, když je omylem smažete z telefonu, a když telefon ztratíte a vyměníte, lze je obnovit z cloudu v novém telefonu. Záloha neprobíhá automaticky, spouštíte ji sami. Co dalšího udělat po nahrání, popisujeme v [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/after-recording/).
 
 ## Co říká zákon v Česku a na Slovensku
 

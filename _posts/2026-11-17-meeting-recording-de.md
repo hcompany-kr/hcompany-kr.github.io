@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: de
 permalink: /blog/de/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Anleitung
 title: "Besprechung mit dem Handy aufnehmen: von den ersten Sätzen bis zur Zusammenfassung"
 description: "Wer eine Besprechung vor Ort mit dem Handy aufnimmt, verliert am häufigsten das, was vor dem Drücken der Aufnahmetaste gesagt wurde. Wo das Handy liegen sollte, wie die Aufnahme mit den ersten Worten der Gesprächsleitung startet, wie man Café-Lärm entfernt, dazu KI-Zusammenfassung und Cloud-Backup nach dem Termin – und was in Deutschland, Österreich und der Schweiz gilt."
@@ -25,7 +26,7 @@ faq:
   - q: "Kann ich die ganze Besprechung als Text bekommen?"
     a: "TalkSafe hat kein vollständiges Transkript, nur eine Zusammenfassung. Finden Sie über die Zusammenfassung die Stelle, an der etwas entschieden wurde, und hören Sie diese Stelle für den genauen Wortlaut an. Wenn Sie ein Wort-für-Wort-Transkript brauchen, nutzen Sie zusätzlich eine App mit Transkriptionsfunktion."
   - q: "Wenn ich mein Handy verliere, sind dann auch die Besprechungsaufnahmen weg?"
-    a: "Nicht, wenn sie im Cloud-Backup von TalkSafe gesichert waren. Eine gesicherte Aufnahme lässt sich wiederherstellen, wenn sie versehentlich auf dem Handy gelöscht wird, und wenn das Handy verloren geht und ersetzt wird, lässt sie sich auf dem neuen Handy aus der Cloud wiederherstellen."
+    a: "Nicht, wenn sie im Cloud-Backup von TalkSafe gesichert waren. Eine gesicherte Aufnahme lässt sich wiederherstellen, wenn sie versehentlich auf dem Handy gelöscht wird, und wenn das Handy verloren geht und ersetzt wird, lässt sie sich auf dem neuen Handy aus der Cloud wiederherstellen. Das Backup läuft nicht automatisch, Sie starten es selbst."
 ---
 
 Eine Woche nach der Besprechung kommt eine Nachricht in den Team-Chat: „Hatten wir das nicht so abgemacht?“
@@ -88,7 +89,7 @@ Was man nach einer Besprechung weitergibt, ist meist nicht die ganze Stunde, son
 
 Eine Besprechungsaufnahme wird oft erst Monate später gebraucht. In der Zwischenzeit wechselt man vielleicht das Handy oder löscht die Datei beim Aufräumen.
 
-Aufnahmen, die im **Cloud-Backup** von TalkSafe gesichert sind, lassen sich wiederherstellen, wenn sie versehentlich auf dem Handy gelöscht werden, und wenn das Handy verloren geht und ersetzt wird, lassen sie sich auf dem neuen Handy aus der Cloud wiederherstellen. Was nach der Aufnahme sonst noch wichtig ist, steht in [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
+Aufnahmen, die im **Cloud-Backup** von TalkSafe gesichert sind, lassen sich wiederherstellen, wenn sie versehentlich auf dem Handy gelöscht werden, und wenn das Handy verloren geht und ersetzt wird, lassen sie sich auf dem neuen Handy aus der Cloud wiederherstellen. Das Backup läuft nicht automatisch, Sie starten es selbst. Was nach der Aufnahme sonst noch wichtig ist, steht in [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/).
 
 ## Was in Deutschland, Österreich und der Schweiz gilt
 

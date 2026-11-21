@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: en
 permalink: /blog/en/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: How-to
 title: "How to record a meeting on your phone, from the first words to the summary"
 description: "When you record an in-person meeting on your phone, the part most often lost is what was said before you pressed record. Where to put the phone, how to have recording start on the chair's opening words, cleaning up café noise, and an AI summary and cloud backup once the meeting is over."
@@ -25,7 +26,7 @@ faq:
   - q: "Can I get the whole meeting as text?"
     a: "TalkSafe has no full transcript, only a summary. Use the summary to find where a decision was made, then listen to that part for the exact wording. If you need a word-for-word transcript, use an app with a transcription feature alongside it."
   - q: "If I lose my phone, do my meeting recordings go with it?"
-    a: "Not if they were backed up with TalkSafe's cloud backup. A backed-up recording can be restored if it is deleted from the phone by mistake, and if the phone is lost and replaced, it can be restored from the cloud on the new phone."
+    a: "Not if they were backed up with TalkSafe's cloud backup. A backed-up recording can be restored if it is deleted from the phone by mistake, and if the phone is lost and replaced, it can be restored from the cloud on the new phone. Backup is not automatic; you run it yourself."
 ---
 
 A week after the meeting, a message lands in the team chat: "Didn't we agree on that?"
@@ -88,7 +89,7 @@ What you share after a meeting is usually not the whole hour but the few minutes
 
 A meeting recording is often needed only months later. In that time you might change phones, or delete the file while clearing space.
 
-Recordings backed up with TalkSafe's **cloud backup** can be restored if they are deleted from the phone by mistake, and if the phone is lost and replaced, they can be restored from the cloud on the new phone. What else to take care of after recording is in [What to do with a recording, and what not to do with it](/blog/en/after-recording/).
+Recordings backed up with TalkSafe's **cloud backup** can be restored if they are deleted from the phone by mistake, and if the phone is lost and replaced, they can be restored from the cloud on the new phone. Backup is not automatic; you run it yourself. What else to take care of after recording is in [What to do with a recording, and what not to do with it](/blog/en/after-recording/).
 
 ## Recording a meeting you're in
 

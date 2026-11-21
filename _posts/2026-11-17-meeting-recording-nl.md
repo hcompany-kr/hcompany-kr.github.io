@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: nl
 permalink: /blog/nl/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Handleiding
 title: "Een vergadering opnemen met je telefoon: van de eerste zinnen tot de samenvatting"
 description: "Als je een vergadering op locatie met je telefoon opneemt, gaat vooral verloren wat er werd gezegd voordat je op opnemen drukte. Waar je de telefoon neerlegt, hoe de opname start op de eerste woorden van de voorzitter, hoe je het lawaai van een afspraak in een café weghaalt, de AI-samenvatting en cloudback-up achteraf, en wat de wet zegt in Nederland en België."
@@ -25,7 +26,7 @@ faq:
   - q: "Kan ik de hele vergadering als tekst krijgen?"
     a: "TalkSafe heeft geen volledige transcriptie, alleen een samenvatting. Zoek in de samenvatting waar een besluit viel en luister dat stuk voor de precieze woorden. Heb je een woord-voor-woordtranscriptie nodig, gebruik dan daarnaast een app met transcriptiefunctie."
   - q: "Als ik mijn telefoon kwijtraak, zijn de vergaderopnames dan ook weg?"
-    a: "Niet als ze in de cloudback-up van TalkSafe stonden. Een opname in de cloud kun je terugzetten als je hem per ongeluk van de telefoon wist, en als je telefoon kwijtraakt en je een nieuwe neemt, kun je hem op de nieuwe telefoon uit de cloud terugzetten."
+    a: "Niet als ze in de cloudback-up van TalkSafe stonden. Een opname in de cloud kun je terugzetten als je hem per ongeluk van de telefoon wist, en als je telefoon kwijtraakt en je een nieuwe neemt, kun je hem op de nieuwe telefoon uit de cloud terugzetten. De back-up gaat niet automatisch; je start hem zelf."
 ---
 
 Een week na de vergadering verschijnt er een bericht in de teamchat: "Hadden we dat niet zo afgesproken?"
@@ -88,7 +89,7 @@ Wat je na een vergadering deelt, is meestal niet het hele uur, maar de paar minu
 
 Een vergaderopname is vaak pas maanden later nodig. In de tussentijd neem je misschien een nieuwe telefoon, of wis je het bestand om ruimte te maken.
 
-Opnames die in de **cloudback-up** van TalkSafe staan, kun je terugzetten als je ze per ongeluk van de telefoon wist, en als je je telefoon kwijtraakt en een nieuwe neemt, kun je de opnames daar uit de cloud terugzetten. Wat je na het opnemen verder kunt doen, staat in [Wat je met een opname doet, en wat je er niet mee doet](/blog/nl/after-recording/).
+Opnames die in de **cloudback-up** van TalkSafe staan, kun je terugzetten als je ze per ongeluk van de telefoon wist, en als je je telefoon kwijtraakt en een nieuwe neemt, kun je de opnames daar uit de cloud terugzetten. De back-up gaat niet automatisch; je start hem zelf. Wat je na het opnemen verder kunt doen, staat in [Wat je met een opname doet, en wat je er niet mee doet](/blog/nl/after-recording/).
 
 ## Wat de wet zegt in Nederland en België
 

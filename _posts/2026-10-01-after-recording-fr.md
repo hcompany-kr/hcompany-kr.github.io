@@ -4,7 +4,7 @@ ref: after-recording
 categories: fr
 permalink: /blog/fr/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Pratique
 title: "Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire"
 description: "Comment garder le fichier, le réduire à ce qui compte et où le remettre. Et pourquoi le diffuser obéit à ses propres règles en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec."
@@ -20,7 +20,7 @@ faq:
   - q: "Où remettre un enregistrement ?"
     a: "Cela dépend de l'affaire : le conseil de prud'hommes en France ou le tribunal du travail en Belgique et au Luxembourg pour un litige de travail, un médiateur ou le juge civil pour un litige de contrat ou de consommation, la police ou le parquet pour une infraction. Dans tous les cas, il aide de remettre la partie utile avec une note de ce qu'elle contient."
   - q: "Faut-il sauvegarder le fichier ?"
-    a: "Un fichier qui n'existe que sur un téléphone disparaît avec lui. TalkSafe utilise le menu de partage d'Android ou d'iPhone, si bien qu'un enregistrement peut être envoyé à toute application qui accepte un fichier : un e-mail à soi-même, un stockage en ligne, un ordinateur. Les enregistrements placés dans la sauvegarde dans le cloud de TalkSafe peuvent être restaurés s'ils sont supprimés du téléphone par erreur, ou sur un nouveau téléphone si l'ancien est perdu."
+    a: "Un fichier qui n'existe que sur un téléphone disparaît avec lui. TalkSafe utilise le menu de partage d'Android ou d'iPhone, si bien qu'un enregistrement peut être envoyé à toute application qui accepte un fichier : un e-mail à soi-même, un stockage en ligne, un ordinateur. Les enregistrements placés dans la sauvegarde dans le cloud de TalkSafe peuvent être restaurés s'ils sont supprimés du téléphone par erreur, ou sur un nouveau téléphone si l'ancien est perdu. La sauvegarde n'est pas automatique : c'est vous qui la lancez."
   - q: "Découper l'enregistrement l'affaiblit-il comme preuve ?"
     a: "Pas si l'original est conservé. Remettre un fichier complet de deux heures est généralement pire, parce que la personne qui l'examine doit trouver elle-même le passage utile. Un court extrait plus l'original intact forment la combinaison la plus solide."
   - q: "Que faire d'un enregistrement plein de bruit de fond ?"
@@ -82,7 +82,7 @@ La marche à suivre :
 
 Un téléphone se perd, se casse ou se réinitialise, et tout ce qu'il contient disparaît d'un coup. Cela touche surtout les fichiers dont on n'aura besoin que des mois plus tard.
 
-Les enregistrements placés dans la **sauvegarde dans le cloud** de TalkSafe ne disparaissent pas avec le téléphone. Un enregistrement supprimé du téléphone par erreur peut être restauré, et si vous perdez le téléphone et en changez, vous pouvez les restaurer depuis le cloud sur le nouveau.
+Les enregistrements placés dans la **sauvegarde dans le cloud** de TalkSafe ne disparaissent pas avec le téléphone. Un enregistrement supprimé du téléphone par erreur peut être restauré, et si vous perdez le téléphone et en changez, vous pouvez les restaurer depuis le cloud sur le nouveau. La sauvegarde n'est pas automatique : c'est vous qui la lancez.
 
 TalkSafe utilise le **menu de partage d'Android ou d'iPhone** : un enregistrement peut être envoyé à toute application qui accepte un fichier — un e-mail à vous-même, un stockage en ligne, un ordinateur.
 

@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: tr
 permalink: /blog/tr/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Rehber
 title: "Toplantı telefonla nasıl kaydedilir: ilk cümlelerden özete"
 description: "Yüz yüze bir toplantıyı telefonla kaydederken en sık kaybolan şey, kayıt tuşuna basmadan önce söylenenlerdir. Telefonun nereye konacağı, kaydın toplantıyı yöneten kişinin ilk sözleriyle nasıl başlatılacağı, kafedeki görüşmenin gürültüsünün nasıl giderileceği, toplantıdan sonra yapay zekâ özeti ve bulut yedekleme, ve Türkiye'de hukukun ne dediği."
@@ -25,7 +26,7 @@ faq:
   - q: "Toplantının tamamını yazıya dökebilir miyim?"
     a: "TalkSafe'te tam döküm yoktur, yalnızca özet vardır. Özetten kararın verildiği yeri bulun, tam ifade için o bölümü dinleyin. Kelimesi kelimesine bir döküm gerekiyorsa, yanında döküm özelliği olan bir uygulama kullanın."
   - q: "Telefonumu kaybedersem toplantı kayıtları da gider mi?"
-    a: "TalkSafe'in bulut yedeklemesiyle yedeklenmişlerse gitmez. Yedeklenen bir kayıt telefondan yanlışlıkla silinse de geri yüklenebilir; telefon kaybolup değiştirilirse de yeni telefonda buluttan geri yüklenebilir."
+    a: "TalkSafe'in bulut yedeklemesiyle yedeklenmişlerse gitmez. Yedeklenen bir kayıt telefondan yanlışlıkla silinse de geri yüklenebilir; telefon kaybolup değiştirilirse de yeni telefonda buluttan geri yüklenebilir. Yedekleme otomatik değildir; kendiniz başlatırsınız."
 ---
 
 Toplantıdan bir hafta sonra ekip grubuna bir mesaj düşer: "O konuda böyle anlaşmamış mıydık?"
@@ -88,7 +89,7 @@ Toplantıdan sonra paylaşılan şey genellikle saatin tamamı değil, kararın 
 
 Bir toplantı kaydına çoğu zaman aylar sonra ihtiyaç duyulur. Bu arada telefonunuzu değiştirebilir ya da yer açarken dosyayı silebilirsiniz.
 
-TalkSafe'in **bulut yedekleme** özelliğiyle yedeklenen kayıtlar telefondan yanlışlıkla silinse de geri yüklenebilir; telefon kaybolup değiştirildiğinde de yeni telefonda buluttan geri yüklenebilir. Kayıttan sonra dikkat edilecek diğer şeyler [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/) yazısında.
+TalkSafe'in **bulut yedekleme** özelliğiyle yedeklenen kayıtlar telefondan yanlışlıkla silinse de geri yüklenebilir; telefon kaybolup değiştirildiğinde de yeni telefonda buluttan geri yüklenebilir. Yedekleme otomatik değildir; kendiniz başlatırsınız. Kayıttan sonra dikkat edilecek diğer şeyler [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/) yazısında.
 
 ## Türkiye'de toplantı kaydı ve rıza
 

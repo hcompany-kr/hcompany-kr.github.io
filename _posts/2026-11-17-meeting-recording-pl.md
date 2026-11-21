@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: pl
 permalink: /blog/pl/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Poradnik
 title: "Jak nagrać spotkanie telefonem: od pierwszych słów do podsumowania"
 description: "Kiedy nagrywasz spotkanie na żywo telefonem, najczęściej przepada to, co padło przed naciśnięciem przycisku nagrywania. Gdzie położyć telefon, jak sprawić, by nagrywanie zaczęło się od pierwszych słów prowadzącego, jak usunąć hałas ze spotkania w kawiarni, podsumowanie AI i kopia w chmurze po spotkaniu oraz co mówi prawo w Polsce, Niemczech, Holandii i Wielkiej Brytanii."
@@ -25,7 +26,7 @@ faq:
   - q: "Czy mogę dostać całe spotkanie w formie tekstu?"
     a: "TalkSafe nie ma pełnej transkrypcji, tylko podsumowanie. Znajdź w podsumowaniu miejsce, w którym zapadła decyzja, i odsłuchaj ten fragment, żeby sprawdzić dokładne słowa. Jeśli potrzebujesz transkrypcji słowo w słowo, użyj dodatkowo aplikacji z funkcją transkrypcji."
   - q: "Jeśli zgubię telefon, czy stracę też nagrania ze spotkań?"
-    a: "Nie, jeśli były w kopii zapasowej w chmurze TalkSafe. Nagranie zapisane w chmurze można przywrócić, jeśli zostanie usunięte z telefonu przez pomyłkę, a jeśli telefon zginie i zostanie wymieniony, można je przywrócić z chmury na nowym telefonie."
+    a: "Nie, jeśli były w kopii zapasowej w chmurze TalkSafe. Nagranie zapisane w chmurze można przywrócić, jeśli zostanie usunięte z telefonu przez pomyłkę, a jeśli telefon zginie i zostanie wymieniony, można je przywrócić z chmury na nowym telefonie. Kopia nie powstaje automatycznie, trzeba ją wykonać samodzielnie."
 ---
 
 Tydzień po spotkaniu na czacie zespołu pojawia się wiadomość: „Przecież tak ustaliliśmy, prawda?”
@@ -88,7 +89,7 @@ Po spotkaniu zwykle udostępnia się nie całą godzinę, tylko kilka minut, w k
 
 Nagranie spotkania często jest potrzebne dopiero po kilku miesiącach. W tym czasie możesz zmienić telefon albo usunąć plik, robiąc miejsce.
 
-Nagrania zapisane w **kopii zapasowej w chmurze** TalkSafe można przywrócić, jeśli zostaną usunięte z telefonu przez pomyłkę, a jeśli telefon zginie i zmienisz go na nowy, można je przywrócić z chmury na nowym telefonie. Co jeszcze warto zrobić po nagraniu, opisujemy w [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
+Nagrania zapisane w **kopii zapasowej w chmurze** TalkSafe można przywrócić, jeśli zostaną usunięte z telefonu przez pomyłkę, a jeśli telefon zginie i zmienisz go na nowy, można je przywrócić z chmury na nowym telefonie. Kopia nie powstaje automatycznie, trzeba ją wykonać samodzielnie. Co jeszcze warto zrobić po nagraniu, opisujemy w [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/).
 
 ## Co mówi prawo w Polsce i tam, gdzie mieszka wielu Polaków
 

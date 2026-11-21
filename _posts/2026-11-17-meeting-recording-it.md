@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: it
 permalink: /blog/it/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Guida
 title: "Come registrare una riunione con il telefono, dalle prime parole al riassunto"
 description: "Quando registri una riunione in presenza con il telefono, la parte che si perde più spesso è quella detta prima di premere registra. Dove mettere il telefono, come far partire la registrazione con le prime parole di chi conduce, come togliere il rumore di un incontro al bar, e il riassunto con IA e il backup sul cloud a riunione finita."
@@ -25,7 +26,7 @@ faq:
   - q: "Posso avere tutta la riunione in forma di testo?"
     a: "TalkSafe non ha una trascrizione completa, solo il riassunto. Usa il riassunto per trovare dove è stata presa una decisione e ascolta quel punto per verificare le parole esatte. Se ti serve una trascrizione parola per parola, affianca un'app con la funzione di trascrizione."
   - q: "Se perdo il telefono, perdo anche le registrazioni delle riunioni?"
-    a: "No, se erano nel backup sul cloud di TalkSafe. Una registrazione salvata sul cloud si può recuperare se viene cancellata dal telefono per errore, e se il telefono va perso e lo si cambia, si può recuperare dal cloud sul telefono nuovo."
+    a: "No, se erano nel backup sul cloud di TalkSafe. Una registrazione salvata sul cloud si può recuperare se viene cancellata dal telefono per errore, e se il telefono va perso e lo si cambia, si può recuperare dal cloud sul telefono nuovo. Il backup non è automatico: lo avvii tu."
 ---
 
 Una settimana dopo la riunione, arriva un messaggio nel gruppo del team: "Ma non avevamo deciso così?"
@@ -88,7 +89,7 @@ Quello che condividi dopo una riunione di solito non è l'ora intera, ma i pochi
 
 Una registrazione di riunione spesso serve solo mesi dopo. Nel frattempo potresti cambiare telefono, o cancellare il file per fare spazio.
 
-Le registrazioni salvate nel **backup sul cloud** di TalkSafe si possono recuperare se vengono cancellate dal telefono per errore, e se il telefono va perso e lo cambi, puoi recuperarle dal cloud su quello nuovo. Cos'altro conviene fare dopo aver registrato è in [Cosa fare con una registrazione, e cosa non farne](/blog/it/after-recording/).
+Le registrazioni salvate nel **backup sul cloud** di TalkSafe si possono recuperare se vengono cancellate dal telefono per errore, e se il telefono va perso e lo cambi, puoi recuperarle dal cloud su quello nuovo. Il backup non è automatico: lo avvii tu. Cos'altro conviene fare dopo aver registrato è in [Cosa fare con una registrazione, e cosa non farne](/blog/it/after-recording/).
 
 ## Registrare una riunione a cui partecipi
 

@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: pt-br
 permalink: /blog/pt-br/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Guia
 title: "Como gravar uma reunião pelo celular, das primeiras palavras ao resumo"
 description: "Ao gravar uma reunião presencial pelo celular, o que mais se perde é o que foi dito antes de apertar o botão de gravar. Onde colocar o celular, como fazer a gravação começar com as primeiras palavras de quem conduz a reunião, como tirar o ruído de um encontro no café, o resumo por IA e o backup na nuvem depois, e o que diz a lei no Brasil e em Portugal."
@@ -25,7 +26,7 @@ faq:
   - q: "Dá para ter a reunião inteira em texto?"
     a: "O TalkSafe não tem transcrição completa, só resumo. Use o resumo para achar onde a decisão foi tomada e ouça esse trecho para conferir as palavras exatas. Se você precisa de uma transcrição palavra por palavra, use junto um app com função de transcrição."
   - q: "Se eu perder o celular, perco também as gravações das reuniões?"
-    a: "Não, se elas estavam no backup na nuvem do TalkSafe. Uma gravação salva na nuvem pode ser recuperada se for apagada do celular por engano, e se o celular for perdido e trocado, pode ser recuperada da nuvem no celular novo."
+    a: "Não, se elas estavam no backup na nuvem do TalkSafe. Uma gravação salva na nuvem pode ser recuperada se for apagada do celular por engano, e se o celular for perdido e trocado, pode ser recuperada da nuvem no celular novo. O backup não é automático: é você quem faz."
 ---
 
 Uma semana depois da reunião, chega uma mensagem no grupo da equipe: "A gente não tinha combinado isso?"
@@ -88,7 +89,7 @@ O que se compartilha depois de uma reunião normalmente não é a hora inteira, 
 
 A gravação de uma reunião muitas vezes só é necessária meses depois. Nesse meio-tempo você pode trocar de celular, ou apagar o arquivo para liberar espaço.
 
-As gravações salvas no **backup na nuvem** do TalkSafe podem ser recuperadas se forem apagadas do celular por engano, e se o celular for perdido e trocado, podem ser recuperadas da nuvem no novo. O que mais vale fazer depois de gravar está em [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/).
+As gravações salvas no **backup na nuvem** do TalkSafe podem ser recuperadas se forem apagadas do celular por engano, e se o celular for perdido e trocado, podem ser recuperadas da nuvem no novo. O backup não é automático: é você quem faz. O que mais vale fazer depois de gravar está em [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/).
 
 ## O que diz a lei no Brasil e em Portugal
 

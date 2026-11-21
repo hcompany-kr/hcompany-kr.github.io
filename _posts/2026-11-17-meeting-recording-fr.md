@@ -4,6 +4,7 @@ ref: meeting-recording
 categories: fr
 permalink: /blog/fr/meeting-recording/
 date: 2026-11-17
+last_modified_at: 2026-11-21
 eyebrow: Guide
 title: "Comment enregistrer une réunion avec son téléphone, des premiers mots au résumé"
 description: "Quand on enregistre une réunion en présentiel avec son téléphone, ce qui se perd le plus souvent, c'est ce qui a été dit avant d'appuyer sur enregistrer. Où poser le téléphone, comment lancer l'enregistrement sur les premiers mots de la personne qui anime, comment retirer le bruit d'un rendez-vous au café, puis le résumé par IA et la sauvegarde dans le cloud, et ce que dit la loi en France, en Belgique, en Suisse et au Québec."
@@ -25,7 +26,7 @@ faq:
   - q: "Puis-je obtenir toute la réunion sous forme de texte ?"
     a: "TalkSafe n'a pas de transcription complète, seulement un résumé. Servez-vous du résumé pour trouver le moment où une décision a été prise, puis écoutez ce passage pour les mots exacts. S'il vous faut une transcription mot à mot, utilisez en plus une application qui propose la transcription."
   - q: "Si je perds mon téléphone, est-ce que je perds aussi les enregistrements de réunion ?"
-    a: "Pas s'ils étaient dans la sauvegarde dans le cloud de TalkSafe. Un enregistrement sauvegardé peut être restauré s'il est supprimé du téléphone par erreur, et si le téléphone est perdu et remplacé, il peut être restauré depuis le cloud sur le nouveau."
+    a: "Pas s'ils étaient dans la sauvegarde dans le cloud de TalkSafe. Un enregistrement sauvegardé peut être restauré s'il est supprimé du téléphone par erreur, et si le téléphone est perdu et remplacé, il peut être restauré depuis le cloud sur le nouveau. La sauvegarde n'est pas automatique : c'est vous qui la lancez."
 ---
 
 Une semaine après la réunion, un message arrive dans le groupe de l'équipe : « On n'avait pas décidé ça ? »
@@ -88,7 +89,7 @@ Ce qu'on partage après une réunion, ce n'est généralement pas l'heure entiè
 
 Un enregistrement de réunion ne sert souvent que des mois plus tard. Entre-temps, on change parfois de téléphone, ou on supprime le fichier en faisant de la place.
 
-Les enregistrements placés dans la **sauvegarde dans le cloud** de TalkSafe peuvent être restaurés s'ils sont supprimés du téléphone par erreur, et si le téléphone est perdu et remplacé, ils peuvent être restaurés depuis le cloud sur le nouveau. Ce qu'il faut faire d'autre après l'enregistrement est expliqué dans [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
+Les enregistrements placés dans la **sauvegarde dans le cloud** de TalkSafe peuvent être restaurés s'ils sont supprimés du téléphone par erreur, et si le téléphone est perdu et remplacé, ils peuvent être restaurés depuis le cloud sur le nouveau. La sauvegarde n'est pas automatique : c'est vous qui la lancez. Ce qu'il faut faire d'autre après l'enregistrement est expliqué dans [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/).
 
 ## Ce que dit la loi en France, en Belgique, en Suisse et au Québec
 
