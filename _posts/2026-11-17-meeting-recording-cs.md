@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: cs
 permalink: /blog/cs/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: Návod
 title: "Jak nahrát poradu na telefon: od prvních slov po shrnutí"
 description: "Když nahráváte osobní poradu na telefon, nejčastěji se ztratí to, co zaznělo před stisknutím tlačítka nahrávání. Kam položit telefon, jak spustit nahrávání prvními slovy toho, kdo poradu vede, jak odstranit hluk ze schůzky v kavárně, shrnutí od AI a záloha do cloudu po poradě a co říká zákon v Česku a na Slovensku."
@@ -104,5 +104,7 @@ Podrobnosti, i to, jak soudy s nahrávkami zacházejí, najdete v [Je legální 
 Až se příště někdo zeptá „Na čem jsme se vlastně v té věci dohodli?“, nemusíte porovnávat vzpomínky. Otevřete shrnutí a podívejte se na to místo.
 
 Poradu nenahráváte proto, abyste vyhráli spor. Nahráváte ji proto, aby si ti, kdo byli v místnosti, pamatovali stejnou poradu.
+
+Nahrávání přednášky funguje trochu jinak; popisujeme ho v [Jak nahrávat přednášky na telefon: celou hodinu, nebo jen to podstatné](/blog/cs/lecture-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecné informace, nikoli právní rada. V konkrétní věci se obraťte na advokáta. Funkce jiných aplikací jsou popsány podle jejich oficiálních informací v době psaní a mohou se změnit. Vyvíjíme aplikaci pro nahrávání TalkSafe.</p>

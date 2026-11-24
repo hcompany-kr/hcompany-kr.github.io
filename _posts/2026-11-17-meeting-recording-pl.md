@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: pl
 permalink: /blog/pl/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: Poradnik
 title: "Jak nagrać spotkanie telefonem: od pierwszych słów do podsumowania"
 description: "Kiedy nagrywasz spotkanie na żywo telefonem, najczęściej przepada to, co padło przed naciśnięciem przycisku nagrywania. Gdzie położyć telefon, jak sprawić, by nagrywanie zaczęło się od pierwszych słów prowadzącego, jak usunąć hałas ze spotkania w kawiarni, podsumowanie AI i kopia w chmurze po spotkaniu oraz co mówi prawo w Polsce, Niemczech, Holandii i Wielkiej Brytanii."
@@ -102,5 +102,7 @@ Nagrania zapisane w **kopii zapasowej w chmurze** TalkSafe można przywrócić, 
 Kiedy następnym razem ktoś zapyta „Co my właściwie ustaliliśmy w tej sprawie?”, nie trzeba porównywać wspomnień. Otwórz podsumowanie i sprawdź ten fragment.
 
 Spotkania nie nagrywa się po to, żeby wygrać spór. Nagrywa się je po to, żeby ci, którzy byli w sali, pamiętali to samo spotkanie.
+
+Nagrywanie wykładu wygląda trochę inaczej; opisujemy je w [Jak nagrywać wykłady telefonem: cały wykład albo tylko to, co ważne](/blog/pl/lecture-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, a nie porada prawna. W konkretnej sprawie skonsultuj się z prawnikiem. Funkcje innych aplikacji opisano na podstawie ich oficjalnych informacji z chwili pisania i mogą się zmienić. Tworzymy aplikację do nagrywania TalkSafe.</p>

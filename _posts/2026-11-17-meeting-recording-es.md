@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: es
 permalink: /blog/es/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: Guía
 title: "Cómo grabar una reunión con el celular o el móvil, desde las primeras palabras hasta el resumen"
 description: "Al grabar una reunión presencial con el teléfono, lo que más se pierde es lo que se dijo antes de pulsar grabar. Dónde poner el teléfono, cómo hacer que la grabación empiece con las primeras palabras de quien dirige la reunión, cómo limpiar el ruido de una reunión en una cafetería, y el resumen con IA y la copia en la nube cuando termina."
@@ -104,5 +104,7 @@ Una norma de la empresa que prohíba grabar es una cuestión distinta de la ley 
 La próxima vez que alguien pregunte "¿Qué habíamos decidido sobre eso?", no hace falta comparar memorias. Abre el resumen y comprueba esa parte.
 
 Una reunión no se graba para ganar una discusión. Se graba para que quienes estaban en la sala recuerden la misma reunión.
+
+Grabar una clase funciona algo distinto; está en [Cómo grabar clases con el celular o el móvil: la clase entera o solo lo importante](/blog/es/lecture-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Información general, no asesoramiento jurídico. Para un caso concreto, consulta con un abogado de tu país. Las funciones de otras apps se describen según su información oficial en el momento de escribir y pueden cambiar. Hacemos la app de grabación TalkSafe.</p>

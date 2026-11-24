@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: tr
 permalink: /blog/tr/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: Rehber
 title: "Toplantı telefonla nasıl kaydedilir: ilk cümlelerden özete"
 description: "Yüz yüze bir toplantıyı telefonla kaydederken en sık kaybolan şey, kayıt tuşuna basmadan önce söylenenlerdir. Telefonun nereye konacağı, kaydın toplantıyı yöneten kişinin ilk sözleriyle nasıl başlatılacağı, kafedeki görüşmenin gürültüsünün nasıl giderileceği, toplantıdan sonra yapay zekâ özeti ve bulut yedekleme, ve Türkiye'de hukukun ne dediği."
@@ -102,5 +102,7 @@ Ayrıntılar, kayıtların mahkemede nasıl değerlendirildiği ve Türklerin ç
 Bir dahaki sefere biri "O konuda ne karar vermiştik?" diye sorduğunda hatıraları karşılaştırmanız gerekmez. Özeti açın ve o bölüme bakın.
 
 Toplantı bir tartışmayı kazanmak için kaydedilmez. Odada bulunanların aynı toplantıyı aynı şekilde hatırlaması için kaydedilir.
+
+Ders kaydı biraz farklı işler; [Dersi telefonla kaydetmek: tüm ders ya da yalnızca önemli kısımlar](/blog/tr/lecture-recording/) yazısında anlatılıyor.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgilendirme amaçlıdır, hukuki tavsiye değildir. Somut bir durum için bir avukata danışın. Diğer uygulamaların özellikleri yazıldığı tarihteki resmi bilgilerine göre anlatılmıştır ve değişebilir. Ses kayıt uygulaması TalkSafe'i biz geliştiriyoruz.</p>

@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: nl
 permalink: /blog/nl/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: Handleiding
 title: "Een vergadering opnemen met je telefoon: van de eerste zinnen tot de samenvatting"
 description: "Als je een vergadering op locatie met je telefoon opneemt, gaat vooral verloren wat er werd gezegd voordat je op opnemen drukte. Waar je de telefoon neerlegt, hoe de opname start op de eerste woorden van de voorzitter, hoe je het lawaai van een afspraak in een café weghaalt, de AI-samenvatting en cloudback-up achteraf, en wat de wet zegt in Nederland en België."
@@ -106,5 +106,7 @@ Een bedrijfsregel die opnemen verbiedt, is een andere kwestie dan het strafrecht
 Als iemand de volgende keer vraagt "Wat hadden we daar ook alweer over besloten?", hoef je geen herinneringen naast elkaar te leggen. Open de samenvatting en luister dat stuk terug.
 
 Je neemt een vergadering niet op om een discussie te winnen. Je neemt hem op zodat de mensen die in de zaal zaten zich dezelfde vergadering herinneren.
+
+Een college opnemen werkt iets anders; dat staat in [Een college opnemen met je telefoon: het hele college of alleen wat telt](/blog/nl/lecture-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies. Raadpleeg voor een concrete situatie een advocaat. De functies van andere apps zijn beschreven op basis van hun officiële informatie op het moment van schrijven en kunnen veranderen. Wij maken de opname-app TalkSafe.</p>

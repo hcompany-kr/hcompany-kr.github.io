@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: en
 permalink: /blog/en/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: How-to
 title: "How to record a meeting on your phone, from the first words to the summary"
 description: "When you record an in-person meeting on your phone, the part most often lost is what was said before you pressed record. Where to put the phone, how to have recording start on the chair's opening words, cleaning up café noise, and an AI summary and cloud backup once the meeting is over."
@@ -104,5 +104,7 @@ An employer's no-recording policy is a separate question from criminal law. That
 Next time someone asks "What did we decide on that?", you don't have to compare memories. Open the summary and check that part.
 
 You don't record a meeting to win an argument. You record it so the people who were in the room remember the same meeting.
+
+Recording a lecture works a little differently; that is in [How to record a lecture on your phone: the whole class, or just the parts that matter](/blog/en/lecture-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">General information, not legal advice. For a specific situation, consult a lawyer where you live. Other apps' features are described from their official information at the time of writing and may change. We make the recording app TalkSafe.</p>

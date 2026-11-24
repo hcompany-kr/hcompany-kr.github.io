@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: de
 permalink: /blog/de/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: Anleitung
 title: "Besprechung mit dem Handy aufnehmen: von den ersten Sätzen bis zur Zusammenfassung"
 description: "Wer eine Besprechung vor Ort mit dem Handy aufnimmt, verliert am häufigsten das, was vor dem Drücken der Aufnahmetaste gesagt wurde. Wo das Handy liegen sollte, wie die Aufnahme mit den ersten Worten der Gesprächsleitung startet, wie man Café-Lärm entfernt, dazu KI-Zusammenfassung und Cloud-Backup nach dem Termin – und was in Deutschland, Österreich und der Schweiz gilt."
@@ -104,5 +104,7 @@ Die Einzelheiten, auch dazu, wie Gerichte mit Aufnahmen umgehen, stehen in [Gesp
 Wenn das nächste Mal jemand fragt „Was hatten wir da eigentlich beschlossen?“, müssen Sie keine Erinnerungen abgleichen. Öffnen Sie die Zusammenfassung und prüfen Sie die Stelle.
 
 Man nimmt eine Besprechung nicht auf, um einen Streit zu gewinnen. Man nimmt sie auf, damit alle, die im Raum waren, dieselbe Besprechung im Kopf haben.
+
+Wie man eine Vorlesung aufnimmt, steht gesondert in [Vorlesung mit dem Handy aufnehmen: die ganze Stunde oder nur das Wichtige](/blog/de/lecture-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung. Für einen konkreten Fall wenden Sie sich an eine Anwältin oder einen Anwalt. Die Funktionen anderer Apps sind nach deren offiziellen Angaben zum Zeitpunkt des Schreibens beschrieben und können sich ändern. Wir entwickeln die Aufnahme-App TalkSafe.</p>

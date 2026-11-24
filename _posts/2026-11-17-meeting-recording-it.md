@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: it
 permalink: /blog/it/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: Guida
 title: "Come registrare una riunione con il telefono, dalle prime parole al riassunto"
 description: "Quando registri una riunione in presenza con il telefono, la parte che si perde più spesso è quella detta prima di premere registra. Dove mettere il telefono, come far partire la registrazione con le prime parole di chi conduce, come togliere il rumore di un incontro al bar, e il riassunto con IA e il backup sul cloud a riunione finita."
@@ -102,5 +102,7 @@ Una regola aziendale che vieti di registrare è una questione distinta dalla leg
 La prossima volta che qualcuno chiede "Cosa avevamo deciso su quella cosa?", non serve confrontare i ricordi. Apri il riassunto e verifica quel punto.
 
 Una riunione non si registra per vincere una discussione. Si registra perché chi era nella stanza ricordi la stessa riunione.
+
+Registrare una lezione funziona in modo un po’ diverso; è spiegato in [Come registrare le lezioni con il telefono: tutta la lezione o solo le parti importanti](/blog/it/lecture-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informazioni generali, non consulenza legale. Per un caso specifico, rivolgiti a un avvocato. Le funzioni di altre app sono descritte in base alle loro informazioni ufficiali al momento della scrittura e possono cambiare. Realizziamo l'app di registrazione TalkSafe.</p>

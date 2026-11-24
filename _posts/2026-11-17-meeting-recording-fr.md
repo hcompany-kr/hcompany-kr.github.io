@@ -4,7 +4,7 @@ ref: meeting-recording
 categories: fr
 permalink: /blog/fr/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 eyebrow: Guide
 title: "Comment enregistrer une réunion avec son téléphone, des premiers mots au résumé"
 description: "Quand on enregistre une réunion en présentiel avec son téléphone, ce qui se perd le plus souvent, c'est ce qui a été dit avant d'appuyer sur enregistrer. Où poser le téléphone, comment lancer l'enregistrement sur les premiers mots de la personne qui anime, comment retirer le bruit d'un rendez-vous au café, puis le résumé par IA et la sauvegarde dans le cloud, et ce que dit la loi en France, en Belgique, en Suisse et au Québec."
@@ -106,5 +106,7 @@ Le détail des textes et de la jurisprudence est dans [Enregistrer une conversat
 La prochaine fois que quelqu'un demande « Qu'est-ce qu'on avait décidé là-dessus ? », inutile de comparer les souvenirs. Ouvrez le résumé et vérifiez ce passage.
 
 On n'enregistre pas une réunion pour gagner une dispute. On l'enregistre pour que les personnes présentes se souviennent de la même réunion.
+
+Enregistrer un cours fonctionne un peu différemment ; c'est expliqué dans [Comment enregistrer un cours avec son téléphone : tout le cours ou seulement l'essentiel](/blog/fr/lecture-recording/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique. Pour une situation précise, consultez un avocat. Les fonctions des autres applications sont décrites d'après leurs informations officielles au moment de la rédaction et peuvent changer. Nous développons l'application d'enregistrement TalkSafe.</p>
