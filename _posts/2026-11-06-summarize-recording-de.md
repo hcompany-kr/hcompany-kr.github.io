@@ -4,23 +4,23 @@ ref: summarize-recording
 categories: de
 permalink: /blog/de/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-25
 eyebrow: Anleitung
 title: "Sprachaufnahme mit KI zusammenfassen – so geht es auf Android"
-description: "Um eine Sprachaufnahme auf Android zusammenzufassen, nutzt man eine Aufnahme-App mit KI-Zusammenfassung: Googles Rekorder auf Pixel 8 und neuer fasst das Transkript zusammen, der Samsung-Sprachrekorder bietet mit Galaxy AI Transkript und Zusammenfassung, und TalkSafe fasst jede Aufnahme in der Sprache zusammen, in der sie aufgenommen wurde. Wohin der Ton geht, was eine Zusammenfassung weglässt und warum das Original bleibt."
+description: "Um eine Sprachaufnahme auf Android zusammenzufassen, nutzt man eine Aufnahme-App mit KI-Zusammenfassung: Googles Rekorder auf Pixel 8 und neuer fasst das Transkript zusammen, der Samsung-Sprachrekorder bietet mit Galaxy AI Transkript und Zusammenfassung, und TalkSafe fasst eine Aufnahme auf Antippen in der Sprache zusammen, in der sie aufgenommen wurde. Wohin der Ton geht, was eine Zusammenfassung weglässt und warum das Original bleibt."
 image: /assets/img/og/summarize-recording-de.png
 image_alt: "Google Rekorder auf Pixel, Samsung-Sprachrekorder auf Galaxy und TalkSafe im Vergleich: alle drei bieten eine KI-Zusammenfassung, nur Pixel und Galaxy ein vollständiges Transkript, und nur TalkSafe startet die Aufnahme von selbst bei einem festgelegten Wort."
 app: true
 app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
   - q: "Wie fasse ich eine Sprachaufnahme auf Android mit KI zusammen?"
-    a: "Mit einer Aufnahme-App, die eine KI-Zusammenfassung hat. Auf Pixel 8 und neuer kann Googles Rekorder-App das Transkript einer Aufnahme zusammenfassen. Der Samsung-Sprachrekorder bietet mit Transcript Assist von Galaxy AI Transkript und Zusammenfassung und setzt ein Samsung-Konto voraus. TalkSafe, eine Aufnahme-App für Android und iPhone, erstellt zu jeder Aufnahme eine KI-Zusammenfassung und zeigt sie in der Detailansicht unter dem Player."
+    a: "Mit einer Aufnahme-App, die eine KI-Zusammenfassung hat. Auf Pixel 8 und neuer kann Googles Rekorder-App das Transkript einer Aufnahme zusammenfassen. Der Samsung-Sprachrekorder bietet mit Transcript Assist von Galaxy AI Transkript und Zusammenfassung und setzt ein Samsung-Konto voraus. TalkSafe, eine Aufnahme-App für Android und iPhone, erstellt auf Antippen eine KI-Zusammenfassung einer Aufnahme und zeigt sie in der Detailansicht unter dem Player."
   - q: "Wird der Ton an einen Server geschickt, wenn eine Aufnahme zusammengefasst wird?"
     a: "Das hängt von der App ab. Laut Google entstehen die Zusammenfassungen von Googles Rekorder auf Pixel in einer sicheren, isolierten Umgebung in der Cloud. TalkSafe schickt die Aufnahme für die KI-Zusammenfassung an einen Server, während die Schlüsselwort-Erkennung vollständig auf dem Handy läuft. Waren andere Personen am Gespräch beteiligt, sind ihre Stimmen in der Datei, die Sie senden."
   - q: "In welcher Sprache ist die Zusammenfassung von TalkSafe?"
     a: "In derselben Sprache wie die Aufnahme. Ein auf Deutsch aufgenommenes Gespräch wird auf Deutsch zusammengefasst, ein auf Japanisch aufgenommenes auf Japanisch."
   - q: "Liefert TalkSafe ein vollständiges Transkript?"
-    a: "Nein. TalkSafe zeigt zu jeder Aufnahme eine KI-Zusammenfassung als kurze Stichpunktliste, kein Wort-für-Wort-Transkript. Den genauen Wortlaut prüft man in der Aufnahme selbst."
+    a: "Nein. TalkSafe zeigt auf Antippen eine KI-Zusammenfassung einer Aufnahme als kurze Stichpunktliste, kein Wort-für-Wort-Transkript. Den genauen Wortlaut prüft man in der Aufnahme selbst."
   - q: "Kann ich nur einen Teil einer Aufnahme zusammenfassen?"
     a: "Ja, in TalkSafe. Schneiden Sie zuerst den benötigten Abschnitt zu; er wird als neue Datei gespeichert, das Original bleibt erhalten, und die Zusammenfassung lässt sich auf diesen Abschnitt anwenden. Das gilt auch für einen Abschnitt, der mit der KI-Rauschunterdrückung von TalkSafe auf dem Gerät bereinigt wurde."
   - q: "Taugt eine KI-Zusammenfassung als Beweis?"
@@ -39,7 +39,7 @@ Jetzt fragt jemand, was zur Kaution vereinbart wurde. Sie wissen, dass es irgend
 
 | | Google Rekorder (Pixel) | Samsung-Sprachrekorder (Galaxy AI) | TalkSafe |
 |---|---|---|---|
-| Zusammenfassung | Ja | Ja, mit Transcript Assist | Ja, zu jeder Aufnahme |
+| Zusammenfassung | Ja | Ja, mit Transcript Assist | Ja, per Antippen bei einer Aufnahme |
 | Vollständiges Transkript | Ja | Ja | Nein, nur Zusammenfassung |
 | Wo die Zusammenfassung entsteht | In der Cloud (sichere, isolierte Umgebung) | Hier nicht geprüft | Auf einem Server |
 | Sprache | Englisch, Chinesisch (Mandarin), Hindi, Italienisch, Französisch, Deutsch, Japanisch | Je nach Region unterschiedlich | Die Sprache der Aufnahme |
@@ -58,7 +58,7 @@ Auf Galaxy-Handys mit Galaxy AI macht **Transcript Assist** im Sprachrekorder au
 
 ## TalkSafe
 
-[TalkSafe](/talksafe/de/) erstellt **zu jeder Aufnahme eine KI-Zusammenfassung**. Sie erscheint als kurze Stichpunktliste **unter dem Player** in der Detailansicht – so lesen Sie, was gesagt wurde, bevor Sie entscheiden, ob Sie es noch einmal anhören.
+[TalkSafe](/talksafe/de/) erstellt auf Antippen **eine KI-Zusammenfassung** einer Aufnahme. Sie erscheint als kurze Stichpunktliste **unter dem Player** in der Detailansicht – so lesen Sie, was gesagt wurde, bevor Sie entscheiden, ob Sie es noch einmal anhören.
 
 <figure class="shot"><img src="/assets/img/screens/summary-de.jpg" alt="Detailansicht einer Aufnahme in TalkSafe mit Wiedergabeleiste und Geschwindigkeitstasten, darunter die KI-Zusammenfassung als Stichpunkte." width="540" height="960" loading="lazy"><figcaption>Aufnahmedetails. Die KI-Zusammenfassung steht unter dem Player, als kurze Stichpunktliste.</figcaption></figure>
 

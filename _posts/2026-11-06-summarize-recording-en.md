@@ -4,29 +4,29 @@ ref: summarize-recording
 categories: en
 permalink: /blog/en/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-25
 eyebrow: How-to
 title: "How to get an AI summary of a voice recording on Android"
-description: "To summarize a voice recording on Android, use a recorder app with an AI summary: Google's Recorder on Pixel 8 and later summarizes the transcript, Samsung's Voice Recorder adds transcripts and summaries with Galaxy AI, and TalkSafe summarizes every recording in the language it was recorded in. Where the audio goes, what a summary leaves out, and why the original stays."
+description: "To summarize a voice recording on Android, use a recorder app with an AI summary: Google's Recorder on Pixel 8 and later summarizes the transcript, Samsung's Voice Recorder adds transcripts and summaries with Galaxy AI, and TalkSafe summarizes a recording, when you tap AI summary, in the language it was recorded in. Where the audio goes, what a summary leaves out, and why the original stays."
 image: /assets/img/og/summarize-recording-en.png
 image_alt: "Google Recorder on Pixel, Samsung Voice Recorder on Galaxy and TalkSafe compared: all three offer an AI summary, only Pixel and Galaxy give a full transcript, and only TalkSafe starts recording by itself on a word you set."
 app: true
 app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
   - q: "How do I get an AI summary of a voice recording on Android?"
-    a: "Use a recorder app that has an AI summary. On Pixel 8 and later, Google's Recorder app can summarize a recording's transcript. Samsung's Voice Recorder offers transcripts and summaries through Galaxy AI's Transcript Assist, which requires a Samsung account. TalkSafe, a voice recorder for Android and iPhone, creates an AI summary for each recording and shows it under the player in the recording's detail screen."
+    a: "Use a recorder app that has an AI summary. On Pixel 8 and later, Google's Recorder app can summarize a recording's transcript. Samsung's Voice Recorder offers transcripts and summaries through Galaxy AI's Transcript Assist, which requires a Samsung account. TalkSafe, a voice recorder for Android and iPhone, creates an AI summary of a recording when you tap AI summary and shows it under the player in the recording's detail screen."
   - q: "Is the audio sent to a server when a recording is summarized?"
     a: "It depends on the app. According to Google, Recorder summaries on Pixel run in a secure, isolated environment in the cloud. TalkSafe sends the recording to a server for the AI summary, while its keyword detection runs entirely on the phone. If a conversation includes other people, their voices are part of whatever you send."
   - q: "What language is a TalkSafe summary in?"
     a: "The same language the recording is in. A conversation recorded in German is summarized in German, and one recorded in Japanese is summarized in Japanese."
   - q: "Does TalkSafe give a full transcript?"
-    a: "No. TalkSafe shows an AI summary as a short list of points for each recording, not a word-for-word transcript. To check exact wording, listen to the recording itself."
+    a: "No. TalkSafe shows an AI summary, made when you tap AI summary on a recording, as a short list of points, not a word-for-word transcript. To check exact wording, listen to the recording itself."
   - q: "Can I summarize only part of a recording?"
     a: "Yes, in TalkSafe. Trim the section you need first, which saves it as a new file while the original stays, and the summary can be used on the trimmed clip. It also works on a clip cleaned with TalkSafe's on-device AI noise removal."
   - q: "Can an AI summary be used as evidence?"
     a: "The summary is not the record; the recording is. An AI summary can leave things out or get them wrong, so treat it as a guide to which part to listen to, and keep the original recording unchanged if it may ever matter."
   - q: "Can I get an AI summary of a recording on iPhone?"
-    a: "Yes. TalkSafe is a voice recorder for Android and iPhone, and its AI summary works the same way on iPhone: each recording gets a bullet-point summary in the language it was recorded in."
+    a: "Yes. TalkSafe is a voice recorder for Android and iPhone, and its AI summary works the same way on iPhone: tap AI summary on a recording and you get a bullet-point summary in the language it was recorded in."
 ---
 
 The meeting ran forty minutes. The doctor's appointment, twelve. The call with the landlord, eight. All three are on your phone.
@@ -39,7 +39,7 @@ Now someone asks what was agreed about the deposit. You know it is in there some
 
 | | Google Recorder (Pixel) | Samsung Voice Recorder (Galaxy AI) | TalkSafe |
 |---|---|---|---|
-| Summary | Yes | Yes, with Transcript Assist | Yes, for each recording |
+| Summary | Yes | Yes, with Transcript Assist | Yes, with a tap on a recording |
 | Full transcript | Yes | Yes | No, summary only |
 | Where the summary is made | In the cloud (secure, isolated environment) | Not verified here | On a server |
 | Language | English, Chinese (Mandarin), Hindi, Italian, French, German, Japanese | Supported languages vary by region | The language the recording is in |
@@ -58,7 +58,7 @@ On Galaxy phones with Galaxy AI, **Transcript Assist** in the Voice Recorder app
 
 ## TalkSafe
 
-[TalkSafe](/talksafe/en/) creates an **AI summary for every recording**. It appears as a short list of points **under the player** in the recording's detail screen, so you can read what was said before deciding whether to play it back.
+[TalkSafe](/talksafe/en/) creates an **AI summary** of a recording when you tap AI summary. It appears as a short list of points **under the player** in the recording's detail screen, so you can read what was said before deciding whether to play it back.
 
 <figure class="shot"><img src="/assets/img/screens/summary-en.jpg" alt="TalkSafe recording detail screen with a playback bar and speed buttons, and an AI summary shown as bullet points underneath." width="540" height="960" loading="lazy"><figcaption>Recording detail. The AI summary sits under the player, as a short list of points.</figcaption></figure>
 

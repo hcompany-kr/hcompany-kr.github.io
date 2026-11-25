@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: cs
 permalink: /blog/cs/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Návod
 title: "Jak nahrávat přednášky na telefon: celou hodinu, nebo jen to podstatné"
 description: "Při nahrávání přednášky na telefon je základem ruční nahrávání spuštěné na začátku hodiny. Kam položit telefon, jak rozpoznávání klíčových slov a 30 sekund, které už uběhly, pomohou, když chcete jen důležité části, shrnutí od AI potom a co říká autorský zákon v Česku."
@@ -19,7 +20,7 @@ faq:
   - q: "Můžu nahrát jen důležité části přednášky?"
     a: "V TalkSafe můžete jako klíčová slova uložit to, co přednášející v důležitých chvílích pravděpodobně řekne. Klíčová slova nejsou vázaná na osobu, takže se rozpoznají, když je řekne přednášející. Když se jedno rozpozná, nahrávání začne hned bez odemykání telefonu a uloží se i 30 sekund, které už uběhly. Dvě slova, která se obvykle objevují ve stejné větě, dělají rozpoznávání mnohem spolehlivějším."
   - q: "Existuje aplikace, která shrnuje nahrávky přednášek?"
-    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která ke každé nahrávce vytvoří shrnutí od AI a zobrazí ho jako seznam bodů pod přehrávačem na obrazovce detailu. Shrnutí je v jazyce přednášky a funguje i pro vystřižené úseky. Shrnutí se zpracovávají na serveru."
+    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která na klepnutí vytvoří shrnutí nahrávky od AI a zobrazí ho jako seznam bodů pod přehrávačem na obrazovce detailu. Shrnutí je v jazyce přednášky a funguje i pro vystřižené úseky. Shrnutí se zpracovávají na serveru."
   - q: "Můžu dostat celou přednášku jako text?"
     a: "Žádná aplikace pro nahrávání nepřepíše řeč na 100 % slovo od slova. Samotná nápověda Samsungu uvádí, že pro přesný přepis musí mluvčí mluvit zřetelně a blízko mikrofonu. TalkSafe nabízí shrnutí, ne přepis, a přidání přepisu chce zvážit, až si bude jistý, že je na 100 % přesný."
   - q: "Můžu nahrávku přednášky poslat spolužákům nebo ji dát na internet?"
@@ -38,7 +39,7 @@ Uteklo vám to při psaní. Než zapíšete jednu větu, další už zazněla; n
 |---|---|---|
 | Chcete celou přednášku | Spustit nahrávání na začátku a zastavit na konci | Ruční nahrávání na úvodní obrazovce |
 | Chcete jen důležité části | Nechat nahrávání spustit slovy přednášejícího | Rozpoznávání klíčových slov; uloží se 30 sekund, které už uběhly |
-| Po přednášce | Nejdřív si projít, co se probíralo | Shrnutí od AI ke každé nahrávce, v jazyce přednášky |
+| Po přednášce | Nejdřív si projít, co se probíralo | Shrnutí od AI na klepnutí, v jazyce přednášky |
 | Při učení | Nechat si jen potřebný výklad | Vystřižení (originál zůstane) |
 | Celá přednáška jako text | Žádná aplikace nepřepíše 100 % slovo od slova | Bez přepisu, jen shrnutí |
 
@@ -62,7 +63,7 @@ Příští týden ve chvíli, kdy přednášející řekne „tahle část je d�
 
 ## Po přednášce si nejdřív přečtěte shrnutí
 
-TalkSafe vytvoří **ke každé nahrávce shrnutí od AI** a zobrazí ho jako seznam bodů pod přehrávačem na obrazovce detailu. Přednáška v češtině se shrne česky. Jeden ze způsobů opakování: nejdřív si ve shrnutí projít průběh hodiny a pak si poslechnout jen místa, kterým jste nerozuměli.
+TalkSafe vytvoří na klepnutí **shrnutí nahrávky od AI** a zobrazí ho jako seznam bodů pod přehrávačem na obrazovce detailu. Přednáška v češtině se shrne česky. Jeden ze způsobů opakování: nejdřív si ve shrnutí projít průběh hodiny a pak si poslechnout jen místa, kterým jste nerozuměli.
 
 - **Shrnutí vznikají na serveru.** Rozpoznávání klíčových slov běží v telefonu, ale kvůli shrnutí se nahrávka posílá na server.
 - **I vystřižené úseky** lze shrnout. Můžete si [vystřihnout jen potřebný výklad a originál nechat](/blog/cs/trim-recording/) a shrnout jen ten.

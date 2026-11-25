@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: it
 permalink: /blog/it/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Guida
 title: "Come registrare una riunione con il telefono, dalle prime parole al riassunto"
 description: "Quando registri una riunione in presenza con il telefono, la parte che si perde più spesso è quella detta prima di premere registra. Dove mettere il telefono, come far partire la registrazione con le prime parole di chi conduce, come togliere il rumore di un incontro al bar, e il riassunto con IA e il backup sul cloud a riunione finita."
 image: /assets/img/og/meeting-recording-it.png
-image_alt: "Come registrare una riunione con il telefono. Le funzioni di TalkSafe per ogni momento: le parole di chi conduce come parola chiave, salvando i 30 secondi già passati; rimozione del rumore con IA per un incontro a due al bar; un riassunto con IA di ogni registrazione alla fine; e recupero dal cloud se una registrazione viene cancellata o il telefono va perso."
+image_alt: "Come registrare una riunione con il telefono. Le funzioni di TalkSafe per ogni momento: le parole di chi conduce come parola chiave, salvando i 30 secondi già passati; rimozione del rumore con IA per un incontro a due al bar; un riassunto con IA con un tocco alla fine; e recupero dal cloud se una registrazione viene cancellata o il telefono va perso."
 app: true
 app_description: "Un registratore vocale per Android e iPhone che inizia a registrare da solo quando sente una parola scelta in anticipo. All'avvio salva anche i 30 secondi precedenti."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "È legale registrare una riunione a cui partecipo?"
     a: "Sì. Secondo l'orientamento consolidato della Cassazione, la registrazione effettuata da chi partecipa alla conversazione non costituisce intercettazione e non richiede alcuna autorizzazione del giudice. Una regola aziendale che vieti di registrare è una questione distinta dalla legge penale."
   - q: "Esiste un'app che riassume le registrazioni delle riunioni?"
-    a: "TalkSafe è un registratore vocale per Android e iPhone che crea un riassunto con IA di ogni registrazione e lo mostra come elenco di punti sotto il lettore, nella schermata di dettaglio. Il riassunto è nella lingua della riunione e funziona anche su tratti ritagliati e su file ripuliti dal rumore. I riassunti vengono elaborati su un server."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che crea un riassunto con IA di una registrazione quando lo richiedi con un tocco e lo mostra come elenco di punti sotto il lettore, nella schermata di dettaglio. Il riassunto è nella lingua della riunione e funziona anche su tratti ritagliati e su file ripuliti dal rumore. I riassunti vengono elaborati su un server."
   - q: "Come faccio a non perdere l'inizio di una riunione?"
     a: "In TalkSafe puoi registrare come parole chiave quello che probabilmente dirà chi conduce la riunione. Le parole chiave non sono legate a una persona, quindi vengono rilevate chiunque le dica. Quando ne viene rilevata una, la registrazione parte subito senza sbloccare il telefono, e vengono salvati anche i 30 secondi già trascorsi. Registrare due parole che di solito compaiono nella stessa frase rende il rilevamento molto più affidabile."
   - q: "La registrazione di un incontro al bar è piena di rumore. Cosa posso fare?"
@@ -41,7 +41,7 @@ Ognuno ricorda in modo un po' diverso. Chi l'ha proposto per primo, se la scaden
 |---|---|---|
 | La riunione inizia | Quello che si è detto prima di premere registra | Le parole di chi conduce come parola chiave; si salvano i 30 secondi già passati |
 | Un incontro a due al bar | Voci coperte dal rumore | Rimozione del rumore con IA sul telefono; l'originale resta |
-| La riunione finisce | Cosa si è deciso davvero | Un riassunto con IA di ogni registrazione, nella lingua parlata |
+| La riunione finisce | Cosa si è deciso davvero | Un riassunto con IA con un tocco, nella lingua parlata |
 | Condividere | I pochi minuti, su un'ora, in cui si è deciso | Ritaglio (l'originale resta) e il menu di condivisione di Android o iPhone |
 | Il telefono va perso | La registrazione stessa | Recupero dal backup sul cloud |
 
@@ -73,7 +73,7 @@ La **rimozione del rumore con IA** di TalkSafe toglie il rumore di fondo da una 
 
 Registrare una riunione non significa che qualcuno riascolterà un file di un'ora dall'inizio. Per questo chi ha registrato finisce comunque per affidarsi alla memoria.
 
-TalkSafe crea **un riassunto con IA di ogni registrazione** e lo mostra come elenco di punti sotto il lettore, nella schermata di dettaglio. Una riunione in italiano viene riassunta in italiano. Trova la decisione nel riassunto e ascolta quel punto per verificare le parole esatte.
+TalkSafe crea **un riassunto con IA** di una registrazione quando lo richiedi con un tocco e lo mostra come elenco di punti sotto il lettore, nella schermata di dettaglio. Una riunione in italiano viene riassunta in italiano. Trova la decisione nel riassunto e ascolta quel punto per verificare le parole esatte.
 
 - **È un riassunto, non una trascrizione.** Non c'è un testo parola per parola di tutta la riunione.
 - **I riassunti si fanno su un server.** Il rilevamento delle parole chiave avviene sul telefono, ma per il riassunto la registrazione viene inviata a un server.

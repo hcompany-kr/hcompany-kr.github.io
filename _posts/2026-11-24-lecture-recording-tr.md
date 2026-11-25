@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: tr
 permalink: /blog/tr/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Rehber
 title: "Dersi telefonla kaydetmek: tüm ders ya da yalnızca önemli kısımlar"
 description: "Bir dersi telefonla kaydederken temel yol, ders başladığında manuel kaydı başlatmaktır. Telefonun nereye konacağı, yalnızca önemli kısımları tutmak istediğinizde anahtar kelime algılamanın ve geçmiş 30 saniyenin nasıl yardımcı olduğu, sonrasında yapay zekâ özeti ve Türkiye'de ders kaydıyla ilgili hukuk."
@@ -19,7 +20,7 @@ faq:
   - q: "Dersin tamamını değil, yalnızca önemli kısımlarını kaydedebilir miyim?"
     a: "TalkSafe'te hocanın önemli anlarda söyleyeceği kelimeleri anahtar kelime olarak kaydedebilirsiniz. Anahtar kelimeler bir kişiye bağlı değildir; hoca söylediğinde de algılanır. Biri algılandığında telefonun kilidini açmadan kayıt hemen başlar ve geçmiş 30 saniye de saklanır. Aynı cümlede birlikte geçmesi muhtemel iki kelime kaydetmek algılamayı çok daha güvenilir hale getirir."
   - q: "Ders kayıtlarını özetleyen bir uygulama var mı?"
-    a: "TalkSafe, her kayıt için bir yapay zekâ özeti oluşturan ve bunu kayıt ayrıntısı ekranında oynatıcının altında madde listesi olarak gösteren, Android ve iPhone için bir ses kayıt uygulamasıdır. Özet dersin dilinde çıkar ve kırpılmış bölümlerde de çalışır. Özetler bir sunucuda işlenir."
+    a: "TalkSafe, bir kayıtta dokunulduğunda yapay zekâ özeti oluşturan ve bunu kayıt ayrıntısı ekranında oynatıcının altında madde listesi olarak gösteren, Android ve iPhone için bir ses kayıt uygulamasıdır. Özet dersin dilinde çıkar ve kırpılmış bölümlerde de çalışır. Özetler bir sunucuda işlenir."
   - q: "Dersin tamamını yazıya dökebilir miyim?"
     a: "Hiçbir kayıt uygulaması konuşmayı yüzde 100 kelimesi kelimesine yazıya dökemez. Samsung'un kendi yardım sayfası, doğru bir döküm için konuşanın net ve mikrofona yakın konuşması gerektiğini söyler. TalkSafe döküm değil özet sunar ve dökümün yüzde 100 doğru olduğundan emin olabildiğinde eklemeyi değerlendirmeyi planlıyor."
   - q: "Ders kaydını arkadaşlarıma gönderebilir ya da internete yükleyebilir miyim?"
@@ -38,7 +39,7 @@ Not alırken kaçırdınız. Bir cümleyi yazana kadar sonraki çoktan söylenmi
 |---|---|---|
 | Dersin tamamını istiyorsunuz | Başta kaydı başlatıp sonda durdurmak | Başlangıç ekranında manuel kayıt |
 | Yalnızca önemli kısımları istiyorsunuz | Hocanın sözlerinin kaydı başlatması | Anahtar kelime algılama; geçmiş 30 saniye saklanır |
-| Dersten sonra | Önce neler işlendiğine göz atmak | Her kaydın yapay zekâ özeti, dersin dilinde |
+| Dersten sonra | Önce neler işlendiğine göz atmak | Tek dokunuşla yapay zekâ özeti, dersin dilinde |
 | Çalışırken | Yalnızca gereken açıklamayı tutmak | Kırpma (orijinal kalır) |
 | Dersin tamamı yazıyla | Hiçbir uygulama yüzde 100 kelimesi kelimesine dökemez | Döküm yok, yalnızca özet |
 
@@ -62,7 +63,7 @@ Gelecek hafta hoca "Bu kısım önemli" dediği anda, sıradaki telefon olduğu 
 
 ## Dersten sonra önce özeti okuyun
 
-TalkSafe **her kayıt için bir yapay zekâ özeti** oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında madde listesi olarak gösterir. Türkçe bir ders Türkçe özetlenir. Tekrar etmenin bir yolu, önce özette dersin akışına göz atıp yalnızca anlamadığınız kısımları dinlemektir.
+TalkSafe bir kayıtta dokunduğunuzda **yapay zekâ özeti** oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında madde listesi olarak gösterir. Türkçe bir ders Türkçe özetlenir. Tekrar etmenin bir yolu, önce özette dersin akışına göz atıp yalnızca anlamadığınız kısımları dinlemektir.
 
 - **Özetler bir sunucuda yapılır.** Anahtar kelime algılama telefonda çalışır, ancak özet için kayıt bir sunucuya gönderilir.
 - **Kırpılmış bölümler** de özetlenebilir. [Yalnızca gereken açıklamayı orijinali koruyarak kırpıp](/blog/tr/trim-recording/) yalnızca onu özetleyebilirsiniz.

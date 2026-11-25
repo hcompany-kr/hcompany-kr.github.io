@@ -4,29 +4,29 @@ ref: summarize-recording
 categories: tr
 permalink: /blog/tr/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-25
 eyebrow: Rehber
 title: "Android'de ses kaydı yapay zekâ ile nasıl özetlenir"
-description: "Android'de bir ses kaydını özetlemek için yapay zekâ özeti olan bir kayıt uygulaması kullanılır: Pixel 8 ve sonrasındaki Google Kaydedici dökümü özetler, Samsung Ses Kaydedici Galaxy AI ile döküm ve özet sunar, TalkSafe ise her kaydı kaydedildiği dilde özetler. Sesin nereye gittiği, bir özetin neleri dışarıda bıraktığı ve orijinalin neden saklandığı."
+description: "Android'de bir ses kaydını özetlemek için yapay zekâ özeti olan bir kayıt uygulaması kullanılır: Pixel 8 ve sonrasındaki Google Kaydedici dökümü özetler, Samsung Ses Kaydedici Galaxy AI ile döküm ve özet sunar, TalkSafe ise dokunduğunuzda kaydı kaydedildiği dilde özetler. Sesin nereye gittiği, bir özetin neleri dışarıda bıraktığı ve orijinalin neden saklandığı."
 image: /assets/img/og/summarize-recording-tr.png
 image_alt: "Pixel’deki Google Kaydedici, Galaxy’deki Samsung Ses Kaydedici ve TalkSafe karşılaştırması: üçünde de yapay zekâ özeti var, tam döküm yalnızca Pixel ve Galaxy’de, belirlenen bir kelimeyle kaydı kendiliğinden başlatan yalnızca TalkSafe."
 app: true
 app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
   - q: "Android'de bir ses kaydını yapay zekâ ile nasıl özetlerim?"
-    a: "Yapay zekâ özeti olan bir kayıt uygulamasıyla. Pixel 8 ve sonrasında Google Kaydedici, bir kaydın dökümünü özetleyebilir. Samsung Ses Kaydedici, Galaxy AI'ın Transcript Assist özelliğiyle döküm ve özet sunar ve Samsung hesabı gerektirir. Android ve iPhone için bir ses kayıt uygulaması olan TalkSafe, her kayıt için bir yapay zekâ özeti oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında gösterir."
+    a: "Yapay zekâ özeti olan bir kayıt uygulamasıyla. Pixel 8 ve sonrasında Google Kaydedici, bir kaydın dökümünü özetleyebilir. Samsung Ses Kaydedici, Galaxy AI'ın Transcript Assist özelliğiyle döküm ve özet sunar ve Samsung hesabı gerektirir. Android ve iPhone için bir ses kayıt uygulaması olan TalkSafe, bir kayıtta dokunduğunuzda yapay zekâ özeti oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında gösterir."
   - q: "Bir kayıt özetlenirken ses bir sunucuya gönderilir mi?"
     a: "Uygulamaya göre değişir. Google'a göre Pixel'deki Google Kaydedici özetleri bulutta güvenli ve yalıtılmış bir ortamda işlenir. TalkSafe, yapay zekâ özeti için kaydı bir sunucuya gönderir; anahtar kelime algılama ise tamamen telefonda çalışır. Konuşmada başka kişiler varsa, gönderdiğiniz dosyada onların sesleri de bulunur."
   - q: "TalkSafe özeti hangi dilde çıkar?"
     a: "Kaydın diliyle aynı dilde. Almanca kaydedilmiş bir konuşma Almanca, Japonca kaydedilmiş bir konuşma Japonca özetlenir."
   - q: "TalkSafe tam döküm verir mi?"
-    a: "Hayır. TalkSafe her kayıt için kısa bir madde listesi hâlinde yapay zekâ özeti gösterir; kelimesi kelimesine döküm yoktur. Tam ifadeleri kontrol etmek için kaydın kendisini dinleyin."
+    a: "Hayır. TalkSafe bir kayıtta dokunduğunuzda kısa bir madde listesi hâlinde yapay zekâ özeti gösterir; kelimesi kelimesine döküm yoktur. Tam ifadeleri kontrol etmek için kaydın kendisini dinleyin."
   - q: "Bir kaydın yalnızca bir bölümünü özetleyebilir miyim?"
     a: "Evet, TalkSafe'te. Önce ihtiyacınız olan bölümü kırpın; bölüm yeni bir dosya olarak kaydedilir ve orijinal korunur, özet de bu bölüme uygulanabilir. TalkSafe'in cihaz üzerinde çalışan yapay zekâ gürültü giderme özelliğiyle temizlenmiş bir bölüm için de geçerlidir."
   - q: "Yapay zekâ özeti delil olarak kullanılabilir mi?"
     a: "Asıl kayıt özet değil, ses kaydıdır. Yapay zekâ özeti bazı şeyleri atlayabilir ya da yanlış aktarabilir; bu yüzden onu hangi bölümü dinleyeceğinizi bulmak için kullanın ve bir gün önemli olabilecek kaydın orijinalini değiştirmeden saklayın."
   - q: "iPhone'da bir kaydı yapay zekâ ile özetleyebilir miyim?"
-    a: "Evet. TalkSafe, Android ve iPhone için bir ses kayıt uygulamasıdır ve yapay zekâ özeti iPhone'da da aynı şekilde çalışır: her kayıt için, kaydedildiği dilde madde işaretli bir özet oluşturulur."
+    a: "Evet. TalkSafe, Android ve iPhone için bir ses kayıt uygulamasıdır ve yapay zekâ özeti iPhone'da da aynı şekilde çalışır: bir kayıtta dokunduğunuzda, kaydedildiği dilde madde işaretli bir özet oluşturulur."
 ---
 
 Toplantı kırk dakika sürdü. Doktor muayenesi on iki. Ev sahibiyle telefon görüşmesi sekiz. Üçü de telefonunuzda.
@@ -39,7 +39,7 @@ Toplantı kırk dakika sürdü. Doktor muayenesi on iki. Ev sahibiyle telefon g�
 
 | | Google Kaydedici (Pixel) | Samsung Ses Kaydedici (Galaxy AI) | TalkSafe |
 |---|---|---|---|
-| Özet | Var | Var, Transcript Assist ile | Var, her kayıt için |
+| Özet | Var | Var, Transcript Assist ile | Var, kayıtta dokununca |
 | Tam döküm | Var | Var | Yok, yalnızca özet |
 | Özetin yapıldığı yer | Bulutta (güvenli, yalıtılmış ortam) | Burada doğrulanmadı | Bir sunucuda |
 | Dil | İngilizce, Çince (Mandarin), Hintçe, İtalyanca, Fransızca, Almanca, Japonca | Bölgeye göre değişir | Kaydın dili |
@@ -58,7 +58,7 @@ Galaxy AI olan Galaxy telefonlarda Ses Kaydedici'deki **Transcript Assist** bir 
 
 ## TalkSafe
 
-[TalkSafe](/talksafe/tr/) **her kayıt için bir yapay zekâ özeti** oluşturur. Özet, kayıt ayrıntısı ekranında **oynatıcının altında** kısa bir madde listesi olarak görünür; böylece tekrar dinleyip dinlememeye karar vermeden önce ne konuşulduğunu okuyabilirsiniz.
+[TalkSafe](/talksafe/tr/) bir kayıtta dokunduğunuzda **yapay zekâ özeti** oluşturur. Özet, kayıt ayrıntısı ekranında **oynatıcının altında** kısa bir madde listesi olarak görünür; böylece tekrar dinleyip dinlememeye karar vermeden önce ne konuşulduğunu okuyabilirsiniz.
 
 <figure class="shot"><img src="/assets/img/screens/summary-tr.jpg" alt="TalkSafe kayıt ayrıntısı ekranı: oynatma çubuğu ve hız düğmeleri, altında madde madde yapay zekâ özeti." width="540" height="960" loading="lazy"><figcaption>Kayıt ayrıntısı. Yapay zekâ özeti oynatıcının altında, kısa bir madde listesi olarak görünür.</figcaption></figure>
 

@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: es
 permalink: /blog/es/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Guía
 title: "Cómo grabar clases con el celular o el móvil: la clase entera o solo lo importante"
 description: "Para grabar una clase con el teléfono, lo básico es una grabación manual que empieza cuando empieza la clase. Dónde poner el teléfono, cómo la detección de palabras clave y los 30 segundos que ya pasaron ayudan cuando solo quieres lo importante, el resumen con IA al terminar y si es legal grabar clases en España."
@@ -19,7 +20,7 @@ faq:
   - q: "¿Puedo grabar solo las partes importantes de una clase?"
     a: "En TalkSafe puedes registrar como palabras clave lo que el profesor probablemente dirá en los momentos importantes. Las palabras clave no están ligadas a una persona, así que se detectan cuando las dice el profesor. Cuando se detecta una, la grabación empieza al instante sin desbloquear el teléfono, y se guardan también los 30 segundos que ya habían pasado. Registrar dos palabras que suelan aparecer en la misma frase hace la detección mucho más fiable."
   - q: "¿Hay una app que resuma las grabaciones de clase?"
-    a: "TalkSafe es una grabadora de voz para Android y iPhone que crea un resumen con IA de cada grabación y lo muestra como una lista de puntos bajo el reproductor, en la pantalla de detalle. El resumen sale en el idioma de la clase y también funciona con fragmentos recortados. Los resúmenes se procesan en un servidor."
+    a: "TalkSafe es una grabadora de voz para Android y iPhone que crea un resumen con IA de una grabación cuando lo pides con un toque y lo muestra como una lista de puntos bajo el reproductor, en la pantalla de detalle. El resumen sale en el idioma de la clase y también funciona con fragmentos recortados. Los resúmenes se procesan en un servidor."
   - q: "¿Puedo tener toda la clase en texto?"
     a: "Ninguna app de grabación transcribe la voz al 100 % palabra por palabra. La propia ayuda de Samsung dice que, para una transcripción precisa, quien habla debe hacerlo con claridad y cerca del micrófono. TalkSafe ofrece un resumen, no una transcripción, y prevé estudiar añadir la transcripción cuando pueda estar seguro de que es 100 % precisa."
   - q: "¿Puedo pasar la grabación de una clase a mis compañeros o subirla a internet?"
@@ -38,7 +39,7 @@ Se te escapó mientras escribías. Cuando terminas una frase, ya va por la sigui
 |---|---|---|
 | Quieres la clase entera | Empezar a grabar al principio y parar al final | Iniciar grabación manual en la pantalla de inicio |
 | Solo quieres lo importante | Que las palabras del profesor inicien la grabación | Detección de palabras clave; se guardan los 30 segundos que ya pasaron |
-| Después de clase | Repasar primero qué se vio | Un resumen con IA de cada grabación, en el idioma de la clase |
+| Después de clase | Repasar primero qué se vio | Un resumen con IA con un toque, en el idioma de la clase |
 | Al estudiar | Quedarte solo con la explicación que necesitas | Recortar (el original se conserva) |
 | La clase entera en texto | Ninguna app transcribe al 100 % palabra por palabra | Sin transcripción, solo resumen |
 
@@ -62,7 +63,7 @@ La semana que viene, en el momento en que el profesor diga «esta parte es impor
 
 ## Después de clase, lee primero el resumen
 
-TalkSafe crea **un resumen con IA de cada grabación** y lo muestra como una lista de puntos bajo el reproductor, en la pantalla de detalle. Una clase en español se resume en español. Una forma de repasar es ver primero en el resumen cómo fue la clase y escuchar solo las partes que no entendiste.
+TalkSafe crea **un resumen con IA** de una grabación cuando lo pides con un toque y lo muestra como una lista de puntos bajo el reproductor, en la pantalla de detalle. Una clase en español se resume en español. Una forma de repasar es ver primero en el resumen cómo fue la clase y escuchar solo las partes que no entendiste.
 
 - **Los resúmenes se hacen en un servidor.** La detección de palabras clave funciona en el teléfono, pero para el resumen la grabación se envía a un servidor.
 - **Los fragmentos recortados** también se pueden resumir. Puedes [quedarte solo con la explicación que necesitas, conservando el original](/blog/es/trim-recording/), y resumir solo eso.

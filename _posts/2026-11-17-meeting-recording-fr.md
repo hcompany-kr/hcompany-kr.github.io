@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: fr
 permalink: /blog/fr/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Guide
 title: "Comment enregistrer une réunion avec son téléphone, des premiers mots au résumé"
 description: "Quand on enregistre une réunion en présentiel avec son téléphone, ce qui se perd le plus souvent, c'est ce qui a été dit avant d'appuyer sur enregistrer. Où poser le téléphone, comment lancer l'enregistrement sur les premiers mots de la personne qui anime, comment retirer le bruit d'un rendez-vous au café, puis le résumé par IA et la sauvegarde dans le cloud, et ce que dit la loi en France, en Belgique, en Suisse et au Québec."
 image: /assets/img/og/meeting-recording-fr.png
-image_alt: "Comment enregistrer une réunion avec son téléphone. Les fonctions de TalkSafe pour chaque moment : les mots de la personne qui anime comme mot-clé, en gardant les 30 secondes déjà passées ; la suppression du bruit par IA pour un rendez-vous à deux au café ; un résumé par IA de chaque enregistrement ensuite ; et la restauration depuis le cloud si un enregistrement est supprimé ou le téléphone perdu."
+image_alt: "Comment enregistrer une réunion avec son téléphone. Les fonctions de TalkSafe pour chaque moment : les mots de la personne qui anime comme mot-clé, en gardant les 30 secondes déjà passées ; la suppression du bruit par IA pour un rendez-vous à deux au café ; un résumé par IA d'une simple touche ensuite ; et la restauration depuis le cloud si un enregistrement est supprimé ou le téléphone perdu."
 app: true
 app_description: "Une application d'enregistrement pour Android et iPhone qui démarre automatiquement quand elle entend un mot choisi à l'avance. Au démarrage, elle conserve aussi les 30 secondes précédentes."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Ai-je le droit d'enregistrer une réunion à laquelle je participe ?"
     a: "En France, l'article 226-1 du Code pénal punit l'enregistrement sans consentement de paroles prononcées à titre privé ou confidentiel, même par un participant ; le plus simple est d'obtenir l'accord des participants. En Suisse, l'article 179ter du Code pénal exige aussi le consentement des autres participants. En Belgique, la Cour de cassation a confirmé en 2015 qu'un participant qui enregistre ne commet pas d'infraction, et au Québec un participant peut enregistrer une conversation à laquelle il prend part."
   - q: "Existe-t-il une application qui résume les enregistrements de réunion ?"
-    a: "TalkSafe est une application d'enregistrement pour Android et iPhone qui crée un résumé par IA de chaque enregistrement et l'affiche sous forme de liste à puces sous le lecteur, dans l'écran de détail. Le résumé est dans la langue de la réunion et fonctionne aussi sur les extraits découpés et les fichiers débarrassés du bruit. Les résumés sont traités sur un serveur."
+    a: "TalkSafe est une application d'enregistrement pour Android et iPhone qui crée un résumé par IA d'un enregistrement, d'une simple touche et l'affiche sous forme de liste à puces sous le lecteur, dans l'écran de détail. Le résumé est dans la langue de la réunion et fonctionne aussi sur les extraits découpés et les fichiers débarrassés du bruit. Les résumés sont traités sur un serveur."
   - q: "Comment ne pas rater le début d'une réunion ?"
     a: "Dans TalkSafe, vous pouvez enregistrer comme mots-clés ce que la personne qui anime dira probablement. Les mots-clés ne sont pas liés à une personne : ils sont détectés quelle que soit la personne qui les prononce. Quand l'un d'eux est détecté, l'enregistrement démarre aussitôt sans déverrouiller le téléphone, et les 30 secondes déjà passées sont conservées aussi. Choisir deux mots qui apparaissent souvent dans la même phrase rend la détection bien plus fiable."
   - q: "L'enregistrement d'un rendez-vous au café est plein de bruit. Que faire ?"
@@ -41,7 +41,7 @@ Chacun s'en souvient un peu différemment. Qui l'a proposé en premier, si l'éc
 |---|---|---|
 | La réunion commence | Ce qui a été dit avant d'appuyer sur enregistrer | Les mots de la personne qui anime comme mot-clé ; les 30 secondes déjà passées sont conservées |
 | Un rendez-vous à deux au café | Des voix couvertes par le bruit | Suppression du bruit par IA sur le téléphone ; l'original est conservé |
-| La réunion se termine | Ce qui a vraiment été décidé | Un résumé par IA de chaque enregistrement, dans la langue parlée |
+| La réunion se termine | Ce qui a vraiment été décidé | Un résumé par IA d'une simple touche, dans la langue parlée |
 | Au moment de partager | Les quelques minutes, sur une heure, où l'on a décidé | Découpe (l'original est conservé) et le menu de partage d'Android ou d'iPhone |
 | Le téléphone est perdu | L'enregistrement lui-même | Restauration depuis la sauvegarde dans le cloud |
 
@@ -73,7 +73,7 @@ La **suppression du bruit par IA** de TalkSafe retire le bruit de fond d'un enre
 
 Enregistrer une réunion ne veut pas dire que quelqu'un réécoutera un fichier d'une heure depuis le début. C'est pour cela que même ceux qui ont enregistré finissent par se fier à leur mémoire.
 
-TalkSafe crée **un résumé par IA de chaque enregistrement** et l'affiche sous forme de liste à puces sous le lecteur, dans l'écran de détail. Une réunion en français est résumée en français. Cherchez la décision dans le résumé, puis écoutez ce passage pour les mots exacts.
+TalkSafe crée **un résumé par IA** d'un enregistrement, d'une simple touche et l'affiche sous forme de liste à puces sous le lecteur, dans l'écran de détail. Une réunion en français est résumée en français. Cherchez la décision dans le résumé, puis écoutez ce passage pour les mots exacts.
 
 - **C'est un résumé, pas une transcription.** Il n'y a pas de texte mot à mot de toute la réunion.
 - **Les résumés sont faits sur un serveur.** La détection des mots-clés fonctionne sur le téléphone, mais pour le résumé l'enregistrement est envoyé à un serveur.

@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: tr
 permalink: /blog/tr/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Rehber
 title: "Toplantı telefonla nasıl kaydedilir: ilk cümlelerden özete"
 description: "Yüz yüze bir toplantıyı telefonla kaydederken en sık kaybolan şey, kayıt tuşuna basmadan önce söylenenlerdir. Telefonun nereye konacağı, kaydın toplantıyı yöneten kişinin ilk sözleriyle nasıl başlatılacağı, kafedeki görüşmenin gürültüsünün nasıl giderileceği, toplantıdan sonra yapay zekâ özeti ve bulut yedekleme, ve Türkiye'de hukukun ne dediği."
 image: /assets/img/og/meeting-recording-tr.png
-image_alt: "Toplantı telefonla nasıl kaydedilir. Her an için TalkSafe özellikleri: toplantıyı yönetenin sözleri anahtar kelime olarak, geçmiş 30 saniye de kaydedilir; kafede iki kişilik görüşme için yapay zekâ ile gürültü giderme; sonrasında her kaydın yapay zekâ özeti; kayıt silinirse ya da telefon kaybolursa buluttan geri yükleme."
+image_alt: "Toplantı telefonla nasıl kaydedilir. Her an için TalkSafe özellikleri: toplantıyı yönetenin sözleri anahtar kelime olarak, geçmiş 30 saniye de kaydedilir; kafede iki kişilik görüşme için yapay zekâ ile gürültü giderme; sonrasında tek dokunuşla yapay zekâ özeti; kayıt silinirse ya da telefon kaybolursa buluttan geri yükleme."
 app: true
 app_description: "Önceden belirlediğiniz bir kelimeyi duyduğunda kayda otomatik olarak başlayan Android ve iPhone için bir ses kayıt uygulaması. Kayıt başladığında önceki 30 saniyeyi de saklar."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Katıldığım bir toplantıyı kaydetmek yasal mı?"
     a: "Türkiye'de katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan ses alma cihazıyla kaydetmek, Türk Ceza Kanunu'nun 133. maddesinin 2. fıkrasına göre altı aydan iki yıla kadar hapis veya adli para cezası gerektiren bir suçtur. Toplantıyı kaydetmek için toplantının başında katılımcıların rızasını almak en kolay yoldur."
   - q: "Toplantı kayıtlarını özetleyen bir uygulama var mı?"
-    a: "TalkSafe, her kayıt için bir yapay zekâ özeti oluşturan ve bunu kayıt ayrıntısı ekranında oynatıcının altında madde listesi olarak gösteren, Android ve iPhone için bir ses kayıt uygulamasıdır. Özet toplantının dilinde çıkar; kırpılmış ve gürültüsü giderilmiş dosyalarda da çalışır. Özetler bir sunucuda işlenir."
+    a: "TalkSafe, bir kayıtta dokunulduğunda yapay zekâ özeti oluşturan ve bunu kayıt ayrıntısı ekranında oynatıcının altında madde listesi olarak gösteren, Android ve iPhone için bir ses kayıt uygulamasıdır. Özet toplantının dilinde çıkar; kırpılmış ve gürültüsü giderilmiş dosyalarda da çalışır. Özetler bir sunucuda işlenir."
   - q: "Toplantının başlangıcını kaçırmamak için ne yapabilirim?"
     a: "TalkSafe'te toplantıyı yönetenin muhtemelen söyleyeceği kelimeleri anahtar kelime olarak kaydedebilirsiniz. Anahtar kelimeler bir kişiye bağlı değildir; kim söylerse söylesin algılanır. Biri algılandığında telefonun kilidini açmadan kayıt hemen başlar ve geçmiş 30 saniye de saklanır. Aynı cümlede birlikte geçmesi muhtemel iki kelime kaydetmek algılamayı çok daha güvenilir hale getirir."
   - q: "Kafedeki görüşmenin kaydı gürültüyle dolu. Ne yapabilirim?"
@@ -41,7 +41,7 @@ Herkes biraz farklı hatırlar. Önce kimin önerdiğini, son tarihin cuma mı y
 |---|---|---|
 | Toplantı başlıyor | Kayıt tuşuna basmadan önce söylenenler | Toplantıyı yönetenin sözleri anahtar kelime olarak; geçmiş 30 saniye saklanır |
 | Kafede iki kişilik görüşme | Gürültüye karışan sesler | Telefonda yapay zekâ ile gürültü giderme; orijinal kalır |
-| Toplantı bitiyor | Gerçekte neye karar verildiği | Her kaydın yapay zekâ özeti, konuşulan dilde |
+| Toplantı bitiyor | Gerçekte neye karar verildiği | Tek dokunuşla yapay zekâ özeti, konuşulan dilde |
 | Paylaşırken | Bir saatin içinde kararın verildiği birkaç dakika | Kırpma (orijinal kalır) ve Android veya iPhone paylaşım menüsü |
 | Telefon kayboluyor | Kaydın kendisi | Bulut yedeklemeden geri yükleme |
 
@@ -73,7 +73,7 @@ TalkSafe'in **yapay zekâ ile gürültü giderme** özelliği, tamamlanmış bir
 
 Bir toplantıyı kaydetmek, birinin bir saatlik dosyayı baştan dinleyeceği anlamına gelmez. Kaydedenler de bu yüzden sonunda yine hafızalarına güvenir.
 
-TalkSafe **her kayıt için bir yapay zekâ özeti** oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında madde listesi olarak gösterir. Türkçe bir toplantı Türkçe özetlenir. Kararı özette bulun, tam ifade için o bölümü dinleyin.
+TalkSafe bir kayıtta dokunduğunuzda **yapay zekâ özeti** oluşturur ve bunu kayıt ayrıntısı ekranında oynatıcının altında madde listesi olarak gösterir. Türkçe bir toplantı Türkçe özetlenir. Kararı özette bulun, tam ifade için o bölümü dinleyin.
 
 - **Bu bir özettir, döküm değil.** Toplantının tamamının kelimesi kelimesine metni yoktur.
 - **Özetler bir sunucuda yapılır.** Anahtar kelime algılama telefonda çalışır, ancak özet için kayıt bir sunucuya gönderilir.

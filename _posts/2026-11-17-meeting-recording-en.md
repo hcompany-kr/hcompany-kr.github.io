@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: en
 permalink: /blog/en/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: How-to
 title: "How to record a meeting on your phone, from the first words to the summary"
 description: "When you record an in-person meeting on your phone, the part most often lost is what was said before you pressed record. Where to put the phone, how to have recording start on the chair's opening words, cleaning up café noise, and an AI summary and cloud backup once the meeting is over."
 image: /assets/img/og/meeting-recording-en.png
-image_alt: "How to record a meeting on your phone. TalkSafe features for each moment: the chair's opening words as a keyword, saving the 30 seconds that already passed; AI noise removal for a one-to-one café meeting; an AI summary of every recording afterwards; and restoring from the cloud if a recording is deleted or the phone is lost."
+image_alt: "How to record a meeting on your phone. TalkSafe features for each moment: the chair's opening words as a keyword, saving the 30 seconds that already passed; AI noise removal for a one-to-one café meeting; an AI summary with one tap afterwards; and restoring from the cloud if a recording is deleted or the phone is lost."
 app: true
 app_description: "A voice recorder for Android and iPhone that starts recording automatically when it hears a word you set in advance. When recording begins, the 30 seconds preceding it are saved with the file."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Is it legal to record a meeting I'm in?"
     a: "In the US, federal law and most states allow a participant to record a conversation. Nine states require everyone's consent by statute: California, Florida, Illinois, Maryland, Massachusetts, Montana, New Hampshire, Pennsylvania and Washington, and in a meeting that means everyone in the room. In the UK, recording a conversation you take part in for your own records is generally not a criminal offence. An employer's no-recording policy is a separate question from criminal law."
   - q: "Is there an app that summarizes meeting recordings?"
-    a: "TalkSafe is a voice recorder for Android and iPhone that creates an AI summary of every recording and shows it as a list of points under the player in the recording's detail screen. The summary is in the language the meeting was held in, and it also works on trimmed and noise-cleaned clips. Summaries are processed on a server."
+    a: "TalkSafe is a voice recorder for Android and iPhone that creates an AI summary of a recording when you tap AI summary and shows it as a list of points under the player in the recording's detail screen. The summary is in the language the meeting was held in, and it also works on trimmed and noise-cleaned clips. Summaries are processed on a server."
   - q: "How do I avoid missing the start of a meeting?"
     a: "In TalkSafe you can register the words the chair is likely to say as keywords. Keywords are not tied to one speaker, so they are detected whoever says them. When one is detected, recording starts right away without unlocking the phone, and the 30 seconds that had already passed are saved too. Registering two keywords likely to appear in the same sentence makes detection much more reliable."
   - q: "My recording of a café meeting is full of background noise. What can I do?"
@@ -41,7 +41,7 @@ Everyone remembers it slightly differently. Who raised it first, whether the dea
 |---|---|---|
 | The meeting starts | What was said before you pressed record | The chair's words as a keyword; the 30 seconds that already passed are saved |
 | A one-to-one in a café | Voices buried in background noise | AI noise removal processed on the phone; the original stays |
-| The meeting ends | What was actually decided | An AI summary of every recording, in the language spoken |
+| The meeting ends | What was actually decided | An AI summary with one tap, in the language spoken |
 | Sharing | The few minutes, out of an hour, where the decision was made | Trim (the original stays) and the Android or iPhone share sheet |
 | The phone is lost | The recording itself | Restore from cloud backup |
 
@@ -73,7 +73,7 @@ TalkSafe's **AI noise removal** takes the background noise out of a finished rec
 
 Recording a meeting doesn't mean anyone will listen to an hour-long file from the start. That is why people who recorded still end up relying on memory.
 
-TalkSafe creates **an AI summary of every recording** and shows it as a list of points under the player in the recording's detail screen. An English meeting is summarized in English. Find the decision in the summary, then listen to that part for the exact wording.
+TalkSafe creates **an AI summary** of a recording when you tap AI summary and shows it as a list of points under the player in the recording's detail screen. An English meeting is summarized in English. Find the decision in the summary, then listen to that part for the exact wording.
 
 - **It is a summary, not a transcript.** There is no word-for-word text of the whole meeting.
 - **Summaries are made on a server.** Keyword detection runs on the phone, but for the summary the recording is sent to a server.

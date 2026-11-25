@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: cs
 permalink: /blog/cs/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Návod
 title: "Jak nahrát poradu na telefon: od prvních slov po shrnutí"
 description: "Když nahráváte osobní poradu na telefon, nejčastěji se ztratí to, co zaznělo před stisknutím tlačítka nahrávání. Kam položit telefon, jak spustit nahrávání prvními slovy toho, kdo poradu vede, jak odstranit hluk ze schůzky v kavárně, shrnutí od AI a záloha do cloudu po poradě a co říká zákon v Česku a na Slovensku."
 image: /assets/img/og/meeting-recording-cs.png
-image_alt: "Jak nahrát poradu na telefon. Funkce TalkSafe pro každou chvíli: slova vedoucího porady jako klíčové slovo, s uložením 30 sekund, které už uběhly; odstranění šumu pomocí AI pro schůzku ve dvou v kavárně; shrnutí od AI ke každé nahrávce potom; a obnovení z cloudu, když se nahrávka smaže nebo se telefon ztratí."
+image_alt: "Jak nahrát poradu na telefon. Funkce TalkSafe pro každou chvíli: slova vedoucího porady jako klíčové slovo, s uložením 30 sekund, které už uběhly; odstranění šumu pomocí AI pro schůzku ve dvou v kavárně; shrnutí od AI na klepnutí potom; a obnovení z cloudu, když se nahrávka smaže nebo se telefon ztratí."
 app: true
 app_description: "Aplikace pro nahrávání zvuku na Android a iPhone, která sama začne nahrávat, když uslyší předem zvolené slovo. Při spuštění uloží i 30 sekund před začátkem."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Smím nahrát poradu, které se účastním?"
     a: "V Česku podle § 86 občanského zákoníku nelze bez svolení pořizovat zvukový záznam soukromého života člověka, ale podle § 88 odst. 1 svolení není třeba, pokud se záznam pořídí nebo použije k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů, a podle § 90 nesmí být takový důvod využit nepřiměřeně. Na Slovensku je k nahrávání potřeba svolení. U pracovní porady je nejjednodušší říct na začátku, že nahráváte."
   - q: "Existuje aplikace, která shrnuje nahrávky porad?"
-    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která ke každé nahrávce vytvoří shrnutí od AI a zobrazí ho jako seznam bodů pod přehrávačem na obrazovce detailu. Shrnutí je v jazyce porady a funguje i pro vystřižené úseky a soubory zbavené šumu. Shrnutí se zpracovávají na serveru."
+    a: "TalkSafe je aplikace pro nahrávání na Android a iPhone, která na klepnutí vytvoří shrnutí nahrávky od AI a zobrazí ho jako seznam bodů pod přehrávačem na obrazovce detailu. Shrnutí je v jazyce porady a funguje i pro vystřižené úseky a soubory zbavené šumu. Shrnutí se zpracovávají na serveru."
   - q: "Jak nepromeškat začátek porady?"
     a: "V TalkSafe můžete jako klíčová slova uložit to, co pravděpodobně řekne ten, kdo poradu vede. Klíčová slova nejsou vázaná na osobu, takže se rozpoznají, ať je řekne kdokoli. Když se jedno rozpozná, nahrávání začne hned bez odemykání telefonu a uloží se i 30 sekund, které už uběhly. Dvě slova, která se obvykle objevují ve stejné větě, dělají rozpoznávání mnohem spolehlivějším."
   - q: "Nahrávka ze schůzky v kavárně je plná hluku. Co s tím?"
@@ -41,7 +41,7 @@ Každý si to pamatuje trochu jinak. Kdo to navrhl první, jestli byl termín v 
 |---|---|---|
 | Porada začíná | Co zaznělo před stisknutím nahrávání | Slova vedoucího porady jako klíčové slovo; uloží se 30 sekund, které už uběhly |
 | Schůzka ve dvou v kavárně | Hlasy přehlušené hlukem | Odstranění šumu pomocí AI v telefonu; originál zůstane |
-| Porada končí | Na čem se skutečně rozhodlo | Shrnutí od AI ke každé nahrávce, v jazyce rozhovoru |
+| Porada končí | Na čem se skutečně rozhodlo | Shrnutí od AI na klepnutí, v jazyce rozhovoru |
 | Sdílení | Pár minut z hodiny, kdy padlo rozhodnutí | Vystřižení (originál zůstane) a nabídka sdílení v Androidu nebo iPhonu |
 | Telefon se ztratí | Samotná nahrávka | Obnovení ze zálohy v cloudu |
 
@@ -73,7 +73,7 @@ Pusťte si znovu schůzku ve dvou s klientem v kavárně a kávovar, hudba a sm�
 
 Nahrát poradu neznamená, že si někdo pustí hodinový soubor od začátku. Proto se i ti, kdo nahrávali, nakonec stejně spolehnou na paměť.
 
-TalkSafe vytvoří **ke každé nahrávce shrnutí od AI** a zobrazí ho jako seznam bodů pod přehrávačem na obrazovce detailu. Porada v češtině se shrne česky. Najděte rozhodnutí ve shrnutí a poslechněte si to místo kvůli přesnému znění.
+TalkSafe vytvoří na klepnutí **shrnutí nahrávky od AI** a zobrazí ho jako seznam bodů pod přehrávačem na obrazovce detailu. Porada v češtině se shrne česky. Najděte rozhodnutí ve shrnutí a poslechněte si to místo kvůli přesnému znění.
 
 - **Je to shrnutí, ne přepis.** Text celé porady slovo od slova neexistuje.
 - **Shrnutí vznikají na serveru.** Rozpoznávání klíčových slov běží v telefonu, ale kvůli shrnutí se nahrávka posílá na server.

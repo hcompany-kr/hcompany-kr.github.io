@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: pl
 permalink: /blog/pl/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Poradnik
 title: "Jak nagrać spotkanie telefonem: od pierwszych słów do podsumowania"
 description: "Kiedy nagrywasz spotkanie na żywo telefonem, najczęściej przepada to, co padło przed naciśnięciem przycisku nagrywania. Gdzie położyć telefon, jak sprawić, by nagrywanie zaczęło się od pierwszych słów prowadzącego, jak usunąć hałas ze spotkania w kawiarni, podsumowanie AI i kopia w chmurze po spotkaniu oraz co mówi prawo w Polsce, Niemczech, Holandii i Wielkiej Brytanii."
 image: /assets/img/og/meeting-recording-pl.png
-image_alt: "Jak nagrać spotkanie telefonem. Funkcje TalkSafe na każdy moment: słowa prowadzącego jako słowo kluczowe, z zapisem 30 sekund, które już minęły; usuwanie szumów z AI dla spotkania we dwoje w kawiarni; podsumowanie AI każdego nagrania po spotkaniu; i przywracanie z chmury, gdy nagranie zostanie usunięte albo telefon zginie."
+image_alt: "Jak nagrać spotkanie telefonem. Funkcje TalkSafe na każdy moment: słowa prowadzącego jako słowo kluczowe, z zapisem 30 sekund, które już minęły; usuwanie szumów z AI dla spotkania we dwoje w kawiarni; podsumowanie AI jednym stuknięciem po spotkaniu; i przywracanie z chmury, gdy nagranie zostanie usunięte albo telefon zginie."
 app: true
 app_description: "Aplikacja do nagrywania dźwięku na Androida i iPhone'a, która sama zaczyna nagrywać, gdy usłyszy wybrane wcześniej słowo. Po rozpoczęciu zapisuje też 30 sekund sprzed startu."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Czy mogę nagrywać spotkanie, w którym uczestniczę?"
     a: "W Polsce co do zasady tak. Art. 267 § 3 Kodeksu karnego karze tego, kto w celu uzyskania informacji, do której nie jest uprawniony, posługuje się urządzeniem podsłuchowym, a uczestnik rozmowy jest uprawniony do tego, co mówi się do niego. W Niemczech nagranie rozmowy niepublicznej wymaga zgody pozostałych uczestników także wtedy, gdy samemu się w niej bierze udział (§ 201 StGB). Firmowy zakaz nagrywania to sprawa odrębna od prawa karnego."
   - q: "Czy jest aplikacja, która streszcza nagrania ze spotkań?"
-    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która tworzy podsumowanie AI każdego nagrania i pokazuje je jako listę punktów pod odtwarzaczem na ekranie szczegółów. Podsumowanie jest w języku spotkania i działa też na wyciętych fragmentach oraz plikach oczyszczonych z szumów. Podsumowania powstają na serwerze."
+    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która tworzy podsumowanie AI nagrania po jednym stuknięciu i pokazuje je jako listę punktów pod odtwarzaczem na ekranie szczegółów. Podsumowanie jest w języku spotkania i działa też na wyciętych fragmentach oraz plikach oczyszczonych z szumów. Podsumowania powstają na serwerze."
   - q: "Jak nie przegapić początku spotkania?"
     a: "W TalkSafe możesz zapisać jako słowa kluczowe to, co prawdopodobnie powie prowadzący. Słowa kluczowe nie są przypisane do osoby, więc są wykrywane bez względu na to, kto je wypowie. Gdy któreś zostanie wykryte, nagrywanie zaczyna się od razu, bez odblokowywania telefonu, i zapisuje się też 30 sekund, które już minęły. Dwa słowa, które zwykle pojawiają się w tym samym zdaniu, sprawiają, że wykrywanie jest znacznie pewniejsze."
   - q: "Nagranie spotkania w kawiarni jest pełne hałasu. Co zrobić?"
@@ -41,7 +41,7 @@ Każdy pamięta to trochę inaczej. Kto pierwszy to zaproponował, czy termin by
 |---|---|---|
 | Spotkanie się zaczyna | To, co padło przed naciśnięciem nagrywania | Słowa prowadzącego jako słowo kluczowe; zapisuje się 30 sekund, które już minęły |
 | Spotkanie we dwoje w kawiarni | Głosy zagłuszone hałasem | Usuwanie szumów z AI w telefonie; oryginał zostaje |
-| Spotkanie się kończy | Co tak naprawdę ustalono | Podsumowanie AI każdego nagrania, w języku rozmowy |
+| Spotkanie się kończy | Co tak naprawdę ustalono | Podsumowanie AI jednym stuknięciem, w języku rozmowy |
 | Udostępnianie | Kilka minut z godziny, w których zapadła decyzja | Wycinanie (oryginał zostaje) i menu udostępniania Androida lub iPhone'a |
 | Telefon ginie | Samo nagranie | Przywrócenie z kopii zapasowej w chmurze |
 
@@ -73,7 +73,7 @@ Odsłuchaj spotkanie we dwoje z klientem w kawiarni, a ekspres, muzyka i śmiech
 
 Nagranie spotkania nie znaczy, że ktoś odsłucha godzinny plik od początku. Dlatego nawet ci, którzy nagrali, w końcu i tak polegają na pamięci.
 
-TalkSafe tworzy **podsumowanie AI każdego nagrania** i pokazuje je jako listę punktów pod odtwarzaczem na ekranie szczegółów. Spotkanie po polsku jest streszczane po polsku. Znajdź decyzję w podsumowaniu i odsłuchaj ten fragment, żeby sprawdzić dokładne słowa.
+TalkSafe tworzy **podsumowanie AI** nagrania po jednym stuknięciu i pokazuje je jako listę punktów pod odtwarzaczem na ekranie szczegółów. Spotkanie po polsku jest streszczane po polsku. Znajdź decyzję w podsumowaniu i odsłuchaj ten fragment, żeby sprawdzić dokładne słowa.
 
 - **To podsumowanie, nie transkrypcja.** Nie ma tekstu całego spotkania słowo w słowo.
 - **Podsumowania powstają na serwerze.** Wykrywanie słów kluczowych działa w telefonie, ale do podsumowania nagranie jest wysyłane na serwer.

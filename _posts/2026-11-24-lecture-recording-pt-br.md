@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: pt-br
 permalink: /blog/pt-br/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Guia
 title: "Como gravar aula pelo celular: a aula inteira ou só o que importa"
 description: "Para gravar uma aula pelo celular, o básico é uma gravação manual iniciada quando a aula começa. Onde deixar o celular, como a detecção de palavras-chave e os 30 segundos que já passaram ajudam quando você só quer o que importa, o resumo por IA depois, e se gravar aula é crime: o que diz a Lei 9.610 no Brasil e a regra em Portugal."
@@ -19,7 +20,7 @@ faq:
   - q: "Dá para gravar só as partes importantes de uma aula?"
     a: "No TalkSafe você pode cadastrar como palavras-chave o que o professor provavelmente vai dizer nos momentos importantes. As palavras-chave não estão ligadas a uma pessoa, então são detectadas quando o professor as diz. Quando uma é detectada, a gravação começa na hora, sem desbloquear o celular, e os 30 segundos que já tinham passado também são salvos. Cadastrar duas palavras que costumam aparecer na mesma frase deixa a detecção muito mais confiável."
   - q: "Existe um app que resume gravações de aula?"
-    a: "O TalkSafe é um app de gravação de voz para Android e iPhone que cria um resumo por IA de cada gravação e o mostra como uma lista de tópicos abaixo do player, na tela de detalhes. O resumo sai no idioma da aula e também funciona em trechos cortados. Os resumos são processados em um servidor."
+    a: "O TalkSafe é um app de gravação de voz para Android e iPhone que cria um resumo por IA de uma gravação quando você pede com um toque e o mostra como uma lista de tópicos abaixo do player, na tela de detalhes. O resumo sai no idioma da aula e também funciona em trechos cortados. Os resumos são processados em um servidor."
   - q: "Dá para ter a aula inteira em texto?"
     a: "Nenhum app de gravação transcreve a fala 100% palavra por palavra. A própria ajuda da Samsung diz que, para uma transcrição precisa, quem fala precisa falar com clareza e perto do microfone. O TalkSafe oferece um resumo, não uma transcrição, e pretende avaliar a transcrição quando puder ter certeza de que ela é 100% precisa."
   - q: "Posso mandar a gravação da aula para colegas ou postar na internet?"
@@ -38,7 +39,7 @@ Escapou enquanto você escrevia. Até terminar uma frase, a próxima já passou;
 |---|---|---|
 | Você quer a aula inteira | Começar a gravar no início e parar no fim | Iniciar gravação manual na tela inicial |
 | Você só quer o que importa | Deixar as palavras do professor iniciarem a gravação | Detecção de palavras-chave; os 30 segundos que já passaram são salvos |
-| Depois da aula | Ver primeiro o que foi dado | Um resumo por IA de cada gravação, no idioma da aula |
+| Depois da aula | Ver primeiro o que foi dado | Um resumo por IA com um toque, no idioma da aula |
 | Na hora de estudar | Ficar só com a explicação que precisa | Corte (o original fica) |
 | A aula inteira em texto | Nenhum app transcreve 100% palavra por palavra | Sem transcrição, só resumo |
 
@@ -62,7 +63,7 @@ Na semana que vem, no momento em que o professor disser "essa parte é important
 
 ## Depois da aula, leia primeiro o resumo
 
-O TalkSafe cria **um resumo por IA de cada gravação** e o mostra como uma lista de tópicos abaixo do player, na tela de detalhes. Uma aula em português é resumida em português. Um jeito de revisar é ver primeiro no resumo como foi a aula e ouvir só as partes que você não entendeu.
+O TalkSafe cria **um resumo por IA** de uma gravação quando você pede com um toque e o mostra como uma lista de tópicos abaixo do player, na tela de detalhes. Uma aula em português é resumida em português. Um jeito de revisar é ver primeiro no resumo como foi a aula e ouvir só as partes que você não entendeu.
 
 - **Os resumos são feitos em um servidor.** A detecção de palavras-chave funciona no celular, mas para o resumo a gravação é enviada a um servidor.
 - **Trechos cortados** também podem ser resumidos. Você pode [ficar só com a explicação que precisa, mantendo o original](/blog/pt-br/trim-recording/), e resumir só ela.

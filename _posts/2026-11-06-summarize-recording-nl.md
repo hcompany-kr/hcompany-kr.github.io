@@ -4,29 +4,29 @@ ref: summarize-recording
 categories: nl
 permalink: /blog/nl/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-25
 eyebrow: Handleiding
 title: "Een spraakopname samenvatten met AI op Android"
-description: "Om een spraakopname op Android samen te vatten, gebruik je een opname-app met een AI-samenvatting: Googles Recorder op Pixel 8 en nieuwer vat de transcriptie samen, de Samsung Spraakrecorder biedt met Galaxy AI een transcriptie en samenvatting, en TalkSafe vat elke opname samen in de taal waarin hij is opgenomen. Waar het geluid heen gaat, wat een samenvatting weglaat en waarom het origineel blijft."
+description: "Om een spraakopname op Android samen te vatten, gebruik je een opname-app met een AI-samenvatting: Googles Recorder op Pixel 8 en nieuwer vat de transcriptie samen, de Samsung Spraakrecorder biedt met Galaxy AI een transcriptie en samenvatting, en TalkSafe vat een opname met één tik samen in de taal waarin hij is opgenomen. Waar het geluid heen gaat, wat een samenvatting weglaat en waarom het origineel blijft."
 image: /assets/img/og/summarize-recording-nl.png
 image_alt: "Googles Recorder op Pixel, de Samsung Spraakrecorder op Galaxy en TalkSafe vergeleken: alle drie bieden een AI-samenvatting, alleen Pixel en Galaxy een volledige transcriptie, en alleen TalkSafe start zelf met opnemen op een gekozen woord."
 app: true
 app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
   - q: "Hoe vat ik een spraakopname samen met AI op Android?"
-    a: "Met een opname-app die een AI-samenvatting heeft. Op Pixel 8 en nieuwer kan Googles Recorder de transcriptie van een opname samenvatten. De Samsung Spraakrecorder biedt met Transcript Assist van Galaxy AI een transcriptie en samenvatting en vraagt een Samsung-account. TalkSafe, een opname-app voor Android en iPhone, maakt van elke opname een AI-samenvatting en toont die onder de speler in het detailscherm."
+    a: "Met een opname-app die een AI-samenvatting heeft. Op Pixel 8 en nieuwer kan Googles Recorder de transcriptie van een opname samenvatten. De Samsung Spraakrecorder biedt met Transcript Assist van Galaxy AI een transcriptie en samenvatting en vraagt een Samsung-account. TalkSafe, een opname-app voor Android en iPhone, maakt met één tik een AI-samenvatting van een opname en toont die onder de speler in het detailscherm."
   - q: "Gaat het geluid naar een server als een opname wordt samengevat?"
     a: "Dat hangt af van de app. Volgens Google worden de samenvattingen van Googles Recorder op Pixel gemaakt in een beveiligde, afgeschermde omgeving in de cloud. TalkSafe stuurt de opname naar een server voor de AI-samenvatting, terwijl de trefwoordherkenning volledig op de telefoon werkt. Deden er andere mensen mee aan het gesprek, dan staan hun stemmen in het bestand dat je verstuurt."
   - q: "In welke taal is de samenvatting van TalkSafe?"
     a: "In dezelfde taal als de opname. Een gesprek dat in het Duits is opgenomen, wordt in het Duits samengevat, een gesprek in het Japans in het Japans."
   - q: "Geeft TalkSafe een volledige transcriptie?"
-    a: "Nee. TalkSafe toont bij elke opname een AI-samenvatting als korte lijst met punten, geen woord-voor-woordtranscriptie. Voor de exacte bewoording luister je naar de opname zelf."
+    a: "Nee. TalkSafe toont met één tik een AI-samenvatting van een opname als korte lijst met punten, geen woord-voor-woordtranscriptie. Voor de exacte bewoording luister je naar de opname zelf."
   - q: "Kan ik maar een deel van een opname laten samenvatten?"
     a: "Ja, in TalkSafe. Knip eerst het stuk dat je nodig hebt; dat wordt als nieuw bestand bewaard terwijl het origineel blijft, en de samenvatting kun je op dat stuk gebruiken. Dat werkt ook voor een stuk dat is opgeschoond met de AI-ruisonderdrukking van TalkSafe op het toestel."
   - q: "Kan een AI-samenvatting als bewijs dienen?"
     a: "Het bewijs is niet de samenvatting maar de opname. Een AI-samenvatting kan dingen weglaten of verkeerd weergeven; gebruik haar om te vinden welk stuk je moet beluisteren, en bewaar de originele opname ongewijzigd als die ooit belangrijk kan worden."
   - q: "Kan ik op de iPhone een opname laten samenvatten met AI?"
-    a: "Ja. TalkSafe is een opname-app voor Android en iPhone, en de AI-samenvatting werkt op de iPhone op dezelfde manier: elke opname krijgt een samenvatting in opsommingstekens, in de taal waarin is opgenomen."
+    a: "Ja. TalkSafe is een opname-app voor Android en iPhone, en de AI-samenvatting werkt op de iPhone op dezelfde manier: met één tik op een opname krijg je een samenvatting in opsommingstekens, in de taal waarin is opgenomen."
 ---
 
 De vergadering duurde veertig minuten. Het consult twaalf. Het telefoontje met de verhuurder acht. Alle drie staan op je telefoon.
@@ -39,7 +39,7 @@ Nu vraagt iemand wat er over de borg is afgesproken. Je weet dat het erin zit, e
 
 | | Google Recorder (Pixel) | Samsung Spraakrecorder (Galaxy AI) | TalkSafe |
 |---|---|---|---|
-| Samenvatting | Ja | Ja, met Transcript Assist | Ja, van elke opname |
+| Samenvatting | Ja | Ja, met Transcript Assist | Ja, met een tik op een opname |
 | Volledige transcriptie | Ja | Ja | Nee, alleen samenvatting |
 | Waar de samenvatting wordt gemaakt | In de cloud (beveiligde, afgeschermde omgeving) | Hier niet geverifieerd | Op een server |
 | Taal | Engels, Chinees (Mandarijn), Hindi, Italiaans, Frans, Duits, Japans | Verschilt per regio | De taal van de opname |
@@ -58,7 +58,7 @@ Op Galaxy-telefoons met Galaxy AI maakt **Transcript Assist** in de Spraakrecord
 
 ## TalkSafe
 
-[TalkSafe](/talksafe/nl/) maakt **van elke opname een AI-samenvatting**. Die verschijnt als korte lijst met punten **onder de speler** in het detailscherm, zodat je leest wat er is gezegd voordat je beslist of je het opnieuw beluistert.
+[TalkSafe](/talksafe/nl/) maakt met één tik **een AI-samenvatting** van een opname. Die verschijnt als korte lijst met punten **onder de speler** in het detailscherm, zodat je leest wat er is gezegd voordat je beslist of je het opnieuw beluistert.
 
 <figure class="shot"><img src="/assets/img/screens/summary-nl.jpg" alt="Detailscherm van een opname in TalkSafe met afspeelbalk en snelheidsknoppen, met daaronder de AI-samenvatting in punten." width="540" height="960" loading="lazy"><figcaption>Opnamedetails. De AI-samenvatting staat onder de speler, als korte lijst met punten.</figcaption></figure>
 

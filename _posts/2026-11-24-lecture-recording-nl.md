@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: nl
 permalink: /blog/nl/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Handleiding
 title: "Een college opnemen met je telefoon: het hele college of alleen wat telt"
 description: "Om een college op te nemen met je telefoon start je meestal een handmatige opname aan het begin van het college. Waar je de telefoon neerlegt, hoe trefwoordherkenning en de 30 seconden die al voorbij waren helpen als je alleen het belangrijke wilt bewaren, de AI-samenvatting achteraf en wat de Auteurswet zegt."
@@ -19,7 +20,7 @@ faq:
   - q: "Kan ik alleen de belangrijke delen van een college opnemen?"
     a: "In TalkSafe kun je als trefwoord instellen wat de docent op belangrijke momenten waarschijnlijk zegt. Trefwoorden zijn niet aan een persoon gekoppeld, dus ze worden herkend als de docent ze zegt. Wordt er één herkend, dan start de opname meteen zonder de telefoon te ontgrendelen, en de 30 seconden die al voorbij waren worden ook bewaard. Twee woorden die meestal in dezelfde zin voorkomen, maken de herkenning veel betrouwbaarder."
   - q: "Is er een app die collegeopnames samenvat?"
-    a: "TalkSafe is een opname-app voor Android en iPhone die van elke opname een AI-samenvatting maakt en die als lijst met punten onder de speler in het detailscherm toont. De samenvatting is in de taal van het college en werkt ook voor ingekorte fragmenten. Samenvattingen worden op een server gemaakt."
+    a: "TalkSafe is een opname-app voor Android en iPhone die met één tik een AI-samenvatting van een opname maakt en die als lijst met punten onder de speler in het detailscherm toont. De samenvatting is in de taal van het college en werkt ook voor ingekorte fragmenten. Samenvattingen worden op een server gemaakt."
   - q: "Kan ik het hele college als tekst krijgen?"
     a: "Geen enkele opname-app zet spraak voor 100% woord voor woord om in tekst. Samsung schrijft zelf dat voor een nauwkeurige transcriptie de spreker duidelijk en dicht bij de microfoon moet spreken. TalkSafe biedt een samenvatting, geen transcriptie, en wil transcriptie pas overwegen als het zeker is dat die 100% nauwkeurig is."
   - q: "Mag ik een collegeopname naar medestudenten sturen of online zetten?"
@@ -38,7 +39,7 @@ Het ontging je terwijl je schreef. Tegen de tijd dat je één zin hebt genoteerd
 |---|---|---|
 | Je wilt het hele college | Aan het begin starten, aan het eind stoppen | Handmatige opname op het startscherm |
 | Je wilt alleen het belangrijke | De woorden van de docent laten de opname starten | Trefwoordherkenning; de 30 seconden die al voorbij waren worden bewaard |
-| Na het college | Eerst overzien wat er behandeld is | Een AI-samenvatting van elke opname, in de taal van het college |
+| Na het college | Eerst overzien wat er behandeld is | Een AI-samenvatting met één tik, in de taal van het college |
 | Bij het leren | Alleen de uitleg bewaren die je nodig hebt | Inkorten (het origineel blijft) |
 | Het hele college als tekst | Geen app zet 100% woord voor woord om | Geen transcriptie, alleen samenvatting |
 
@@ -62,7 +63,7 @@ Volgende week, op het moment dat de docent zegt "dit deel is belangrijk", begint
 
 ## Na het college eerst de samenvatting lezen
 
-TalkSafe maakt **van elke opname een AI-samenvatting** en toont die als lijst met punten onder de speler in het detailscherm. Een Nederlandstalig college wordt in het Nederlands samengevat. Een manier om te herhalen: eerst in de samenvatting het verloop van het college overzien, en dan alleen de stukken beluisteren die je niet begreep.
+TalkSafe maakt met één tik **een AI-samenvatting** van een opname en toont die als lijst met punten onder de speler in het detailscherm. Een Nederlandstalig college wordt in het Nederlands samengevat. Een manier om te herhalen: eerst in de samenvatting het verloop van het college overzien, en dan alleen de stukken beluisteren die je niet begreep.
 
 - **Samenvattingen worden op een server gemaakt.** De trefwoordherkenning werkt op de telefoon, maar voor de samenvatting wordt de opname naar een server gestuurd.
 - **Ingekorte fragmenten** kun je ook laten samenvatten. Je kunt [alleen de uitleg die je nodig hebt inkorten, het origineel blijft staan](/blog/nl/trim-recording/), en alleen die laten samenvatten.

@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: de
 permalink: /blog/de/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Anleitung
 title: "Besprechung mit dem Handy aufnehmen: von den ersten Sätzen bis zur Zusammenfassung"
 description: "Wer eine Besprechung vor Ort mit dem Handy aufnimmt, verliert am häufigsten das, was vor dem Drücken der Aufnahmetaste gesagt wurde. Wo das Handy liegen sollte, wie die Aufnahme mit den ersten Worten der Gesprächsleitung startet, wie man Café-Lärm entfernt, dazu KI-Zusammenfassung und Cloud-Backup nach dem Termin – und was in Deutschland, Österreich und der Schweiz gilt."
 image: /assets/img/og/meeting-recording-de.png
-image_alt: "Besprechung mit dem Handy aufnehmen. TalkSafe-Funktionen für jeden Moment: die Worte der Gesprächsleitung als Schlüsselwort, die bereits vergangenen 30 Sekunden werden mitgespeichert; KI-Rauschentfernung für ein Zweiergespräch im Café; eine KI-Zusammenfassung jeder Aufnahme danach; und Wiederherstellung aus der Cloud, wenn eine Aufnahme gelöscht wird oder das Handy verloren geht."
+image_alt: "Besprechung mit dem Handy aufnehmen. TalkSafe-Funktionen für jeden Moment: die Worte der Gesprächsleitung als Schlüsselwort, die bereits vergangenen 30 Sekunden werden mitgespeichert; KI-Rauschentfernung für ein Zweiergespräch im Café; danach eine KI-Zusammenfassung per Antippen; und Wiederherstellung aus der Cloud, wenn eine Aufnahme gelöscht wird oder das Handy verloren geht."
 app: true
 app_description: "Eine Aufnahme-App für Android und iPhone, die automatisch mit der Aufnahme beginnt, wenn sie ein vorher festgelegtes Wort hört. Beim Start werden auch die 30 Sekunden davor gespeichert."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Darf ich eine Besprechung aufnehmen, an der ich teilnehme?"
     a: "In Deutschland und der Schweiz braucht die Aufnahme eines nichtöffentlichen Gesprächs die Einwilligung der anderen Teilnehmenden, auch wenn Sie selbst dabei sind (§ 201 StGB, Art. 179ter StGB). In Österreich und Liechtenstein dürfen Sie ein Gespräch aufnehmen, an dem Sie teilnehmen; strafbar ist dort, die Aufnahme ohne Einverständnis der Sprechenden Dritten zugänglich zu machen oder zu veröffentlichen (§ 120 Abs. 2 StGB in Österreich)."
   - q: "Gibt es eine App, die Besprechungsaufnahmen zusammenfasst?"
-    a: "TalkSafe ist eine Aufnahme-App für Android und iPhone, die zu jeder Aufnahme eine KI-Zusammenfassung erstellt und sie als Stichpunktliste unter dem Player in der Detailansicht zeigt. Die Zusammenfassung ist in der Sprache der Besprechung und funktioniert auch für gekürzte und entrauschte Dateien. Zusammenfassungen werden auf einem Server erstellt."
+    a: "TalkSafe ist eine Aufnahme-App für Android und iPhone, die auf Antippen eine KI-Zusammenfassung einer Aufnahme erstellt und sie als Stichpunktliste unter dem Player in der Detailansicht zeigt. Die Zusammenfassung ist in der Sprache der Besprechung und funktioniert auch für gekürzte und entrauschte Dateien. Zusammenfassungen werden auf einem Server erstellt."
   - q: "Wie verpasse ich den Beginn einer Besprechung nicht?"
     a: "In TalkSafe können Sie Wörter, die die Gesprächsleitung wahrscheinlich sagen wird, als Schlüsselwörter hinterlegen. Schlüsselwörter sind nicht an eine Person gebunden und werden erkannt, egal wer sie sagt. Wird eines erkannt, startet die Aufnahme sofort, ohne das Handy zu entsperren, und die bereits vergangenen 30 Sekunden werden mitgespeichert. Zwei Wörter, die meist im selben Satz vorkommen, machen die Erkennung deutlich zuverlässiger."
   - q: "Die Aufnahme eines Termins im Café ist voller Hintergrundlärm. Was kann ich tun?"
@@ -41,7 +41,7 @@ Jeder erinnert sich ein bisschen anders. Wer es zuerst vorgeschlagen hat, ob die
 |---|---|---|
 | Die Besprechung beginnt | Was vor dem Drücken der Aufnahmetaste gesagt wurde | Worte der Gesprächsleitung als Schlüsselwort; die bereits vergangenen 30 Sekunden werden gespeichert |
 | Zweiergespräch im Café | Stimmen, die im Lärm untergehen | KI-Rauschentfernung auf dem Handy; das Original bleibt |
-| Die Besprechung endet | Was tatsächlich entschieden wurde | Eine KI-Zusammenfassung jeder Aufnahme, in der gesprochenen Sprache |
+| Die Besprechung endet | Was tatsächlich entschieden wurde | Eine KI-Zusammenfassung per Antippen, in der gesprochenen Sprache |
 | Weitergeben | Die paar Minuten einer Stunde, in denen entschieden wurde | Kürzen (das Original bleibt) und das Teilen-Menü von Android oder iPhone |
 | Das Handy geht verloren | Die Aufnahme selbst | Wiederherstellung aus dem Cloud-Backup |
 
@@ -73,7 +73,7 @@ Die **KI-Rauschentfernung** von TalkSafe nimmt die Hintergrundgeräusche aus ein
 
 Eine Besprechung aufzunehmen heißt nicht, dass jemand eine einstündige Datei von vorn anhört. Deshalb verlassen sich auch Leute, die aufgenommen haben, am Ende doch auf ihr Gedächtnis.
 
-TalkSafe erstellt **zu jeder Aufnahme eine KI-Zusammenfassung** und zeigt sie als Stichpunktliste unter dem Player in der Detailansicht. Eine deutsche Besprechung wird auf Deutsch zusammengefasst. Suchen Sie die Entscheidung in der Zusammenfassung und hören Sie sich die Stelle für den genauen Wortlaut an.
+TalkSafe erstellt auf Antippen **eine KI-Zusammenfassung** einer Aufnahme und zeigt sie als Stichpunktliste unter dem Player in der Detailansicht. Eine deutsche Besprechung wird auf Deutsch zusammengefasst. Suchen Sie die Entscheidung in der Zusammenfassung und hören Sie sich die Stelle für den genauen Wortlaut an.
 
 - **Es ist eine Zusammenfassung, kein Transkript.** Einen Wort-für-Wort-Text der ganzen Besprechung gibt es nicht.
 - **Zusammenfassungen entstehen auf einem Server.** Die Schlüsselwort-Erkennung läuft auf dem Handy, für die Zusammenfassung wird die Aufnahme aber an einen Server geschickt.

@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: nl
 permalink: /blog/nl/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Handleiding
 title: "Een vergadering opnemen met je telefoon: van de eerste zinnen tot de samenvatting"
 description: "Als je een vergadering op locatie met je telefoon opneemt, gaat vooral verloren wat er werd gezegd voordat je op opnemen drukte. Waar je de telefoon neerlegt, hoe de opname start op de eerste woorden van de voorzitter, hoe je het lawaai van een afspraak in een café weghaalt, de AI-samenvatting en cloudback-up achteraf, en wat de wet zegt in Nederland en België."
 image: /assets/img/og/meeting-recording-nl.png
-image_alt: "Een vergadering opnemen met je telefoon. TalkSafe-functies voor elk moment: de woorden van de voorzitter als trefwoord, met de 30 seconden die al voorbij waren; AI-ruisonderdrukking voor een gesprek met z'n tweeën in een café; een AI-samenvatting van elke opname achteraf; en terugzetten uit de cloud als een opname gewist is of de telefoon kwijt is."
+image_alt: "Een vergadering opnemen met je telefoon. TalkSafe-functies voor elk moment: de woorden van de voorzitter als trefwoord, met de 30 seconden die al voorbij waren; AI-ruisonderdrukking voor een gesprek met z'n tweeën in een café; achteraf een AI-samenvatting met één tik; en terugzetten uit de cloud als een opname gewist is of de telefoon kwijt is."
 app: true
 app_description: "Een opname-app voor Android en iPhone die vanzelf begint met opnemen zodra hij een vooraf gekozen woord hoort. Bij de start worden ook de 30 seconden daarvoor bewaard."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Mag ik een vergadering opnemen waaraan ik deelneem?"
     a: "Ja. In Nederland stelt artikel 139a van het Wetboek van Strafrecht het opnemen van een gesprek alleen strafbaar voor wie geen deelnemer is en niet in opdracht van een deelnemer handelt. In België pleegt een deelnemer die een communicatie opneemt volgens het Hof van Cassatie (2015) geen misdrijf. Een bedrijfsregel die opnemen verbiedt, is een andere kwestie dan het strafrecht."
   - q: "Is er een app die vergaderopnames samenvat?"
-    a: "TalkSafe is een opname-app voor Android en iPhone die van elke opname een AI-samenvatting maakt en die als lijst met punten onder de speler in het detailscherm toont. De samenvatting is in de taal van de vergadering en werkt ook voor ingekorte fragmenten en bestanden waaruit het geluid is weggehaald. Samenvattingen worden op een server gemaakt."
+    a: "TalkSafe is een opname-app voor Android en iPhone die met één tik een AI-samenvatting van een opname maakt en die als lijst met punten onder de speler in het detailscherm toont. De samenvatting is in de taal van de vergadering en werkt ook voor ingekorte fragmenten en bestanden waaruit het geluid is weggehaald. Samenvattingen worden op een server gemaakt."
   - q: "Hoe mis ik het begin van een vergadering niet?"
     a: "In TalkSafe kun je woorden die de voorzitter waarschijnlijk zal zeggen als trefwoord instellen. Trefwoorden zijn niet aan een persoon gekoppeld, dus ze worden herkend wie ze ook zegt. Wordt er één herkend, dan start de opname meteen zonder de telefoon te ontgrendelen, en de 30 seconden die al voorbij waren worden ook bewaard. Twee woorden die meestal in dezelfde zin voorkomen, maken de herkenning veel betrouwbaarder."
   - q: "De opname van een afspraak in een café zit vol lawaai. Wat kan ik doen?"
@@ -41,7 +41,7 @@ Iedereen herinnert het zich net iets anders. Wie het als eerste voorstelde, of d
 |---|---|---|
 | De vergadering begint | Wat er werd gezegd voordat je op opnemen drukte | Woorden van de voorzitter als trefwoord; de 30 seconden die al voorbij waren, worden bewaard |
 | Een gesprek met z'n tweeën in een café | Stemmen die in het lawaai verdwijnen | AI-ruisonderdrukking op de telefoon; het origineel blijft |
-| De vergadering is voorbij | Wat er echt besloten is | Een AI-samenvatting van elke opname, in de gesproken taal |
+| De vergadering is voorbij | Wat er echt besloten is | Een AI-samenvatting met één tik, in de gesproken taal |
 | Delen | De paar minuten van een uur waarin het besluit viel | Inkorten (het origineel blijft) en het deelmenu van Android of iPhone |
 | De telefoon is kwijt | De opname zelf | Terugzetten uit de cloudback-up |
 
@@ -73,7 +73,7 @@ De **AI-ruisonderdrukking** van TalkSafe haalt het achtergrondgeluid uit een afg
 
 Een vergadering opnemen betekent niet dat iemand een bestand van een uur vanaf het begin terugluistert. Daarom vertrouwen ook mensen die hebben opgenomen uiteindelijk toch op hun geheugen.
 
-TalkSafe maakt **van elke opname een AI-samenvatting** en toont die als lijst met punten onder de speler in het detailscherm. Een Nederlandstalige vergadering wordt in het Nederlands samengevat. Zoek het besluit in de samenvatting en luister dat stuk voor de precieze woorden.
+TalkSafe maakt met één tik **een AI-samenvatting** van een opname en toont die als lijst met punten onder de speler in het detailscherm. Een Nederlandstalige vergadering wordt in het Nederlands samengevat. Zoek het besluit in de samenvatting en luister dat stuk voor de precieze woorden.
 
 - **Het is een samenvatting, geen transcriptie.** Er is geen woord-voor-woordtekst van de hele vergadering.
 - **Samenvattingen worden op een server gemaakt.** De trefwoordherkenning werkt op de telefoon, maar voor de samenvatting wordt de opname naar een server gestuurd.

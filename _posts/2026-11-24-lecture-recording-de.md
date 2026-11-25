@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: de
 permalink: /blog/de/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Anleitung
 title: "Vorlesung mit dem Handy aufnehmen: die ganze Stunde oder nur das Wichtige"
 description: "Wer eine Vorlesung mit dem Handy aufnimmt, startet in der Regel eine manuelle Aufnahme zu Beginn. Wo das Handy liegen sollte, wie Schlüsselwort-Erkennung und die schon vergangenen 30 Sekunden helfen, wenn nur das Wichtige bleiben soll, die KI-Zusammenfassung danach – und warum in Deutschland vorher die Einwilligung der Lehrperson nötig ist."
@@ -19,7 +20,7 @@ faq:
   - q: "Kann ich nur die wichtigen Teile einer Vorlesung aufnehmen?"
     a: "In TalkSafe können Sie Wörter, die die Lehrperson an wichtigen Stellen wahrscheinlich sagt, als Schlüsselwörter hinterlegen. Schlüsselwörter sind nicht an eine Person gebunden und werden erkannt, wenn die Lehrperson sie sagt. Wird eines erkannt, startet die Aufnahme sofort, ohne das Handy zu entsperren, und die bereits vergangenen 30 Sekunden werden mitgespeichert. Zwei Wörter, die meist im selben Satz vorkommen, machen die Erkennung deutlich zuverlässiger."
   - q: "Gibt es eine App, die Vorlesungsaufnahmen zusammenfasst?"
-    a: "TalkSafe ist eine Aufnahme-App für Android und iPhone, die zu jeder Aufnahme eine KI-Zusammenfassung erstellt und sie als Stichpunktliste unter dem Player in der Detailansicht zeigt. Die Zusammenfassung ist in der Sprache der Vorlesung und funktioniert auch für gekürzte Abschnitte. Zusammenfassungen werden auf einem Server erstellt."
+    a: "TalkSafe ist eine Aufnahme-App für Android und iPhone, die auf Antippen eine KI-Zusammenfassung einer Aufnahme erstellt und sie als Stichpunktliste unter dem Player in der Detailansicht zeigt. Die Zusammenfassung ist in der Sprache der Vorlesung und funktioniert auch für gekürzte Abschnitte. Zusammenfassungen werden auf einem Server erstellt."
   - q: "Kann ich die ganze Vorlesung als Text bekommen?"
     a: "Keine Aufnahme-App überträgt Sprache zu 100 % Wort für Wort. Samsung schreibt selbst, dass für eine genaue Transkription die sprechende Person deutlich und nah am Mikrofon sprechen muss. TalkSafe bietet eine Zusammenfassung, kein Transkript, und will eine Transkription erst dann prüfen, wenn sie sicher zu 100 % genau ist."
   - q: "Darf ich die Aufnahme einer Vorlesung an Kommilitonen schicken oder hochladen?"
@@ -38,7 +39,7 @@ Es ist Ihnen beim Mitschreiben entgangen. Bis ein Satz notiert ist, ist der näc
 |---|---|---|
 | Die ganze Vorlesung | Zu Beginn starten, am Ende beenden | Manuelle Aufnahme auf dem Startbildschirm |
 | Nur das Wichtige | Die Worte der Lehrperson starten die Aufnahme | Schlüsselwort-Erkennung; die schon vergangenen 30 Sekunden werden gespeichert |
-| Nach der Vorlesung | Zuerst überblicken, was dran war | Eine KI-Zusammenfassung jeder Aufnahme, in der Sprache der Vorlesung |
+| Nach der Vorlesung | Zuerst überblicken, was dran war | Eine KI-Zusammenfassung per Antippen, in der Sprache der Vorlesung |
 | Beim Lernen | Nur die nötige Erklärung behalten | Kürzen (das Original bleibt) |
 | Die ganze Vorlesung als Text | Keine App überträgt 100 % Wort für Wort | Kein Transkript, nur Zusammenfassung |
 
@@ -62,7 +63,7 @@ Nächste Woche, in dem Moment, in dem die Professorin sagt „Dieser Teil ist wi
 
 ## Nach der Vorlesung zuerst die Zusammenfassung lesen
 
-TalkSafe erstellt **zu jeder Aufnahme eine KI-Zusammenfassung** und zeigt sie als Stichpunktliste unter dem Player in der Detailansicht. Eine deutsche Vorlesung wird auf Deutsch zusammengefasst. Eine Möglichkeit zum Wiederholen: erst in der Zusammenfassung den Ablauf überblicken, dann nur die Stellen anhören, die unklar geblieben sind.
+TalkSafe erstellt auf Antippen **eine KI-Zusammenfassung** einer Aufnahme und zeigt sie als Stichpunktliste unter dem Player in der Detailansicht. Eine deutsche Vorlesung wird auf Deutsch zusammengefasst. Eine Möglichkeit zum Wiederholen: erst in der Zusammenfassung den Ablauf überblicken, dann nur die Stellen anhören, die unklar geblieben sind.
 
 - **Zusammenfassungen entstehen auf einem Server.** Die Schlüsselwort-Erkennung läuft auf dem Handy, für die Zusammenfassung wird die Aufnahme aber an einen Server geschickt.
 - **Auch gekürzte Abschnitte** lassen sich zusammenfassen. Sie können [nur die nötige Erklärung herausschneiden, das Original bleibt](/blog/de/trim-recording/), und nur diese zusammenfassen.

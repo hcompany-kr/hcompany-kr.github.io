@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: it
 permalink: /blog/it/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Guida
 title: "Come registrare le lezioni con il telefono: tutta la lezione o solo le parti importanti"
 description: "Per registrare una lezione con il telefono, la base è una registrazione manuale avviata quando inizia la lezione. Dove mettere il telefono, come il rilevamento delle parole chiave e i 30 secondi già passati aiutano quando vuoi solo le parti importanti, il riassunto con IA alla fine e cosa dice il Garante privacy sulla registrazione delle lezioni."
@@ -19,7 +20,7 @@ faq:
   - q: "Posso registrare solo le parti importanti di una lezione?"
     a: "In TalkSafe puoi registrare come parole chiave quello che il docente probabilmente dirà nei momenti importanti. Le parole chiave non sono legate a una persona, quindi vengono rilevate quando le dice il docente. Quando ne viene rilevata una, la registrazione parte subito senza sbloccare il telefono, e vengono salvati anche i 30 secondi già trascorsi. Due parole che di solito compaiono nella stessa frase rendono il rilevamento molto più affidabile."
   - q: "Esiste un'app che riassume le registrazioni delle lezioni?"
-    a: "TalkSafe è un registratore vocale per Android e iPhone che crea un riassunto con IA di ogni registrazione e lo mostra come elenco di punti sotto il lettore, nella schermata di dettaglio. Il riassunto è nella lingua della lezione e funziona anche sui tratti ritagliati. I riassunti vengono elaborati su un server."
+    a: "TalkSafe è un registratore vocale per Android e iPhone che crea un riassunto con IA di una registrazione quando lo richiedi con un tocco e lo mostra come elenco di punti sotto il lettore, nella schermata di dettaglio. Il riassunto è nella lingua della lezione e funziona anche sui tratti ritagliati. I riassunti vengono elaborati su un server."
   - q: "Posso avere tutta la lezione in forma di testo?"
     a: "Nessuna app di registrazione trascrive la voce al 100% parola per parola. La stessa guida di Samsung dice che, per una trascrizione accurata, chi parla deve farlo in modo chiaro e vicino al microfono. TalkSafe offre un riassunto, non una trascrizione, e prevede di valutare la trascrizione quando potrà essere sicuro che sia accurata al 100%."
   - q: "Posso passare la registrazione di una lezione ai compagni o pubblicarla?"
@@ -38,7 +39,7 @@ Ti è sfuggito mentre scrivevi. Quando finisci una frase, lui è già alla succe
 |---|---|---|
 | Vuoi tutta la lezione | Avviare la registrazione all'inizio e fermarla alla fine | Avvio della registrazione manuale nella schermata iniziale |
 | Vuoi solo le parti importanti | Far partire la registrazione dalle parole del docente | Rilevamento delle parole chiave; si salvano i 30 secondi già passati |
-| Dopo la lezione | Ripassare prima cosa si è visto | Un riassunto con IA di ogni registrazione, nella lingua della lezione |
+| Dopo la lezione | Ripassare prima cosa si è visto | Un riassunto con IA con un tocco, nella lingua della lezione |
 | Quando studi | Tenere solo la spiegazione che ti serve | Ritaglio (l'originale resta) |
 | Tutta la lezione in testo | Nessuna app trascrive al 100% parola per parola | Nessuna trascrizione, solo riassunto |
 
@@ -62,7 +63,7 @@ La settimana prossima, nel momento in cui il docente dice «questa parte è impo
 
 ## Dopo la lezione, leggi prima il riassunto
 
-TalkSafe crea **un riassunto con IA di ogni registrazione** e lo mostra come elenco di punti sotto il lettore, nella schermata di dettaglio. Una lezione in italiano viene riassunta in italiano. Un modo per ripassare è vedere prima nel riassunto come è andata la lezione e ascoltare solo le parti che non hai capito.
+TalkSafe crea **un riassunto con IA** di una registrazione quando lo richiedi con un tocco e lo mostra come elenco di punti sotto il lettore, nella schermata di dettaglio. Una lezione in italiano viene riassunta in italiano. Un modo per ripassare è vedere prima nel riassunto come è andata la lezione e ascoltare solo le parti che non hai capito.
 
 - **I riassunti si fanno su un server.** Il rilevamento delle parole chiave avviene sul telefono, ma per il riassunto la registrazione viene inviata a un server.
 - **Anche i tratti ritagliati** si possono riassumere. Puoi [tenere solo la spiegazione che ti serve, lasciando l'originale](/blog/it/trim-recording/), e riassumere solo quella.

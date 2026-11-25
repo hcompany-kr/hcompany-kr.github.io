@@ -4,12 +4,12 @@ ref: meeting-recording
 categories: pt-br
 permalink: /blog/pt-br/meeting-recording/
 date: 2026-11-17
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Guia
 title: "Como gravar uma reunião pelo celular, das primeiras palavras ao resumo"
 description: "Ao gravar uma reunião presencial pelo celular, o que mais se perde é o que foi dito antes de apertar o botão de gravar. Onde colocar o celular, como fazer a gravação começar com as primeiras palavras de quem conduz a reunião, como tirar o ruído de um encontro no café, o resumo por IA e o backup na nuvem depois, e o que diz a lei no Brasil e em Portugal."
 image: /assets/img/og/meeting-recording-pt-br.png
-image_alt: "Como gravar uma reunião pelo celular. Recursos do TalkSafe para cada momento: as palavras de quem conduz como palavra-chave, guardando os 30 segundos que já passaram; remoção de ruído com IA para um encontro a dois no café; um resumo por IA de cada gravação no fim; e recuperação pela nuvem se uma gravação for apagada ou o celular for perdido."
+image_alt: "Como gravar uma reunião pelo celular. Recursos do TalkSafe para cada momento: as palavras de quem conduz como palavra-chave, guardando os 30 segundos que já passaram; remoção de ruído com IA para um encontro a dois no café; um resumo por IA com um toque no fim; e recuperação pela nuvem se uma gravação for apagada ou o celular for perdido."
 app: true
 app_description: "Um app de gravação de voz para Android e iPhone que começa a gravar sozinho quando ouve uma palavra escolhida por você. Ao começar, também salva os 30 segundos anteriores."
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "É legal gravar uma reunião da qual eu participo?"
     a: "No Brasil, sim: o STF fixou no Tema 237 (RE 583.937) que é lícita a gravação ambiental feita por um dos interlocutores sem o conhecimento do outro. Em Portugal é diferente: o artigo 199.º do Código Penal pune a gravação sem consentimento, mesmo que as palavras tenham sido ditas a você. Uma regra da empresa que proíba gravar é uma questão separada da lei penal."
   - q: "Existe um app que resume gravações de reuniões?"
-    a: "O TalkSafe é um app de gravação de voz para Android e iPhone que cria um resumo por IA de cada gravação e o mostra como uma lista de tópicos abaixo do player, na tela de detalhes. O resumo sai no idioma da reunião e também funciona em trechos cortados e em arquivos com o ruído removido. Os resumos são processados em um servidor."
+    a: "O TalkSafe é um app de gravação de voz para Android e iPhone que cria um resumo por IA de uma gravação quando você pede com um toque e o mostra como uma lista de tópicos abaixo do player, na tela de detalhes. O resumo sai no idioma da reunião e também funciona em trechos cortados e em arquivos com o ruído removido. Os resumos são processados em um servidor."
   - q: "Como não perder o começo de uma reunião?"
     a: "No TalkSafe você pode cadastrar como palavras-chave o que quem conduz a reunião provavelmente vai dizer. As palavras-chave não estão ligadas a uma pessoa, então são detectadas seja quem for que as diga. Quando uma é detectada, a gravação começa na hora, sem desbloquear o celular, e os 30 segundos que já tinham passado também são salvos. Cadastrar duas palavras que costumam aparecer na mesma frase deixa a detecção muito mais confiável."
   - q: "A gravação de um encontro no café ficou cheia de ruído. O que fazer?"
@@ -41,7 +41,7 @@ Cada um lembra de um jeito um pouco diferente. Quem sugeriu primeiro, se o prazo
 |---|---|---|
 | A reunião começa | O que foi dito antes de apertar gravar | As palavras de quem conduz como palavra-chave; os 30 segundos que já passaram são salvos |
 | Um encontro a dois no café | Vozes abafadas pelo ruído | Remoção de ruído com IA no celular; o original fica |
-| A reunião termina | O que foi decidido de fato | Um resumo por IA de cada gravação, no idioma falado |
+| A reunião termina | O que foi decidido de fato | Um resumo por IA com um toque, no idioma falado |
 | Na hora de compartilhar | Os poucos minutos, numa hora, em que se decidiu | Corte (o original fica) e o menu de compartilhamento do Android ou do iPhone |
 | O celular é perdido | A própria gravação | Recuperação pelo backup na nuvem |
 
@@ -73,7 +73,7 @@ A **remoção de ruído com IA** do TalkSafe tira o ruído de fundo de uma grava
 
 Gravar uma reunião não significa que alguém vai ouvir um arquivo de uma hora desde o começo. Por isso até quem gravou acaba confiando na memória.
 
-O TalkSafe cria **um resumo por IA de cada gravação** e o mostra como uma lista de tópicos abaixo do player, na tela de detalhes. Uma reunião em português é resumida em português. Ache a decisão no resumo e ouça esse trecho para conferir as palavras exatas.
+O TalkSafe cria **um resumo por IA** de uma gravação quando você pede com um toque e o mostra como uma lista de tópicos abaixo do player, na tela de detalhes. Uma reunião em português é resumida em português. Ache a decisão no resumo e ouça esse trecho para conferir as palavras exatas.
 
 - **É um resumo, não uma transcrição.** Não há um texto palavra por palavra da reunião inteira.
 - **Os resumos são feitos em um servidor.** A detecção de palavras-chave funciona no celular, mas para o resumo a gravação é enviada a um servidor.

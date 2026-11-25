@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: en
 permalink: /blog/en/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: How-to
 title: "How to record a lecture on your phone: the whole class, or just the parts that matter"
 description: "To record a lecture on your phone, the basic move is a manual recording started when class begins. Where to put the phone, how keyword detection and the 30 seconds already gone help when you only want the important parts, an AI summary afterwards, and whether recording a lecture is legal in the US and the UK."
@@ -19,7 +20,7 @@ faq:
   - q: "Can I record only the important parts of a lecture?"
     a: "In TalkSafe you can register as keywords what the lecturer is likely to say at the important moments. Keywords are not tied to one speaker, so they are detected when the lecturer says them. When one is detected, recording starts right away without unlocking the phone, and the 30 seconds that had already passed are saved too. Two keywords likely to appear in the same sentence make detection much more reliable."
   - q: "Is there an app that summarizes lecture recordings?"
-    a: "TalkSafe is a voice recorder for Android and iPhone that creates an AI summary of every recording and shows it as a list of points under the player in the recording's detail screen. The summary is in the language of the lecture and also works on trimmed clips. Summaries are processed on a server."
+    a: "TalkSafe is a voice recorder for Android and iPhone that creates an AI summary of a recording when you tap AI summary and shows it as a list of points under the player in the recording's detail screen. The summary is in the language of the lecture and also works on trimmed clips. Summaries are processed on a server."
   - q: "Can I get the whole lecture as text?"
     a: "No recording app can transcribe speech 100% word for word. Samsung's own help says that for an accurate transcription the speaker must speak clearly and be close to the microphone. TalkSafe offers a summary, not a transcript, and plans to consider adding transcription when it can be confident it is 100% accurate."
   - q: "Can I share a lecture recording with classmates or post it online?"
@@ -38,7 +39,7 @@ You missed it while writing. By the time you get one sentence down, the next has
 |---|---|---|
 | You want the whole class | Start recording at the beginning, stop at the end | Start manual recording on the start screen |
 | You only want the important parts | Let the lecturer's words start the recording | Keyword detection; the 30 seconds already gone are saved |
-| After class | Skim what was covered first | An AI summary of every recording, in the language of the lecture |
+| After class | Skim what was covered first | An AI summary with one tap, in the language of the lecture |
 | Revising | Keep just the explanation you need | Trim (the original stays) |
 | The whole lecture as text | No app transcribes 100% word for word | No transcript, summary only |
 
@@ -62,7 +63,7 @@ Next week, the moment the lecturer says "This part is important," the phone on y
 
 ## After class, read the summary first
 
-TalkSafe creates **an AI summary of every recording** and shows it as a list of points under the player in the recording's detail screen. A lecture in English is summarized in English. One way to revise is to skim the flow of the class in the summary first, then listen only to the parts you didn't follow.
+TalkSafe creates **an AI summary** of a recording when you tap AI summary and shows it as a list of points under the player in the recording's detail screen. A lecture in English is summarized in English. One way to revise is to skim the flow of the class in the summary first, then listen only to the parts you didn't follow.
 
 - **Summaries are made on a server.** Keyword detection runs on the phone, but for the summary the recording is sent to a server.
 - **Trimmed clips** can be summarized too. You can [cut out just the explanation you need, keeping the original](/blog/en/trim-recording/), and summarize only that.

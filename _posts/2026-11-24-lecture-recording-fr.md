@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: fr
 permalink: /blog/fr/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Guide
 title: "Comment enregistrer un cours avec son téléphone : tout le cours ou seulement l'essentiel"
 description: "Pour enregistrer un cours en amphi avec son téléphone, la base est un enregistrement manuel lancé au début du cours. Où poser le téléphone, comment la détection de mots-clés et les 30 secondes déjà passées aident quand on ne veut garder que l'essentiel, le résumé par IA ensuite, et ce que dit le droit d'auteur en France."
@@ -19,7 +20,7 @@ faq:
   - q: "Peut-on n'enregistrer que les passages importants d'un cours ?"
     a: "Dans TalkSafe, vous pouvez enregistrer comme mots-clés ce que l'enseignant dira probablement aux moments importants. Les mots-clés ne sont pas liés à une personne : ils sont détectés quand l'enseignant les prononce. Quand l'un d'eux est détecté, l'enregistrement démarre aussitôt sans déverrouiller le téléphone, et les 30 secondes déjà passées sont conservées aussi. Choisir deux mots qui apparaissent souvent dans la même phrase rend la détection bien plus fiable."
   - q: "Existe-t-il une application qui résume les enregistrements de cours ?"
-    a: "TalkSafe est une application d'enregistrement pour Android et iPhone qui crée un résumé par IA de chaque enregistrement et l'affiche sous forme de liste à puces sous le lecteur, dans l'écran de détail. Le résumé est dans la langue du cours et fonctionne aussi sur les extraits découpés. Les résumés sont traités sur un serveur."
+    a: "TalkSafe est une application d'enregistrement pour Android et iPhone qui crée un résumé par IA d'un enregistrement, d'une simple touche et l'affiche sous forme de liste à puces sous le lecteur, dans l'écran de détail. Le résumé est dans la langue du cours et fonctionne aussi sur les extraits découpés. Les résumés sont traités sur un serveur."
   - q: "Peut-on obtenir tout le cours en texte ?"
     a: "Aucune application d'enregistrement ne transcrit la parole à 100 % mot pour mot. L'aide de Samsung indique elle-même que, pour une transcription exacte, la personne doit parler clairement et près du micro. TalkSafe propose un résumé, pas une transcription, et prévoit d'étudier l'ajout de la transcription quand il pourra être sûr qu'elle est exacte à 100 %."
   - q: "Peut-on partager l'enregistrement d'un cours avec d'autres étudiants ou le mettre en ligne ?"
@@ -38,7 +39,7 @@ Il vous a échappé pendant que vous écriviez. Le temps de noter une phrase, la
 |---|---|---|
 | Vous voulez tout le cours | Lancer l'enregistrement au début, l'arrêter à la fin | Enregistrement manuel depuis l'écran d'accueil |
 | Vous voulez seulement l'essentiel | Laisser les mots de l'enseignant lancer l'enregistrement | Détection de mots-clés ; les 30 secondes déjà passées sont conservées |
-| Après le cours | Survoler d'abord ce qui a été vu | Un résumé par IA de chaque enregistrement, dans la langue du cours |
+| Après le cours | Survoler d'abord ce qui a été vu | Un résumé par IA d'une simple touche, dans la langue du cours |
 | En révisant | Ne garder que l'explication utile | Découpe (l'original est conservé) |
 | Tout le cours en texte | Aucune application ne transcrit à 100 % mot pour mot | Pas de transcription, seulement un résumé |
 
@@ -62,7 +63,7 @@ La semaine prochaine, au moment où l'enseignante dira « cette partie est impor
 
 ## Après le cours, lisez d'abord le résumé
 
-TalkSafe crée **un résumé par IA de chaque enregistrement** et l'affiche sous forme de liste à puces sous le lecteur, dans l'écran de détail. Un cours en français est résumé en français. Une façon de réviser : survoler d'abord le déroulé du cours dans le résumé, puis n'écouter que les passages que vous n'avez pas compris.
+TalkSafe crée **un résumé par IA** d'un enregistrement, d'une simple touche et l'affiche sous forme de liste à puces sous le lecteur, dans l'écran de détail. Un cours en français est résumé en français. Une façon de réviser : survoler d'abord le déroulé du cours dans le résumé, puis n'écouter que les passages que vous n'avez pas compris.
 
 - **Les résumés sont faits sur un serveur.** La détection des mots-clés fonctionne sur le téléphone, mais pour le résumé l'enregistrement est envoyé à un serveur.
 - **Les extraits découpés** peuvent aussi être résumés. Vous pouvez [ne garder que l'explication utile, l'original restant en place](/blog/fr/trim-recording/), et ne résumer que celle-ci.

@@ -4,29 +4,29 @@ ref: summarize-recording
 categories: ja
 permalink: /blog/ja/summarize-recording/
 date: 2026-11-06
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-25
 eyebrow: 使い方
 title: "録音をAIで要約する方法、Androidで使えるアプリ"
-description: "Androidで録音をAIで要約するには、要約機能のある録音アプリを使います。Pixel 8以降のGoogleレコーダーは文字起こしを要約し、SamsungのボイスレコーダーはGalaxy AIで文字起こしと要約を提供し、TalkSafeは録音ごとに録音した言語のまま要約します。音声がどこへ送られるか、要約が落とすもの、原本を残す理由までまとめました。"
+description: "Androidで録音をAIで要約するには、要約機能のある録音アプリを使います。Pixel 8以降のGoogleレコーダーは文字起こしを要約し、SamsungのボイスレコーダーはGalaxy AIで文字起こしと要約を提供し、TalkSafeは録音でAI要約を押すと録音した言語のまま要約します。音声がどこへ送られるか、要約が落とすもの、原本を残す理由までまとめました。"
 image: /assets/img/og/summarize-recording-ja.png
 image_alt: "PixelのGoogleレコーダー、GalaxyのSamsungボイスレコーダー、TalkSafeの比較：三つともAI要約があり、全文の文字起こしはPixelとGalaxyのみ、決めた言葉で録音が自分で始まるのはTalkSafeのみです。"
 app: true
 app_description: "あらかじめ決めておいた言葉が聞こえると自動で録音を開始するAndroid・iPhoneアプリです。録音が始まると、その直前30秒もあわせて保存されます。"
 faq:
   - q: "Androidで録音をAIで要約するにはどうすればいいですか"
-    a: "AI要約機能のある録音アプリを使います。Pixel 8以降のGoogleレコーダーは、録音の文字起こしを要約できます。SamsungのボイスレコーダーはGalaxy AIのTranscript Assistで文字起こしと要約を提供し、サムスンアカウントが必要です。Android・iPhone向け録音アプリのTalkSafeは録音ごとにAI要約を作り、録音の詳細画面で再生バーの下に表示します。"
+    a: "AI要約機能のある録音アプリを使います。Pixel 8以降のGoogleレコーダーは、録音の文字起こしを要約できます。SamsungのボイスレコーダーはGalaxy AIのTranscript Assistで文字起こしと要約を提供し、サムスンアカウントが必要です。Android・iPhone向け録音アプリのTalkSafeは録音でAI要約を押すと要約を作り、録音の詳細画面で再生バーの下に表示します。"
   - q: "録音を要約すると音声はサーバーに送られますか"
     a: "アプリによって異なります。Googleの案内によると、PixelのGoogleレコーダーの要約はクラウド上の隔離された安全な環境で処理されます。TalkSafeはAI要約のために録音をサーバーへ送り、キーワード検知はすべてスマートフォンの中で行います。会話にほかの人がいた場合、送るファイルにはその人の声も含まれます。"
   - q: "TalkSafeの要約は何語で出ますか"
     a: "録音した言語のままです。ドイツ語で録音した会話はドイツ語で、日本語で録音した会話は日本語で要約されます。"
   - q: "TalkSafeは全文の文字起こしを表示しますか"
-    a: "いいえ。TalkSafeは録音ごとに短い箇条書きのAI要約を表示し、言葉をそのまま書き起こした全文はありません。正確な言い回しは録音そのものを聞いて確かめます。"
+    a: "いいえ。TalkSafeは録音でAI要約を押すと短い箇条書きの要約を表示し、言葉をそのまま書き起こした全文はありません。正確な言い回しは録音そのものを聞いて確かめます。"
   - q: "録音の一部だけを要約できますか"
     a: "TalkSafeではできます。必要な区間を先に切り取ると、原本はそのまま残して新しいファイルとして保存され、その切り取ったファイルにも要約を使えます。TalkSafeの端末内AIノイズ除去で整えたファイルにも使えます。"
   - q: "AI要約は証拠として使えますか"
     a: "記録は要約ではなく録音です。AI要約は内容を落としたり誤ったりすることがあるので、どこを聞けばよいかの目安として使い、後で大事になりうる録音は原本に手を加えずに保管してください。"
   - q: "iPhoneでも録音をAIで要約できますか"
-    a: "はい。TalkSafeはAndroid・iPhoneの録音アプリで、AI要約はiPhoneでも同じように動作します。録音ごとに、録音した言語のまま箇条書きの要約が作られます。"
+    a: "はい。TalkSafeはAndroid・iPhoneの録音アプリで、AI要約はiPhoneでも同じように動作します。録音でAI要約を押すと、録音した言語のまま箇条書きの要約が作られます。"
 ---
 
 会議は40分、診察は12分、大家さんとの電話は8分。三つともスマートフォンに入っています。
@@ -39,7 +39,7 @@ faq:
 
 | | Googleレコーダー（Pixel） | Samsungボイスレコーダー（Galaxy AI） | TalkSafe |
 |---|---|---|---|
-| 要約 | あり | あり（Transcript Assist） | 録音ごとにあり |
+| 要約 | あり | あり（Transcript Assist） | あり（録音で押して作成） |
 | 全文の文字起こし | あり | あり | なし、要約のみ |
 | 要約する場所 | クラウド（隔離された安全な環境） | ここでは確認できず | サーバー |
 | 言語 | 英語、中国語（標準語）、ヒンディー語、イタリア語、フランス語、ドイツ語、日本語 | 地域によって異なる | 録音した言語のまま |
@@ -58,7 +58,7 @@ Galaxy AIのあるGalaxyでは、ボイスレコーダーの**Transcript Assist*
 
 ## TalkSafe
 
-[TalkSafe](/talksafe/ja/)は**録音ごとにAI要約**を作ります。録音の詳細画面の**再生バーの下**に短い箇条書きで表示されるので、聞き直す前に何が話されたかを先に読めます。
+[TalkSafe](/talksafe/ja/)は録音で**AI要約**を押すと要約を作ります。録音の詳細画面の**再生バーの下**に短い箇条書きで表示されるので、聞き直す前に何が話されたかを先に読めます。
 
 <figure class="shot"><img src="/assets/img/screens/summary-ja.jpg" alt="TalkSafeの録音詳細画面。再生バーと再生速度のボタンがあり、その下にAI要約が箇条書きで表示されています。" width="540" height="960" loading="lazy"><figcaption>録音詳細画面。AI要約は再生バーの下に、短い箇条書きで表示されます。</figcaption></figure>
 

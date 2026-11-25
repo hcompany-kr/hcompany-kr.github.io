@@ -4,6 +4,7 @@ ref: lecture-recording
 categories: pl
 permalink: /blog/pl/lecture-recording/
 date: 2026-11-24
+last_modified_at: 2026-11-25
 eyebrow: Poradnik
 title: "Jak nagrywać wykłady telefonem: cały wykład albo tylko to, co ważne"
 description: "Przy nagrywaniu wykładu telefonem podstawą jest ręczne nagrywanie włączone na początku zajęć. Gdzie położyć telefon, jak wykrywanie słów kluczowych i 30 sekund, które już minęły, pomagają, gdy chcesz zachować tylko ważne fragmenty, podsumowanie AI po wykładzie oraz co mówi prawo w Polsce, Niemczech, Holandii i Wielkiej Brytanii."
@@ -19,7 +20,7 @@ faq:
   - q: "Czy mogę nagrać tylko ważne fragmenty wykładu?"
     a: "W TalkSafe możesz zapisać jako słowa kluczowe to, co wykładowca prawdopodobnie powie w ważnych momentach. Słowa kluczowe nie są przypisane do osoby, więc są wykrywane, gdy wypowie je wykładowca. Gdy któreś zostanie wykryte, nagrywanie zaczyna się od razu, bez odblokowywania telefonu, i zapisuje się też 30 sekund, które już minęły. Dwa słowa, które zwykle pojawiają się w tym samym zdaniu, sprawiają, że wykrywanie jest znacznie pewniejsze."
   - q: "Czy jest aplikacja, która streszcza nagrania wykładów?"
-    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która tworzy podsumowanie AI każdego nagrania i pokazuje je jako listę punktów pod odtwarzaczem na ekranie szczegółów. Podsumowanie jest w języku wykładu i działa też na wyciętych fragmentach. Podsumowania powstają na serwerze."
+    a: "TalkSafe to aplikacja do nagrywania na Androida i iPhone'a, która tworzy podsumowanie AI nagrania po jednym stuknięciu i pokazuje je jako listę punktów pod odtwarzaczem na ekranie szczegółów. Podsumowanie jest w języku wykładu i działa też na wyciętych fragmentach. Podsumowania powstają na serwerze."
   - q: "Czy mogę dostać cały wykład w formie tekstu?"
     a: "Żadna aplikacja do nagrywania nie zapisuje mowy w 100% słowo w słowo. Sama pomoc Samsunga podaje, że do dokładnej transkrypcji osoba mówiąca musi mówić wyraźnie i blisko mikrofonu. TalkSafe oferuje podsumowanie, nie transkrypcję, i planuje rozważyć transkrypcję, gdy będzie pewne, że jest w 100% dokładna."
   - q: "Czy mogę wysłać nagranie wykładu znajomym albo wrzucić je do internetu?"
@@ -38,7 +39,7 @@ Umknęło ci, kiedy pisałeś. Zanim zapiszesz jedno zdanie, następne już pad�
 |---|---|---|
 | Chcesz cały wykład | Włączyć nagrywanie na początku i zatrzymać na końcu | Ręczne nagrywanie na ekranie startowym |
 | Chcesz tylko ważne fragmenty | Niech słowa wykładowcy uruchomią nagrywanie | Wykrywanie słów kluczowych; zapisuje się 30 sekund, które już minęły |
-| Po wykładzie | Najpierw przejrzeć, co było omawiane | Podsumowanie AI każdego nagrania, w języku wykładu |
+| Po wykładzie | Najpierw przejrzeć, co było omawiane | Podsumowanie AI jednym stuknięciem, w języku wykładu |
 | Przy nauce | Zostawić tylko potrzebne wyjaśnienie | Wycinanie (oryginał zostaje) |
 | Cały wykład jako tekst | Żadna aplikacja nie zapisuje 100% słowo w słowo | Brak transkrypcji, tylko podsumowanie |
 
@@ -62,7 +63,7 @@ W przyszłym tygodniu, w chwili gdy wykładowczyni powie „ten fragment jest wa
 
 ## Po wykładzie najpierw przeczytaj podsumowanie
 
-TalkSafe tworzy **podsumowanie AI każdego nagrania** i pokazuje je jako listę punktów pod odtwarzaczem na ekranie szczegółów. Wykład po polsku jest streszczany po polsku. Jeden ze sposobów powtórki: najpierw przejrzeć w podsumowaniu przebieg zajęć, a potem odsłuchać tylko te fragmenty, których nie zrozumiałeś.
+TalkSafe tworzy **podsumowanie AI** nagrania po jednym stuknięciu i pokazuje je jako listę punktów pod odtwarzaczem na ekranie szczegółów. Wykład po polsku jest streszczany po polsku. Jeden ze sposobów powtórki: najpierw przejrzeć w podsumowaniu przebieg zajęć, a potem odsłuchać tylko te fragmenty, których nie zrozumiałeś.
 
 - **Podsumowania powstają na serwerze.** Wykrywanie słów kluczowych działa w telefonie, ale do podsumowania nagranie jest wysyłane na serwer.
 - **Wycięte fragmenty** też można streścić. Możesz [wyciąć tylko potrzebne wyjaśnienie, zostawiając oryginał](/blog/pl/trim-recording/), i streścić tylko je.
