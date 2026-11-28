@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: nl
 permalink: /blog/nl/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Handleiding
 title: "Een verwijderde spraakopname terugzetten op Android: waar je eerst kijkt"
 description: "Of een verwijderde spraakopname terugkomt, hangt af van de opname-app. De Samsung Spraakrecorder zet hem in de prullenbak; Googles Recorder op Pixel heeft geen prullenbak, maar er kan nog een kopie voor andere apps zijn. Waar je kopieën vindt die je hebt verstuurd, en hoe de cloudback-up van TalkSafe voorkomt dat je de volgende kwijtraakt."
@@ -82,5 +83,7 @@ Hier blijft één les van over. Terugzetten hangt bijna altijd af van **of er v�
 **De back-up gaat niet automatisch; je start hem zelf.** Daarom komen alleen opnames terug die vóór het verwijderen zijn geback-upt. Als je de volgende keer een opname hebt waarvan je denkt "deze moet ik bewaren", kun je hem in de cloud zetten voordat de telefoon weer in je zak gaat. Komt er dan nog eens een dag als vandaag, dan hoef je in geen enkele prullenbak te zoeken.
 
 Wat je na het opnemen verder kunt doen, en waarom je de naam en datum van het origineel laat staan, staat in [Wat je met een opname doet, en wat je er niet mee doet](/blog/nl/after-recording/). Wil je alleen het stuk bewaren dat je nodig hebt, dan slaat [Een spraakopname inkorten op Android zonder het origineel te verliezen](/blog/nl/trim-recording/) het op als nieuw bestand en blijft het origineel staan.
+
+Stap je over tussen Android en iPhone, dan staat in [Spraakopnames overzetten tussen Android en iPhone als je van telefoon wisselt](/blog/nl/transfer-recordings/) hoe je opnames meegaan.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">De functies van andere apps zijn beschreven op basis van hun officiële hulp op het moment van schrijven en kunnen veranderen. Wij maken de opname-app TalkSafe.</p>

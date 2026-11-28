@@ -4,7 +4,7 @@ ref: after-recording
 categories: es
 permalink: /blog/es/after-recording/
 date: 2026-08-26
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Cómo hacerlo
 title: "Qué hacer con una grabación, y qué no hacer con ella"
 description: "Cómo conservar el archivo, cómo dejar solo la parte que importa y dónde presentarlo. La mayoría de los problemas aparecen después de grabar, no mientras se graba."
@@ -108,3 +108,5 @@ Cómo quitar el ruido de la calle de una grabación en el móvil, y qué herrami
 Cómo recortar una grabación hasta lo que importa sin perder el original, y en qué se diferencian las apps, está en [Cómo cortar una grabación de audio en Android sin perder el original](/blog/es/trim-recording/).
 
 Si borraste una grabación por error, dónde buscar está en [Cómo recuperar grabaciones de voz borradas del celular: dónde mirar primero en Android](/blog/es/recover-deleted-recording/).
+
+Si cambias entre Android y iPhone, cómo llevarte las grabaciones está en [Cómo pasar grabaciones de voz entre Android y iPhone al cambiar de teléfono](/blog/es/transfer-recordings/).

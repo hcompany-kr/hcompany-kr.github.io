@@ -4,7 +4,7 @@ ref: after-recording
 categories: pl
 permalink: /blog/pl/after-recording/
 date: 2026-10-09
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Poradnik
 title: "Co zrobić z nagraniem, a czego z nim nie robić"
 description: "Jak przechowywać plik, jak skrócić go do tego, co ważne, jak oczyścić z hałasu i gdzie go złożyć. I dlaczego w Polsce rozpowszechnianie nagrania to osobna sprawa, nawet gdy samo nagrywanie było dozwolone."
@@ -130,5 +130,7 @@ Jak zebrać dowody uporczywego nękania (stalkingu), opisuje [Stalking, czyli up
 Czy umowa ustna jest ważna i jak udowodnić ustalenia, gdy kosztorys mówi co innego: [Umowa ustna jest ważna. Ale jak udowodnić, co ustalono, gdy w kosztorysie stoi co innego?](/blog/pl/umowa-ustna/).
 
 Jeśli nagranie zostało usunięte przez pomyłkę, gdzie go szukać, opisujemy w [Jak odzyskać usunięte nagranie z dyktafonu w telefonie: gdzie najpierw szukać na Androidzie](/blog/pl/recover-deleted-recording/).
+
+Jeśli zmieniasz Androida na iPhone’a lub odwrotnie, jak zabrać nagrania, opisujemy w [Jak przenieść nagrania głosowe między Androidem a iPhone’em przy zmianie telefonu](/blog/pl/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informacja ogólna, nie porada prawna — zasady nagrywania i rozpowszechniania różnią się w zależności od kraju.</p>

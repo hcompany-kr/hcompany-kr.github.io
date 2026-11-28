@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: pl
 permalink: /blog/pl/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Poradnik
 title: "Jak odzyskać usunięte nagranie z dyktafonu w telefonie: gdzie najpierw szukać na Androidzie"
 description: "To, czy usunięte nagranie wróci, zależy od aplikacji do nagrywania. Dyktafon Samsunga przenosi je do kosza; Dyktafon Google na Pixelu nie ma kosza, ale może zostać kopia dla innych aplikacji. Gdzie szukać kopii, które wysłałeś, i jak kopia zapasowa w chmurze TalkSafe sprawia, że następnego nagrania nie stracisz."
@@ -82,5 +83,7 @@ Zostaje z tego jedna lekcja. Odzyskanie prawie zawsze zależy od tego, **czy prz
 **Kopia nie powstaje automatycznie, trzeba ją wykonać samodzielnie.** Dlatego wracają tylko nagrania zapisane przed usunięciem. Następnym razem, gdy jakieś nagranie wyda ci się takim, które trzeba zachować, możesz zapisać je w chmurze, zanim schowasz telefon do kieszeni. Wtedy, jeśli znów przyjdzie dzień taki jak dziś, nie będziesz musiał przeszukiwać kosza.
 
 Co jeszcze warto zrobić po nagraniu i dlaczego nie zmieniać nazwy ani daty oryginału, opisujemy w [Co zrobić z nagraniem, a czego z nim nie robić](/blog/pl/after-recording/). Żeby zachować tylko potrzebny fragment, [Jak przyciąć nagranie głosu na Androidzie i nie stracić oryginału](/blog/pl/trim-recording/) zapisuje go jako nowy plik i zostawia oryginał na miejscu.
+
+Jeśli zmieniasz Androida na iPhone’a lub odwrotnie, jak zabrać nagrania, opisujemy w [Jak przenieść nagrania głosowe między Androidem a iPhone’em przy zmianie telefonu](/blog/pl/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkcje innych aplikacji opisano na podstawie ich oficjalnej pomocy z chwili pisania i mogą się zmienić. Tworzymy aplikację do nagrywania TalkSafe.</p>

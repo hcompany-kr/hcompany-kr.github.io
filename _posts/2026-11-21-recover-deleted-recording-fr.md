@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: fr
 permalink: /blog/fr/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Guide
 title: "Récupérer un enregistrement vocal supprimé sur Android : où chercher d'abord"
 description: "Qu'un enregistrement vocal supprimé puisse revenir dépend de l'application d'enregistrement. L'Enregistreur vocal de Samsung le place dans la corbeille ; l'Enregistreur de Google sur Pixel n'a pas de corbeille, mais une copie destinée aux autres applications peut encore exister. Où retrouver les copies envoyées, et comment la sauvegarde dans le cloud de TalkSafe évite de perdre le prochain."
@@ -82,5 +83,7 @@ Il en reste une leçon. La récupération dépend presque toujours de **l'existe
 **La sauvegarde n'est pas automatique : c'est vous qui la lancez.** Seuls les enregistrements sauvegardés avant la suppression peuvent donc être restaurés. La prochaine fois qu'un enregistrement vous semble de ceux qu'il faut garder, une possibilité est de le sauvegarder dans le cloud avant de remettre le téléphone dans votre poche. Ainsi, si un jour comme aujourd'hui revient, vous n'aurez pas à fouiller une corbeille.
 
 Ce qu'il faut faire d'autre après l'enregistrement, et pourquoi ne pas changer le nom ni la date de l'original, se trouve dans [Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire](/blog/fr/after-recording/). Pour ne garder que le passage utile, [Comment couper un enregistrement audio sur Android sans perdre l'original](/blog/fr/trim-recording/) l'enregistre dans un nouveau fichier et laisse l'original en place.
+
+Si vous passez d'Android à iPhone ou l'inverse, comment emporter vos enregistrements est expliqué dans [Comment transférer ses enregistrements vocaux entre Android et iPhone quand on change de téléphone](/blog/fr/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Les fonctions des autres applications sont décrites d'après leur aide officielle au moment de la rédaction et peuvent changer. Nous développons l'application d'enregistrement TalkSafe.</p>

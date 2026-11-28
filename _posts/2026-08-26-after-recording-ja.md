@@ -4,7 +4,7 @@ ref: after-recording
 categories: ja
 permalink: /blog/ja/after-recording/
 date: 2026-08-26
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: 使い方
 title: "録音したあとにすべきことと、してはいけないこと"
 description: "ファイルをどう保管し、必要な部分だけをどう残し、どこに出すか。そして問題が起きるのは録音そのものではなく、たいていそのあとです。"
@@ -108,3 +108,5 @@ TalkSafeは**Android・iPhoneの共有機能**を使うので、受け取れる�
 原本を残したまま必要な区間だけを切り取る方法と、アプリごとの違いは[録音の切り取り方：Androidで必要な部分だけ切り取り、原本は残す方法](/blog/ja/trim-recording/)にあります。
 
 誤って削除した録音を戻す方法は[削除した録音を復元する方法：Androidでまず確認する場所](/blog/ja/recover-deleted-recording/)にまとめました。
+
+AndroidとiPhoneの間で機種変更するときの録音の移し方は[AndroidとiPhoneの機種変更で録音ファイルを移す方法](/blog/ja/transfer-recordings/)にまとめました。

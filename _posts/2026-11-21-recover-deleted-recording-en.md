@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: en
 permalink: /blog/en/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: How-to
 title: "How to recover deleted voice recordings on Android: where to look first"
 description: "Whether a deleted voice recording can come back depends on the recorder app. Samsung Voice Recorder moves it to the Recycle bin; Google Recorder on Pixel has no trash, but a copy for other apps may still be there. Where to find copies you sent, and how TalkSafe's cloud backup keeps the next one from being lost."
@@ -82,5 +83,7 @@ This leaves one lesson. Recovery mostly comes down to **whether a copy existed s
 **Backup is not automatic; you run it yourself.** So only recordings backed up before deletion can be brought back. Next time a recording feels like one you need to keep, one option is to back it up to the cloud before the phone goes back in your pocket. Then if a day like today comes again, there's no trash to dig through.
 
 Other things to take care of after recording, including why the original's name and date should stay as they are, are in [What to do with a recording, and what not to do with it](/blog/en/after-recording/). To keep only the part you need, [How to cut or trim a voice recording on Android, keeping the original](/blog/en/trim-recording/) saves it as a new file and leaves the original in place.
+
+Switching between Android and iPhone? How to take your recordings with you is in [How to move voice recordings between Android and iPhone when you switch phones](/blog/en/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Other apps' features are described from their official help at the time of writing and may change. We make the recording app TalkSafe.</p>

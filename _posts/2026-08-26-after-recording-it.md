@@ -4,7 +4,7 @@ ref: after-recording
 categories: it
 permalink: /blog/it/after-recording/
 date: 2026-08-26
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Come si fa
 title: "Cosa fare con una registrazione, e cosa non farne"
 description: "Come conservare il file, come tenere solo la parte che conta e dove depositarlo. La maggior parte dei problemi nasce dopo la registrazione, non durante."
@@ -110,3 +110,5 @@ Come togliere il rumore della strada da una registrazione sul telefono, e quali 
 Come ridurre una registrazione alla parte che conta senza perdere l'originale, e come cambiano le app, è in [Come tagliare una registrazione vocale su Android senza perdere l'originale](/blog/it/trim-recording/).
 
 Se hai cancellato una registrazione per errore, dove cercarla è spiegato in [Come recuperare registrazioni vocali cancellate su Android: dove guardare prima](/blog/it/recover-deleted-recording/).
+
+Se passi tra Android e iPhone, come portare con te le registrazioni è spiegato in [Come spostare le registrazioni vocali tra Android e iPhone quando cambi telefono](/blog/it/transfer-recordings/).

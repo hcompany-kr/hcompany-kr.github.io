@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: pt-br
 permalink: /blog/pt-br/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Guia
 title: "Como recuperar gravação de voz apagada do celular: onde olhar primeiro no Android"
 description: "Se uma gravação de voz apagada volta ou não depende do app de gravação. O Gravador de Voz da Samsung manda para a lixeira; o Gravador do Google no Pixel não tem lixeira, mas pode ter ficado uma cópia para outros apps. Onde achar as cópias que você enviou e como o backup na nuvem do TalkSafe evita perder a próxima."
@@ -82,5 +83,7 @@ O [TalkSafe](/talksafe/pt-br/) é um app de gravação de voz para Android e iPh
 **O backup não é automático: é você quem faz.** Por isso só voltam as gravações salvas antes de serem apagadas. Da próxima vez que uma gravação parecer daquelas que precisam ficar, uma opção é salvar na nuvem antes de guardar o celular no bolso. Assim, se um dia como hoje voltar, você não vai precisar revirar nenhuma lixeira.
 
 O que mais vale fazer depois de gravar, e por que não mudar o nome nem a data do original, está em [O que fazer com uma gravação, e o que não fazer](/blog/pt-br/after-recording/). Para guardar só a parte que você precisa, [Como cortar uma gravação de voz no Android sem perder o original](/blog/pt-br/trim-recording/) salva o trecho como arquivo novo e deixa o original no lugar.
+
+Se você vai trocar entre Android e iPhone, como levar as gravações está em [Como passar gravações de voz entre Android e iPhone ao trocar de celular](/blog/pt-br/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Os recursos de outros apps são descritos de acordo com a ajuda oficial no momento da escrita e podem mudar. Nós desenvolvemos o app de gravação TalkSafe.</p>

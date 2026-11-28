@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: cs
 permalink: /blog/cs/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Návod
 title: "Jak obnovit smazanou nahrávku na Androidu: kde hledat nejdřív"
 description: "Jestli se smazaná hlasová nahrávka vrátí, záleží na aplikaci pro nahrávání. Diktafon Samsung ji přesune do koše; Diktafon Google na Pixelu koš nemá, ale může zůstat kopie pro jiné aplikace. Kde najít kopie, které jste poslali, a jak záloha do cloudu v TalkSafe zajistí, že příští nahrávku neztratíte."
@@ -82,5 +83,7 @@ Zůstává z toho jedno ponaučení. Obnovení skoro vždy závisí na tom, **je
 **Záloha neprobíhá automaticky, spouštíte ji sami.** Proto se vrátí jen nahrávky zálohované před smazáním. Až budete příště mít nahrávku, o které si řeknete „tuhle si musím nechat“, můžete ji zálohovat do cloudu dřív, než telefon schováte do kapsy. Když pak znovu přijde den jako dnes, nebudete muset prohledávat žádný koš.
 
 Co dalšího udělat po nahrání a proč neměnit název ani datum originálu, popisujeme v [Co s nahrávkou dělat, a co s ní nedělat](/blog/cs/after-recording/). Chcete-li si nechat jen potřebnou část, [Jak na Androidu zkrátit hlasovou nahrávku a nepřijít o originál](/blog/cs/trim-recording/) ji uloží jako nový soubor a originál nechá na místě.
+
+Pokud přecházíte mezi Androidem a iPhonem, jak si nahrávky vzít s sebou, popisujeme v [Jak přenést hlasové nahrávky mezi Androidem a iPhonem při výměně telefonu](/blog/cs/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Funkce jiných aplikací jsou popsány podle jejich oficiální nápovědy v době psaní a mohou se změnit. Vyvíjíme aplikaci pro nahrávání TalkSafe.</p>

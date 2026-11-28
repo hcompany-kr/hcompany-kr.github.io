@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: es
 permalink: /blog/es/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Guía
 title: "Cómo recuperar grabaciones de voz borradas del celular: dónde mirar primero en Android"
 description: "Que una grabación borrada vuelva o no depende de la app de grabación. La Grabadora de voz de Samsung la manda a la papelera; la Grabadora de Google en Pixel no tiene papelera, pero puede quedar una copia para otras apps. Dónde buscar las copias que enviaste y cómo la copia en la nube de TalkSafe evita perder la próxima."
@@ -82,5 +83,7 @@ De esto queda una lección. Recuperar algo depende casi siempre de **si existía
 **La copia no es automática: la haces tú.** Por eso solo se pueden recuperar las grabaciones copiadas antes de borrarlas. La próxima vez que una grabación te parezca de las que hay que guardar, una opción es copiarla en la nube antes de volver a meter el teléfono en el bolsillo. Así, si vuelve un día como hoy, no tendrás que rebuscar en ninguna papelera.
 
 Qué más conviene hacer después de grabar, y por qué no hay que cambiar el nombre ni la fecha del original, está en [Qué hacer con una grabación, y qué no hacer con ella](/blog/es/after-recording/). Para quedarte solo con la parte que necesitas, [Cómo cortar una grabación de audio en Android sin perder el original](/blog/es/trim-recording/) la guarda como archivo nuevo y deja el original en su sitio.
+
+Si cambias entre Android y iPhone, cómo llevarte las grabaciones está en [Cómo pasar grabaciones de voz entre Android y iPhone al cambiar de teléfono](/blog/es/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Las funciones de otras apps se describen según su ayuda oficial en el momento de escribir y pueden cambiar. Hacemos la app de grabación TalkSafe.</p>

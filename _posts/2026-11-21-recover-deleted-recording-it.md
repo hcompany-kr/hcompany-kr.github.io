@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: it
 permalink: /blog/it/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Guida
 title: "Come recuperare registrazioni vocali cancellate su Android: dove guardare prima"
 description: "Se una registrazione cancellata possa tornare dipende dall'app di registrazione. Il Registratore vocale Samsung la sposta nel cestino; il Registratore di Google sui Pixel non ha un cestino, ma può restare una copia per le altre app. Dove cercare le copie che hai inviato e come il backup sul cloud di TalkSafe evita di perdere la prossima."
@@ -82,5 +83,7 @@ Da tutto questo resta una lezione. Il recupero dipende quasi sempre da **se esis
 **Il backup non è automatico: lo avvii tu.** Per questo si possono recuperare solo le registrazioni salvate prima della cancellazione. La prossima volta che una registrazione ti sembra di quelle da tenere, una possibilità è salvarla sul cloud prima di rimettere il telefono in tasca. Così, se torna una giornata come oggi, non dovrai frugare in nessun cestino.
 
 Cos'altro fare dopo aver registrato, e perché non cambiare nome e data dell'originale, è in [Cosa fare con una registrazione, e cosa non farne](/blog/it/after-recording/). Per tenere solo la parte che ti serve, [Come tagliare una registrazione vocale su Android senza perdere l'originale](/blog/it/trim-recording/) la salva come nuovo file e lascia l'originale al suo posto.
+
+Se passi tra Android e iPhone, come portare con te le registrazioni è spiegato in [Come spostare le registrazioni vocali tra Android e iPhone quando cambi telefono](/blog/it/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Le funzioni di altre app sono descritte in base alle loro guide ufficiali al momento della scrittura e possono cambiare. Realizziamo l'app di registrazione TalkSafe.</p>

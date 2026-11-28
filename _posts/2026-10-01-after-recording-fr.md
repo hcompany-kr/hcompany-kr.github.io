@@ -4,7 +4,7 @@ ref: after-recording
 categories: fr
 permalink: /blog/fr/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Pratique
 title: "Ce qu'il faut faire d'un enregistrement, et ce qu'il ne faut pas en faire"
 description: "Comment garder le fichier, le réduire à ce qui compte et où le remettre. Et pourquoi le diffuser obéit à ses propres règles en France, en Belgique, en Suisse, au Luxembourg, à Monaco et au Québec."
@@ -135,5 +135,7 @@ Harcèlement et stalking : comment réunir des preuves fait après fait : [Harc�
 Si un contrat verbal est valable et comment le prouver face à un devis écrit: [Contrat verbal : il est valable, mais comment le prouver quand le devis dit autre chose ?](/blog/fr/contrat-verbal/).
 
 Si un enregistrement a été supprimé par erreur, où chercher est expliqué dans [Récupérer un enregistrement vocal supprimé sur Android : où chercher d'abord](/blog/fr/recover-deleted-recording/).
+
+Si vous passez d'Android à iPhone ou l'inverse, comment emporter vos enregistrements est expliqué dans [Comment transférer ses enregistrements vocaux entre Android et iPhone quand on change de téléphone](/blog/fr/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Information générale, pas un conseil juridique — le droit d'enregistrer et de diffuser diffère d'un pays à l'autre.</p>

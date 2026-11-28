@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: tr
 permalink: /blog/tr/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Rehber
 title: "Silinen ses kaydı geri getirme: Android'de önce nereye bakılır"
 description: "Silinen bir ses kaydının geri gelip gelmeyeceği kayıt uygulamasına bağlıdır. Samsung Ses Kaydedici onu çöp kutusuna taşır; Pixel'deki Google Kaydedici'nin çöp kutusu yoktur ama diğer uygulamalar için oluşturulan bir kopya hâlâ duruyor olabilir. Gönderdiğiniz kopyaları nerede bulacağınız ve TalkSafe'in bulut yedeklemesinin bir sonrakini kaybetmemenize nasıl yardım ettiği."
@@ -82,5 +83,7 @@ Bundan kalan ders şu. Geri getirmek neredeyse her zaman **silinmeden önce bir 
 **Yedekleme otomatik değildir; kendiniz başlatırsınız.** Bu yüzden yalnızca silinmeden önce yedeklenen kayıtlar geri getirilebilir. Bir dahaki sefere "bunu saklamam lazım" dediğiniz bir kayıt olduğunda, telefonu cebinize koymadan önce onu buluta yedeklemek bir seçenek. Böylece bugünkü gibi bir gün yeniden gelirse çöp kutusunu karıştırmanız gerekmez.
 
 Kayıttan sonra dikkat edilecek diğer şeyler ve orijinalin adını ve tarihini neden değiştirmemek gerektiği [Bir kayıtla ne yapmalı, ne yapmamalı](/blog/tr/after-recording/) yazısında. Yalnızca ihtiyacınız olan kısmı tutmak için [Android'de bir ses kaydı orijinali kaybetmeden nasıl kırpılır](/blog/tr/trim-recording/) yazısındaki yöntem onu yeni bir dosya olarak kaydeder ve orijinali yerinde bırakır.
+
+Android ile iPhone arasında geçiş yapıyorsanız kayıtları nasıl taşıyacağınız [Android ile iPhone arasında telefon değiştirirken ses kayıtlarını taşımak](/blog/tr/transfer-recordings/) yazısında.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Diğer uygulamaların özellikleri yazıldığı tarihteki resmi yardım sayfalarına göre anlatılmıştır ve değişebilir. Ses kayıt uygulaması TalkSafe'i biz geliştiriyoruz.</p>

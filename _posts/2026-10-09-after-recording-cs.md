@@ -4,7 +4,7 @@ ref: after-recording
 categories: cs
 permalink: /blog/cs/after-recording/
 date: 2026-10-09
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Návod
 title: "Co s nahrávkou dělat, a co s ní nedělat"
 description: "Jak soubor uchovat, zkrátit na to podstatné, vyčistit od hluku a kam ho předložit. A proč šíření nahrávky má v Česku i na Slovensku vlastní pravidla."
@@ -131,5 +131,7 @@ Jak sbírat důkazy nebezpečného pronásledování (stalkingu), popisuje [Stal
 Zda platí ústní smlouva a jak dokázat domluvu, když rozpočet říká něco jiného: [Ústní smlouva platí. Jak ale dokázat, co se domluvilo, když v rozpočtu stojí něco jiného?](/blog/cs/ustni-smlouva/).
 
 Pokud se nahrávka smazala omylem, kde ji hledat, popisujeme v [Jak obnovit smazanou nahrávku na Androidu: kde hledat nejdřív](/blog/cs/recover-deleted-recording/).
+
+Pokud přecházíte mezi Androidem a iPhonem, jak si nahrávky vzít s sebou, popisujeme v [Jak přenést hlasové nahrávky mezi Androidem a iPhonem při výměně telefonu](/blog/cs/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Obecná informace, nikoli právní rada — pravidla pro nahrávání a šíření se v jednotlivých zemích liší.</p>

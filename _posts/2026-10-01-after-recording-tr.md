@@ -4,7 +4,7 @@ ref: after-recording
 categories: tr
 permalink: /blog/tr/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Nasıl yapılır
 title: "Bir kayıtla ne yapmalı, ne yapmamalı"
 description: "Dosyayı nasıl saklamalı, önemli kısma nasıl indirmeli ve nereye sunmalı. Ve Türkiye'de kaydı yaymanın neden kaydetmekten ayrı bir suç olduğu."
@@ -130,5 +130,7 @@ Israrlı takip suçunun nasıl ispatlanacağı ve şikâyet süresi [Israrlı ta
 Sözlü sözleşmenin geçerliliği ve yazılı teklifle çeliştiğinde ne olduğu: [Sözlü sözleşme geçerli mi? Geçerli, ama yazılı teklifle çelişince ne olur?](/blog/tr/sozlu-sozlesme/).
 
 Yanlışlıkla silinen bir kaydı nerede arayacağınız [Silinen ses kaydı geri getirme: Android'de önce nereye bakılır](/blog/tr/recover-deleted-recording/) yazısında.
+
+Android ile iPhone arasında geçiş yapıyorsanız kayıtları nasıl taşıyacağınız [Android ile iPhone arasında telefon değiştirirken ses kayıtlarını taşımak](/blog/tr/transfer-recordings/) yazısında.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Genel bilgidir, hukuki tavsiye değildir — kayıt yapma ve yayma kuralları ülkeden ülkeye değişir.</p>

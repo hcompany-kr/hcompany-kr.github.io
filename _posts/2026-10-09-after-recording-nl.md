@@ -4,7 +4,7 @@ ref: after-recording
 categories: nl
 permalink: /blog/nl/after-recording/
 date: 2026-10-09
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Handleiding
 title: "Wat je met een opname doet, en wat je er niet mee doet"
 description: "Hoe je het bestand bewaart, inkort tot wat ertoe doet, opschoont van achtergrondgeluid en waar je het indient. En welke regels in Nederland, België, Suriname, Aruba, Curaçao en Sint Maarten gelden voor het verspreiden ervan."
@@ -133,5 +133,7 @@ Hoe je belaging (stalking) bewijst, staat in [Stalking (belaging) bewijzen: wat 
 Of een mondelinge afspraak geldig is en wat telt als de offerte iets anders zegt: [Is een mondelinge afspraak geldig? Ja, maar wat als de offerte iets anders zegt?](/blog/nl/mondelinge-afspraak/).
 
 Is een opname per ongeluk verwijderd, dan staat in [Een verwijderde spraakopname terugzetten op Android: waar je eerst kijkt](/blog/nl/recover-deleted-recording/) waar je kijkt.
+
+Stap je over tussen Android en iPhone, dan staat in [Spraakopnames overzetten tussen Android en iPhone als je van telefoon wisselt](/blog/nl/transfer-recordings/) hoe je opnames meegaan.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Algemene informatie, geen juridisch advies — de regels voor opnemen en verspreiden verschillen per land.</p>

@@ -4,7 +4,7 @@ ref: after-recording
 categories: pt-br
 permalink: /blog/pt-br/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Como fazer
 title: "O que fazer com uma gravação, e o que não fazer"
 description: "Como guardar o arquivo, como cortar só a parte que importa e onde apresentar. E por que divulgar uma gravação tem regras próprias no Brasil e em Portugal, mesmo quando gravar era permitido."
@@ -129,5 +129,7 @@ Como juntar provas do crime de perseguição (stalking) está em [Crime de perse
 Se contrato verbal vale e o que acontece quando o orçamento diz outra coisa: [Contrato verbal tem validade? Tem, mas e quando o orçamento diz outra coisa?](/blog/pt-br/contrato-verbal/).
 
 Se uma gravação foi apagada sem querer, onde procurar está em [Como recuperar gravação de voz apagada do celular: onde olhar primeiro no Android](/blog/pt-br/recover-deleted-recording/).
+
+Se você vai trocar entre Android e iPhone, como levar as gravações está em [Como passar gravações de voz entre Android e iPhone ao trocar de celular](/blog/pt-br/transfer-recordings/).
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Informação geral, não é aconselhamento jurídico — as regras sobre gravar e divulgar mudam de país para país.</p>

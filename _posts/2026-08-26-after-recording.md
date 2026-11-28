@@ -3,7 +3,7 @@ lang: ko
 ref: after-recording
 categories: ko
 date: 2026-08-26
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: 사용법
 title: "녹음한 다음에 해야 할 일과 하지 말아야 할 일"
 description: "파일을 어떻게 보관하고, 필요한 부분만 어떻게 남기고, 어디에 내면 되는지. 그리고 대부분의 문제가 생기는 지점은 녹음이 아니라 그 다음입니다."
@@ -105,3 +105,5 @@ TalkSafe는 **안드로이드·아이폰의 공유 기능**을 통해 파일을 
 원본을 남기면서 필요한 구간만 잘라내는 방법과 앱별 차이는 [녹음 파일 자르기, 원본은 남기고 필요한 부분만](/blog/ko/trim-recording/)에 있습니다.
 
 실수로 지운 녹음을 되살리는 방법은 [삭제된 녹음 파일 복구, 안드로이드에서 먼저 확인할 곳](/blog/ko/recover-deleted-recording/)에 정리했습니다.
+
+휴대폰을 안드로이드↔아이폰으로 바꿀 때 녹음을 옮기는 방법은 [안드로이드↔아이폰으로 바꿀 때 녹음 파일 옮기는 법](/blog/ko/transfer-recordings/)에 정리했습니다.

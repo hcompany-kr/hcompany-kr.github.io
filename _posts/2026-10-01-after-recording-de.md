@@ -4,7 +4,7 @@ ref: after-recording
 categories: de
 permalink: /blog/de/after-recording/
 date: 2026-10-01
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Anleitung
 title: "Was man mit einer Aufnahme tun sollte – und was nicht"
 description: "Wie man die Datei aufbewahrt, auf das Wesentliche kürzt und wo man sie einreicht. Und warum das Weitergeben in Deutschland, Österreich, der Schweiz, Liechtenstein, Luxemburg und Belgien eigene Regeln hat."
@@ -133,5 +133,7 @@ Wie man Stalking beweist und ein Stalking-Tagebuch führt: [Stalking beweisen: W
 Ob ein mündlicher Vertrag gilt und was zählt, wenn er vom schriftlichen Angebot abweicht: [Mündlicher Vertrag: Er gilt – aber was zählt, wenn er vom schriftlichen Angebot abweicht?](/blog/de/muendlicher-vertrag/).
 
 Wenn eine Aufnahme versehentlich gelöscht wurde, steht in [Gelöschte Sprachaufnahme wiederherstellen: wo man auf Android zuerst nachsieht](/blog/de/recover-deleted-recording/), wo man nachsieht.
+
+Wer zwischen Android und iPhone wechselt, findet in [Sprachaufnahmen beim Wechsel zwischen Android und iPhone mitnehmen](/blog/de/transfer-recordings/), wie die Aufnahmen mitkommen.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Allgemeine Information, keine Rechtsberatung – das Recht zum Aufnehmen und Weitergeben unterscheidet sich von Land zu Land.</p>

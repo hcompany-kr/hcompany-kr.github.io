@@ -4,7 +4,7 @@ ref: after-recording
 categories: en
 permalink: /blog/en/after-recording/
 date: 2026-08-26
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: How to
 title: "What to do with a recording, and what not to do with it"
 description: "How to keep the file, how to cut it down to the part that matters, and where to submit it. Most of the trouble people run into comes after the recording, not during it."
@@ -110,3 +110,5 @@ How to strip street and traffic noise from a recording on the phone, and which t
 How to cut a recording down to the part that matters while keeping the original, and how the common apps differ, is in [How to cut or trim a voice recording on Android, keeping the original](/blog/en/trim-recording/).
 
 If a recording was deleted by mistake, where to look is in [How to recover deleted voice recordings on Android: where to look first](/blog/en/recover-deleted-recording/).
+
+Switching between Android and iPhone? How to take your recordings with you is in [How to move voice recordings between Android and iPhone when you switch phones](/blog/en/transfer-recordings/).

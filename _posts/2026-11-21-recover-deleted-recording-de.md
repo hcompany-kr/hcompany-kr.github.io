@@ -4,6 +4,7 @@ ref: recover-deleted-recording
 categories: de
 permalink: /blog/de/recover-deleted-recording/
 date: 2026-11-21
+last_modified_at: 2026-11-28
 eyebrow: Anleitung
 title: "Gelöschte Sprachaufnahme wiederherstellen: wo man auf Android zuerst nachsieht"
 description: "Ob eine gelöschte Sprachaufnahme zurückkommt, hängt von der Aufnahme-App ab. Der Samsung-Sprachrekorder verschiebt sie in den Papierkorb; Googles Rekorder auf Pixel hat keinen Papierkorb, aber eine Kopie für andere Apps kann noch da sein. Wo Sie verschickte Kopien finden und wie das Cloud-Backup von TalkSafe verhindert, dass die nächste verloren geht."
@@ -82,5 +83,7 @@ Daraus bleibt eine Lehre. Ob sich etwas wiederherstellen lässt, hängt fast imm
 **Das Backup läuft nicht automatisch, Sie starten es selbst.** Wiederherstellen lassen sich deshalb nur Aufnahmen, die vor dem Löschen gesichert wurden. Wenn Ihnen das nächste Mal eine Aufnahme vorkommt wie eine, die Sie behalten müssen, können Sie sie in der Cloud sichern, bevor das Handy wieder in die Tasche wandert. Kommt dann noch einmal ein Tag wie heute, müssen Sie keinen Papierkorb durchsuchen.
 
 Was nach der Aufnahme sonst noch wichtig ist, auch warum Name und Datum des Originals bleiben sollten, steht in [Was man mit einer Aufnahme tun sollte – und was nicht](/blog/de/after-recording/). Wer nur den nötigen Teil behalten will, findet in [Sprachaufnahme auf Android kürzen, ohne das Original zu verlieren](/blog/de/trim-recording/), wie man ihn als neue Datei speichert und das Original stehen lässt.
+
+Wer zwischen Android und iPhone wechselt, findet in [Sprachaufnahmen beim Wechsel zwischen Android und iPhone mitnehmen](/blog/de/transfer-recordings/), wie die Aufnahmen mitkommen.
 
 <p style="font-size:0.8125rem;color:#8A8F9E;margin-top:2rem;">Die Funktionen anderer Apps sind nach deren offiziellen Hilfeseiten zum Zeitpunkt des Schreibens beschrieben und können sich ändern. Wir entwickeln die Aufnahme-App TalkSafe.</p>
